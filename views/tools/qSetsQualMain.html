@@ -1,0 +1,97 @@
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">   
+  <div class="headerDeep">
+    <h1>Tools: complete question sets</h1>
+      <ul>
+        <li><div id="name"></div></li>
+        <li><a id = "BackButton" href="#"><<< Back</a></li>
+      </ul>
+  </div>    
+  <!-- Admin tabs starts here -->
+  <div class="adminTabs adminReviewTabs">
+    <!-- Waiting for data -->
+    <div class="waitingForAction">
+      <h2>Loading complete question sets.....</h2>
+    </div>   
+    <!-- First tab content starts here -->
+    <div class="adminSection" >
+      <h1 data-bind="text: exptId()+': '+exptTitle()">
+    </div>
+    <div class="tabContent">
+      <div data-bind="text: 'mean overall pass rate: ' + meanPassRate()">Mean pass rate</div>
+      <div data-bind="text: 'mean J1 pass rate: ' + meanJ1PassRate()">Mean pass rate</div>
+      <div data-bind="text: 'mean J2 pass rate: ' + meanJ2PassRate()">Mean pass rate</div>
+      <div class="download"><a href="#">download as RTF</a></div>
+      <div class="exptReviewWrapper" data-bind="foreach: completeQsets">
+        <h2 data-bind="text: 'qSet:' + igrNo() + ' (d:' + dayNo() + ' s:' + sessionNo() + ' s1jNo:' + step1jNo() + ')', click: toggleDetailVisible, attr: isDetailVisible() ? {'class': 'open' } : {'class': 'closed' }"></h2>
+        <div class="exptReviewSummary formRow dark" data-bind="visible: isDetailVisible">
+          <h2 class="open" data-bind="click: toggleStep1Visible, attr: isStep1Visible() ? {'class': 'open' } : {'class': 'closed' }">Step1 details</h2>
+          <div data-bind="visible: isStep1Visible, text: 'pretender pass rate: ' + s1passRate()"></div>
+          <div data-bind="visible: isStep1Visible, text: 'final choice: ' + finalCorrect()"></div>
+          <div data-bind="visible: isStep1Visible, text: 'final confidence: ' + finalConfidence()"></div>
+          <div data-bind="visible: isStep1Visible, text: 'final reason: ' + finalReason()"></div>          
+          <div class="previousQuestions formRow light" data-bind="visible: isStep1Visible, foreach: questions">
+            <div data-bind="attr: qNo() % 2 == 0 ? {'class': 'previousQuestion dark'} : {'class': 'previousQuestion light'}">
+              <p><strong data-bind="visible: s1CanUse()==1?false:true">DISCARDED: </strong><strong data-bind="text: q, attr: s1CanUse() == 1 ? {'class' : 's1canUse'} : {'class' : 's1discarded'} "></strong></p>                  
+              <div class="responseOne">
+                <h5>pretender response:</h5>
+                <p data-bind="text: pr, attr: s1CanUse() == 1 ? {'class' : 's1canUse'} : {'class' : 's1discarded'}"></p>
+              </div>
+              <div class="responseTwo">
+                <h5>non-pretender response:</h5>
+                <p data-bind="text: npr, attr: s1CanUse() == 1 ? {'class' : 's1canUse'} : {'class' : 's1discarded'}"></p>
+              </div>              
+            </div>
+            <div data-bind="text: (s1correct() == 1 ? 'correct' : 'incorrect') + ' : confidence' + s1confidence(), attr: qNo() % 2 == 0 ? {'class': 's1Rating dark'} : {'class': 's1Rating light'}"></div>
+            <div data-bind="text: s1reason, attr: qNo() % 2 == 0 ? {'class': 's1Rating dark'} : {'class': 's1Rating light'}"></div>              
+          </div>
+          <h2 class="open" data-bind="click: toggleStep2PretendersVisible, attr: isStep2PretendersVisible() ? {'class': 'open' } : {'class': 'closed' }">Step2 Pretenders</h2>
+          <div data-bind="visible: isStep2PretendersVisible">
+            <div class="exptReview formRow dark" data-bind="text: 'step4 pass rate: ' +s4passRate()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'step4 correct count: ' +s4correctCnt()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'step4 dontknow count: ' +s4dontKnowCnt()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'step4 incorrect count: ' +s4incorrectCnt()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'J1 pass rate: ' +j1passRate()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'J1 correct count: ' +j1correctCnt()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'J1 dontknow count: ' +j1dontKnowCnt()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'J1 incorrect count: ' +j1incorrectCnt()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'J2 pass rate: ' +j2passRate()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'J2 correct count: ' +j2correctCnt()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'J2 dontknow count: ' +j2dontKnowCnt()"></div>
+            <div class="exptReview formRow dark" data-bind="text: 'J2 incorrect count: ' +j2incorrectCnt()"></div>            
+          </div>
+          <div class="exptReview formRow light" data-bind="visible: isStep2PretendersVisible, foreach: step2Pretenders">
+            <p class="step2Pretender formRow dark" data-bind="text: 'logical PNo ' + logicalP() + ' : actual ResNo ' + respNo()"></p>
+            <div data-bind="foreach: answers">
+              <div data-bind="attr: qNo() % 2 == 0 ? {'class': 'previousQuestion dark'} : {'class': 'previousQuestion light '}">
+                <div data-bind="visible: canUse()==1 ? false: true">DISCARDED: </div><div data-bind="attr: canUse() == 1 ? {'class': 's2canUse'} : {'class': 's2discarded'}, text: 'Q' + qNo() + ': ' + pr()"></div>
+              </div>
+            </div>
+            <h3 class="s4judge" data-bind="text: s4jNo1() == -1 ? 'first-half not yet judged' : 'P' + logicalP() + ':1 s4Jno: ' + s4jNo1()"></h3>
+            <div data-bind="visible: s4jNo1() == -1 ? false : true">
+              <div class="s4judgement" data-bind="text: correct1() == '1' ? 'judgement: correct' : 'judgement: incorrect'"></div>
+              <div class="s4judgement" data-bind="text: 'confidence: ' + confidence1()"></div>
+              <div class="s4judgement" data-bind="text: 'reason: ' + reason1()"></div>
+            </div>
+            <h3 class="s4judge" data-bind="text: s4jNo2() == -1 ? 'second-half not yet judged' : 'P' + logicalP() + ':2 s4Jno: ' + s4jNo2()"></h3>
+            <div data-bind="visible: s4jNo2() == -1 ? false : true">
+              <div class="s4judgement" data-bind="text: correct2() == '1' ? 'judgement: correct' : 'judgement: incorrect'"></div>
+              <div class="s4judgement" data-bind="text: 'confidence: ' + confidence2()"></div>
+              <div class="s4judgement" data-bind="text: 'reason: ' + reason2()"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- First tab content ends here -->
+  </div>
+  <!-- Admin tabs ends here -->      
+</div>
+<!-- Wrapper ends here -->
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/js/ko/knockout-3.2.0.js"></script>
+<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+<script type="text/javascript" src="/js/tools/qSetsView.js"></script>
+<script type="text/javascript" src="/js/mobile/adminNavigate.js"></script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Imgame home page</title>
+	<link rel="stylesheet" href="/jquery-themes/imgame.min.css" />
+	<link rel="stylesheet" href="/jquery-mobile/jquery.mobile.icons-1.4.5.min.css" />
+	<link rel="stylesheet" href="/jquery-mobile/jquery.mobile.structure-1.4.5.min.css" />
+    <link rel="stylesheet" href="/jquery-themes/jqmOverrides.css" />
+  <link href="/mobile-css/1024.css" rel="stylesheet" media="screen and (min-width: 1024px)" />
+</head>
+<body>
+	<div data-role="page" data-theme="a" data-cache="false">
+		<div data-role="header" data-position="inline">
+			<h1>Imgame</h1>
+		</div>
+		<div data-role="content" data-theme="a">
+      <form id="loginForm" method="post" action="/index.php">
+        <h4>Login</h4>
+        <fieldset>
+          <div data-role="fieldcontain">
+            <label for="userName">username (email)</label>
+            <input type="email" id="userName" name="username" required />
+          </div>
+          <div data-role="fieldcontain">
+            <label for="pw">password</label>
+            <input type="password" id="pw" name="password" required />
+          </div>
+          <input type="hidden" value="1" name="action" />
+          <input type="hidden" value="1" name="process" />
+          <input type="hidden" id="restartUID" value="" name="restartUID" />
+        </fieldset>
+        <input type="submit" data-role="button" id="loginB" value="Login"/>        
+      </form>
+      <form id="registerForm" method="post" action="/index.php">
+        <div data-role="collapsible">
+          <h4>Register now</h4>
+          <p>To register as a researcher please fill in the form below and press 'Register'. Please email martin.hall326@gmail.com to arrange for your registered account to be marked as an imgame administrator.</p>
+          <fieldset>
+            <div data-role="fieldcontain">
+              <label for="fName">first name</label>
+              <input type="text" id="fName" name="fName" required/>
+            </div>
+            <div data-role="fieldcontain">
+              <label for="lName">last name</label>
+              <input type="text" id="lName" name="lName" required/>
+            </div>
+            <div data-role="fieldcontain">
+              <label for="regUserName">username (email)</label>
+              <input type="email" placeholder="username@domain.com" id="regUserName" name="regUserName" required/>
+            </div>
+            <div data-role="fieldcontain">
+              <label for="pw1">password</label>
+              <input type="password" id="pw1" name="pw1" required/>
+              <p>Your password must be a minimum of 8 characters, and should contain at least 1 numeric character and 1 uppercase character.</p>
+            </div>
+            <div data-role="fieldcontain">
+              <label for="pw2">confirm password</label>
+              <input type="password" id="pw2" name="pw2" required/>
+            </div>
+            <input type="hidden" value="0" name="action" />
+            <input type="hidden" value="1" name="process" />
+          </fieldset>
+          <input type="submit" data-role="button" id="registerB" value="Register"/> 
+        </div>
+      </form>
+    <form id="resetForm" method="post" action="/index.php">
+        <div data-role="collapsible">
+                <h4>Reset password</h4>
+                <fieldset>
+                    <div data-role="fieldcontain">
+                        <label for="userNameReset">username (email)</label>
+                        <input type="email" id="userNameReset" name="usernameReset" required />
+                    </div>
+                    <p>If you wish to change your registered email you can change it here but you must supply the current password.</p>
+                    <div data-role="fieldcontain">
+                        <label for="newUserName">new email</label>
+                        <input type="email" id="newUserName" name="newUserName" />
+                    </div>
+                    <p>If you have forgotten your password leave all the fields blank and the system will send you an email with a password reset link. Otherwise use the fields to change your password immediately.</p>
+                    <div data-role="fieldcontain">
+                        <label for="currentpw">current password</label>
+                        <input type="password" id="currentpw" name="currentpw"  />
+                    </div>
+                    <div data-role="fieldcontain">
+                        <label for="newpw1">new password</label>
+                        <input type="password" id="newpw1" name="newpw1"  />
+                    </div>
+                    <div data-role="fieldcontain">
+                        <label for="newpw2">retype new password</label>
+                        <input type="password" id="newpw2" name="newpw2"  />
+                    </div>
+                    <p>Your password must be a minimum of 8 characters, and should contain at least 1 numeric character and 1 uppercase character.</p>
+                    <input type="hidden" value="2"  name="action" />
+                    <input type="hidden" value="1" name="process" />
+                </fieldset>
+                <input type="submit" data-role="button" id="resetB" value="send"/>
+        </div>
+    </form>
+
+        </div>
+    <div data-role="footer" data-position="inline" data-tap-toggle="false">
+      <h1>~~~~~~~~~~~~</h1>
+    </div>
+	</div>
+	<script src="/jquery/jquery-2.1.3.min.js"></script>
+	<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>  
+	<script src="/jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
+	<script src="/jquery-mobile/page.modifiers.js"></script>
+	<script src="/jquery-validation/jquery.validate.min.js"></script>
+	<script src="/jquery-validation/additional-methods.min.js"></script>
+	<script src="/js/global/loginRegister.js"></script>
+</body>
+</html>

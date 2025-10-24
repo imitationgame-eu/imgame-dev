@@ -1,0 +1,99 @@
+	<div data-role="page" data-theme="a" id="exptConfigurePage">
+		<div data-role="header" data-position="inline">
+      <!-- ko foreach: experiments -->
+      <h1 data-bind="text: exptTitle()"></h1>
+      <!-- /ko -->
+		</div>
+		<div data-role="content" data-theme="a">
+      <div id="container">
+      <!-- ko foreach: experiments -->
+          <div data-bind="if: canControlActivate()">
+              <div class="functionGroupCollapsible" data-role="collapsible" data-theme="a" data-bind="attr: {'data-collapsed': operationGroupCollapsed(),'id': operationGroupID()}">
+                  <h4>Experiment operations</h4>
+                  <div data-bind="if: canControlActivate()">
+                      <input type="button" data-icon="gear" data-bind="attr:{id: inactiveId()}, click:doProcessActive, value: getInactiveLabel()"/>
+                  </div>
+                  <div data-bind="if: canDelete()">
+                      <input type="button" data-icon="delete" data-rel="popup" data-bind="attr:{id: delExptId()}, click:doDelPopup" value="Delete this experiment"/>
+                  </div>
+                  <div data-bind="if: canCloneStructure()">
+                      <input type="button" data-icon="recycle" data-rel="popup" data-bind="attr:{id: cloneExptId()}, click:doClonePopup" value="Clone this experiment"/>
+                  </div>
+                  <div data-bind="if: canCloneAll()">
+                      <input type="button" data-icon="recycle" data-bind="attr:{id: cloneExptDataId()}, click:doCloneExptData" value="Clone experiment and data"/>
+                  </div>
+              </div>
+          </div>
+        <!-- ko foreach: experimentControlHeaders -->
+          <div data-bind="if: hasItems()">
+              <div class="functionGroupCollapsible" data-role="collapsible" data-theme="a" data-bind="attr: {'data-collapsed': controlHeaderCollapsed(),'id': controlHeaderCollapsibleID()}">
+                  <h4 data-bind="text: controlHeaderLabel()">controlHeader</h4>
+                  <div data-role="fieldcontain" >
+                      <!-- ko foreach: experimentControls -->
+                      <input type="button" data-icon="forward" data-bind="attr:{id: experimentControlId()}, click: doIt, value: experimentControlLabel()"/>
+                      <!-- /ko -->
+                  </div>
+              </div>
+          </div>
+        <!-- /ko -->
+      <!-- /ko -->
+      </div>
+      <!-- popup definitions go here -->
+      <div id="delExptPopup" data-role="popup" data-overlay-theme="a">
+        <ul data-role="listview" data-inset="true">
+          <li data-role="divider" data-theme="a">Delete this experiment?</li> 
+          <li>
+            <input type="button" data-icon="delete" id="doDel" value="delete"/>                                          
+          </li>
+          <li>
+            <input type="button" data-icon="forbidden" id="doDelCancel" value="cancel"/>
+          </li>
+        </ul>
+      </div>
+      <div id="delExptStatusPopup" data-role="popup" data-overlay-theme="a">
+        <ul data-role="listview" data-inset="true">
+          <li data-role="divider" data-theme="a">Delete information</li> 
+          <li>
+            <p><span id="deletedUsers"></span> users deleted</p>
+            <p><span id="archivedRows"></span> data rows archived</p>
+          </li>
+          <li>
+            <input type="button" data-icon="info" id="delStatusOK" value="OK"/>
+          </li>
+        </ul>
+      </div>
+      <div id="cloneExptPopup" data-role="popup" data-overlay-theme="a">
+        <ul data-role="listview" data-inset="true">
+          <li id="cloneMsg" data-role="divider" data-theme="a">Clone experiment</li> 
+          <li>
+            <input type="text" id="cloneExperimentName" placeholder="cloned experiment name"/>
+            (min 5 characters)
+          </li>
+          <li>
+            <input type="button" data-icon="recycle" id="doClone" value="clone"/>
+          </li>
+          <li>
+            <input type="button" data-icon="forbidden" id="doCancelClone" value="cancel"/>
+          </li>
+        </ul>
+      </div>
+      <!-- end of popups -->
+    </div>
+    <div data-role="footer" data-position="inline" data-tap-toggle="false">
+      <div data-role="navbar">
+        <ul>
+          <li><a id="backB" href="#" data-icon="carat-l">back</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+    <script src="/jquery/jquery-2.1.3.min.js"></script>
+    <script src="/js/ko/knockout-3.2.0.js"></script>
+    <script src="/js/ko/ko-mapping.js"></script>
+	<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>  
+	<script src="/jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
+	<script src="/jquery-mobile/page.modifiers.js"></script>
+    <script src="/js/mobile/adminNavigate.js"></script>
+    <script src="/js/admin/experimentSummary.js"></script>
+</body>
+</html>

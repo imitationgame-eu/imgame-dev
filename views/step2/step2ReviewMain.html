@@ -1,0 +1,86 @@
+
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">
+    
+    <div class="headerDeep">
+    	<h1>Admin: step2 data review</h1>
+        <ul>
+            <li><div id="name"></div></li>
+            <li><a id = "BackButton" href="#"><<< Back</a></li>
+        </ul>
+    </div>
+    
+    <!-- Admin tabs starts here -->
+    <!--<div class="adminTabs adminReviewTabs" data-bind="foreach: ppts">-->
+    <div class="adminTabs adminReviewTabs">
+               
+    	<!-- First tab -->
+      <!--data-bind="attr: isReviewed() ? {'class': 'tab completed', 'id': 'tab' + $index() } : {'class': 'tab', 'id': 'tab' + $index() }"-->
+        <div></div>
+  <!-- Waiting for data -->
+  <div class="waitingForAction">
+      <h2>Loading Step2 questions and replies.....</h2>
+  </div>
+    
+  <!-- First tab content starts here -->
+  <div class="tabContent adminReviewContent">
+    <h2 data-bind="text: summary.dataCode()"></h2>
+    <!-- ko foreach: datasets -->
+    <div class="adminReview adminSection">
+      <h2 class="noBorder open" data-bind="click: toggleView, attr: isVisible() ? {'class': 'open' } : {'class': 'closed' }"><a href="#" data-bind="text: 's2_' + dayNo() + '_' + sessionNo() + '_' + actualJNo()"></a></h2>
+      <div class="pptWrapper" data-bind="visible: isVisible, foreach: ppts">
+      <div class="formRow light">
+        <div class="turnsWrapper">
+          <h3 class="open" data-bind="click: toggleView, attr: isVisible() ? {'class': 'open' } : {'class': 'closed' }"><a href="#" data-bind="text: pptLabel() + ' : word count: ' + wordCnt() + ' : ' + warning() + ' : ' + finished()"></a></h3>
+          <div class="previousQuestions" data-bind="visible: isVisible, foreach: turns">
+            <div data-bind="attr: index() % 2 == 0 ? {'class': 'previousQuestion dark' } : {'class': 'previousQuestion light' }">
+              <div class="questionUseDiscard">
+                <input type="radio" value="use" data-bind="attr:  {'name': 'question' + index() },attr:  {'id': 'question1' + index() }, checked: useQ" /><label class="checkboxLabel" data-bind="attr:  {'for': 'question1' + index() }">Use turn</label>
+                <input type="radio" value="discard" data-bind="attr:  {'name': 'question' + index() },attr:  {'id': 'question2' + index() }, checked: useQ" /><label class="checkboxLabel" data-bind="attr:  {'for': 'question2' + index() }">Discard turn</label>
+                </div>
+                <h4 data-bind="text: 'Question ' + index()">Question 1</h4>
+                <p><strong data-bind="visible: !editing(), text: question, click: edit"></strong></p>
+                <input data-bind="visible: editing, value: question, hasfocus: editing" />
+                <!--<div class="responseOne">-->
+              <div>
+                  <h5>pretender response:</h5>
+                  <p data-bind="visible: !editingR(), text: reply, click: editR"></p>
+                  <input class="S2edit" data-bind="visible: editingR, value: reply, hasfocus: editingR" />
+                </div>
+            </div>
+           </div>
+        </div>
+      </div>
+      <!-- formRow dark is footer for each ppt with controls -->
+      <div class="formRow dark">
+        <div class="left">
+          <label class="dataStatus" data-bind="text: dataLabel()"></label>
+          <!--<div class="notReviewed" data-bind="attr: isReviewed() ? {'class': 'reviewed' } : {'class': 'notReviewed' }">Reviewed</div>-->
+          <input type="checkbox" data-bind="checked: discardPpt">          
+          <label>Ignore for Step3 shuffle</label>
+
+        </div>
+        <div class="right light">
+          <a href="#" class="buttonBlue" data-bind="click: saveData">Save</a>
+          <p class="saveStatus">You have saved your work. You can continue to mark/edit this session.</p>
+        </div>
+        <div style="clear: both"></div>
+      </div>
+    </div>
+    </div>
+    <!-- /ko -->
+  </div>
+        <!-- First tab content ends here -->
+</div>
+    <!-- Admin tabs ends here -->
+      
+</div>
+<!-- Wrapper ends here -->
+
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/js/ko/knockout-3.2.0.js"></script>
+<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+<script type="text/javascript" src="/js/step2/step2Review.js"></script>
+<script type="text/javascript" src="/js/mobile/adminNavigate.js"></script>
+</body>
+</html>

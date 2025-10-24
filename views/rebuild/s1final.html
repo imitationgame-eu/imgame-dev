@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Imgame S1 rebuild</title>
+
+<link rel="stylesheet" type="text/css" media="Screen" href="/css/basic.css" />
+<link href="/css/0-479.css" rel="stylesheet" media="screen and (min-width: 0px) and (max-width: 479px)" />
+<link href="/css/480.css" rel="stylesheet" media="screen and (max-width: 480px)" />
+<link href="/css/481-1023.css" rel="stylesheet" media="screen and (min-width: 481px) and (max-width: 1023px)" />
+<link href="/css/1024.css" rel="stylesheet" media="screen and (min-width: 1024px)" />
+<link href="/jquery-ui-1.11.1/jquery-ui.min.css" rel="stylesheet" media="screen" />
+
+<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" media="Screen" href="css/ie.css" />
+<![endif]-->
+
+</head>
+
+<body>
+
+
+    
+<!-- Classic Expt Wrapper starts here -->
+<div class="wrapper" id="classicWrapper">
+
+
+    <!-- Game tabs starts here -->
+    <div class="gameTabs">
+    	
+        <!-- First tab -->
+    	<div id="tabOne" class="tab empty">Judge<span>ready</span></div>
+        
+        <!-- First tab content starts here -->
+        <div id="judgeContent" class="tabContent">          
+        	
+            <!-- Waiting starts here -->
+            <div class="waitingForAction">
+                <h2>Waiting for replies</h2>
+            </div>
+            <!-- Waiting ends here -->
+            
+            <!-- Ask a question starts here -->
+            <div class="jAskQuestion">
+              <h2>Please ask a question</h2>
+              <form id="jQForm">
+                <textarea id="jQ"></textarea> 
+                <input id="jSend" type="Submit" class="button" value="Ask question" />
+              </form>
+            </div>
+            <!-- Ask a question ends here -->
+            <div class="finalHeader">
+                <h2>Please make some final judgements.</h2>            
+            </div>        
+
+            <!-- Latest question and responses starts here -->
+            <div class="latestQuestion">
+                <p><span>Your question:</span></p>
+            </div>
+            <div class="responseOne">
+            </div>
+            <div class="responseTwo">
+            </div>
+             <!-- Latest question and responses ends here -->
+            
+            <!-- Judges rating elements start here -->
+            <div id="judgesRating">
+            </div>
+            <div id="judgesRatingButtons">
+                <input id="nextQ" class="buttonBlue" value="Ask another question" />
+                <input id="noMoreQ" class="buttonRed" value="No more - I'm sure!" />
+            </div>
+            
+           <!-- Judges rating elements end here -->
+
+            <!-- Judge end screen starts here -->
+            <div id="judgesFinalRating">               
+            </div>
+            <div class="judgesFinalRatingButtons"> 
+                <input id="judgesEndB" class="button" value="Save my final ratings" />
+            </div>
+            <!-- Judge end screen ends here -->
+            
+            <!-- Previous questions starts here -->
+            <div class="previousQuestions">
+                <h2><a href="#">Previous questions/answers</a></h2>
+                <div class="history"></div>
+            </div>
+            <!-- Previous questions ends here -->
+
+            <!-- Final status screen starts here -->
+            <div class="finalMessage">
+                <h2>Thank you for being a judge. Please continue to answer questions to other judges as appropriate.</h2>
+            </div>
+            <!-- Previous questions ends here -->
+            
+        </div>
+        <!-- First tab content ends here -->	
+        
+        <!-- Second tab -->
+        <div id="tabTwo" class="tab waitingForAction alert">Non-pretender<span>Inactive</span></div>
+        
+        <!-- Second tab content starts here -->
+            <div id="nonPretenderContent" class="tabContent">
+            <!-- initial state content starts here (added MH) -->
+            <div class="initialPage">
+                <h2>please wait for the first question</h2>
+            </div>
+            <!-- initial state content ends here -->
+            <!-- waiting state content starts here (added MH) -->
+            <div class="waitingPage">
+                <h2>please wait for the next question</h2>
+            </div>
+            <!-- waiting state content ends here -->
+            <!-- Current question/answer starts here -->
+            <div class="currentQuestion">
+            	<h2>Current question:</h2>
+            	<p></p>
+            </div>
+            <div class="currentAnswer">
+            	<h2>Your answer:</h2>
+            	<p></p>
+            </div>
+            <!-- Current question/answer ends here -->
+            
+            <!-- Latest question and answer starts here -->
+            <div class="latestQuestion">
+                <p><span>Current question:</span></p>
+            </div>
+            <div class="nonPretendersAnswer">
+                <textarea id="npA"></textarea>
+                <div class="guidanceNotes">
+                    <h3>Guidance notes</h3>
+                    <p>This guidance text to the NP can be configured on the back-end.</p>
+                </div>
+                <div>
+                  <p><strong>Please enter your answer and then click on "Send answer".</strong></p>                  
+                </div>
+            </div>
+            <input id="npSend" class="button" value="Send answer" />
+            <!-- Latest question and answer ends here -->
+            
+            <!-- Previous question/answer starts here -->
+            <div class="previousQuestions">
+                <h2><a href="#">Previous questions/answers</a></h2>
+                <div class="history"></div>
+            </div>
+            <!-- Previous question/answer ends here -->
+            <div class="finalMessage">
+                <h2>The judge has finished asking you questions. Thank you.</h2>            
+            </div>        
+
+        </div>
+        <!-- Second tab content ends here -->
+        
+        <!-- Third tab -->
+        <div id="tabThree" class="tab waitingForAction alert">Pretender<span>Inactive</span></div>
+        
+        <!-- Third tab content starts here -->
+            <div id="pretenderContent" class="tabContent">
+            
+            <!-- initial state content starts here (added MH) -->
+            <div class="initialPage">
+                <h2>please wait for the first question</h2>
+            </div>
+            <!-- initial state content ends here -->
+            <!-- waiting state content starts here (added MH) -->
+            <div class="waitingPage">
+                <h2>please wait for the next question</h2>
+            </div>
+            <!-- waiting state content ends here -->
+
+            <!-- Current question/answer starts here -->
+            <div class="currentQuestion">
+            	<h2>Current question:</h2>
+            	<p></p>
+            </div>
+            <div class="currentAnswer">
+            	<h2>Your answer:</h2>
+            	<p></p>
+            </div>
+            <!-- Current question/answer ends here -->
+            
+            <!-- Latest question and answer starts here -->
+            <div class="latestQuestion">
+                <p><span>Current question:</span></p>
+            </div>
+            <div class="pretendersAnswer">
+                <textarea id="pA"></textarea>
+                <div class="guidanceNotes">
+                    <h3>Guidance notes</h3>
+                    <p>This guidance text to the P can be configured on the back-end.</p>
+                </div>
+                <div>
+                  <p><strong>Please enter your answer and then click on "Send answer".</strong></p>                  
+                </div>
+            </div>
+            <input class="button" id="pSend" value="Send answer" />
+            <!-- Latest question and answer ends here -->
+            
+            <!-- Previous question/answer starts here -->
+            <div class="previousQuestions">
+                <h2><a href="#">Previous questions/answers</a></h2>
+                <div class="history"></div>
+            </div>
+            <!-- Previous question/answer ends here -->
+             <div class="finalMessage">
+                <h2>The judge has finished asking you questions. Thank you.</h2>            
+            </div>        
+           
+        </div>
+        <!-- Third tab content ends here -->
+        <div id="timer"></div>
+    </div>
+    <!-- Game tabs ends here -->
+</div>
+<!-- Wrapper ends here -->
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/jquery-ui-1.11.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/classic/viewScripts.js"></script>
+<script type="text/javascript" src="/js/rebuild/s1final.js"></script>
+</body>
+</html>

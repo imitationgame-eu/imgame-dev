@@ -1,0 +1,24 @@
+.custom-size-flipswitch.ui-flipswitch .ui-btn.ui-flipswitch-on {
+  text-indent: -6.9em;  /*-6.9em; */
+  background: #e0d0d0;
+}
+.custom-size-flipswitch.ui-flipswitch .ui-flipswitch-off {
+  text-indent: 0.5em; /*0.5em;*/
+  color: #a0a0a0;
+}
+
+/* custom widths are needed because the length of custom labels differs from the length of the standard labels */
+
+.custom-size-flipswitch.ui-flipswitch {
+  width: 5.875em;
+}
+.custom-size-flipswitch.ui-flipswitch.ui-flipswitch-active {
+  padding-left: 7em;
+  width: 1.875em;
+}
+@media (min-width:28em) {
+  /*repeated from rule .ui-flipswitch above */
+  .ui-field-contain > label + .custom-size-flipswitch.ui-flipswitch {
+    width: 1.875em;
+  }
+}

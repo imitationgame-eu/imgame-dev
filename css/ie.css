@@ -1,0 +1,73 @@
+/*-------------------------------------------------------------------------
+Imgame - Internet Explorer 8 and below.
+Created by Joseph Gallagher.
+July 2012
+-------------------------------------------------------------------------*/
+
+.wrapper {
+	width: 980px;
+	margin: 50px auto;
+}
+
+.gameTabs .tab {
+	height: 38px;
+	width: 129px;
+	padding: 12px 20px 0 40px;
+}
+
+.gameTabs .tab span {
+	background: url(../images/tabStatusWaiting.png) no-repeat right 4px;
+	line-height: 1.2em;
+}
+
+.gameTabs .tab.alert span {
+	background: url(../images/tabStatusYourTurn.png) no-repeat right 4px;
+}
+
+.gameTabs .tab.active {
+	padding: 16px 20px 0 40px;
+}
+
+.gameTabs #tabTwo {
+	left: 199px;
+}
+
+.gameTabs #tabThree {
+	left: 398px;
+}
+
+.choice {
+	background: #e0e0e0;
+	height: 35px;
+	padding: 2% 0px 0px 2%;
+}
+
+.choice.chosen {
+	background: #512f74;
+}
+
+.choice:first-child {
+	margin: 0 3.9% 0 0;
+}
+
+.button {
+	border: none!important;
+}
+
+.previousQuestions h2 a {
+	text-decoration: underline!important;
+}
+
+.previousQuestions h2 a:hover {
+	text-decoration: none!important;
+}
+
+.confidenceSlider {
+	display: none;
+}
+
+.confidenceButtons label {
+	font-size: 1.4em;
+	color: #5b5c5d;
+	margin: 0 55px 0 3px;
+}

@@ -1,0 +1,27 @@
+/*-------------------------------------------------------------------------
+Imgame - 768px resolution.
+Created by Joseph Gallagher.
+July 2012
+-------------------------------------------------------------------------*/
+
+.wrapper {
+	width: 780px;
+	margin: 25px auto;
+}
+
+.gameTabs .tabContent {
+	width: 740px;
+	padding: 10px;
+}
+
+.gameTabs .tab {
+	width: 100px;
+}
+
+.gameTabs #tabTwo {
+	left: 160px;
+}
+
+.gameTabs #tabThree {
+	left: 320px;
+}

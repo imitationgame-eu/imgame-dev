@@ -1,0 +1,29 @@
+/*-------------------------------------------------------------------------
+Imgame - basicConfig
+Created by MH to give modalBox styling fro expt config registrationViews
+-------------------------------------------------------------------------*/
+
+/* z-index of #mask must be lower than #boxes .window */
+#mask {
+    position: absolute;
+    z-index: 9000;
+    background-color: #000;
+    display:none;
+}
+
+#boxes .window {
+    position: fixed;
+    width: 440px;
+    height: 200px;
+    display: none;
+    z_index: 9999;
+    padding: 20px;
+}
+
+#boxes #dialog{
+    width: 375px;
+    height: 203px;
+/*    background-color: #abc;*/
+}
+
+

@@ -1,0 +1,42 @@
+	<div data-role="page" data-theme="a" id="exptConfigurePage">
+		<div data-role="header" data-position="inline">
+			<h1 id="mainHeader">Step3 LE shuffle status</h1>
+		</div>
+		<div data-role="content" data-theme="a">
+      <div id="container">
+        <div data-role="collapsible">
+          <h4 data-bind="text: shuffleLabel()"></h4>
+          <div data-bind="foreach: judges">
+            <div data-role="collapsible">
+              <h3 data-bind="text: 'judge# '+s4jLabel()"></h3>
+              <div data-bind="foreach: transcripts">
+                <table>
+                  <tr>
+                    <td data-bind="style: { color: tdColor() }"><b data-bind="text: exptId()+ '.'"></b><i data-bind="text: jNo()"></i></td><td>&nbsp;</td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+		</div>
+    <div data-role="footer" data-position="inline" data-tap-toggle="false">
+      <div data-role="navbar">
+        <ul>
+          <li><a id="backB" href="#" data-icon="carat-l">back</a></li>
+          <li><a id="refreshB" href="#" data-icon="refresh">reload this page</a></li>
+        </ul>
+      </div>
+    </div>
+        </div>
+<script src="/jquery/jquery-2.1.3.min.js"></script>
+  <script src="/js/ko//knockout-3.2.0.js"></script>
+  <script src="/js/ko/ko-mapping.js"></script>
+<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>  
+<script src="/jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
+<script src="/jquery-mobile/page.modifiers.js"></script>
+  <script src="/js/mobile/adminNavigate.js"></script>
+  <script src="/js/step3/leShuffleStatus.js"></script>
+</body>
+</html>

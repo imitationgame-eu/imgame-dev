@@ -1,0 +1,1094 @@
+"IGR 1
+
+
+"Q<:>What is your attitude toward gay marriage and adoption of children by gay couples?"
+1,0
+"NPR<:> I am pro gay marriage ? it definitely makes formalising a relationship simpler and will make life easier in many cases (information and consent in the hospital, inheritance issues). As to adoption I am pro adoption of a biological child of someone's partner. As to adopting a 'strange' child, I don't know. I think that loving daddies are better than the foster home but each case should be treated individually."
+-1,0
+BOT
+1,0
+"Q<:>What is the newest book you would like to read or that you have already read?"
+1,0
+"NPR<:>At high school I absorbed a lot of books, then I went to college and I read mostly textbooks. Now I don't read much. I work with a computer and usually in the evening when I have a bit of spare time  my eye strain makes it hard to keep focused and I usually don't read. But I do listen to audiobooks ? the last one I listened to wass game of thrones, a great version with several dozen actors and nice music. I used to read Steven King and a bit of queer stuff (Hollinghurst etc.)"
+-1,0
+BOT
+1,0
+"Q<:>Can you tell me what 'grindr', 'gtdate' and 'gaydar' are (and the differences between them)?"
+1,0
+"NPR<:> Sure. Gtdate is for older guys. Grindr I use every day and on gaydar (and basically on another site) I met my second boyfriend and arranged our first date."
+-1,0
+BOT
+1,0
+"Q<:> Have you ever seen 'Queer as folk'?"
+1,0
+"NPR<:> Just the british version. Too bad they made so few seasons. I watched only one episode of the american version (that was based on the british one) and I thought it was a trashy waste of time."
+-1,0
+BOT
+1,0
+"Q<:> What do you think about public coming outs? Do you appreciate such gestures eg. among actors, politicians?"
+1,0
+"NPR<:> My own public announcement was well received ;-) and I don't regret it ?everyone found out at the same timeand I people were mostly very supportive. \n In terms of famous people ? I think that they should come out and I hope that in the future it won't be such a bombshell. There is no reasons that there shouldn't be 'representatives' of  the gay community everywhere, among politicians, actors... Because then it is easier for people to accept homosexuality, people will talk about it more, 'Have you heard that Daley is a fag'? 'So what, I am too!' :P "
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"Q<:> How would you react if it turned out that your new housemate was gay?"
+1,0
+"NPR<:> Difficult question. Because I don't live in a houseshare. And even if I did, I don't think that that it would be a big deal. If If we got on okay then great, but in general this kind of information would be irrelevant."
+-1,0
+BOT
+1,0
+"Q<:> What is your definition of a family?"
+1,0
+"NPR<:>People connected to each other by biology or free choice, who want to live together? It's hard to  one definition especially now when families may look in different ways. But I guess the most important thing is that people want to be with each other and support one another.  "
+-1,0
+BOT
+1,0
+"Q<:>If your doctor was gay, would it bother you?"
+1,0
+"NPR<:>If he was the best available and knowing the reality of NHS health care, it wouldn't bother me. Why should you wait in the line for weeks for another doctor  :D"
+-1,0
+BOT
+1,0
+"Q<:>What would be your ideal date?"
+1,0
+"NPR<:> Beer/coffee and interesting conversation. If it's going well then maybe a walk or going to some interesting place. In general I evaluate the quality of a date by the quality of conversation. If the conversation is boring and doesn't flow then even the most exciting activities won't make it a good date :("
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR3"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>If someone asked you whether you are a top or bottom, what he would like to know? What is the question about?"
+1,0
+"NPR<:>He wants to know what role I prefer in sex, usually it's about anal sex and about which partner gives and which receives. It is about who is the dominant one and who takes the more passive role."
+-1,0
+BOT
+1,0
+"Q<:>You want to go on a date with someone new. Where do you look for a proper guy?"
+1,0
+"NPR<:>As it usually is in our 'community' I begin by scanning dating websites like grindr or gaydar. From time to time I go to gay clubs or parties but I still go on dates with people from these websites, you hardly ever meet someone interesting in the club."
+-1,0
+BOT
+1,0
+"Q<:>You have met a new guy ? what do you do for your first date?"
+1,0
+"NPR<:> Usually we?d go for a long walk along old town houses, bridges and parks. Along the way or at the end of the walk we go for a large coffee in a good cafe. If we took a liking to each other, a first date like this would help us get to know each other well. . If we don't, it's not too full on or romantic."
+-1,0
+BOT
+1,0
+"Q<:>Have you ever drunk poppers?"
+1,0
+"NPR<:>No, never. Besides, you don't drink it."
+-1,0
+BOT
+1,0
+"Q<:>What are your favourite gay movies?"
+1,0
+"NPR<:>I like Almodovar a lot, so practically all of his movies, not just the gay ones.  I also enjoyed watching those movies with Aaron Milo and two guys who are together and splitting up, (I can't remember the title right now). I don't know many UK films, except for Weekend which showed we can still make relevant movies. I also like European gay movies."
+-1,0
+BOT
+1,0
+"Q<:> How do you feel about the word 'fag'? Do you hear it sometimes?"
+1,0
+"NPR<:>I hear this term less and less often. Although it's a negative term it doesn't bother me that much these days, but I definitely wouldn't like to hear it about me from a person who knows my sexual orientation. Then it would be intolerant and I'd find it quite hurtful."
+-1,0
+BOT
+1,0
+"Q<:>Who was the first gay person you ever met?"
+1,0
+"NPR<:>The first gay guy or rather first two I met at the same time when I was volunteering (which I was partly doing to meet other gay guys). I needed to connect with 'my people' but I come from a small town. I then felt like I was part of something bigger. "
+-1,0
+BOT
+1,0
+"Q<:>Do you have any unpleasant experiences related to your sexual orientation?"
+1,0
+"NPR<:>Of course stuff has happened, but I think that I have been lucky and I haven't had too much abuse. A few girls have been interested in me and even fell in love with me, and saying no to them was really hard. Some girls who i rejectedfell back on persecuting me. My sexual orientation was discussed in inappropriate places with inappropriate people (like teachers). I don't like to be gossiped about and it was really annoying. I have never been beaten or hurt physically in any way."
+-1,0
+BOT
+1,0
+"Q<:>What physical features do you first notice about a man? What do you usually like in them?"
+1,0
+"NPR<:>It changes like the weather! Usually my attention is grabbed by the same things: a muscular body, angular jawbone, built chest and thighs, green or brown eyes, short, unkempt hair (black is the best). These are my preferences and I'll pay most attention to them."
+-1,0
+BOT
+1,0
+"Q<:>Can you define these words camp; bear; fisting, bondage, trampling?"
+1,0
+"NP<:>Camp ? a soft wrist, bear ?big and hairy guys, fisting ? penetration with the whole palm and often with the whole hand, bondage ? hanging, tyng and other ways of limitation of another person freedom during sex, trampling ? walking on your partner, tormenting him."
+-1,0
+BOT
+1,0
+"Q<:>What is the weirdest place you have had sex in?"
+1,0
+"NP<:>The weirdest place I had sex was in some high grass, next to a bike lane. We had sex and we saw riding bikes 5 meters away.  This was pretty weird!"
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR4"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>Have you come out yet?If you have describe briefly how you did it. If you haven't, how are you planning to (if you want to at all)?"
+1,0
+"NPR<:>First person who I told that I'm gay was my mother, I had enough of hiding this secret. I just wanted a normal life regardless of my orientation."
+-1,0
+BOT
+1,0
+"Q<:>Have you ever been in a darkroom? If yes, what happened?  What do they look like? If not, maybe you know something about them anyway - how would you explain what they are?"
+1,0
+"NPR<:>Darkrooms are places where homosexual men meet to fulfil their sexual needs. They consist of closed cabins. Often they'll be showing gay porn movies."
+-1,0
+BOT
+1,0
+"Q<:>Briefs, boxers, jockstraps? What do you prefer to wear and why? What underwear do you think is most attractive on a guy?"
+1,0
+"NPR<:>If it comes to underwear I would prefer boxers, but I am not particular about it."
+-1,0
+BOT
+1,0
+"Q<:>Describe your best friends. How many of them do you have, what sex are they and how long have you known them?"
+1,0
+"NPR<:>I have one best female friend who I've known since childhood, she knows everything about me. I also have two other female friends who also know everything about me. And two gay friends ? it's a couple who has been together for several years. I think I could be friends with anyone, regardless of their sex, but with men I find it harder to be friendly."
+-1,0
+BOT
+1,0
+"Q<:>How do you prefer to meet and get to know other gay guys? Do you meet in person at bars or clubs? Do you prefer to talk on the internet or on the phone? If you go on dates, what do you like to do?"
+1,0
+"NPR<:>Usually I met a person on the internet, when we meet for the first time we go for a coffee, beer, we talk. I prefer to talk on the internet first ? it's how I met my last guy."
+-1,0
+BOT
+1,0
+"Q<:>Who would you like to spend the rest of your life with (if anyone at all)?  What physical and character traits should they ideally have??"
+1,0
+"NPR<:>I imagine my future life with a man my age or older, my height or taller, intelligent, caring, who I could talk to so that we would have a healthy relationship.  The most important thing to me about sharing my life would be the mutual support. The most important character trait is good communication."
+-1,0
+BOT
+1,0
+"Q<:>How do you feel about being gay? Do you find it a burden? Are you proud of your sexuality?  Or maybe you don't analyse it at all? Would you change it if it was possible?"
+1,0
+"NPR<:>I feel good with the way I am and I wouldn't change my orientation even if there was such a possibility. For me it's a central part of myself. I think that the way I am is natural."
+-1,0
+BOT
+1,0
+"Q<:>How long has your longest relationship lasted? What was your partner like and why did it fall apart? If it still lasts, what are your plans for, let's say, the next 10 years?"
+1,0
+"NPR<:>My longest relationship lasted 3 years. It fell apart because we had too many differences<:> age, family commitments, and he did'?t fully accept his sexuality."
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR6"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>How did you meet the first guy you went on a date with?"
+1,0
+"NPR<:>I met him on social media. We seemed so interesting to each other, that we decided to meet and we had a date in a park. It was unforgettable."
+-1,0
+BOT
+1,0
+"Q<:>Write down in detail what things turn you on in sex"
+1,0
+"NPR<:>I am excited by the closeness. Becoming one with another person. Our breaths have the same frequency and we somehow create one organism. I love that during sex we can discover someone else in a guy. Sex is a very exploratory interaction and it allows us to see totally different parts of someone whom we thought we knew.   It's cool to learn more each other. My guy remembers my sweet spots and he made some kind of a map. That's cool."
+-1,0
+BOT
+1,0
+"Q<:>What places do you know (in real life or online) where you can meet other gay guys?"
+1,0
+"NPR<:>In real life:Pulse on Wednesdays, Icon, Wow and at uni. On the net there's places like grindr or OKCupid."
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"Q<:>How long has your longest relationship with a man lasted?  What was it like and why did it end?  If you haven't been in a relationship, why not?"
+1,0
+"NPR<:>The longest period I've been with a guy was 4 months. It ended because we weren't right for each other. When you start to get irritated by the other person in the relationship, it means that it has started to go wrong. At first it was nice, we were fascinated by each other and so on. But then we started to be bored with each other. That's why it ended."
+-1,0
+BOT
+1,0
+"Q<:>What do you like about kissing men?"
+1,0
+"NPR<:>Strength and the hardness that are lacking when kissing a woman."
+-1,0
+BOT
+1,0
+"Q<:>How old were you and what happened when you realised your sexuality?"
+1,0
+"NPR<:>I guess when I was at infant school it occurred to me 'this boy is more cool than girls' But I rejected it. Then there were many weird adventures with girls but I was sure of my sexual orientation at about 13, when I didn't have the strength to pretend and had to stop fooling myself."
+-1,0
+BOT
+1,0
+"Q<:>How do you recognize that other men are gay? How does 'gaydar' work?"
+1,0
+"NPR<:>I recognise other gays mainly on their behaviour. Maybe I base this on stereotypes but somehow it turns out to be true."
+-1,0
+BOT
+1,0
+"Q<:>Do you prefer circumcised or uncircumcised men? Discuss your answer."
+1,0
+"NPR<:>It's hard to say. I've have never had experience with a circumcised man. But I think that circumcision is like taking away a favourite toy from a child :D"
+-1,0
+BOT
+1,0
+"Q<:>What companies make nice male pants?"
+1,0
+"NPR<:>ralph lauren, calvin klein, in H&M there are cool pants too"
+-1,0
+BOT
+1,0
+"Q<:>Describe in detail what kind of porn you prefer"
+1,0
+"NPR<:>Christ. Ok, hmm, I like porn with well built men where one dominates and the other is a bit submissive."
+-1,0
+BOT
+1,0
+""
+1,0
+"
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR10"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>At what age and in what circumstances did you realise that you wanted to be gay?"
+1,0
+"NPR<:>It's not a choice and there is no event that can make you want to be homosexual person. You are born this way."
+-1,0
+BOT
+1,0
+"Q<:>Have you ever participated in lgbt rights organisations or movements?"
+1,0
+"NPR<:>No. I haven't participated and I don't think it's necessary."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about civil partnerships and gay marriage? Do you follow developments in the law relating to homosexuality?"
+1,0
+"NPR<:>I think they are necessary. I don't know about calling it marriage but like every person who loves I would like to be in a legal relationship. If the country requires that I have to pay taxes, I would like to have the 'right' to choose my partner. I would want recognition of hared tax settlements, tax relief and inheritance because otherwise the financial security that we build our whole lives ends up being 'stolen' by a greedy family. And most importantly, we deserve to have the right to make decisions and have knowledge about our partners health condition and treatment when it's needed. After all WE live together and as the wife has the right to decide about her husband, gay partners should have the same rights as well."
+-1,0
+BOT
+1,0
+"Q<:>What were the circumstances of your coming out?"
+1,0
+"NPR<:>Hehe. Making dinner. ;) I was making food with my mother and I told her. It went smoothly."
+-1,0
+BOT
+1,0
+"Q<:>Do you want to adopt a child?"
+1,0
+"NPR<:>I don't feel such a need and in general I don't care for children."
+-1,0
+BOT
+1,0
+"Q<:>Have you ever been in a relationship with a woman?"
+1,0
+"NPR<:>Yes. If you would call it a relationship. For me there was always something wrong."
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR11"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>What is the most important for you in a partner's looks?"
+1,0
+"NPR<:>I have been with someone for two years, and I'm more interested in my partner's character traits. And for me this is the basis for choosing a partner, I don't pay attention to appearance."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about coming out? Does it help later in life or just raise problems?"
+1,0
+"NPR<:>I think, it definitely helps. I wouldn't want the closest people to me to not know who I am. For me it's stupid to be ashamed of who you really are. I know it is difficult, it was hard for me too, but I don't regret it."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about the legalisation of gay marriage in the UK? Would you like to marry your current/future partner?"
+1,0
+"NPR<:>I am all for it. My dream is to get married. I am an old-fashioned person and I would like to experience this with my partner. He wants it himself, but he is more focused on it as a rights-based issue."
+-1,0
+BOT
+1,0
+"Q<:>You decided to come out. Who would be the first person that you tell and why this person?"
+1,0
+"NPR<:>My sister, because she's a lesbian who came out in front of my family herself. I think I could count on her. Next, my other sisters. The worst it would be to admit to my parents, because I am their only son and I think they would be upset that nobody will be continuing the family name."
+-1,0
+BOT
+1,0
+"Q<:>What's your favourite thing to do in your spare time?"
+1,0
+"NPR<:>I work a lot so I don't have much spare time. But if I do, I go to the swimming pool or the gym. I try to dedicate weekends to socialising. I appreciate the time spent with my friends, So I enjoy making time for them."
+-1,0
+BOT
+1,0
+"Q<:>When did you first realise that you are 'DIFFERENT'?"
+1,0
+"NPR<:>In my first year of high school when I started to see men as desirable. \n I had some experience in this sphere earlier, but it was just 'trying' like each boy tries."
+-1,0
+BOT
+1,0
+"Q<:>How would you like to spend this year?s holidays? In reality, not fantasy."
+1,0
+"NPR<:>I would like to go on a beach holiday with my boyfriend and friends. I haven't been on holiday for a long time, so I dream a lot about this trip. I don't need much, just to get away from this city noise."
+-1,0
+BOT
+1,0
+"Q<:>Would you have sex without a condom in a serious relationship? Would you suggest having a blood test for HIV before?"
+1,0
+"NPR<:>Yes definitely.  Currently I have a serious partner with whom I have been having sex without a condom for a year. We are both healthy so we didn't have any objections, because for me sex without condom intensifies the experience tenfold."
+-1,0
+BOT
+1,0
+"Q<:>How did you meet your partner?"
+1,0
+"NPR<:>We started our relationship on Grindr. After two weeks we met at a casting to a music TV show, where he was auditioning and I went as support for my female friend."
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR12"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>What do you think about our society's view on homosexuality?"
+1,0
+"NPR<:>In my opinion it is getting better and better but gay people sometimes provoke others by their behaviour and unnecessary parades"
+-1,0
+BOT
+1,0
+"Q<:>What do you think about the right to adopt a child by gay couples?  Would you like to have a child with your partner in the future?"
+1,0
+"NPR<:>I believe in the right to everything for everyone but it's not natural and I am not going to start a family myself."
+-1,0
+BOT
+1,0
+"Q<:>Do you use gay dating websites? If yes, for what purpose?"
+1,0
+"NPR<:>Yes grindr and gaydar. The purpose is to meet someone interesting"
+-1,0
+BOT
+1,0
+"Q<:>When someone asks if you are t/b/v, what do they mean and why are they asking?"
+1,0
+"NPR<:>The role that you play in sex<:> t ? top, b ? bottom, v ? versatile"
+-1,0
+BOT
+1,0
+"Q<:>How did you know that you are gay? When did it become obvious and what made you sure about it?"
+1,0
+"NPR<:>Ever since I can remember I've been aware that something was wrong, I felt the attraction to guys, then something happened between me and a work acquaintance and made me sure"
+-1,0
+BOT
+1,0
+"Q<:>How often do you have sex? Are these random people or long-term partners? What is your role in sex?"
+1,0
+"NPR<:>Very rarely, people who I know, I am a bottom"
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR13"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>What is grindr?"
+1,0
+"NPR<:>Virtual dates for gays"
+-1,0
+BOT
+1,0
+"Q<:>Who is your top female icon in pop music and why?"
+1,0
+"NPR<:>Madonna for all she's done"
+-1,0
+BOT
+1,0
+"Q<:>Do you notice/feel when people are gay even if they aren't making it obvious?"
+1,0
+"NPR<:>Let's say yes. It's a characteristic called gay radar and it's like knowing that 'something' is in the air"
+-1,0
+BOT
+1,0
+"Q<:>What male singer do you like the most? Discuss your answer."
+1,0
+"NPR<:>I like a lot of male vocalists, but I like the most George Michael, Freddie, and Phil Collins because of their timelessness"
+-1,0
+BOT
+1,0
+"Q<:>What do you think about gay marriage?"
+1,0
+"NPR<:>I think that it's a red herring to placate British people while we suffer because of unemployment"
+-1,0
+BOT
+1,0
+"Q<:>What do you think about safe sex?"
+1,0
+"NPR<:>Always and everywhere! Safe sex is the evidence of responsibility for yourself, your partner and the health of your family"
+-1,0
+BOT
+1,0
+"Q<:>Have you ever used the internet to arrange a date/sex/meeting?"
+1,0
+"NPR<:>Not necessarily. I have contacted guys online to get away from reality for a moment and start casual e-friendships"
+-1,0
+BOT
+1,0
+"Q<:>Do questions about your sexual orientation make you feel uncomfortable?"
+1,0
+"NPR<:>To be honest, it make me a bit uncomfortable when a person who I don't know asks"
+-1,0
+BOT
+1,0
+"Q<:>Do you think that being open about your sexual orientation is OK? Or is it better to leave this topic as it is needless to discuss?"
+1,0
+"NPR<:>I think that sexual orientation doesn't change anything in how you treat another man. It's worth talking about it but don't question it and never pry about someone's sexual orientation because they might not want to talk about it"
+-1,0
+BOT
+1,0
+"Q<:>Who was the first gay guy you met? How did you react?"
+1,0
+"NPR<:>I guess I felt a bit of tension.  It wasn't particularly weird - we just talked"
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR15"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>What are the differences between drag queens, transvestites and transsexuals?"
+1,0
+"NPR<:>Drag queen ? a man dessed up like a woman, performing as a woman \n Transvestite ? a person who has satisfaction because of wearing the clothes of the opposite sex. \n Transsexual ? a person after full sex change surgery"
+-1,0
+BOT
+1,0
+"Q<:>What does the abbreviation LGBTQ mean?"
+1,0
+"NPR<:>Les/Gay/Bi/Trans/Q? maybe queen ;)"
+-1,0
+BOT
+1,0
+"Q<:>Who was the first person that you told about your homosexuality? When was it?"
+1,0
+"NPR<:>He was a good friend from high school. It was in the second year of high school"
+-1,0
+BOT
+1,0
+"Q<:>What does the term 'coming out of the closet' mean?"
+1,0
+"NPR<:>I've never heard the closet bit before. I'm guessing it just means 'coming out'"
+-1,0
+BOT
+1,0
+"Q<:>What is your opinion about lesbians?"
+1,0
+"NPR<:>I am a tolerant person, I have lesbian friends. But sometimes I catch myself thinking the stereotype that lesbians are ugly, sometimes more male than some heterosexuals... ;)"
+-1,0
+BOT
+1,0
+"Q<:>Give me the names of some websites where you might find a partner"
+1,0
+"NPR<:>Grindr, Gaydar, OK Cupid? it's rather hard to find a boyfriend there, but it's easy to find someone for having sex ;)"
+-1,0
+BOT
+1,0
+"Q<:>What gay subcultures do you know?"
+1,0
+"NPR<:>I don't know what do you mean exactly. There are bears, gym bunnies, twinks, queens, art fags and of course people who don't belong to any subculture."
+-1,0
+BOT
+1,0
+"Q<:>What movies about homosexuality do you know?"
+1,0
+"NPR<:>Brokeback Mountain, Mysterious Skin, Shortbus Heavenly Creatures, don't remember now the titles of romantic comedies, my exboyfriend liked to watch them. I prefer dramas ;) "
+-1,0
+BOT
+1,0
+"Q<:>What do you think about Meryl Streep? If you saw at least two movies she was playing in, write which of her roles was the best in your opinion."
+1,0
+"NPR<:>I think that she is an excellent actress but I like Judy Dench more. I watched one movie with her appearance? a musical where the action takes place on a greek island. Sorry, I forgot the title."
+-1,0
+BOT
+1,0
+"Q<:>Do you watch sport on television? If yes, what sport do you like to watch the most?"
+1,0
+"NPR<:>I haven't watched TV for five years."
+-1,0
+BOT
+1,0
+"Q<:>What is your favourite TV series and why?"
+1,0
+"NPR<:>I don't watch TV series. I prefer being active,sport, reading books"
+-1,0
+BOT
+1,0
+"Q<:>Give a few names of British people who publicly came out."
+1,0
+"NPR<:>I don't watch TV, I don't listen to the radio? it's hard to ask me about names... Steven Fry, Tom Daley, Gareth Thomas "
+-1,0
+BOT
+1,0
+"Q<:>Where do you usually buy your clothes?"
+1,0
+"NPR<:>Zara, Tk Maxx, Jack&Jones, NIke"
+-1,0
+BOT
+1,0
+"Q<:>What character traits should your boyfriend have?"
+1,0
+"NPR<:>Faithful, sincere, honest"
+-1,0
+BOT
+1,0
+"Q<:>Do you support equality parades as a way of promoting gay rights?"
+1,0
+"NPR<:>Yes, I support such initiatives"
+-1,0
+BOT
+1,0
+"Q<:>What is a darkroom?"
+1,0
+"NPR<:>I would have to show it to you in person ;) It's a dimly lit room to allow you to indulge yourself with certain pleasures"
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR16"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>Have you come out? Would you do it again now? If you haven't done it, why not?"
+1,0
+"NPR<:>I have experienced it and I would do it again. The relief is huge."
+-1,0
+BOT
+1,0
+"Q<:>Have you ever experienced intolerance because of your sexual orientation? Describe what happened"
+1,0
+"NPR<:>Yes. Many situations... but  it's usually been walking next to strange people and hearing comments about myself (appearance and so on)."
+-1,0
+BOT
+1,0
+"Q<:>What types of psychosexual orientation do you know? Do you have any friends who have different psychosexual orientation than you have?"
+1,0
+"NPR<:>Of course... I have many heterosexual acquaintances. I am friends with two gay guys and I am in a relationship with another. I also have a bi colleague."
+-1,0
+BOT
+1,0
+"Q<:>What would you think if you saw a gay couple being physically affectionate in the street?"
+1,0
+"NPR<:>Here I would think it's a bit weird... But abroad I see guys holding their hands and kissing in public many times and it did not shock me... I envied it."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about gay couples adopting children? Will it affect the sexual orientation of those children?"
+1,0
+"NPR<:>I would have to read more about it and know more to decide if it has an impact on raising a child. But right now, I am against it."
+-1,0
+BOT
+1,0
+"Q<:>How would you react if in a few years your child will tell you 'Dad I am gay/lesbian'?"
+1,0
+"NPR<:>This won't happen because I'm not going to have children J"
+-1,0
+BOT
+1,0
+"Q<:>Describe the erogenous zones on a woman?s body"
+1,0
+"NPR<:>Erogenous zones? Is that what you call a vagina?"
+-1,0
+BOT
+1,0
+"Q<:>What erogenous zones on a man?s body do you know? Please describe."
+1,0
+"NPR<:>Penis... And that?s all. You may also stimulate prostate gland but I don?t know if it counts."
+-1,0
+BOT
+1,0
+"Q<:>Is homosexuality present in the animal kingdom? How many percent of homosexual individuals are there in the human population?"
+1,0
+"NPR<:>In the animal kingdom of course it is. And in the population maybe about 7%?"
+-1,0
+BOT
+1,0
+"Q<:>How many boyfriends have you had in your life? Were they experienced lovers?"
+1,0
+"NPR<:>My current partner is my first. You couldn't call him an experienced lover but he tries for sure J"
+-1,0
+BOT
+1,0
+"Q<:>Are you T? B? V? What these abbreviations mean?"
+1,0
+"NPR<:>Top, bottom and I don't know what V means. This is internet speak and  I'm not familiar with it..."
+-1,0
+BOT
+1,0
+"Q<:>Have you ever been chatted up by another guy on the street?  What happened?"
+1,0
+"NPR<:>No, it has never happened to me. So weird that it happens to someone..."
+-1,0
+BOT
+1,0
+"Q<:>Do you think that the guarantee of good health in your future is to love long and healthy?"
+1,0
+"NPR<:>If you mean am I for long-term  relationships, then I am... so I would argue that you should love long and healthily J"
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR17"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>What do you find most difficult about your sexuality?"
+1,0
+"NPR<:>The lack of opportunity to double date on Saturdays."
+-1,0
+BOT
+1,0
+"Q<:>Do you have a partner? If yes, how did you two meet? If not, why?"
+1,0
+"NPR<:>We met on the Internet"
+-1,0
+BOT
+1,0
+"Q<:>When did you first realise that you are attracted to guys? What happened?"
+1,0
+"NPR<:>Honestly, I have no idea, it has always been something natural for me."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about the way that gay people are treated in the UK? Now that we have gay marriage, would you like to get married to your partner?"
+1,0
+"NPR<:>I think it meets with criticism because of people who create themselves as stereotypical homosexuals. I mean like Gok Wan and Alan Carr, and actually these creations are very often clown like and indeed some gay guys are like that but gays around me are normal. In terms of raising children, I would argue that gay couples shouldnt have them but I am by all means pro civil partnerships and marriage. It makes dealing with finances easier or having rights when your partner is at the hospital.Without a legal relationship we don't have those things and it's sad."
+-1,0
+BOT
+1,0
+"Q<:>Do you go to gay pubs and/or clubs? How do you feel there? Do you like going to such places? If not, why?"
+1,0
+"NPR<:>I hate those places. I avoid clubs - in general I prefer house parties with friends who I've known for a long time. Clubs don't amuse me at all."
+-1,0
+BOT
+1,0
+"Q<:>Have you come out to your parents and family? How did they take it? How did you feel? If not, why?"
+1,0
+"NPR<:>One of my sisters was having a lot of problems so to make her feel better I told her the biggest of mine. She took it well, but I didn't tell the rest of my family, because there was no right time and I don't feel the need to anyway."
+-1,0
+BOT
+1,0
+"Q<:>How do you remember your first meeting with your partner? What captivated you the most about him? What happened?"
+1,0
+"NPR<:>We met at his place on our first date after we spoke online"
+-1,0
+BOT
+1,0
+"Q<:>What annoys you the most in other gay guys? Why?"
+1,0
+"NPR<:>I try to accept everyone but people who make me nervous are automatically excluded from my company? I can't tolerate it"
+-1,0
+BOT
+1,0
+"Q<:>How do you remember your first time with a man? Good/not good? Describe the emotions that you felt then."
+1,0
+"NPR<:>First time happened so long ago, that to be honest, I don't remember it. It was with a friend who was stealing porn (magazines) from his father then we were meeting in his attic and doing it. But in my head, the feeling of these experiences is totally strange to me. I don't know what I felt, was it cool or not."
+-1,0
+BOT
+1,0
+"Q<:>Have you ever been with a woman? Did you have a girlfriend? What do you dislike most about women? Could you imagine a relationship with a woman?"
+1,0
+"NPR<:>Yes, I had two girlfriends. Hmmm I can't tell you something specific that I didn't like. I think it's important to be happy with someone else, no matter if it's a boy or a girl. It's hard for me to imagine it now."
+-1,0
+BOT
+1,0
+"Q<:>When you think about spending the rest of your life with your partner, what worries you the most?"
+1,0
+"NPR<:>Splitting up, simply."
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR18"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>Hi, what is eyeliner?"
+1,0
+"NPR<:>Sorry, I don't know"
+-1,0
+BOT
+1,0
+"Q<:>I will give you numerical abbreviation - write what it means for you - 22/6.1/170/6"
+1,0
+"NPR<:>22-age/6.1-height/170-weight/6-penis lenght"
+-1,0
+BOT
+1,0
+"Q<:>What kind of music do you like to listen to? Please don't give a general answer - describe types and categories of music and give examples of artists that you listen to. What do you like about them?"
+1,0
+"NPR<:>I don't like any particular type of music, I like a wide range from classical to techno or electronic. To be honest I'm not that picky when it comes to music, the radio is enough for me."
+-1,0
+BOT
+1,0
+"Q<:>Tell me about your hobbies and interests. How do you explore them? What role do they have in your life?"
+1,0
+"NPR<:>My hobby is baking, particularly birthday cakes.  Currently it's a bit limited because working takes up a lot of time, but if anyone from my friends or family or my friends? friends has the need for a birthday cake, they call me and then I use my imagination and make something. For many years I have been playing volleyball, but I've not been playing for about a year because of working."
+-1,0
+BOT
+1,0
+"Q<:>Do you like karaoke? Have you ever sung karaoke in a club? If yes, what club was it?"
+1,0
+"NPR<:>There was a time when I used to go to karaoke two or three times a week, but since I've met my guy and changed my job I don't have the time. I don't come from Cardiff, so you wouldn't know the place I went for karaoke."
+-1,0
+BOT
+1,0
+"Q<:>How do you choose your partner and what does this man needs to have? Please describe in detail."
+1,0
+"NPR<:>My partner needs to have something about him. Most people pay attention to appearances but when I meet people, the conversation is how I get to know this person and is what interests me more. A conversation tells me much more about someone than their appearance. For me what is important is sincerity, straightforwardness, honesty, commitment (but not possessiveness), respect, love, protection."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about coming out to your parents?"
+1,0
+"NPR<:>I would argue that it's bloody difficult but  essential in order to stay grounded and live life your way. I came out myself to my mother one year ago and the whole year has been marked by arguments, regrets and blame. . I thought that I would have more problems with my father but it turned out that even though it's not easy for him he tries to understand and not judge me.  He lets me live my own way."
+-1,0
+BOT
+1,0
+"Q<:>If you could be straight, would you choose it?"
+1,0
+"NPR<:>No, I am okay with my sexuality because it makes me special."
+-1,0
+BOT
+1,0
+"Q<:>What books and magazines do you read?"
+1,0
+"NPR<:>I read a little, but if I do, books that interest me are about homosexuality or crime novels (especially related to the Church ? I used to be religious)."
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR19"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>Hi, when and in what circumstances did you realise that you were different sexually? What happened?"
+1,0
+"NPR<:>At the age of 13 I noticed that there was something wrong with me. It was something like an epiphany? in one moment I realised that I am different. "
+-1,0
+BOT
+1,0
+"Q<:>Have you already come out? If yes, how did it happen and how did people react?"
+1,0
+"NPR<:>Yes, I have come out. It wasn't so dramatic. I was just successively making my friends aware of my orientation and when I finished with them, I started with my family. My closest ones took it strangely ? most of them regretted that they had no idea about my identity problems and that they didn't even wonder that something may be wrong."
+-1,0
+BOT
+1,0
+"Q<:>How do you meet new people from the gay community? Do you use the internet,? If yes, please name some websites or apps for gay people?"
+1,0
+"NPR<:>Yes, I use the internet, but I also meet them in gay pubs and clubs.  Sometimes I meet someone at university or out and about. I do know several gay websites and apps J"
+-1,0
+BOT
+1,0
+"Q<:>Have you ever been in a relationship with a guy? How did you two meet?"
+1,0
+"NPR<:>I have never been in a relationship with a guy. I haven't found a person who impresses me enough, and I don't want to commit to something that will end up being shallow and meaningless."
+-1,0
+BOT
+1,0
+"Q<:>What did you feel when you realised you were different from other people? Were you afraid of rejection or discrimination?"
+1,0
+"NPR<:>Of course I was scared. For half of my teenage years I couldn't sleep because I thought I was ill. In my small town such thing as homosexuality did not exist. It couldn't exist."
+-1,0
+BOT
+1,0
+"Q<:>What do you feel when you spot an attractive man? What do you pay attention to? Describe what you might do or think"
+1,0
+"NPR<:>Hmm... Usually I don't try to stare... but you can't stop certain physical reaction. Usually I start to feel hot, I start to feel distracted. I also get some kind of attention problem ?my eyes automatically go to this person."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about how gay people get on in the UK?"
+1,0
+"NPR<:>Hmm, it depends on which people you mean. It's hard to think in such general terms. But I'll try."
+-1,0
+BOT
+1,0
+""
+1,0
+"NPR<:>It seems to me that most homosexuals are very motivated people... Very often they are in higher positions in their job and have a lot of of social capital. They also know each other very well ? there is a tight network. They are able to often help each other."
+-1,0
+BOT
+1,0
+"Q<:>If there was an opportunity to change your sexual orientation, would you take it?"
+1,0
+"NPR<:>Hmmm this is a difficult topic. It's hard to say. I often thought about doing so. Life would be so much easier. But now I know that homosexuality has played a significant role in my personal development. Without this characteristic, I don't know if I would be someone I'd like."
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"IGR20"
+1,0
+""
+-1,0
+BOT
+1,0
+"POLISH JUDGE"
+1,0
+"POLISH NP"
+-1,0
+BOT
+1,0
+"Q<:>Do you like older partners?"
+1,0
+"NPR<:>I prefer people my age."
+-1,0
+BOT
+1,0
+"Q<:>What is the gender ratio of your friends? Do you have more friendships with women or men?"
+1,0
+"NPR<:>In my community no one is bothered by someone else's sex. I probably have more friendships with women but it changes, since I've been in Cardiff I've met many gay people and have more friends J"
+-1,0
+BOT
+1,0
+"Q<:>Why would you describe someone as 'hetero'?"
+1,0
+"NPR<:>I think it's a neutral word - at least for me. Everyone uses it to name heterosexual people."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about camp guys?  Are they attracted to you?"
+1,0
+"NPR<:>I don't like camp guys I prefer 'normal' guys. They don't turn me on, but I have nothing against them because I have many friends who do like it. I find it funny, they are often funny people, in a good way."
+-1,0
+BOT
+1,0
+"Q<:>What do you think about guys who are only interested in casual sex?"
+1,0
+"NPR<:>I am totally disgusted by it, I know several people like that, totally led by their sexual instincts and it worries me that such people exist."
+-1,0
+BOT
+1,0
+"Q<:>How many relationships have you had and how long do they tend to last?"
+1,0
+"NPR<:>I am looking for the perfect guy and this is, unfortunately,why I am lonely.. Sometimes romances happen to me but they only last for a short time because they always turn out to be crazy."
+-1,0
+BOT
+1,0
+"Q<:>Do you tend to go for romantic, emotional guys with a more feminine personality?  Or do you prefer stereotypical masculine traits where it isn't obvious that a man is gay? Discuss your choice please."
+1,0
+"NPR<:>More masculine but romantic. I would like someone to surprise me a lot and treat me well. Things like nice dinners. I would prefer a guy who is like me, not obviously gay."
+-1,0
+BOT
+1,0
+"Q<:>Please describe your ideal partner? both their personality and appearance."
+1,0
+"NPR<:>Tall, over 180cm, brunette or blonde. If he was brunette with blue eyes it would be pefect, well built. Masculine but romantic, patient, age 30 maximum <3"
+-1,0
+BOT
+1,0
+"Q<:>Please describe your first kiss with a man. Was it planned? With a person you love? What did you feel then?"
+1,0
+"NPR<:>Oh god, it was so long ago. \n Well, I was drunk with my friends from high school, it was a guy who apparently looked like a horse lol we haven't met again, I don't even remember his face ;/"
+-1,0
+BOT
+1,0
+"Q<:>Please describe your worst date. Some anecdotes, tactless questions... etc etc"
+1,0
+"NPR<:>Hmmm the worst date ever hmmm it's raining, I asked this Mexican guy out and he didn't show up. Shock. It happened for the first time and for the last time. And another time a guy I was going to go for a date showed up completely drunk and with another man... I think my fate is to be forever alone!"
+-1,0
+BOT
+1,0
+""
+1,0
+""
+-1,0
+EOD

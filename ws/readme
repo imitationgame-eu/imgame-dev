@@ -1,0 +1,9 @@
+the listener can be loaded with several command-line parameters
+
+e.g. nohup php servermulti.php f:test d:imgame.cf.ac.uk
+
+f: is the filename to use for the logfile (in this case test.txt)
+d: is the domain name to use when making a sockets connection
+      (normally this is hard-wired in the code, but may be overridden on
+       command line, for instance using stage from outside the campus network)
+  

@@ -1,0 +1,47 @@
+	<div data-role="page" data-theme="a">
+		<div data-role="header" data-position="inline">
+			<h1>System configuration: locations</h1>
+		</div>
+
+		<div  class="systemContainer" id="container">
+			<h3>Existing locations</h3>
+			<!-- ko foreach: locations -->
+			<div class = 'groupRow'>
+				<input type="text" class="itemName" data-bind="textInput: locationName" />
+				<input type="button" class="acceptB" data-bind="visible: hasChanged(), value: acceptText(), click: accept" />
+			</div>
+			<!-- /ko -->
+
+
+			<h3 data-bind="visible: canEdit()">Add new location</h3>
+
+			<!-- ko foreach: newLocations -->
+			<div class = 'groupRow'  data-bind="visible: canEdit">
+				<input type="text" class="itemName" data-bind="textInput: locationName" />
+				<input type="button" class="acceptB" data-bind="visible: hasChanged(), value: insertText(), click: insert" />
+			</div>
+			<!-- /ko -->
+
+
+		</div>
+
+		<div id="footer" class="systemFooter">
+			<input type="button" id="backB" value="<<  back"/>
+		</div>
+	</div>
+	<script src="/jquery/jquery-2.1.3.min.js"></script>
+
+	<script type="text/javascript" src="/js/ko/knockout-3.2.0.js"></script>
+	<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+
+	<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>
+	<script src="/jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
+	<script src="/jquery-mobile/page.modifiers.js"></script>
+
+  <!-- page-specific js goes here -->
+	<script src="/js/mobile/adminNavigate.js"></script>
+	<script src="/js/mobile/systemPageControl.js"></script>
+	<script src="/js/admin/locationsManage.js"></script>
+
+	</body>
+</html>

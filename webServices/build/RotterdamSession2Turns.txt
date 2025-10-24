@@ -1,0 +1,1181 @@
+Day 1, Session 2, jType=Y, jNo=1, uid=2978, side: NPR on left
+Q1: Welk verhaal van het volk israel in de woestijn spreekt jou aan? 
+NPR1: Dat het volk zonder voedsel zit en God dan zorgt dat er toch voedsel komt voor de mensen. 
+PR1: Ik vind alle verhalen die hierover gaan erg leuk en ze spreken me ook zeker aan. Israel (kanaan) is het beloofde land en de verhalen die hier mee samenhangen spreken mij vanzelfsprekend zeer aan. 
+choice1: NPR 
+rating1: interval3 
+reason1: Als ik de 2 antwoorden vergelijk, dan kom ik tot de conclusie dat antwoord 1 voor mij meer kennis vereist dan voor antwoord 2. Antwoord 2 is best oppervlakkig 
+Q2: Als jij later kinderen zou krijgen zou je ze laten dopen en leg hier bij uit waarom je voor de keuze gaat) 
+NPR2: Ja ik zou mijn kinderen laten dopen. Hiermee kies ik ervoor dat ik wil dat ze bij God horen en dat ze meekrijgen wat het geloof inhoudt. Uiteraard mogen mijn kinderen dan zelf beslissen hoe ze daar in hun latere leven mee omgaan, wat voor plek het geloof voor hun dan krijgt en of ze wel of geen belijdenis willen doen. 
+PR2: Ja, als protestant zijnde lijkt het me niet meer dan logisch om mijn kind te laten dopen. Het protestantisme heeft mijn leven voor een groot deel gevormd en datzelfde wil ik mijn kind laten overkomen. Ik zou mijn kind dus hoe dan ook laten dopen. 
+choice2: NPR 
+rating2: interval3 
+reason2: Ik denk zelf dat ik hier best zeker van mag spreken dat Antwoord 1 een protestant is. Omdat het duidelijk is dat deze kennis heeft van de doop. Voor mij komt in antwoord 2 er niet een duidelijke reden in voor. 
+Q3: Wat zouden redenen zijn waarom in sommige kerken opwekking/sela/psalmen voor nu niet geaccepteerd wordt 
+NPR3: Om eerlijk te zijn weet ik dat niet... Bij opwekking kan ik me indenken dat mensen dat te positief of te 'halleluja' vinden, terwijl er zoveel nare dingen in het leven gebeuren en er meer serieus over gesproken en gedacht moet worden. Sela weet ik niet wat dat is en bij psalmen zou het ook kunnen dat dat wellicht te modern, of te opwekkend is. Ik vind het zelf juist fijn als er een combinatie is in een kerkdienst. 
+PR3: Een reden zou kunnen zijn dat de opwekking/sela/psalmen niet door elke kerk als zodanig wordt geaccepteerd. Het speelt een bepaalde rol en sommige kerken hechten daar minder waarde aan dan een andere 
+choice3: NPR 
+rating3: interval4 
+reason3: Hier is het duidelijk dat persoon 1 niet precies weet waarom maar wel weet wat het inhoud. Dat kan je bij antwoord 2 niet zeggen omdat gewoon er een beetje omheen draaien en een educated guess is. 
+Q4: David heeft in zijn leven verschillende grootste dingen gedaan. Daarbij hoort het verslaan van Goliath en Koning worden. Maar ook heeft hij grote zonden gedaan. Profeet Nathan komt na 1 van zijn grootste zonden naar hem toen en verteld over een rijke boer die veel schapen heeft maar voor een feestje van een arme buurman het enige dierbare schaapje afpakt en slacht. Voor welke zonde komt profeet Nathan dit vertellen? 
+NPR4: Ik zou het niet weten. Wel denk ik dat de moraal van dit verhaal is dat je genoegen moet nemen met wat je hebt en niet altijd meer moet willen. Helemaal niet als je daarmee een ander benadeeld, zoals in dit verhaal. 
+PR4: Wat gij niet wilt dat u geschiedt, doe dat ook een ander niet. 
+choice4: NPR 
+rating4: interval3 
+reason4: Omdat bij antwoord 2 een antwoord wordt gegeven wat niets te maken heeft met de vraag 
+Q5: Wat betekent genade voor jou? 
+NPR5: Ik vind genade een lastig woord. Genade vind ik zoiets als je helemaal overgeven aan God. God is heilig, Hij is alles en ik ben maar iemand hier op aarde die probeert te leven naar Zijn hand. 
+PR5: Dit kan ik het best uitleggen in combinatie met 'geen': Geen genade. Wanneer iemand geen genade toont, betekent dit dat hij geen medeleven toont met degene die tegenover hem staat (in bijv. een vechtwedstrijd). Genade definieer ik dus als medeleven en medelijden tonen met iemand die in een moeilijke situatie verkeerd. 
+choice5: NPR 
+rating5: interval4 
+reason5: Antwoord 1 laat duidelijk zien dat hij of zij genade toepast op het geloof en God. Dat zie ik bij antwoord 2 niet daar is het een oppervlakkige beschrijving. 
+Q6: Wat is voor jou een bijbeltekst met een speciale betekenis heeft. 
+NPR6: Het verhaal van Ruth vind ik bijzonder. Hoe zij als vrouw zich redt in een vreemde wereld waarin het haar niet makkelijk wordt gemaakt vind ik heel knap. Een bijzondere vrouw in de Bijbel en daarmee ook een voorbeeld voor mij persoonlijk. 
+PR6: Genisis is en blijft voor mij het bijbelboek met de meeste betekenis. Het eerste boek is het begin van alles; de andere boeken bouwen hierop voort. Niet alleen de Bijbel maar het gehele christendom vindt zijn kern in Genisis. Overigens wil ik hier niet de andere bijbelboeken tekort doen; deze zijn stuk voor stuk ook zeer bijzonder. 
+choice6: NPR 
+rating6: interval4 
+reason6: Hierzo is het voor mij wel minder duidelijk maar het blijft wel duidelijk omdat bij antwoord 1 het echt persoonlijk is. en bij antwoord 2 is het een heel bijbelboek waar veel meer instaat. 
+Q7: Jezus heeft veel wonderen gedaan en is een goed persoon geweest voor veel mensen in de tijd dat hij leefde. Waarom werd hij toch zo gehaat door de farizeeen? 
+NPR7: De farizeeen konden het niet hebben dat Jezus hwet beter wist dan zij en dat hij steeds meer 'aanhangers' kreeg. Ze zagen hem als bedreiging voor zichzelf, want eerst waren zij degenen die het volk leerden over het geloof, en nu was er iemand die het beter wist. 
+PR7: Ook de Farizeeen wisten waarschijnlijk dat Jezus een goed man was. Er zullen altijd mensen blijven bestaan die het niet kunnen verdragen dat anderen meer succes of meer lof krijgen dan hen. Zo ook de farizeeen. Ze konden het niet aan dat Jezus een beter man was dan zij ooit zijn geweest. 
+choice7: NPR 
+rating7: interval4 
+reason7: Het antwoord wat ik verwachte kreeg ik ook bij antwoord 1. 
+Q8: Wie was de verrader van Jezus? 
+NPR8: Petrus heeft Jezus uiteindelijk verraden, al zou je kunnen zeggen dat natuurlijk meer mensen op dat moment hem hebben verraden. Toch was het Petrus, door te zeggen dat hij niet bij Jezus hoorde, die hem echt heeft verraden. 
+PR8: Dat was Petrus. 
+choice8: NPR 
+rating8: interval4 
+reason8: Ok ik had Judas verwacht maar inderdaad petrus heeft ook jezus veraden toen ze vroegen of hij er bij hoorden. Daarom hebben ze allebij het goed beantwoord maar bij antwoord 1 ging het echt ook waarom. 
+Final Rating: FINAL 
+choice9: NPR 
+rating9: finalInterval4 
+reason9: Zoals ik al zei bij veel van de vragen kwam hij met het antwoord wat ik ook zou geven en waar je het kon zien. 
+Day 1, Session 2, jType=Y, jNo=2, uid=2974, side: NPR on right
+Q1: Wat is voor jou de reden om naar de kerk te gaan? 
+NPR1: Omdat ik in de kerk wordt opgebouwd in geloof. Naar de kerk gaan helpt om een relatie met God te hebben. Daarnaast is de kerk ook een gemeenschap waardoor je relaties hebt met andere christenen en elkaar kunt bemoedigen in het geloof. 
+PR1: Vooral een gevoel van saamhorigheid. Ik voel me op dat moment het meest verbonden met God en het geeft een geweldig gevoel om dit te delen met anderen die datzelfde gevoel koesteren. Ik voel me daardoor begrepen door mijn omgeving. 
+choice1: NPR 
+rating1: interval4 
+reason1: De aspecten die deze persoon noemt, zijn overtuigend: relatie met God en relatie met medechristenen, en niet puur het ' gevoel' wat in antwoord 1 staat. 
+Q2: Welke reacties krijg je van studiegenoten als je zegt dat je protestant bent? 
+NPR2: De meesten reageren positief. Het valt me mee hoe positief er op gereageerd wordt, positiever dan ik voor m'n studie had verwacht. Veel studenten hebben begrip voor als je ergens anders over denkt dan zij. 
+PR2: Tegenwoordig hoor ik er weinig over. Mensen hebben er meer begrip voor naarmate ze ouder worden. Ik merkte bijvoorbeeld toen ik nog jong was, dat vrienden er heel anders naar keken, bijvoorbeeld als ik op zondag naar de kerk ging in plaats van naar een voetbalwedstrijd te kijken. 
+choice2: NPR 
+rating2: interval2 
+reason2: Beiden zeggen min of meer hetzelfde. Zelf maak ik mee dat de meesten wel redelijk positief reageren, maar dat zeggen ze allebei. persoon 1 weet ook dat 'strenge' protestanten niet op zondag achter de tv zitten naar voetbal te kijken. 
+Q3: Als ik het bijvoorbeeld over tekenen der tijden heb; waar denk je dan aan? 
+NPR3: Oorlog, hongersnood, rampen. Dingen die in de Bijbel beschreven staan. Maar ook over zedeloosheid/zonde, iets wat in deze cultuur ook duidelijk aanwezig is. 
+PR3: Ik denk daarbij aan de mooie ontwikkelingen die mijn geloof in loop der tijd heeft gemaakt. Het ontstaan van kerkgemeenschappen, het bekeren van mensen over de gehele wereld enzovoorts. 
+choice3: NPR 
+rating3: interval4 
+reason3: Antwoord 2 laat heel duidelijk zien wat echt de tekenen der tijden inhouden, zoals deze in de Bijbel beschreven staan. Inhoudelijk weet antwoord 1 er helemaal niets vanaf. 
+Q4: Hoe kan het komen dat mensen in de wereld lijden, terwijl in de Bijbel staat dat God liefdevol is? 
+NPR4: Door de zondeval. Helaas is er veel ellende en pijn in de huidige wereld. Als 'oplossing' heeft God wel zijn Zoon gestuurd, om zonde te vergeven. Als Jezus voor de 2e keer komt, zal aan het lijden een eind worden gemaakt. 
+PR4: Hoewel in de Bijbel staat dat God liefdevol is, betekent dat niet dat mensen in de wereld niet zullen lijden. God probeert deze mensen met al zijn macht te verlossen uit hun lijden. Natuurlijk lukt dit niet altijd, dit komt omdat niet iedereen zich overgeeft aan God. De groepen die zich niet aan God overgeven, zorgen er eigenlijk voor dat er op de wereld mensen zijn die lijden. 
+choice4: NPR 
+rating4: interval4 
+reason4: Antwoord 2 legt de vinger bij de juiste plek. Door de zondeval is de zonde in de wereld gekomen. Antwoord 1 laat juist iets heel 'onchristelijks' zien, namelijk dat God niet almachtig is. 
+Q5: Wanneer kun je zeggen dat je echt een christen bent? 
+NPR5: Als je weet dat Jezus je zonden heeft vergeven. Als je je echt kunt overgeven/vertrouwen. 
+PR5: Ik geef daar een ruime interpretatie aan, omdat ik zelf niet strikt alle regels naleef. Ik ga bijvoorbeeld niet wekelijks naar de kerk, maar slechts met speciale gelegenheden, bijvoorbeeld met kerst, omdat een vriendin van me dan meestal wat liederen zingt. Ik ben van mening dat je jezelf een Christen kunt noemen op het moment dat je van binnen de overtuiging hebt dat God bestaat. Dat is voor mij belangrijker dan jezelf aan allerlei verplichtingen houden: het gaat in eerste instantie immers om de overtuiging; om het geloof (!) dat God bestaat. 
+choice5: NPR 
+rating5: interval4 
+reason5: In antwoord 1 gaat het puur om dat God bestaat. Een waar christen is iemand bij wie de zonden vergeven zijn. Christus kan dat inderdaad alleen doen, dus antwoord 2 doet niet alsof hij een christen is, maar is protestants. 
+Q6: Welke rol speelt het christen zijn binnen je relatie (als je die hebt, en anders hoe stel je dit voor)? 
+NPR6: Het christen zijn maakt je relatie serieuzer (ik ben getrouwd sinds paar maanden:))De Bijbel maakt duidelijk wat voor een verantwoordelijkheid je hebt in je relatie. In mijn geval zijn zoals Christus richting de gemeente, dat is nogal een taak. 
+PR6: Ik vind het lastig om een relatie te hebben met iemand die niet christelijk is. Ik merk namelijk aan mijn omgeving dat het geloof van christenen verwaterd wanneer zij meer omgaan met niet-christenen. Nu is het omgaan met niet-christenen natuurlijk onvermijdelijk, maar als het op een relatie aankomt, zou dat voor mij toch wel reden zijn om niets met die persoon te beginnen. Ik wil namelijk mijn geloof behouden. 
+choice6: NPR 
+rating6: interval3 
+reason6: Het antwoord van 1 komt gewoon een beetje over alsof deze persoon niet weet wat te antwoorden, en daarom lijkt het alsof deze persoon er omheen draait. In antwoord 2 komt meer een antwoord dat ik van een christen zou verwachten. 
+Q7: Hoe zou je erop reageren als je kinderen als je die krijgen mag, onchristelijk zouden worden? 
+NPR7: Dat zou ik wel moeilijk vinden. Ik vind dat je wel vol liefde om ze heen blijven staan. 
+PR7: Lastig. Ik heb nu nog geen kinderen, maar hoop deze wel ooit te krijgen. Ik geloof er zelf heel erg in dat de wil om te geloven uit jezelf moet komen. Ik kan mijn kinderen alleen motiveren om te geloven. Het is dus hun eigen keus, maar ik hoop dat ze de juiste keuze maken. 
+choice7: NPR 
+rating7: interval3 
+reason7: Het antwoord van 2 komt een stuk geloofwaardiger over. Bij beiden mis ik echter wel het punt van dat ze tot God zouden bidden of hij de kinderen terug wil brengen naar de kerk. 
+Final Rating: FINAL 
+choice8: NPR 
+rating8: finalInterval4 
+reason8: Respondent 2 laat bij eigenlijk alle vragen zien dat hij/zij veel meer van het christelijk geloof afweet dan respondent 1. Daarnaast reageert respondent 2 echt op een 'christelijke' manier, en de woorden die deze respondent gebruikt zijn gewoon 'christelijk'. Overdijdelijk: Respondent 2 is dus echt protestant. 
+Day 1, Session 2, jType=Y, jNo=3, uid=2962, side: NPR on left
+Q1: Wat is een goede manier om als christen je geloof uit te dragen in een niet-christelijke omgeving 
+NPR1: Ik denk dat je als christen vooral niet moet oordelen over anderen die een andere levensovertuiging hebben. Ik denk dat je je geloofsovertuiging het beste kan overdragen door juist veel respect en empathie te tonen naar andere mensen. 
+PR1: Het is goed om de normen en waarden van het geloof uit te dragen. Dus gedragingen corrigeren die je niet vindt corresponderen met het geloof of zelf het goede voorbeeld stellen. Het heeft vaak geen zin om uitgebreid het geloof te prediken; dit vinden ze alleen maar vervelend. De normen en waarden van het geloof worden echter breed gedeeld, zo blijkt vaak als je dieper in een gesprek belandt. 
+choice1: PR 
+rating1: interval2 
+reason1: Beide antwoorden zouden kunnen kloppen, ze geven allebei goed antwoord op de vraag. Maar omdat de tweede daarnaast nog noemt dat het vaak geen zin heeft om geloof uitgebreid te prediken, denk ik dat zijn/haar antwoord oprecht is. 
+Q2: Waar zal God zijn oordeel op baseren als Hij een keuze maakt of je naar de hemel of de hel gaat 
+NPR2: Ik denk dat hij zal oordelen aan de hand van jouw rol tegenover de natuur en andere mensen. Iemand die veel kapot heeft gemaakt of voor zichzelf heeft genomen zal naar de hel gestuurd worden terwijl iemand die veel liefde en sympathie heeft getoont naar de hemel. 
+PR2: Het is lastig te bepalen waarop God precies zijn oordeel zal baseren. Het is bijvoorbeeld niet zo dat je per se naar de kerk moet zijn gegaan elke zondag om in de hemel te komen. Wel kan de kerk je helpen om een leven te leiden dat in God zijn ogen goed is. Dit hangt af van hoeveel je je om anderen hebt bekommerd en hoeveel liefde je hebt getoond. En ja, ook hoort erbij of je God in je leven hebt toegelaten en je op Hem hebt durven vertrouwen. Maar dit kan op vele manieren en hoeft niet per se via de "kerkgang". 
+choice2: PR 
+rating2: interval4 
+reason2: Het tweede antwoord is in dit geval veel uitgebreider en laat meerdere aspecten zien van waar God naar kijkt als Hij zijn oordeel velt. Juist ook de eerste zin over dat het lastig te bepalen is waarop God zijn oordeel zal baseren, laat zien dat christen dat niet echt kan weten en dat is volgens mij ook zo. Het eerste antwoord is gewoon iets te direct geformuleerd. 
+Q3: Zou God het belangrijk vinden dat je elke dag uit je bijbel leest en bid tot Hem 
+NPR3: Niet iedere dag, maar het is heel belangrijk om je band met god te onderhouden. Zonder deze band is het erg moeilijk om je als goed christen te gedragen. 
+PR3: God eist niet van je dat je elke dag uit de Bijbel leest. Als je de Bijbel leest, dan wil dat bijvoorbeeld nog niet zeggen of je hem aandachtig leest. Het gaat vooral om de lessen die je uit de Bijbelverhalen trekt en om wat je ermee doet. Het bidden is heel belangrijk, maar dat komt vooral doordat bidden heel breed is. Bidden voor het eten is duidelijker zichtbaar dan een gesprek dat je even voor het slapengaan voert met God om op de dag te reflecteren. Voor God maakt de vorm niet uit, maar het zoeken naar God in het leven is wel belangrijk. 
+choice3: PR 
+rating3: interval4 
+reason3: Sowieso het feit dat antwoord 1 God niet met een hoofdletter schrijft is al vrij duidelijk, en daarnaast is het tweede antwoord veel uitgebreider en laat het gewoon veel meer zien dat het geloof niet gebaseerd is op standaard rituelen, maar dat het vooral gaat om de relatie die je hebt met God. 
+Q4: In onze gemeente wordt het vaak als normaal gezien dat kinderen gedoopt worden als ze een paar weken oud zijn. Toch kiezen mensen uit bijvoorbeeld de Evangelische kerk vaak voor de volwassen doop. Denk je dat in de protestantse gemeentes meer openheid moet komen voor de volwassen doop, of moet dit onderscheid tussen verschillende kerken zo blijven bestaan 
+NPR4: Ik ben voor de volwassen doop. Ik vind dat de Nederlandse kerken juist dichter bij elkaar moeten komen. Ook geeft een vrije keuze meer blijk van overtuiging in het geloof. 
+PR4: Dit onderscheid moet blijven bestaan. Meer openheid is in mijn ogen niet nodig, omdat veel mensen in de protestantse kerk heel goed op de hoogte zijn van het fenomeen "volwassen doop". Er liggen alleen andere opvattingen aan ten grondslag en dat verschil van mening is prima. Het is een van de verschillen tussen de Evangelische en protestantse kerk, dus het is het beste om mensen hierin zelf een keuze te laten maken door voor een richting te kiezen. 
+choice4: PR 
+rating4: interval4 
+reason4: Hoewel het eerste antwoord ook overtuigend zou kunnen zijn, laat het tweede antwoord meer ervaring zien vanuit de kerk. Er zijn juist verschillende kerken ontstaan doordat er op deze fronten anders tegen de Bijbel aangekeken wordt. En dat verschil van mening hoeft niet per se doorbroken te worden. 
+Q5: Er zijn best vaak passages in de Bijbel die lastig te begrijpen zijn of andere passages lijken tegen te spreken. Wat doe je op zo'n moment als je het niet (meer) begrijpt 
+NPR5: Ik denk dat je altijd veel steun moet zoeken bij de gemeenschap. Het is niet erg als je de bijbel soms niet begrijpt. Er zijn altijd veel mensen die jou kunnen steunen bij het leren uit de bijbel. Ik denk dat het juist goed is om ook naar de interpretaties van anderen te luisteren. 
+PR5: Allereerst denk ik er zelf over na, want vaak is het mogelijk om aan de hand van eerdere kennis delen van de Bijbeltekst zelf heel goed te begrijpen. Als ik er zelf niet uitkom, dan stel ik vragen aan mijn ouders die er veel vanaf weten. Ik zeg eerlijk dat ik dat niet eens vaak doe. In de kerk kan ik ook altijd wat vragen aan de predikant; zij is altijd bereid mij te helpen. 
+choice5: PR 
+rating5: interval3 
+reason5: Bij deze vraag lijken beide antwoorden wel redelijk op elkaar, het is meer de manier waarop dingen verwoord worden dat ik denk dat antwoord twee de non pretender is. 
+Final Rating: FINAL 
+choice6: PR 
+rating6: finalInterval4 
+reason6: Alle antwoorden van respondent 2 zijn uitgebreider en laten meer kennis zien van het geloof of bepaalde zaken die zich in de kerk afspelen. Omdat de gedachtegang van respondent 2 ook meer overeenkomt met mijn eigen manier van denken, denk ik dat hij eerlijk antwoord heeft gegeven op de vragen. 
+Day 1, Session 2, jType=Y, jNo=4, uid=2984, side: NPR on right
+Q1: Als het goed is heb je laatstelijk avondmaal gevierd. Hoe heb je dit ervaren? 
+NPR1: Voor mij is dit telkens weer het moment dat je realiseert hoe zondig wij zijn. Je realiseert je dan telkens weer dat God genadig is. Dat is het grootste geschenk. Het is natuurlijk verdrietig dat wij telkens weer zonde doen. Daarom is het avondmaal voor mij met name een speciaal moment dat je nadenkt over hoe liefdevol God wel niet is. 
+PR1: Ik ben niet gelovig, maar ga af en toe met mijn ouders mee naar de kerk. Zij vieren dan wel avondmaal, maar omdat ik niet gelovig ben ga ik nooit aan het avondmaal. Ik ervaar het avondmaal dan ook als een saaie, lange dienst. 
+choice1: PR 
+rating1: interval4 
+reason1: Deze persoon gebruikt termen die ik herken. 
+Q2: In hoeverre preekt je dominee evenwichtig? en waarin uit die evenwichtigheid zich? 
+NPR2: Onze dominee preekt best evenwichtig. Hij heeft een gemeente voor zich met groot en klein. Daar verwacht je dat hij evenwichtig preekt. Hij behandeld gewoon verschillende onderwerpen, zo hebben wij gemeenteprojecten waar hij allemaal preken heeft over 1 onderwerp. 
+PR2: Als ik met mijn ouders mee ga naar de kerk, dan valt het me vooral op dat de dominee totaal niet evenwichtig is. Hij laat zich teveel meeslepen door persoonlijke ervaringen en gevoel in plaats van vaststaande feiten. Dat is ook de reden waarom ik niet gelovig ben. 
+choice2: PR 
+rating2: interval3 
+reason2: Dit antwoord herken ik meer door het feit dat wordt gesproken over persoonlijke ervaringen. 
+Q3: Waar haalde Kain zijn vrouw vandaan? 
+NPR3: Nadat hij Abel heeft dood geslagen gaat hij weg bij zijn ouders(adam en eva). Hij haalt zijn vrouw uit de omringende volken. 
+PR3: Ik zou niet weten wie Kain is, sorry 
+choice3: PR 
+rating3: interval4 
+reason3: Dit is correct en kan je als niet-protestant eigenlijk niet weten 
+Q4: waarom bid je voor je eten en kan je hier een onderbouwing voor geven? 
+NPR4: Ik bid voor het eten omdat het elke dag een groot wonder is dat wij weer te eten hebben. Er zijn zoveel mensen op de wereld die dit niet hebben. Het is daarom dat wij God dankbaar moeten zijn dat wij zo rijk in dit leven zijn. Dat is niet vanzelfsprekend. Wij hebben ook het eten niet verdient toch schenkt God dat elke dag weer. Daarvoor dank ik hem met heel mijn hart. 
+PR4: Ik bid niet voor het eten. Ik vind het onzin: ik heb toch zelf voor mijn eigen eten gewerkt? 
+choice4: PR 
+rating4: interval4 
+reason4: terminologie is doorslaggevend 
+Q5: Waarom hebben protestanten geen sex voor het huwelijk? 
+NPR5: Omdat er in de bijbel staat dat als je sex heb dat je 1 lichaam wordt met je partner en als je dat voor het huwelijk doet en je gaat uit elkaar dan is het super mooie geschenk van God al gegeven aan iemand anders. 
+PR5: Er staat in de bijbel: ''...dan zult gij uw huis verlaten, uw vrouw aankleven en zij zullen tot 1 vlees zijn.'' De volgorde is dus: eerst het huis uit, dan je vrouw aankleven (=trouwen) en dan sex hebben (tot 1 vlees zijn). Ook elders in de bijbel wordt sex voor het huwelijk een zonde genoemd. Maria was zwanger zonder tussenkomst van een man (ze was namelijk nog niet getrouwd), dit werd door iedereen ook als een schande gezien. Ik zelf ben protestant, maar vind de argumenten van medeprotestanten waarom sex voor het huwelijk niet mag niet sterk genoeg. Ik ben er zelf dus ook niet op tegen. 
+choice5: PR 
+rating5: interval4 
+reason5: Deze persoon weet duidelijk hoe veel protestanten hierover denken. 
+Q6: Waarom ga je op zondag naar de kerk? is dit nodig? 
+NPR6: Ik ga elke zondag naar de kerk omdat alleen geloven niet goed is voor het geloof. God noemt niet voor niets de kerk het lichaam met als hoofd Jezus. Daar wil je onderdeel van zijn. Buiten de kerk om is geen heil staat er in de belijdenisgeschriften. 
+PR6: Om zo meer te leren over God! En ook om ermee bezig te blijven. In het dagelijkse leven vergeet je God snel, daarom is het belangrijk onderwijs te blijven ontvangen. Bovendien is de Bijbel zo dik dat ik 'm zelf nooit helemaal heb gelezen, en de preken van de dominee over bijbelteksten zijn vaak erg verhelderend. 
+choice6: PR 
+rating6: interval2 
+reason6: 'preken over bijbelteksten' klinkt niet heel overtuigend.. maar verder het meest valide antwoord 
+Q7: Hoe ziet de hemel er volgens jou uit? 
+NPR7: God op een troon met aan zijn rechterhand Jezus. met daar perfect mensen die God loven en prijzen. Maar verder dan dat kom ik niet het voor mij nog lastig om te zeggen hoe het daar precies is. Er wordt soms wel dingen beschreven (openbaringen) maar ook niet echt duidelijk. 
+PR7: De hemel is een plek waar geen angst, verdriet of pijn is. Iedereen is daar gelukkig. In de Bijbel wordt de hemel ook wel de stad met paarlen poorten genoemd. Dit kan echter ook beeldspraak zijn. 
+choice7: PR 
+rating7: interval4 
+reason7: 'paarlen poorten' dit is duidelijk een protestant 
+Q8: Wat betekent het lijden en sterven van Jezus voor je? 
+NPR8: Het lijden en sterven van Jezus is de kern van het evangelie voor mij. Hier zie je het doel waarom Jezus naar de wereld is gekomen. Hij is gekomen om onze zonden op zich te nemen en voor ons de straf op zich te dragen die wij verdienen. De liefde is zooooo groot. Hier wordt je toch super ontroerd van dat God zoveel van ons houdt dat hij zijn enig geboren zoon stuurt. Dit betekent heel veel voor mij. Hierdoor weet ik ondanks hoeveel ik ook probeer om het niet te doen ik toch zonde doe dat ik weet dat wij verlost zijn. en we om vergeving mogen vragen. 
+PR8: Dit is voor mij het belangrijkste van de hele Bijbel. Het betekent dat Hij voor mijn zonden is gestorven, en dat Hij mij daardoor een nieuwe kans heeft gegeven. Doordat Jezus voor mijn zonden is gestorven, kan ik straks het eeuwige leven krijgen in het paradijs. 
+choice8: PR 
+rating8: interval3 
+reason8: andere antwoord had ook goede componenten 
+Q9: Is de eintijd(openbaringen) al bezig of moet deze tijd nog komen? 
+NPR9: Lastig vraag, ik vind openbaringen en erg lastig boek omdat er bijzonder veel dingen instaan. Zoals telkens de zegels die verbroken worden enzo maar ik kan om eerlijk te zijn niet zeggen of het al echt begonnen is. Ik denk het zelf wel omdat Jezus al terug in de hemel is en dat vanuit daar de openbaringen vervult gaan worden. 
+PR9: We leven al in de eindtijd. Dat kun je merken aan alle dingen die in de wereld gebeuren (natuurrampen, oorlogen). Dit zijn allemaal tekenen dat het niet lang meer duurt voordat Jezus terug gaat komen. 
+choice9: PR 
+rating9: interval4 
+reason9: duidelijk protestantentaal.. 
+Final Rating: FINAL 
+choice10: PR 
+rating10: finalInterval3 
+reason10: In eerste instantie twijfelde ik maar naarmate de antwoorden duidelijker werden en ik meer 'protestantentaal' begon te herkennen vond ik dit de oprechte deelnemer. 
+Day 1, Session 2, jType=Y, jNo=5, uid=2964, side: NPR on left
+Q1: Hoe ervaar je de zondagsrust? 
+NPR1: De zondag is de 'dag des Heeren' zoals mensen dat vaak noemen. Zelf probeer ik zo veel mogelijk werk uit te stellen en probeer ik extra tijd bij Gods stil te staan. 
+PR1: Ik denk dat het voor mensen goed is om in het hectische bestaan toch nog een dag ' verplicht' rust te hebben. Ik snap dat het tegenwoordig bijna niet meer mogelijk is om winkels etc gesloten te houden, maar ik denk dat het voor de gemoedsrust beter zou zijn om een dag in de week helemaal tot bezinning te komen. 
+choice1: NPR 
+rating1: interval3 
+reason1: De pretender redeneert vanuit 'ik denk', niet dat hij of zij dat echt beleeft. Ook het woord 'verplicht' met aanhalingstekens doet denken dat het een pretender is, omdat een protestant dat niet zo snel zou zeggen. De non-pretender geeft vanuit zijn of haar eigen ervaring antwoord. 
+Q2: Hoe kijk je tegen de uitverkiezing aan? 
+NPR2: Met de uitverkiezing heb ik persoonlijk niets. Het druist in tegen het idee dat God rechtvaardig is. Ik bekijk het altijd maar zo: eigenlijk is iedereen uitverkoren (immers, het Evangelie is voor iedereen bedoeld), maar het is maar de vraag of je het zelf aan wil nemen. 
+PR2: Ik weet even niet wat je daar mee bedoelt, sorry. 
+choice2: NPR 
+rating2: interval4 
+reason2: De non-pretender geeft aan met zijn antwoord dat hij weet waar hij over praat, en geeft dan ook nog een antwoord wat herkenbaar is voor mensen in de protestantse gemeenten. De pretender weet niet eens wat er wordt bedoeld. Icm met de vorige vraag weet ik nu al bijna zeker wie de pretender is. 
+Q3: Wanneer ben je gedoopt en waarom op dat moment? Of waarom ben je niet gedoopt indien van toepassing? 
+NPR3: Ik ben gedoopt toen ik kind was. In feite hadden mijn ouders die keuze gemaakt. Ze beloven dan dat ze je gelovig op zullen voeden. In mijn kerkgemeenschap is het normaal dat kinderen op jonge leeftijd gedoopt worden. Als 'antwoord' hierop kan je dan belijdenis doen, hetgeen ik gedaan heb toen ik voelde dat ik er klaar voor was en zelf echt de keuze maakte om in God te geloven. 
+PR3: Ik ben als baby gedoopt, mijn ouders vonden het belangrijk dat ik het eerste sacrament aan het begin van mijn leven ontving, zoals het hoort. 
+choice3: NPR 
+rating3: interval4 
+reason3: De non-pretender geeft uitgebreid antwoord en gaat hierbij nergens in de fout. Hij of zij geeft zels nog extra (correcte) informatie. De pretender gebruikt een moeilijk woord 'sacrament' en de arrogantie van 'zoals het hoort' is niet een manier waarop een protestant dat zou zeggen. Zeker icm de vorige 2 vragen ben ik er vrij zeker van. 
+Q4: Hoe kijk je aan tegen veranderingen in de kerk? Wat voor dingen zijn er tijdens jouw leven veranderd in de kerk? 
+NPR4: De veranderingen in de gehele christelijke kerk staan wat mij betreft in relatie tot modernisering van de samenleving. Denk bijvoorbeeld maar aan het gebruik van een televisie: mensen in bepaalde kerken hoeven er niets van te hebben, terwijl anderen gewoon een tv in huis hebben. In de 20 jaar dat ik op Aarde rondloop is er in mijn kerk eigenlijk niet zo heel veel veranderd. Wel word er denk ik soepeler gekeken naar de echt controversiele onderwerpen zoals abortus en homoseksualiteit. Dat laatste is in onze kerk bijvoorbeeld 'gedoogd', het geen zo'n pakweg 100 jaar geleden dus absoluut niet ter sprake zou zijn. In dat geval denk ik dat de kerk in zekere zin ook 'mee-moderniseert' (immers: de kerk bestaat uit mensen, en die mensen zitten op hun beurt allemaal in een samenleving die ook weer beweegt). 
+PR4: Ik denk dat de Kerk vasthoudt aan zijn normen en waarden, maar tegelijkertijd meegaat met zijn tijd. Dat is ook wel nodig, de maatschappij verandert immers ook. Allereerst is het veel vrijer geworden de kerk te bezoeken. Dat vind ik fijn, want het echte geloven doe je toch zelf, daarvoor hoef je niet per se elke week naar de kerk. Daarnaast kijkt de Kerk wat vrijer tegen het gebruik van voorbehoedsmiddelen aan. Daar ben ik blij mee, want ik denk dat het overgrote deel van de gelovigen het er wel mee eens is dat deze in bv Afrika inmiddels noodzakelijk zijn. Daarnaast zijn in ons eigen land de normen en waarden ten opzichte van gezinsplanning ook veranderd en hier moet de Kerk dus ook wel wat anders tegenaan kijken. 
+choice4: NPR 
+rating4: interval4 
+reason4: De non-pretender heeft veel juiste kennis in huis die typisch is voor een protestant. Abortus en homoseksualiteit zijn inderdaad de controversiele onderwerpen, voorbehoedsmiddelen waar de pretender het over heeft zijn dingen die door het misbruik in de Rooms-katholieke kerk wat meer in het nieuws zijn geweest. 
+Q5: Welke bijbelpassage raakt jou het meest? 
+NPR5: Eigenlijk heb ik er twee: wanneer Jezus aan het kruis hangt en zegt tegen de moordenaar die naast Hem aan het kruis hangt 'heden zult gij met mij in het Paradijs zijn'. En ook de passage 'want wie in Hem gelooft, komt niet bedrogen uit'. Deze twee passages (oeps, ik weet niet het Bijbelboek en vers er bij te noemen maar die eerste staat natuurlijk in een van de Evangelien, en de tweede in Romeinen vermoed ik) zijn in feite een belofte, en aangezien God altijd Zijn beloften nakomt, willen deze passages mij (onder andere) nog wel eens sterken. Daarbij is die eerste ook nog eens mooi om te laten zien dat het Evangelie echt voor iedereen bestemd is, als je maar tot inkeer komt. 
+PR5: Jeetje, ik vind het wel lastig om zo een passage te kiezen. Voor mij gaat geloven ook niet om het letterlijke Woord van God, zoals dat in de bijbel staat, maar meer om de gedachtes erachter. Ik vind de waarden van het geloof, dat waar het geloof voor staat, belangrijker. Het liefdevol omgaan met mensen en het goede in mensen zien, zoals Jezus deed, vind ik een mooie waarde om aan vast te houden. 
+choice5: NPR 
+rating5: interval4 
+reason5: De pretender gaat hier wel erg op de niet-protestantse toer. De waardes belangrijker dan het letterlijk nemen is niet echt iets protestants. Ook geeft de pretender blijk van weinig kennis van bijbelpassages. De non-pretender geeft blijk van bijbelkennis en heeft daar een persoonlijke motivatie bij. Wie de pretender is is voor mij zo klaar als een klontje, daar durf ik mijn handen wel voor in het vuur te steken. 
+Final Rating: FINAL 
+choice6: NPR 
+rating6: finalInterval4 
+reason6: Elke vraag slaat in het voordeel van Antwoord 1. Het is dus best wel duidelijk wie de pretender is. 
+Day 1, Session 2, jType=Y, jNo=6, uid=2968, side: NPR on right
+Q1: Wat is de rol van de Heilige Geest in je leven? 
+NPR1: Ik vind het moeilijk om hier een antwoord op te geven. Ik zie de Heilige Geest niet als een apart Persoon, maar als onderdeel van de Drie-eenheid. 
+PR1: God heeft niet een 'bepaalde rol' in mijn leven, God is altijd aanwezig. Bij besluiten die ik maak denk ik wel na of het overeenkomt met wat Hij van mij verwacht. Aan de andere kant is het een mooie gedachte dat ik altijd iemand bij me heb die me helpt en ondersteunt, ook als het minder gaat. 
+choice1: NPR 
+rating1: interval2 
+reason1: Lastig.. 
+Q2: Vind je het belangrijk om je aan de regeltjes en wetjes, bijvoorbeeld de 10 geboden, te houden? 
+NPR2: De tien geboden vormen eigenlijk de basis van het christelijk geloof. Als je een christen bent, kun je niet om de tien geboden heen aangezien de tien geboden ons vertellen hoe God wil dat we leven, hoe we Hem dienen, en hoe God wil dat we met andere mensen en onszelf omgaan. Daarom vind ik het heel belangrijk om mezelf aan de tien geboden te houden. 
+PR2: Ik vind het belangrijk om aan de normen en waarden te houden, die gecreeerd zijn door de protestantse geschiedenis van Nederland, en waar de 10 geboden oorspronkelijk dan ook een belangrijk deel van uitmaken. Dus ja, ik vind het belangrijk dat we regels, normen en waarden hebben, en daaruit vloeit dan ook voort dat ik er belang aan hecht me er zelf ook aan te houden. 
+choice2: NPR 
+rating2: interval3 
+reason2: Klinkt meer als een 'protestant' antwoord. 
+Q3: Wat denk je over de rol van engelen? 
+NPR3: Engelen zijn de dienaren van God in de Hemel. Ze hebben de rol om God alle lof toe te zingen. Er zijn een aantal bijbelverhalen (denk aan Gabriel en de engelen in het graf van Jezus die met Maria Magdalena spraken) waarbij engelen door God ook naar de aarde werden gestuurd om Gods bedoeling aan mensen uit te leggen. De rol van de engelen wordt dan duidelijk weergegeven als het brengen van Gods boodschap. 
+PR3: Engelen is nou niet iets wat echt thuishoort in mijn geloof. Mijn tante komt uit een Rooms-Katholieke gemeenschap en heeft daar wel wat mee, maar ik totaal niet. 
+choice3: NPR 
+rating3: interval4 
+reason3: Engelen komen duidelijk wel voor binnen het protestantse geloof. 
+Q4: Wat zou je beschrijven als de kern van het christelijk geloof? 
+NPR4: Dat God ons zijn enige Zoon heeft geschonken, zodat alle mensen die in Hem geloven zalig kunnen worden. Dat is voor mij de kern van het christelijk geloof. Dat God de wereld zo lief heeft gehad dat hij dat voor ons over had, en dat hij ons nooit loslaat, zelfs niet na alles wat wij met zijn Zoon hebben gedaan. 
+PR4: De kern van het christelijk geloof zou ik beschrijven als de gedachte dat we nooit alleen en radeloos zijn. Hieruit vloeien belangrijke kernwaarden voort als mededogen, naastenliefde, maar bijvoorbeeld ook antwoorden op vragen over het ontstaan van ons en alles om ons heen. Deze kern wordt vertegenwoordigd door het woord van God. 
+choice4: NPR 
+rating4: interval4 
+reason4: Antwoord 2 is meer de kern dan antwoord 1. 
+Q5: Waarom ben je er van overtuigd dat het christelijk geloof de waarheid is? 
+NPR5: Mijn antwoord is niet veel beter dan dat ik het weet in mijn hart. Ik geloof dat God een bedoeling heeft met mijn leven, en dat Hij me leidt. Wat er ook gebeurd, ik ben niet alleen. 
+PR5: Er is geen beter alternatief dan een geloof om de waarheid te vinden. Je zal sowieso naar een religie moeten kijken om de antwoorden van deze wereld te kunnen vinden; zolang je nieuwsschierig bent hou je de vragen. Ik zal eerlijk zeggen dat ik me nooit in de islam, boedhisme en dergelijke heb verdiept. Maar als zij ook geloven in God, en dat is het belangrijkst, is er geloof. Het christelijk geloof had ook niet zo lang kunnen bestaan, 2 millenia, als het nooit waarheid was gebleken. Maar de enige die uiteindelijk weet of het christelijke geloof de waarheid is of een ander geloof, dat is God, maar in mijn visie is het christelijk geloof de waarheid. 
+choice5: NPR 
+rating5: interval4 
+reason5: Antwoord 2 is duidelijk het juiste antwoord. 
+Final Rating: FINAL 
+choice6: NPR 
+rating6: finalInterval4 
+reason6: Antwoord 2 is bij alle vragen overtuigender. De antwoorden komen veel dichter bij wat ik zelf ervaar als protestant. 
+Day 1, Session 2, jType=Y, jNo=7, uid=2966, side: NPR on left
+Q1: Wat betekent geloven voor jou? 
+NPR1: Leven in de wetenschap dat er een God is, waarvan je leven afhankelijk bent, het idee dat alles uit genade jou gegeven is en vanuit die dankbaarheid jezelf aan anderen geven. 
+PR1: Het geeft mij vooral steun in moeilijke tijden. Ook ben ik in een gezin opgegroeid waarin geloof een centrale plek heeft, dus is het voor mij ook iets dat mijn familie hechter maakt. 
+choice1: NPR 
+rating1: interval3 
+reason1: Om te weten wat het betekent om te geloven moet je eigenlijk geloven. Antwoord 2 probeert zich erin te verplaatsen, maar ik krijg niet het idee dat hij/zij geloven begrijpt, wat ik bij Antwoord 1 wel krijg. Dit heeft ook met het woordgebruik bij antwoord 1 te maken. 
+Q2: Welk bijbelverhaal betekent het meest voor jou, en waarom? 
+NPR2: Het verhaal over de dood en opstanding van Jezus. Dat God ondanks dat er zoveel fout is gegaan in de wereld toch weer opnieuw begint met de mensen, dat een nieuw begin mogelijk is en wonden die iedereen in dit leven heeft opgelopen hersteld worden, is de kern van het christelijk geloof. 
+PR2: Toen ik hoorde van het overlijden van Mandela, deed zijn verhaal mij sterk denken aan het leven van Jezus. Ik denk dat er een goede reden is dat dit het bijbelverhaal is dat iedereen op deze wereld kent: onbaatzuchtigheid en opoffering is iets waar wij allen tot op vandaag nog van kunnen leren. Daarom kies ik het leven van Jezus als meest betekenisvol, ook omdat ik geloof in de overtuigingskracht van dit verhaal. 
+choice2: NPR 
+rating2: interval4 
+reason2: Bij Antwoord 2 wordt geen bijbelverhaal aangehaald, terwijl ik daar wel naar vroeg. Ook is het weer de woordkeus bij antwoord 1 (dood en opstanding, opnieuw beginnen met mensen, kern van het christelijk geloof) die mij doet geloven dat deze respondent niet doet alsof. 
+Q3: Wat betekent het voor jou te horen bij Gods gemeente? 
+NPR3: Het is als een soort thuiskomen, het is de plek waar je geroepen bent om volledig mens te zijn. Je kiest de mensen in je kerk niet zelf uit, maar wordt door God uitgekozen om bij elkaar te horen. Dat maakt ook dat je moet oppassen met kritiek op elkaar en moet oppassen dat je niet bepaalde mensen in de kerk negeert. Naar iedereen moet worden omgezien. 
+PR3: Omdat ik student ben en niet meer bij mijn ouders thuis woon ben ik minder verbonden met de kerk in mijn geboorteplaats. Ik denk dat ik in de toekomst meer bezig zal zijn met mijn geloof, maar op dit moment ben ik in een fase dat andere dingen (het studentenleven) voor mij ook belangrijk zijn. 
+choice3: NPR 
+rating3: interval4 
+reason3: Het gaat niet zozeer om het verbonden zijn met een kerk, maar het horen bij Gods gemeente. Een protestant weet het verschil. Antwoord 2 kent het verschil niet, Antwoord 1 wel. 
+Q4: Hoe vier jij Kerst? 
+NPR4: Door op op Kerst zelf 's morgens naar de kerk te gaan, soms ook al op kerstavond. Ergens vind ik het wel jammer dat kerstnachtdienst al zo vroeg begint. De dienst op zondagmorgen is meestal fijn met veel kerstliederen die je al jaren rond deze tijd zingt. Ze wijzen op de grootse gebeurtenis van de geboorte van onze Heer, maar emotioneel is het ook verbonden met die talloze keren dat je eerder Kerst gevierd hebt en alle positieve ervaringen die daarmee verbonden zijn. 's middags en zeker 's avonds uitgebreid tafelen met de familie. Tweede kerstdag komt de familie van mijn vaders kant en is het een gezellige drukte met spelletjes en weer lekker eten met ooms, tantes, neefjes, en nichtjes. 
+PR4: Normaal gesproken ga ik met mijn ouders naar de Kerstmis op Kerstavond, en de volgende dag komen we samen om te eten met familie. Dit jaar ga ik het vieren met vrienden in Rotterdam, dus ben ik er op Kerstavond niet bij. Mijn ouders vonden dit eerst moeilijk om te accepteren, maar zijn er nu over uit dat ik hier zelf over moet beslissen. Eerste en Tweede Kerstdag ben ik dit jaar wel bij mijn ouders. 
+choice4: NPR 
+rating4: interval4 
+reason4: Dit was geen goede vraag van mijn kant, omdat niet elke gemeente kerst op dezelfde manier viert. Toch ben ik weer meer geneigd antwoord 1 te zien als het antwoord van de persoon die niet doet alsof. Protestant is iets anders dan Rooms Katholiek en Antwoord 2 heeft het over de Kerstmis. Daardoor viel die persoon eigenlijk voor mij door de mand. De dienst in een protestante kerk heet per definitie nooit mis. 
+Q5: Hoe onderscheiden christenen zich van niet-gelovigen volgens jou? 
+NPR5: Als het goed is door nederigheid en een dienende houding. Doordat christenen weten dat ze niet perfect zijn, dat ook zij fouten maken en niet zonder Gods genade kunnen, is het voor een christen ook mogelijk nederig te zijn als iemand anders fouten maakt en vergevingsgezind te zijn richting de ander. 
+PR5: Alle Christenen op een hoop gooien vind ik wel erg kort door de bocht. Ik denk dat iedere stroming dit op zijn eigen manier doet. Ook denk ik dat er misschien wat onderscheid is in de manier waarop mensen leven, maar dat we diep vanbinnen allemaal mens zijn. Ik geloof wat ik geloof, en als mensen steun vinden op een andere manier is dat hun recht en hun keuze. 
+choice5: NPR 
+rating5: interval4 
+reason5: Dit is een vraag die vaak wat irritatie opwekt bij niet-christenen. Omdat zij vaak sowieso al vinden dat christenen zich gedragen 'alsof ze beter zijn dan andere mensen'. Die irritatie zie ik terug bij Antwoord 2. Ook het woordgebruik bij Antwoord 1 doet mij geloven dat deze respondent niet alsof doet (nederigheid, dienende houding, Gods genade, vergevingsgezind). 
+Final Rating: FINAL 
+choice6: NPR 
+rating6: finalInterval4 
+reason6: In alles herken ik in deze antwoorden dingen die een protestant zou antwoorden. In de woordkeuze, maar ook in de voorbeelden die deze persoon noemt. Bij Antwoord 2 merk ik dat deze persoon veel minder inhoudelijk reageert, en zich meer op de vlakte houdt (en dus schijnbaar niet uit eigen ervaring spreekt). 
+Day 1, Session 2, jType=Y, jNo=8, uid=2982, side: NPR on right
+Q1: Hoe geef jij je geloof in je dagelijks leven vorm? 
+NPR1: Ik probeer elke dag een stukje uit de bijbel te lezen en ik bid eigenlijk best vaak op een dag. Maar vooral vind ik het belangrijk om aan anderen te laten zien dat ik anders in het leven sta, dus door Christus te laten zien in mijn daden. 
+PR1: Ik bid voor elke maaltijd en ga elke week een maal naar de kerk. Ook ga ik elke vrijdagavond naar een protestantse jongerenvereniging om daar met andere protestantse jongeren te relaxen. 
+choice1: NPR 
+rating1: interval2 
+reason1: Dit antwoord klinkt realistischer. Het tweede antwoord 'het laten zien in daden' klinkt mooi, maar kan net zo goed een levenshouding zijn waarin hij meerdere protestanten kent. Het eerste antwoord is gebruikelijker. Veel kerken hebben een jongerenvereniging. Echter zeker weten doe ik het niet geheel. Het tweede antwoord kan ook van een protestant zijn, die niet meer naar de kerk gaat. 
+Q2: Wat is jouw favoriete christelijke nummer die ook wel is gezongen wordt in de kerk/gemeente? 
+NPR2: Lastig, sowieso houd ik meer van opwekking, dus ik denk: Houd mij dicht bij U. 
+PR2: Hallelujah van Leonard Cohen 
+choice2: NPR 
+rating2: interval3 
+reason2: Nog nooit gehoord van Leonard Cohen. Als het een bekende christelijke zanger was geweest en die zou worden gezongen in de kerk, had ik het wel geweten. Het tweede antwoord daarentegen is een nummer dat alom bekend is in de christelijke wereld. 
+Q3: Jezus zei dat iedereen welkom is bij Hem. Jong of oud. Nu wil de oudere generatie nog wel is strengere opvattingen hebben in de kerk. Hoe is dat in jouw gemeente/kerk? En hoe wordt hiermee omgegaan? 
+NPR3: In onze gemeente is er juist de laatste jaren heel veel aandacht gegeven aan de jeugd en de kleine kinderen in de kerk. Sinds kort hebben we ook een soort bijbelclub voor kleine kinderen, waarna ze in de kerkdienst ook nog kort aandacht krijgen van de dominee etc. 
+PR3: Ik kom uit een streng gelovige gemeente waarin de protestantse normen en waarden voorop staan. Ik merk dat ik als progressief denkend protestant soms veel kritiek krijg binnen mijn gemeente (Rijsoort). Veel vrienden van mij staan afwijzend ten op zichte van abortus en een verruiming van de winkeltijden.Ik denk dat een ieder in zijn waarde gelaten moet worden en dat ook de niet gelovigen geaccepteerd moeten worden. Ieder zijn eigen mening, zoals Jezus dit ook heeft voorzien. 
+choice3: NPR 
+rating3: interval2 
+reason3: Antwoord 1: er ligt teveel nadruk op. De deelnemer kent de gelovige wereld goed. Erg goed zelfs en doet goed zijn of haar best om dit te laten blijken. Maar hij is niet onderdeel van een gemeente, anders had hij of zij deze vraag specifiek kunnen antwoorden binnen de kerkelijke gemeente. Het tweede antwoord komt hiermee natuurlijker over. 
+Q4: Welke zegen spreken ze bij jullie uit in de gemeente/kerk? Of is dat een ingeving van dat moment? 
+NPR4: Het kan nog wel eens varieren en ik weet ook niet precies meer hoe die gaat, maar er komt in ieder geval in voor: Hij doe Zijn Aanschijn over u lichten en zij u genadig. De Heer verheffe Zijn aangezicht over u en geve u vrede.. Zoiets ongeveer ;) 
+PR4: Dit is een ingeving van dat moment. 
+choice4: NPR 
+rating4: interval4 
+reason4: He tweede antworod is zo duidelijk. Zo'n uitspraak kan je niet zomaar bedenken als je een paar keer in een gemeente/kerk bent geweest. Deze uitspraak is daarvoor te ouderwets. 
+Q5: Beleef je het geloof als een mooi gegeven waarin je regelmatig investeert of zie je het soms als een strijd? 
+NPR5: Het wisselt nogal. Het ene moment waarop er moeilijke tijden in je persoonlijke leven zijn, kan ik er heel veel troost uit halen en besef ik echt dat het samen met God zoveel beter is. Het volgende moment waarop alles wel goed gaat, raak ik mijn diepgang altijd een beetje kwijt en ga ik meer op mezelf vertrouwen. Daarnaast is het wel zo dat ik de laatste tijd echt veel meer dingen belangrijke levenslessen uit de Bijbel haal, die me echt verder helpen hoe ik met dingen hier om kan gaan. 
+PR5: Soms zie ik het als een strijd omdat ik me niet kan vinden in alles wat de Bijbel stelt. Ik denk dat we als geloof progressieve waarden moeten hanteren en alleen de Bijbel waarderen in het perspectief van deze tijd. Verder put ik veel hoop uit mijn geloof en dat is juist hetgeen dat voor mij belangrijk is. 
+choice5: NPR 
+rating5: interval4 
+reason5: Antwoord 2 is zoveel realistischer. Antwoord 1 stelt dat hij of zij zich niet altijd kan vinden in wat de bijbel stelt. Voorbeelden worden daarin weggelaten. Dat alleen de progressieve waarden moeten worden gehanteerd klinkt leuk, maar hij of zij overweegt daarbij niet de wat meer conservatieve waarden. Daarnaast is het een heel gemaakt antwoord. Hij of zij is er duidelijk bekend mee, maar beleeft het protestants geloof waarschijnlijk niet. De tweede klinkt als realistisch. Het zit niet altijd mee, maar ook niet altijd tegen. 
+Q6: Zou jij graag 1 kerk voor iedereen willen? En hoe zie je dit voor je? 
+NPR6: Natuurlijk zou ik dat het liefste willen zien, maar ik denk dat er niet voor niets kerkscheuringen zijn geweest. Zelf in je eigen gemeente zie je vaak dat er nog verschillende meningen zijn over zaken. Als we de gemeentes allemaal zouden samenvoegen zou dat prachtig zijn omdat het uiteindelijk maar om een ding gaat: God prijzen en samen Zijn licht laten zien aan de wereld. Maar ik denk dat er binnen de korste keren allemaal ruzies zouden ontstaan en dat het niet zou werken. Als mensen nu op deze manier, door in verschillende gemeentes te kerken, hun geloof versterken en hiermee dichter naar God toe groeien, dan denk ik dat we dat niet per se moeten willen veranderen. 
+PR6: Nee, de diverse takken van het geloof zijn zo divers dat ik een kerk voor iedereen niet zou aanraden. Er zijn al zulke dusdanige verschillen tussen katholieken en protestanten. Laat staan tussen bijvoorbeeld boedisten, moslims en christenen. Dit is niet met elkaar te verenigigen. 
+choice6: NPR 
+rating6: interval4 
+reason6: Ik heb nog nooit een christen ontmoet die geen universele kerk wou. Antwoord 2 is dan ook als enige realistisch. 
+Q7: Mijn laatste vraag: wat maakt de zondag voor jou speciaal? Of hanteer je geen zondag? 
+NPR7: Wat de zondag voor mij speciaal maakt is het feit dat het een hele andere dag is dan alle andere dagen. Ik probeer ook meestal geen dingen voor school o.i.d. te doen, juist omdat ik de zondag wel echt zie als een rustdag. Je staat even stil van al je eigen dingen die je door de weeks hebt en kijkt meer rond naar je naaste, gaat ergens op visite of doet dingen met je familie, en je bent je meer bewust van God. Ik denk dat God niet voor niets deze dag zo speciaal heeft gemaakt en ik denk dat het daarom ook wel belangrijk is om die dag speciaal voor Hem te houden. 
+PR7: Zondag is de dag van God en hierbij kom ik tot rust. Rust zoals God deze heeft bedoeld op een zondag. 
+choice7: NPR 
+rating7: interval4 
+reason7: Antwoord 1 is sociaal gewenst. Dit is een ingeprent antwoord. Het tweede antwoord is een persoonlijke belevenis. 
+Final Rating: FINAL 
+choice8: NPR 
+rating8: finalInterval4 
+reason8: Deze respondent is eerlijk. Vertelt over gevoel en correcte spelling in lange zinnen. Waarschijnlijk dan ook een vrouw. Ze heeft dan ook veel meer een beeld van het geloof en protestant zijn dan de andere respondent. Ze is niet van een hele zware kerk (Vrijgemaakt/reformatorisch e.d.), anders had ze geweten hoe de kerkgeschiedenis in elkaar stak. 
+Day 1, Session 2, jType=Y, jNo=9, uid=2976, side: NPR on left
+Q1: Wat spreekt je meer aan, de dienst op zondagmorgen of de middagdienst? 
+NPR1: De ochtenddienst. Het voorlezen van de 10 geboden is voor mij belangrijk. Daarnaast zijn er dan ook meer mensen aanwezig. 
+PR1: De middagdienst. Tijdens de middagsdienst is er namelijk meer jeugd en is de kans groter dat ik kennissen tegen kom van categesatie. 
+choice1: NPR 
+rating1: interval2 
+reason1: Twijfel omdat de constatering dat er 's morgens meer mensen zijn wel lijkt alsof de persoon wat van de kerk weet. 
+Q2: Hoe kijk jijzelf naar de bijbel en wat vind je van je eigen omgang daarmee? 
+NPR2: Ik zie het als het ware woord van God. Hij is mijn Here en daarmee is zijn woord het enige ware woord. Mijn eigen omgang met de Bijbel (en daarmee Hem) is helaas niet altijd voldoende naar mijn idee. Ik probeer het regelmatig te lezen, maar komt er niet voldoende van. Daarnaast neem ik niet alle teksten letterlijk, sommigen interpreteer ik ruimer. Bijv. over vrouwen in het ambt of homoseksualiteit. 
+PR2: Voor mij is de Bijbel het boek van God wat een bootschap geeft aan de mens. Wanneer ik bijvoorbeeld in een moeilijke situatie bekeer bid ik tot God en vraag ik hem hulp door na het bidden de bijbel te open en de pagina te lezen die op dat moment open wordt geslagen. 
+choice2: NPR 
+rating2: interval4 
+reason2: Antwoord 1 klinkt heel afgewogen, vanuit een kern en ook kwetsbaar door het zien van eigen inperfectie. 
+Q3: Welke man en vrouw in de Bijbel vind jij het meest inspirerend en wat inspireerd je aan hen? 
+NPR3: Ik ga dan voor David en Batseba. Niet dat ze het allemaal voortreffelijk gedaan hebben, helemaal niet zelfs. Echter laten ze wel zien dat een mens van God kan houden, maar dat een mens niet zonder zonde is. Hij die zonder zonde is, werpe de eerste steen. 
+PR3: Ik vind de Maagd Maria het meest inspirerend in de Bijbel, omdat zij een kind verwekt zonder haar maagdelijkheid te verliezen. Dit is dus indirect een verwijzing naar de macht van God. Hij is per slot van rekening degene die ervoor zorgt dat Maria zwanger raakt. 
+choice3: NPR 
+rating3: interval4 
+reason3: De oprechte deelnemer laat een heel duidelijk besef van menselijke feilbaarheid zien en lijkt daarin ook te berusten, lijkt daar niet huiverig voor te zijn. 
+Q4: Wat is zonde en wat vind je daarvan? 
+NPR4: Dat is datgene wat God eigenlijk verboden heeft. Ik vind dit persoonlijk lastig uit te leggen, omdat er een grijs gebied is. Denk aan vrouwen in het ambt. Er zijn teksten dat dit niet mag. Homoseksualiteit: er staat dat het niet mag. Maar wie zegt dat dit vandaag de dag nog zonden zijn? Tegenwoordig leven we in een hele andere maatschappij. Zondes daarentegen die duidelijk en helder zijn (doodslaan, liegen etc.) lijken me helder. Ik probeer dan ook eerlijk te zijn, omdat het ongemakkelijk gevoel kan geven als ik over iets lieg. 
+PR4: De zonde is wanneer je iets hebt gedaan wat eigelijk niet goed is in de ogen van God. Ik vind het een heel lastig punt, want eigelijk zegt God dat Hij niemand wilt straffen en dat hij iedereen vergeeft als je hem om vergiffenis vraagt. Toch is er genoeg leed op aarde (zoals ziektes), zou het dan toch de reactie zijn van God op je zonde of een actie van de duivel? 
+choice4: NPR 
+rating4: interval3 
+reason4: Beide antwoorden belichten verschillende kanten, maar 2 geeft aan dat het moeilijk te rijmen is dat God mensen niet wil straffen en mensen wil vergeven. Ik denk dat persoon 2 minder diep over heeft nagedacht en de diepere betekenis van zonde als het mislopen van je roeping minder heeft begrepen dan persoon 1. 
+Q5: Wat is volgens jou een goede beschrijving van het christelijke mensbeeld en hoe voel je jezelf daarbij? 
+NPR5: Dan benut je je talenten ten behoeve van God. De dominee zei het afgelopen zondag wat dat betreft voortreffelijk: een mens leeft niet om te werken, nee een mens werkt om te leven naar Gods wil. Ik doe dit zelf lang niet altijd voldoende. Ik zou willen dat ik me constant kon concentreren, mij altijd in zou zetten voor mijn buurman (zowel letterlijk als figuurlijk). Dit doe ik dus lang niet altijd. Zo kan ik neerkijken op de buurvrouw, omdat ze de hele dag in bed ligt en van een uitkering leeft. Mijn zondige ik denkt dan automatisch: ooh trek die uitkering alsjeblieft in. Ik zou haar daarentegen ook kunnen helpen... bijvoorbeeld om een simpel baantje te zoeken. 
+PR5: Mensen die zich houden aan de 10 geboden. Ik voel me er goed bij, want ik sta helemaal achter de 10 geboden. En natuurlijk is dit niet altijd 100% mogelijk, want soms waardeer je bijvoorbeeld niet wat je ouders allemaal voor je doen en wordt je boos op hun. Dus meer het streven naar de 10 geboden..(: 
+choice5: NPR 
+rating5: interval4 
+reason5: Besef dat het niet altijd gaat zoals het zou moeten gaan is volgens mij bij persoon 1 duidelijker aanwezig dan bij persoon 2. 
+Q6: In het leven gaat niet alles goed, mensen gaan soms op een afschuwelijke manier met elkaar om, mensen zijn op zoveel momenten niet in staat de ander op de eerste plaats te zetten en kiezen zo vaak voor zichzelf. We hebben allemaal in ons leven ' deuken' oplopen, als ouders ons niet de liefde en geduld gaven die we nodig hadden, als vrienden of vriendinnen iemand buitensluiten, op het werk waar mensen met ellebogenwerk andere opzij duwen. Wat betekent het dan voor jou dat Jezus voor alle zonde en pijn in de wereld gestorven is? 
+NPR6: Nu je alles zo bij elkaar schaart, doet het me opnieuw beseffen dat het onwerkelijk is hoe groot Gods goedheid is. Wie stuurt zijn eigen zoon nou naar het kruis om daar te sterven voor duizenden generaties aan mensen? Dat God daartoe in staat is, geeft mij de kracht en ook de nederigheid die daarbij gepast is. Ik zou dit in het dagelijks leven verder vorm kunnen geven, als ik niet zo ego"istisch zou zijn en met reglemaat m'n eigen belang voorop zou stellen. 
+PR6: Heel bijzonder, het betekent niet direct dat ook mij zonden drect zijn vergeven zonder erom te vragen. Maar in de Bijbel staat wel dat dat een manier is dat alles wat de mens tot op heden verkeerd doet in de hemel vergeven wordt door God, 
+choice6: NPR 
+rating6: interval4 
+reason6: Passie en dankbaarheid richting God komt bij persoon 1 duidelijk uit de vragen naar voren. 
+Final Rating: FINAL 
+choice7: NPR 
+rating7: finalInterval4 
+reason7: Duidelijk passie voor God en besef van zijn genade. 
+Day 1, Session 2, jType=Y, jNo=10, uid=2980, side: NPR on right
+Q1: Wat betekent het sterven van Jezus voor jou persoonlijk? 
+NPR1: Het sterven van Jezus is dusdanig belangrijk voor mij aangezien hij mij, ondanks mijn gebreken en tekortkomingen, wil aanzien en heeft willen redden. Zijn sterven en zeker ook zijn opstanding geeft mij hoop voor de dag van morgen. 
+PR1: Het sterven van Jezus is een tragedie, maar er zit een grote positieve kan aan vast, namelijk dat de zonden van de mensheid werden vergeven. 
+choice1: NPR 
+rating1: interval4 
+reason1: Een 'tragedie' is eigenlijk een zakelijke omschrijving van wat Jezus voor jou PERSOONLIJK betekent. Daarbij is het woord 'mensheid' zeer algemeen, terwijl antwoord 2 juist een hele persoonlijke boodschap heeft, namelijk door te zeggen dat er hoop voor morgen is. 
+Q2: Hoe ervaart u persoonlijk een kerkdienst? 
+NPR2: Niet altijd hetzelfde. De ene keer kan ik naar huis gaan met het idee dat ik echt voedsel heb gehad, maar een andere keer kan ik er niets aan hebben gehad. 
+PR2: Ik zal niet zeggen dat ik altijd even aandachtig naar de predikant luister, maar je voelt toch wel een soort verbondenheid. 
+choice2: NPR 
+rating2: interval4 
+reason2: Antwoord 2 gebruikt het woord 'voedsel', hetgeen ik associeer met het geestelijk voedsel zoals je wel eens 'opgeladen' kan zijn voor de week na een kerkdienst. Daarbij is antwoord 1 te dogmatisch en te vaag omdat 'luisteren naar een predikant' en 'verbondenheid' algemene termen zijn die de meeste mensen zouden kunnen gebruiken om een kerkdienst te omschrijven. 
+Q3: In hoeverre bent u van mening dat de eindtijd (als bedoeld in het Bijbelboek Openbaringen) al aan de gang is? 
+NPR3: Dat is een goede vraag. Persoonlijk heb ik hier veel over getwijfeld en ik meen toch dat met de komst van Christus hier op aarde de eindtijd is aangevangen. Wel blijf ik het moeilijk vinden hoe de getallen (duizend jaar bijv.) moeten worden opgevat, maar dat de eindtijd nu bezig is, is op dit moment mijn overtuiging. 
+PR3: Dat het einde van de wereld er ooit aan zit te komen is logisch, maar ik verwacht dan altijd nog eerst de terugkeer van de messias. 
+choice3: NPR 
+rating3: interval3 
+reason3: Antwoord 1 spreekt zichzelf in mijn optiek tegen. Openbaringen heeft het immers over de eindtijd zoals die zal komen wanneer de Messias (Jezus) terugkomt. Door antwoord 1 lijkt het net alsof deze persoon denkt dat eerst de messias terugkomt, en daarna pas de eindtijd begint, terwijl deze tegelijk zullen plaatsvinden. Daarbij associeer ik mij met de persoon die antwoord 2 geeft, omdat veel christenen (waaronder ik) hun twijfels hebben over hoe de Bijbel nu opgevat moet worden met betrekking tot de eindtijd. Ik heb niet 'bijna zeker' gekozen, omdat er een lichte twijfel bij me op kwam bij de persoon van antwoord 1 omdat hij het wordt 'Messias' gebruikte, maar dat kan natuurlijk ook een valstrik zijn. 
+Q4: 'God heeft alles geschapen'. Heeft God dan ook het kwaad/de duivel geschapen denkt u? 
+NPR4: God heeft de duivel in origine niet geschapen. De duivel was een engel die er zelf voor koos om afvallig te worden. God creerde geen robots maar gaf mens en engel een vrije wil. Dus nee, God heeft het kwaad niet geschapen. 
+PR4: God heeft de duivel, die de bron is van alle kwaad inderdaad geschapen. De duivel is namelijk een engel die het verkeerde pad op is gegaan, god kan dingen namelijk wel schapen, maar hij kan ze niet altijd onder controle houden. 
+choice4: NPR 
+rating4: interval3 
+reason4: Een twijfelaar. Beide antwoorden komen gedeeltelijk overeen. Ondanks dat ik het deels oneens ben met degene die antwoord 2 heeft beantwoord, kies ik toch met twijfel voor antwoord 2. Het concept 'robots' is ook altijd wat ik gebruik wanneer ik uitleg of discussieer over het concept van de vrije wil. Deze 'vrije wil noemt degene die antwoord 2 beantwoordt dan ook. Antwoord 1 maakt me echter ook aan het twijfelen omdat God dingen niet altijd onder controle kan houden: dat is eigenlijk ook de echte keuze. God is in antwoord 1 ook met een kleine letter geschreven, terwijl de (meeste) christenen Hem juist met een hoofdletter schrijven. 
+Q5: Ziekte. We krijgen er allemaal wel eens mee te maken. Ervan uitgaande dat God almachtig is, denkt u dat hij altijd die ziekte had kunnen tegenhouden? Of denkt u wellicht dat God een bedoeling kan hebben met het lijden van iemand (denk bijvoorbeeld aan het Bijbelboek Job)? 
+NPR5: Bij Job is duidelijk te zien dat God zijn kinderen ook beproeft De Heere wil dan eigenlijk testen of we echt van Hem houden en Hem op nummer 1 hebben staan. Daarbij wil ik niet zeggen dat ziekte altijd een straf is, daar moesten de discipelen volgens Jezus ook mee oppassen toen zij dit beweerden van een blinde man. 
+PR5: God kan een ziekte inderdaad tegen houden, maar de vraag is of hij het niet belangrijker vindt iets anders te doen/voorkomen. God kan met lijden wel degelijk boodschappen verzenden aangezien zieke mensen heel af en toe god vinden. 
+choice5: NPR 
+rating5: interval4 
+reason5: Bij antwoord 2 werd een duidelijke uitleg over de situatie van Job gegeven, en daarbij een terugkoppeling op het eigen leven (in de zin van 'Zijn kinderen en beproevingen). Het daarbij genoemde feit dat de discipelen dit ook zeiden is inderdaad waar, hetgeen getuigt van Bijbelkennis. Antwoord 1 is daarentegen vaag geformuleerd, er staat eigenlijk zoveel als: 'God kan een ziekte tegenhouden, maar misschien is het belangrijker om de ziekte tegen te houden'. Daarbij dacht de respondent dat er gedoeld werd op het vinden van God, hetgeen ik niet bedoelde met mijn vraag. 
+Q6: Soms is het best lastig om dingen te geloven zoals ze in de Bijbel staan. Vindt u dat een christen alles wat in de Bijbel staat moet geloven? Of bent u bang dat, wanneer bepaalde onderdelen minder serieus worden genomen, de kernboodschap van het Evangelie in gevaar komt? 
+NPR6: Nee, ik ben van mening dat de kern behouden moet blijven maar dat er wel over bepaalde zaken gediscussieerd mag worden. Wel wil ik de almacht van God onderstrepen zodat wanneer bepaalde wonderen of gebeurtenissen(schepping, Jona in de vis etc.) worden bekritiseerd wegens de onwaarschijnlijkheid voor mij niet opgaan. Dus kortgezegd. De Bijbel is het woord van God maar er kunnen door de tijd heen foutjes(nieuwe vertalingen bijv.) in zijn geslopen die niet kloppen. 
+PR6: De bijbel is super oud en berust op dingen die god gezegd heeft tegen mensen die heel lang geleden leefden. Die mensen wisten nog niet de helft van wat wij allemaal wisten, als god met de evolutie-theorie was aangekomen als scheppingsverhaal zou niemand dat hebben willen geloven. Het was voor god belangrijker om zijn volk regels mee te geven waardoor ze zouden kunnen overleven, dus zat er weleens een onwaarheid tussen de grote verhalen. Niet alles moet letterlijk voor waar worden aangenomen, het is het belangrijkst dat iemand volgens de regels van de bijbel leeft. 
+choice6: NPR 
+rating6: interval4 
+reason6: Respondent van antwoord 1 geeft aan dat het belangrijk zou zijn dat er geleefd wordt volgens de regels van de Bijbel. Deze dogmatische benadering slaat wat mij betreft niet echt op het Evangelie zelf. Daarom associeer ik mij met de respondent van antwoord 2: de kern van het Evangelie is immers dat je gered kan worden ondanks dat je zondig bent. Daarbij ben ik ook van mening dat de almacht van God centraal dient te staan, maar dat er verschillende zienswijzen zijn ontstaan (bijv. door vertalingen/verschuiving van maatschappelijke opvattingen). 
+Q7: Inkoppertje. Maak de volgende zin af: 'Jezus is de weg, de waarheid en ...' 
+NPR7: Het Leven 
+PR7: Zo goed let(te) ik nooit op in de kerk, of war dan ook, maar het evangelie is sowieso niet in dit soort grappige zinnetjes samen te vatten. 
+choice7: NPR 
+rating7: interval4 
+reason7: Dit lijkt me vrij duidelijk. Met alle respect: ik ken geen christen die deze zin niet kent eigenlijk. Daarbij is de zin ook helemaal niet grappig bedoeld of iets dergelijks. 
+Q8: Wat betekent zonde voor jou persoonlijk? Speelt het daarbij een rol hoe 1) de zonde de wereld in is gekomen en 2) hoe je verlost/vergeven kan worden van je zonden? 
+NPR8: Zonde is in mijn optiek het beledigen van God en het verdriet doen aan God. Ik geloof daarbij in enerzijds de eigen actieve zonde en de erfzonde. Dit laatste houdt in dat wij geboren worden in een staat waarin we al van God af staan en niet op Hem zijn gericht. Wij lopen dan ook van nature van Hem weg. Slechts door wedergeboorte en het geloof kunnen wij verlost worden van onze schuld. 
+PR8: Zonden zijn voor mij slechte dingen die je doet, maar ook ijdelheid, jaloezie en eerzucht, want die kunnen leiden naar het doen van slechte dingen. Vergeveing van je zonden is niet echt mogelijk, maar omdat niemand zonder zonden is is dat niet zo'n ramp, het gaat erom dat je probeert zo min mogelijk zonden te begaan. 
+choice8: NPR 
+rating8: interval4 
+reason8: De passage 'vergeving van zonden is niet echt mogelijk' deed me al meteen overtuigen. Gelukkig is het wel mogelijk, zou ik bijna zeggen. In antwoord 2 wordt vervolgens de zonde opgesplitst in actieve zonde en erfzonde, termen die bekend zijn in het christendom. 
+Q9: Allerlaatste vraag: uit welke drie 'elementen' bestaat de drie-eenheid? 
+NPR9: Allereerst zou ik dit geen elementen willen noemen maar Personen binnen de Goddelijke drie-eenheid. Dit zijn de Vader, de Zoon en de Heilige Geest. 
+PR9: Vader, Zoon en Heilige geest. 
+choice9: NPR 
+rating9: interval4 
+reason9: Ik noemde het expres 'elementen' omdat ik 1) anders het antwoord misschien al weg zou geven en 2) wou zien wie zou bestrijden dat de vader, de Zoon en de Heilige Geest een element zou zijn. 
+Final Rating: FINAL 
+choice10: NPR 
+rating10: finalInterval4 
+reason10: De respondent van antwoord 1 antwoordde vaak te dogmatisch, dus over hoe bepaalde mensen vaak denken over christenen. Daarbij druisten een paar dingen in tegen het geloof, bijvoorbeeld: niet weten wat 'de weg, de waarheid en het leven is' en denken dat zonden niet vergeven kunnen worden. Antwoord 2 daarentegen was soms redelijk kritisch (komt ook door de vraagstelling) en door het kritisch zijn vertelde de respondent van antwoord 2 ook zijn mening in sommige gevallen. Daarbij vertelde de respondent van antwoord 2 vaak zijn persoonlijke opvatting, terwijl de respondent van antwoord 1 het vaak alleen maar bij een algemene beantwoording van de vraag hield. 
+Day 1, Session 2, jType=Y, jNo=11, uid=2972, side: NPR on left
+Q1: Wat betekent de bijbel voor jou? 
+NPR1: De Bijbel is voor mij Gods Woord, en daardoor altijd waar. Erin staat beschreven hoe je God kunt dienen. 
+PR1: De bijbel vormt voor mij een belangrijke leidraad in het leven. Ik haal er inspiratie uit en in moeilijke tijden kunnen sommige passages me een situatie anders laten zien. 
+choice1: NPR 
+rating1: interval3 
+reason1: God met een hoofdletter, en het gebruik van de woorden ' Gods woord' klinkt als een echte protestant. 
+Q2: Hoe gebruik jij Jezus Christus als voorbeeld in je dagelijks leven? 
+NPR2: Als ik heel eerlijk ben, vrijwel helemaal niet. Zijn vergevingsgezindheid is wel een groot voorbeeld voor me, maar 's avonds als ik op bed lig, denk ik vaak dat ik alleen maar zonde gedaan heb, terwijl Christus helemaal geen zonde deed. Ook ben ik er vrijwel niet mee bezig overdag, of ik moet er echt bij stilgezet worden. 
+PR2: Ik gebruik Jezus Christus in het dagelijks leven als relativering van het aardse bestaan. 
+choice2: NPR 
+rating2: interval3 
+reason2: Antwoord 2 noemt helemaal Jezus Christus (zoals is mijn vraag), terwijl antwoord 1 er zelf Christus van maakt, wat meer duidt op een echte protestant. Ook de woorden vergevingsgezindheid en zonde wijzen in de richting van een gelovige. 
+Q3: Hoe stel jij je God voor? 
+NPR3: Ik kan me geen voorstelling van Hem maken, tenminste, niet van hoe Hij eruit ziet. Als ik het over eigenschappen gaat, dan kan ik me wel een voorstelling van God maken: Hij is eeuwig (dus overlijdt niet), ziet en weet alles, rechtvaardig (hij zal alle mensen beoordelen naar of zij Zijn wet hebben gehouden), liefdevol (voor degenen waarvoor Christus is gestorven). 
+PR3: Ik stel me God voor als de heilige geest die in alle mensen leeft, niet als een tastbare creatie. 
+choice3: NPR 
+rating3: interval4 
+reason3: 'Hem' met een hoofdletter bij antwoord 1 en het woord 'eeuwig'. Antwoord 2 is meer een standaard antwoord. 
+Q4: Geloof je in een leven na de dood, en zo ja, hoe zie je dit voor je? 
+NPR4: Ja, ik geloof in een leven na de dood. Leven na de dood, betekend de hemel, terwijl dood na de dood de hel betekend. Het leven na de dood is een leven met God, waarin je met alle oprechte christenen voor altijd God groot maakt voor je verlossing van de zonden, in de hemel waar geen pijn, ellende of zonde is. 
+PR4: Ja, ik geloof in een leven na de dood. Ik zie dit voor me als onze geest die blijft voortbestaan. 
+choice4: NPR 
+rating4: interval4 
+reason4: Antwoord 1 geeft meer verdieping, terwijl antwoord 2 wat oppervlakkiger is. 
+Q5: Welke plaats zou jet het geloof in het leven van je (toekomstige) kinderen willen geven? 
+NPR5: Als ik kinderen zou krijgen, dan wil ik ze wel bij de waarheid, dus bij de Bijbel op laten groeien, naar de kerk gaan, naar een christelijke school (voor zover dat mogelijk is), christelijke normen en waarden bijbrengen, maar, en dat is het belangrijkste, samen bidden om bekering en (met Gods hulp) hen ervan te proberen overtuigen dat je niet op aarde kan leven zoals je geboren bent. 
+PR5: Ik zou mijn kinderen alle vrijheid geven om hun eigen keuze te maken, maar ik zou ze wel kennis willen laten maken met basiswaarden uit het geloof die in mijn eigen leven belangrijk zijn. 
+choice5: NPR 
+rating5: interval4 
+reason5: Antwoord 2 is wederom wat oppervlakkig, terwijl antwoord 1, met mooie woorden en hoofdletters, duidelijk weet te zeggen wat hij/zij wilt. 
+Q6: Welk verhaal uit de bijbel betekent veel voor jou? 
+NPR6: Het verhaal van David die Uria liet vermoorden om met Bathseba te kunnen trouwen en zijn overspel te verhullen. Hoewel David zondigde door overspel en moord, toch kon hij zichzelf vernederen en zag hij in dat hij gezondigd had, werd hij niet opstandig toen zijn kindje stierf en kon hij het eens zijn met Gods weg met hem. David is voor mij een soort 'groot voorbeeld'! 
+PR6: Ik vind het lastig om 1 'verhaal' uit te kiezen, de bijbel betekent meer wat voor me in zijn geheel. 
+choice6: NPR 
+rating6: interval4 
+reason6: Volgens mij kan een niet protestant nooit het antwoord van antwoord 1 geven. 
+Q7: Hoe zie jij het werk van God terug in deze wereld? 
+NPR7: Dat zie ik terug doordat we nog leven, voedsel hebben, doordat ik vaak hulp krijg, hoewel ik het niet verdien, tijdens een preek antwoorden krijg, zonder dat ik er echt om gevraagd heb (God weet gewoon wat in mijn hart speelt) en door nog veel meer andere dingen. 
+PR7: Overal waar ik kijk zie ik dit terug, God heeft ons en de wereld geschapen. 
+choice7: NPR 
+rating7: interval3 
+reason7: Moeilijker. Nu geeft antwoord 1 juist een beetje vaag antwoord. 
+Q8: Wat betekent een preek voor jou? 
+NPR8: Een preek is een middel waardoor God tot je spreekt. Als je niets doet met een preek, dan is dat een grote zonde (je negeert het Woord van God). Tijdens een preek kun je ook bekeerd worden, dus is het erg belangrijk om naar de kerk te gaan. Daarnaast kun je ook veel dingen voor het gewone, dagelijkse leven leren uit een preek. 
+PR8: Een preek is voor mij een inspirerend verhaal waarin de normen en waarden uit het geloof naar voren komen. 
+choice8: NPR 
+rating8: interval4 
+reason8: Antwoord 1 geeft veel kennis. 
+Q9: Wat vind jij het allerbelangrijkste in het geloof? 
+NPR9: Dat ik zelf dat geloof mag verkrijgen. Met 'dat geloof' bedoel ik dat ik de zekerheid mag ontvangen dat mijn zonden alleen door de rechtvaardigheid van Christus, zonder iets van mezelf, vergeven zijn. 
+PR9: Respect voor de wereld en voor elkaar. 
+choice9: NPR 
+rating9: interval4 
+reason9: De woorden die bij antwoord 1 elke keer genoemd worden vind ik echt bij een echte, duidelijke, protestant passen. Ook de inhoud van de antwoorden. De antwoorden bij 2 zijn wat oppervlakkiger en kunnen meer mensen bedenken. 
+Final Rating: FINAL 
+choice10: NPR 
+rating10: finalInterval4 
+reason10: De persoon achter antwoord 1 is de echte protestant. Dat weet ik door de woorden die hij/zij gebruikt, door het gebruik van hoofdletters bij 'Hem' etc., en door de diepgang en inhoud van de antwoorden. 
+Day 1, Session 2, jType=Y, jNo=12, uid=2970, side: NPR on right
+Q1: Kun je mij vertellen wat er in een preek wordt verteld? en wat voor onderdeel is een preek van de kerkdienst? 
+NPR1: In een preek wordt er over een bepaald bijbelgedeelte wat verteld. Dit is het centrale gedeelte van de dienst. Meestal deelt de dominee de preek in in drie punten. Vaak staat Jezus Christus centraal 
+PR1: Per dienst staat een onderwerp centraal, waar de preek ook over zal gaan. Hierin zullen verbindingen worden gemaakt met de bijbel,en voorbeelden zijn bijvoorbeeld naastenliefde. Een preek geeft stof tot nadenken voor de bezoekers van de dienst. 
+choice1: NPR 
+rating1: interval3 
+reason1: Antwoord 1 is meer overtuigender door het zeggen dat er verbindingen worden gemaakt met de bijbel. En de opmerking over de stof tot nadenken. Antwoord 2 is een meer algemeen antwoord en het is lang niet altijd zo dat Jezus christus centraal staat in de preek 
+Q2: Ben je protestants opgevoed? en kun je mij de meerwaarde van een protestantse opvoeding vertellen t.o.v. een ' niet protestantse' opvoeding? 
+NPR2: Ja ik ben protestants opgevoed. De meerwaarde ligt hem vooral in het feit dat de leefregels in de bijbel nooit in strijd zullen zijn met wat voor wet een land zou hebben. Een van de twee belangrijkste geboden van Jezus Christus: 'heb uw naaste lief als u zelf' zou de samenleving er een stuk beter op maken, ook als je niet gelooft. De normen en waarden van een protestantse opvoeding zijn dus ook goed voor hoe je in de samenleving staat. 
+PR2: Ja, ik ben protestants opgevoed, maar ga niet elke zondag naar de kerk. Wat voor mij de meerwaarde van deze opvoeding is, is dat het een bepaalde structuur in mijn leven geeft door de terugkomende verhalen en mij het gevoel geeft ergens bij te horen. 
+choice2: NPR 
+rating2: interval2 
+reason2: Deze vraag vind ik lastiger te beoordelen. Aan de ene kant vind ik antwoord 2 wel overtuigender, maar het kan heel makkelijk door een niet protestant verzonnen zijn (beetje het ' perfecte' antwoord. Ik heb het gevoel dat antwoord 1 meer eerlijk geantwoord is. Zeker weten doe ik het niet. 
+Q3: Kun je mij wat meer vertellen over het avondmaal? 
+NPR3: Bij het avondmaal gedenken we het offer van onze Heer Jezus Christus aan het kruis. Dat Hij voor al onze zonden is gestorven. Dit doen we door een stukje brood te eten als gedachtenis aan Zijn lichaam en wijn te drinken als gedachtenis aan Zijn bloed. Door dit te vieren worden we gesterkt in ons geloof en mogen we zeker zijn dat we van onze zonden verlost zijn. 
+PR3: Dit was laatste diner van Jezus met zijn discipelen, ook Judas, waarin hij wijn en brood met hen deelden. Het vond plaats voordat Jezus de dood vond en was het moment waarop Judas hem verraadde. 
+choice3: NPR 
+rating3: interval1 
+reason3: Deze vind ik heel lastig te beoordelen. 
+Q4: Kun je mij vertellen hoe jij steun vind in je geloof? Bijvoorbeeld bij moeilijke momenten zoals het verlies van iemand? 
+NPR4: Als het geloof er niet was dan zou er bij het verlies van iemand geen hoop meer zijn. Dan leven we hier op aarde alleen maar voor ons eigen geluk door zoveel mogelijk wereldse dingen te doen. Uiteindelijk brengt dat ook niet echt geluk. Er mist gewoon een doel om voor te leven. 
+PR4: Het geloof zorgt ervoor dat ik mijn verdriet en woede over het verlies ergens kwijt kan, en tevens kan ik dit verdriet delen met anderen door het gezamenlijk stilstaan bij het verlies. 
+choice4: NPR 
+rating4: interval1 
+reason4: Ik heb hetzelfde gevoel bij deze vraag als bij de vorige vraag die ik gesteld hebt. Ik vind antwoord 2 te gemaakt. 
+Q5: Kun je mij het verschil tussen belijdenis en dopen vertellen? ook welke van de 2 jij wel/niet hebt ondergaan? 
+NPR5: Ja dat kan ik. Ik heb allebei ondergaan. De doop al als baby door m'n ouders en belijdenis vorig jaar op 20-jarige leeftijd. Het verschil zit hem in dat bij de doop God laat zien dat Hij jou liefheeft en dat je bij Hem mag horen, bij de belijdenis zeg je ja tegen die uitnodiging van God. Je geeft dan aan dat je ook bij God wil horen. 
+PR5: Belijdenis en dopen zijn zeer diverse concepten en voor mij spelen zij zich af in andere levensfasen. Ik ben vrij snel na mijn geboorte gedoopt, in hetzelfde witte kleed waarin ook mijn zus en broertje zijn gedoopt. Ik heb zodoende ook een doopnaam meegekregen, die is afgesproken in overleg tussen mijn ouders en de dominee. 
+choice5: NPR 
+rating5: interval4 
+reason5: Antwoord 1 left niet uit wat belijdenis is. Ik ga er van uit dat deze persoon dit dus niet weet. Het andere antwoord legt heel goed het verschil uit tussen belijdenis en dopen, daarom ben ik overtuigd dat antwoord 2 de protestant is. De eerdere antwoorden leken mij te perfect maar het kan ook zijn dat deze persoon heel overtuigd is van zijn geloof en er volledig achterstaat. 
+Q6: Kun je mij vertellen hoe de kerstdagen (inclusief kerstavond) er voor jou uitzien? 
+NPR6: Op kerstavond ga ik af en toe wel eens naar een kerk of plaats waar kerstliederen gezongen worden. Op eerste kerstdag ga ik dan naar de kerk en meestal eten we 's avonds met onze familie met elkaar. Vaak zijn het heel gezellige dagen, maar het accent moet wel liggen op waarom we nou eigenlijk kerst vieren en dat is soms lastig met al die gezelligheid. 
+PR6: Op kerstavond ga ik vaak naar de mis. Op de kerstdagen zelf ga ik echter niet naar de kerk, ik deze dagen wil spenderen met mijn familie, aangezien dit een van de enige momenten zijn in het jaar dat we allemaal bij elkaar komen. 
+choice6: NPR 
+rating6: interval4 
+reason6: Een mis vindt plaats in de katholieke kerk en niet in de protestantse kerk, hierdoor valt deze persoon een beetje door de mand. Antwoord 2 lijkt mij nu het oprechte antwoord, vooral door de laatste zin 
+Final Rating: FINAL 
+choice7: NPR 
+rating7: finalInterval3 
+reason7: vraag 5 en 6 hebben mij overtuigd. Ik vond het eerlijke antwoorden die ook leken te kloppen. Bij respondent 1 klopte het naar mijn gevoel niet altijd precies. 
+Day 1, Session 2, jType=Y, jNo=13, uid=2986, side: NPR on left
+Q1: Hoe sta jij tegenover het homohuwelijk? 
+NPR1: Positief. Ik ben van mening dat God van iedereen houdt, wie je ook bent en op wie je ook valt. 
+PR1: Ik vind dat je zou moeten mogen trouwen met wie je wilt. Het gaat om de liefde en niet om de persoon en het geslacht. Iedereen moet het recht hebben te trouwen met diegene waar je van houdt. 
+choice1: PR 
+rating1: interval3 
+reason1: Het antwoord "god houdt van iedereen" is iets wat ik bij een gereformeerde vind passen 
+Q2: Wat is uw favoriete passage uit de bijbel, en waarom? 
+NPR2: Ik moet eerlijk zeggen dat ik die niet heb. Ik luister vaak meer naar de preek en de boodschap die er uit te halen valt dan naar het bijbelverhaal zelf. Ik denk zelf dat de boodschappen die je zelf uit de verhalen kunt halen, belangrijker zijn dan de verhalen. 
+PR2: Ik heb niet echt een specifiek passage dat ik het meest mooi of leuk vind. Voor mij gaat geloof namelijk niet zo zeer om de bijbel lezen en veel naar de kerk gaan. Ik vind de band die ik persoonlijk heb met God veel belangrijker. Het geloof op zich geeft mij veel steun en kracht. Wel vind ik het verhaal van het laatste avondmaal en de discipelen die de heilige geest tot zich namen wel heel mooi. Maar mijn favoriet zou ik niet zo kunnen noemen. 
+choice2: PR 
+rating2: interval3 
+reason2: De respondent heeft in feite hetzelfde antwoord, alleen gaat hij/zij er verder op in en noemt ook een specifiek verhaal 
+Q3: Hoe helpt geloof je in het omgaan van de moeilijke momenten in je leven, zoals het verlies van een dierbare, onzekerheid of stress? 
+NPR3: Het geloof helpt mij hier heel erg bij. Ook al ga ik niet elke week naar de kerk, in moeilijke momenten bid ik wel om troost en steun te zoeken, vaak helpt mij dit. 
+PR3: Het is voor mij vooral belangrijk dat ik weet dat er iemand voor mij is. Iemand die altijd naar mij zal luisteren en mij nooit zomaar in de steek zal laten. Met gebed maar ook met opwekkingsliederen heb ik echt het gevoel dat God dicht bij mij is. Dat geeft mij rust en kracht. 
+choice3: PR 
+rating3: interval4 
+reason3: Deze is heel duidelijk, de respondent geeft aan dat er altijd iemand voor hem is terwijl het andere antwoord een beetje oppervlakkig is. 
+Q4: Als je van iemand weet dat hij regelmatig wiet of andere drugs gebruikt, zou je dan nog met hem/haar om kunnen gaan? 
+NPR4: Ja. Ik ben het er niet mee eens als iemand dit soort dingen zou gebruiken, maar dit is absoluut geen rede voor mijn om helemaal niet meer met iemand om te gaan. Ik zou proberen er achter te komen waarom degene dit doet en haar/hem proberen er van af te helpen als ik mij zorgen maak. 
+PR4: Ja hoor, iedereen moet je gewoon in zijn of haar waarde laten. Ik zal zelf niet meedoen en hem of haar ook vragen niet in mijn bijzijn drugs te gebruiken maar ik ben zelfverzekerd en sterk genoeg om te weten dat ik zelf zoiets niet zou doen. Iemand om mij heen die dat wel doet zal voor mijn eigen standpunt niet uitmaken. 
+choice4: PR 
+rating4: interval2 
+reason4: Lastig, ik heb uiteindelijk de keus gemaakt op het "zelfverzekerd en sterk". 
+Q5: Hoe sta jij tegenover masturbatie, is dit fout en waarom? 
+NPR5: Ik ben me er bewust van dat in de bijbel het misschien anders staat beschreven. Maar als ik eerlijk ben sta ik positief tegenover masturbatie. Ik geloof niet, om alles wat in de bijbel staat precies op te volgen. Ik geloof meer in de belangrijkste boodschappen die in de bijbel staan over vergeven en naastenliefde. En dat er altijd een God is waar bij ik terecht kan. 
+PR5: Masturbatie is iets heel persoonlijks, dit vind ik dan ook een lastig onderwerp om over te praten. Uiteindelijk mag iedereen natuurlijk zelf kiezen of hij/zij eraan doet. Maar dit blijft iets dat je voor jezelf moet beslissen. Ik kan het dus niet fout of goed noemen. Het is natuurlijk geen zonde. Het is iets dat bij de mens hoort. Iedereen heeft seksuele behoeftes. 
+choice5: PR 
+rating5: interval4 
+reason5: Het feit dat masturbatie een lastig onderwerp is zegt voor mij genoeg. 
+Final Rating: FINAL 
+choice6: PR 
+rating6: finalInterval4 
+reason6: Het is voor mij vrij duidelijk. De antwoorden van respondent 1 zijn veel korter en lijken afgeraffeld. Uit de antwoorden van r.2 blijkt dat god altijd aanwezig is en een centrale rol speelt in zijn belevingswereld. 
+Day 1, Session 2, jType=X, jNo=1, uid=2963, side: NPR on left
+Q1: Wat staat voor jou centraal bij de viering van kerst? 
+NPR1: De geboorte van Jezus Christus. 
+PR1: Familiebezoek, uit gaan, kerstmuziek, kortom gezelligheid. Fijn dat er zulk soort christelijke feesten bestaan! 
+choice1: PR 
+rating1: interval3 
+reason1: Gezelligheid lijkt mij belangrijk voor iemand die niet-protestants is. 
+Q2: Kun je vertellen wat je belangrijk vindt in een relatie? 
+NPR2: Vertouwen, Liefde, respect en empathie 
+PR2: Vertrouwen, dat je met je partner alles kunt delen waar je tegenaanloopt of wat juist goed gaat, dat je samen leuke dingen doet, seks hebt, uit eten gaat; dus samen zijn en alles samen kunnen delen. 
+choice2: PR 
+rating2: interval3 
+reason2: Het noemen van seks als belangrijk lijkt vrij kunstmatig. 
+Q3: Kun je een beschrijving geven van een "normale" trouwerij? 
+NPR3: Ik heb nog nooit een trouwerij meegemaakt, dus ik weet het niet precies. 
+PR3: Haha, tuurlijk. Je komt rond een uur of 8 uit je bed, kleed je aan, de man haalt de vrouw op en zegt uiteraard dat ze er prachtig uit ziet, je gaat foto's maken, naar het gemeentehuis, hebt een diner en s' avonds een feest. s' Nachts beleef je je huwelijksnacht. 
+choice3: PR 
+rating3: interval3 
+reason3: Het gegeven antwoord van de niet oprechte deelnemer is te makkelijk. 
+Q4: Wat heb je meegekregen over het geloof als kind? 
+NPR4: Dat het vooral gaat om de medemens lief te hebben zoals je ook jezelf lief hebt. En als je het moeilijk hebt dat je alijd op God kan terug vallen door te bidden. 
+PR4: Van mijn ouders eigenlijk niets. Op school hebben we wel wat meegekregen over de Bijbel en over wereldgodsdiensten waarbij we ook een beetje de protestanten hebben behandeld. Zij geloven in een God die de wereld heeft gemaakt en alles wat je doet allang door heeft. 
+choice4: PR 
+rating4: interval4 
+reason4: Het is beschreven hoe de kennis is verkregen, wat als niet-protestantse waarschijnlijk eerder vanuit school komt dan vanuit ouders. 
+Q5: Wat is volgens jij het belangrijkste in dit leven? 
+NPR5: Huisje boompje beesje + gezondheid! 
+PR5: Ik vind het belangrijk dat je je inzet voor anderen. Je moet mensen helpen die in nood zijn, maar ook proberen om uit het leven te halen wat er in zit: reizen maken, carriere maken. Dus enerzijds is het bij mij zo dat ik alles voor anderen wil doen, maar ik wil wel graag zelf een leuk leven hebben. 
+choice5: PR 
+rating5: interval3 
+reason5: Antwoord 1 is vrij standaard 
+Q6: Hoe denk jij over adoptie? En hoe over abortus? 
+NPR6: Adoptie prima, waarom niet? Als het kind later een beter leven kan krijgen. Abortus..lastig. Ligt eraan wat de omstandigheden zijn en de rede voor abortus. Daanaast ligt het ook aan de periode dat zij zwanger is. 
+PR6: Adoptie: Het is goed om (vaak arme) kinderen een goede toekomst te geven. Bij jouw kunnen ze tenminste goed opgroeien, in een wereld waar alles een stuk gemakkelijker is dan in hun thuisland. Abortus moet je niet doen: er zijn zoveel mensen die graag een kind zouden willen hebben, dus als jij echt niet voor een kind wilt zorgen, kun je je kind altijd ter adoptie aanbieden. Ook gun je het toekomstige kind dan nog een leven! 
+choice6: PR 
+rating6: interval2 
+reason6: Beiden twijfelen over abortus, dat maakt het lastig. Dit antwoord is op basis van vorige antwoorden van de respondenten 
+Q7: Ken jij homoseksuele mensen (in je familie/vriendenkring?) en wat is je mening hierover? 
+NPR7: Nee zowel niet in mijn familie als vriendenkring. Ik heb er geen problemen mee, ze mogen het allemaal zelf weten. Al hoop ik niet dat ooit mijn kinderen homoseksueel worden/zijn. 
+PR7: Ja, die ken ik. Ik vind persoonlijk dat je je niet met iemands persoonlijke leven moet bemoeien. Als zij als homoseksueel persoon willen leven, moeten ze dat zelf weten, en ik ben niet degene die daar een oordeel over moet gaan vellen. Hoewel je het zelf misschien vies vind, kun je toch hem/haar gewoon respecteren? 
+choice7: PR 
+rating7: interval3 
+reason7: Lijkt me alleen mogelijk dat je geen homoseksuele mensen kent als het niet wordt geaccepteerd. 
+Final Rating: FINAL 
+choice8: PR 
+rating8: finalInterval3 
+reason8: Lijkt me onlogisch dat je geen homoseksuele mensen kent, alleen als dit niet geaccepteerd wordt. 
+Day 1, Session 2, jType=X, jNo=2, uid=2973, side: NPR on right
+Q1: Wat denk je dat het doel van leven is? 
+NPR1: Om een zo mooi en zo volledig mogelijk leven te leven en gelukkig te zijn. Om terug te kunnen kijken op je leven en te kunnen zeggen dat je alles hebt gedaan wat je wilde doen. 
+PR1: Vooral zorgen dat je gelukkig bent. Je weet dat er een moment is waarop je sterft en je moet tot die tijd proberen om zoveel mogelijk uit het leven te halen. Het leven heeft niet per se een doel op zich 
+choice1: PR 
+rating1: interval2 
+reason1: Antwoord 2 is ietwat overtuigender; het stuk over een volledig mogelijk leven geeft aan dat er meer verwacht wordt dan enkel het eigen geluk, waar antwoord 1 naar verwijst. 
+Q2: Als je de keuze zou hebben om je leven achteraf opnieuw in te delen, denk je dan dat religie van waarde zou zijn daarin? Denk je dat in een ideale situatie, zonder belemmeringen, religie iets toevoegt aan een leven in plaats van beperkt? 
+NPR2: Ik denk dat religie iets toevoegt aan je leven in die zin dat er een soort vertrouwen en zekerheid is dat er voor je gezorgd wordt, hier en na je dood. Het lijkt mij best fijn om te kunnen vertrouwen op een hogere macht, dat je zekerheid hebt dat het leven niet eindigt na de dood en dat er meer is dan alleen het wereldlijke. Het zou rust geven en misschien een beter antwoord op principiele vragen geven dan wat ik nu heb. 
+PR2: Het voegt denk ik wel iets toe, het geeft je in ieder geval soort van troost. En mensen die gelovig zijn, zijn meestal ook wel goed opgevoed, dus in die zin zou het beter zijn als meer mensen geloven. 
+choice2: PR 
+rating2: interval2 
+reason2: Antwoord 2 is veel doordachter, en de manier waarop die beantwoord wordt veel inhoudelijker en religieus-georienteerd. Antwoord 1 is redelijk nuchter en to the point, en ik heb meer het gevoel dat die persoon de waarheid zegt. 
+Q3: Wat zou je doen als een goede vriend/kennis/familie graag wilt dat je mee gaat naar een kerkdienst, maar jij het idee hebt dat ze dat enkel vragen met de intentie je het licht te laten zien? 
+NPR3: Ik zou zeggen dat een kerkdienst niets voor mij is en als ze me al zouden willen laten geloven, dan zou het zeker niet helpen om me naar een kerk mee te nemen. Dan heb ik liever dat zij voor zichzelf beargumenteren waarom ze ergens in geloven. Een kerkdienst vol rituelen en bijbelteksten helpt mij niet het licht te zien. 
+PR3: Als het echt met de intentie is dat ze me willen 'bekeren' zou ik het denk ik niet doen. Ze mogen me best laten zien waar zij zoveel hoop en troost uit halen e.d. maar ze moeten mij ook in mijn waarde laten dat ik dat niet met hun deel. Dus ze moeten mij niet iets proberen op te leggen ofzo. Maar gewoon een keer meegaan om zelf te kijken wat ik er van vind zou ik niet heel erg vinden. 
+choice3: PR 
+rating3: interval3 
+reason3: Antwoord 1 is in lijn met hoe ik over het onderwerp denk. Antwoord 2 focust enkel op een andere manier om het geloof over te brengen. 
+Q4: Vind je het erg irritant dat sommige gelovigen zaken proberen op te leggen, zoals de 'weigerambtenaar' (ambtenaar die weigert homo's en lesbi's te trouwen), ook mensen die niet geloven onmogelijk maken op zondag inkopen te doen, waar ze zelf niks mee te maken hebben? Gaat het niet te ver als gelovigen hun ideeen zo proberen op te leggen aan niet gelovigen? 
+NPR4: Ja dat vind ik af en toe best vervelend. Ik snap dat de Kerk zijn eigen normen en waarden heeft en daar graag aan vast houdt, maar ik vind dat mensen die daar niet in geloven vrij moeten zijn te kunnen doen en laten wat ze willen. Ik wil inderdaad op zondag boodschappen kunnen doen als daar de mogelijkheid voor is, en ik vind dat homoseksuelen niet geweigerd mag worden te trouwen. De 'weigerambtenaar' mag van mij uit geloofsovertuigingen best weigeren, zolang er dan maar een ander is die huwelijk wel wil voltrekken. 
+PR4: Ik vind het prima als mensen ergens in geloven en dat ze dat uitdragen, maar inderdaad in het geval van de 'weigerambtenaar' vind ik het echt overdreven dat dat vanwege iemands religie niet zou mogen. We leven toch in een vrij land. Ik denk dat iedereen, ook gelovigen, gewoon moeten doen waar ze zich goed bij voelen en dat je dat niet op moet leggen aan anderen. Als je daarnaast gewoon respect houdt voor iemand levensovertuiging, zie ik niet in waarom wij dan moeten leven naar de manier waarop gelovigen dat graag zien. 
+choice4: PR 
+rating4: interval4 
+reason4: Antwoord 1 gebruikt een verklaring die door beide partijen zijn gevoerd tijdens de discussie over de weigerambtenaar; 'we leven toch in een vrij land'. De religieuze kant geeft het als een voorbeeld dat weigerambtenaren ook de vrijheid moeten kunnen genieten te kunnen weigeren. Daarnaast is antwoord 1 weer meer in lijn met mijn gedachten; geen probleem dat mensen hun geloof hebben, maar heb wel respect voor ieders eigen keuze; dus ook voor niet gelovigen. 
+Q5: Zou je er moeite mee hebben als in het testament van je grootouders blijkt te staan dat je enkel recht hebt op een (behoorlijk grote) erfenis als je religieus actief begint te worden? 
+NPR5: Dat vind ik een vrij bizarre voorwaarde en ik denk eerlijk gezegd niet dat dat in onze rechtsstaat mogelijk is. Ik denk niet dat je zomaar vanuit het niets religieus actief kunt worden, dus ja, daar zou ik behoorlijk veel moeite mee hebben. Ik weet ook niet of ik het uberhaupt zou willen proberen, want dat zou alleen maar fake gedrag ten behoeve van een grote geldsom uitlokken. 
+PR5: Ja daar zou ik zeker moeite mee hebben. Dat is niet echt de manier om iemand bij het geloof te krijgen lijkt me. Als dat echt de 'eis' zou zijn om pas de erfenis te krijgen zou ik het of niet doen, of me misschien de eerste paar maanden actief zijn en zorgen dat ik die erfenis krijg en daarna er weer mee op houden. 
+choice5: PR 
+rating5: interval4 
+reason5: Antwoord 1 ligt in lijn met hoe ik er over nadenk. Antwoord 2 geeft al wat meer waarde over 'religieus actief worden'; dat het niet zomaar gedaan is. Mensen zijn over het algemeen geneigd activiteiten die ze zelf ondernemen als zwaarder/waardevoller aan te zien dan iemand die die activiteiten niet onderneemt. 
+Final Rating: FINAL 
+choice6: PR 
+rating6: finalInterval4 
+reason6: Respondent 1 is het best in lijn met mijn gedachtengang over de vragen. Respondent 2 heeft wel zijn/haar best gedaan, maar tenzij die persoon van nature al erg filosofisch is aangelegd, lijken sommige antwoorden me niet oprecht(antwoord op vraag 2 bijvoorbeeld; ik weet wel de betekenis van Wereldlijke maar heb deze eigenlijk nog nooit toegepast in mijn dagelijks woordgebruik). 
+Day 1, Session 2, jType=X, jNo=3, uid=2965, side: NPR on left
+Q1: Wat zijn je activiteiten op zondag? 
+NPR1: Op zondag ga ik soms naar de kerk en soms ook niet. Verder lees ik graag op zondag en spreek ik af met familie, vrienden of mijn vriendin. Ik maak ook graag een wandeling en kijk 's avonds televisie of doe een spel. Zondag is vooral een relaxdag. 
+PR1: Ik ga vaak sporten, even de stad in en eens in de maand werk ik op zondag. (en brak zijn van de zaterdag :)) 
+choice1: PR 
+rating1: interval3 
+reason1: Antwoord 2 is erg overdreven. En als protestant hoef je niet elke week naar de kerk. Als je zou doen alsof zou je dit risico niet nemen om te zeggen dat je niet elke zondag naar de kerk gaat. 
+Q2: Hoe kijk je tegen andere geloven? 
+NPR2: Ieder geloof is gelijkwaardig. Het is belangrijk respect te hebben voor mensen die een andere levensinstelling hebben dan jij. Als je goed kijkt, dan valt op dat veel geloven dezelfde fundamentele normen en waarden hebben. Op basis van die gemeenschappelijkheid kun je prima samenleven met elkaar. 
+PR2: Omdat ik helemaal niet geloof moet ik eerlijk zeggen dat ik dit lastig vind om te beantwoorden. Boedishme of Hindoeisme met allerlei dieren die aanbeden worden, vind ik wel lastig te begrijpen dat mensen daar in geloven. 
+choice2: PR 
+rating2: interval3 
+reason2: Antwoord 2: Vooral als je gelovig bent is het een moeilijke deze vraag te beantwoorden, niet als je niet gevlog bent. Als je niet gelovig bent, vind je namelijk alles lastig om te begrijpen dat mensen ergens in geloven. Antwoord 1: lijkt een categesatie antwoord. 
+Q3: Kun je een beschrijving geven van een 'normale' trouwerij: 
+NPR3: Op een normale trouwerij ga je naar een gemeentehuis waar een klein of groter gezelschap het plechtige gedeelte van de trouwerij aanschouwt. 's Avonds is er dan meestal een groot feest waar de bruidstaart wordt aangesneden, muziek wordt gedraaid en het bruidspaar veel felicitaties ontvangt. Dit is wel een clichebeschrijving, want sommige mensen houden niet van grootschalige feesten en kiezen hier helemaal niet voor. 
+PR3: In een stadhuis met vrienden en familie. Vervolgens fotos laten maken, daarna eten met een select groepje vrienden en familie en daarna een receptie met een goed feest met alle genodigden. 
+choice3: PR 
+rating3: interval3 
+reason3: Antwoord 1 focust zich heel erg op de rituelen, wat ook in de kerk gebeurd. 
+Q4: Heb je een kerstboom in huis? 
+NPR4: Ja, ik ben een student en op mijn kamer past geen echte kerstboom. Maar bij mijn ouders stond zeker elk jaar een kerstboom in huis. De hele woonkamer werd versierd met lichtjes, kleedjes en kaarsen. 
+PR4: Ja ik heb een kerstboom in huis :) 
+choice4: PR 
+rating4: interval3 
+reason4: Antwoord 1: probeert mij helemaal te overtuigen terwijl antwoord 2 eigelijk al genoeg is.. En er staat een blij poppetje achter, misschien begrijpt die persoon niet dat bij sommige gelovige mensen een kerstboom echt niet toegestaan is. 
+Q5: Wat is volgens jij het belangrijkste in dit leven? 
+NPR5: Het belangrijkste in het leven is geluk. Daarmee doel ik niet op het eigen geluk (dat zou een erg egoistisch doel zijn), maar op geluk voor iedereen. Dus denk ook af en toe aan anderen. Vaak blijkt dat mensen die goed voor anderen doen hieraan uiteindelijk zelf ook veel geluk hieraan ontlenen. 
+PR5: Wat een lastig vraag. Ik denk het vinden van iemand waarmee je je leven kunt delen en samen vooral veel genieten; reizen en een mooie carriere opbouwen. 
+choice5: PR 
+rating5: interval2 
+reason5: Al neemt antwoord 2 zo min mogelijk risico om iets fouts te zeggen, toch naar eigen ervaring blijkt dat wanneer ik eerlijk antwoord geeft dat het ook het kortste antwoord is. En ook hier focust antwoord 1 op gezamelijk geluk en niet eigen geluk, dit wordt vaak in de kerk gezegt. (al ben ik niet protestant, maar katholiek). 
+Q6: Noem je top 4 scheldwoorden:p 
+NPR6: Kut, lul, jezus en verdomme 
+PR6: Kut tering godverdomme schijt 
+choice6: PR 
+rating6: interval3 
+reason6: Ik had al kunnen verwachten dat het woord 'verdomme' erin zou zitten. Maar als je dan toch dat woord gebruikt dan gebruik je hem denk ik volledig. 
+Q7: Wat vind je van het katholicisme? 
+NPR7: Ik vind het katholicisme een mooie geloofsstroming. De kerken zijn prachtig en het geloof straalt hoop uit naar de kerkbezoekers. Zij worden geraakt door deze boodschap van hoop en liefde. Veel katholieken zijn tegenwoordig niet zo fanatiek gelovig meer, maar zij die dat wel zijn, tonen vaak veel naastenliefde en werken goed aan hun band met God. Het is goed dat de moraal achter de Bijbelverhalen aan mensen wordt medegedeeld. Het katholieke geloof verbindt en is hoopvol. 
+PR7: Ik weet niet precies wat dit is.. Het katholieke geloof denk ik? Ik moet eerlijk zeggen dat ik niet weet wat het verschil met het protestantse geloof is, ik dacht eigenlijk dat het onder het protestantse geloof viel. 
+choice7: PR 
+rating7: interval4 
+reason7: Naar mijn ervaring kijken de meeste protestanten toch anders tegen het katolicisme.. 
+Final Rating: FINAL 
+choice8: PR 
+rating8: finalInterval4 
+reason8: Elke vraag was dit toch de meeste overthuigende persoon die echt antwoorde 
+Day 1, Session 2, jType=X, jNo=4, uid=2961, side: NPR on right
+Q1: Heb je vroeger op de basisschool onderwijs gehad over het christendom en/of andere geloven? 
+NPR1: Ja, ik heb op een christelijke basisschool gezeten. 
+PR1: Nee, dat heb ik niet gehad op de basisschool. 
+choice1: NPR 
+rating1: interval3 
+reason1: Het lijkt me onlogisch dat er op een basisschool totaal geen aandacht aan welke vorm van godsdienstles dan ook zal worden gegeven. 
+Q2: Hoe is het om toe te moeten kijken terwijl de christenlijke partijen langzaam maar zeker minder invloed krijgen? Vooral het CDA speelde enkele jaren geleden een grote rol maar is nu gedecimeerd. 
+NPR2: Ik vind het jammer, niet zozeer alleen omdat de partijen christelijk zijn en nu dus minder in the picture zijn, maar vooral omdat de christelijke partijen veel goede standpunten hebben. Standpunten die gaan om mensen welzijn en hoe mensen op een respectvolle manier met elkaar om kunnen gaan. Veel partijen die nu aan de macht zijn zouden daarvan kunnen leren. 
+PR2: Ik denk dat de meeste mensen tegenwoordig inzien dat get geloof niets te maken heeft met politiek, en dat de politieke partijen met hun leiders het land moeten besturen en leiden, volgens de normen en waarden van de huidige maatschappij. Daar heeft geloof niks mee te maken. 
+choice2: NPR 
+rating2: interval2 
+reason2: Het lijkt me dat antwoord 1 heel erg anti christelijk is, dat verwacht ik dan meer van iemand die doet alsof hij niet gelooft. 
+Q3: Vindt je het vervelend als er mensen aan de deur komen om je te overtuigen van het bestaan van god? Gooi je dan meteen de deur dicht? 
+NPR3: Het liefst wel, natuurlijk wil ik iedereen in zijn of haar waarde laten en we leven in een vrij land dus iedereen mag zeggen wat hij of zij wil. Ik vind alleen dat dat soort mensen dan ook respect moeten hebben voor mij, als ik graag van het bestaan van god overtuigd zou willen worden zou ik daar zelf wel stappen voor ondernemen. Het hoeft me niet door mijn strot geduwt te worden. De deur gooi ik niet dicht maar ik verzoek ze wel vriendelijk weg te gaan. En zeg ze dat ik geen interesse heb. 
+PR3: Ik gooi niet meteen de deur dicht, omdat ik dat ook weer een beetje asociaal vind, maar vind het wel vervelend. Als ik zou willen geloven in het bestaan van een god zou dat sowieso niet komen door irritante, volhardende mensen die mij hun mening op willen leggen. Volgens mij moet zoiets uit jezelf komen, en dat deze mensen dat niet snappen is heel irritant. 
+choice3: NPR 
+rating3: interval2 
+reason3: Antwoord 2 is weer een stuk 'harder' tegen gelovigen dan antwoord 1, het lijkt me daarom juist dat antwoord 2 van een persoon komt die probeert te doen alsof hij ongelovig is. 
+Q4: Hoe kijk je aan tegen het feit dat de SGP toch min of meer door d staat is gedwongen vrouwen toe te laten? 
+NPR4: Dat vind ik een goede zet. In deze maatschappij hoort iedereen gelijk te zijn en gelijke rechten te hebben. Het is oneerlijk om vrouwen op die manier te discrimineren. Als dit 50 jaar geleden het geval was kan ik me dat nog wel voorstellen maar tijden veranderen en mensen horen daarin mee te gaan. 
+PR4: Ik vind het goed dat de staat zich hiermee bemoeit, omdat gelijkheid van mannen en vrouwen een basisrecht is in onze maatschappij. Toch vind ik het ernstig dat dit zo lang heeft kunnen duren, en dat dit pas sinds kort mogelijk is! De staat had veel eerder in moeten grijpen. Het is prima als mensen hun politieke statement baseren op het geloof, mensen mogen daar voor kiezen, maar dat moet wel binnen de normale normen en waarden passen van onze maatschappij. Daarnaast vraag ik me af nu wat deze vrouwen daadwerkelijk mogen betekenen. 
+choice4: NPR 
+rating4: interval2 
+reason4: Er zit maar weinig verschil in de antwoorden, maar ik denk toch dat persoon 2 doet alsof hij niet gelooft omdat hij het tijds-argumetn erbij haalt en dat heeft er weinig mee te maken. 
+Q5: Als je ziet hoe vaak er tegenwoordig sprake zou zijn van discriminatie, vind je dan dat Nederland discrimineert, of dat de minderheden overgevoelig zijn? 
+NPR5: Nederland discrimineert zeker, bepaalde dingen die hier in Nederland kunnen worden gezegd of gedaan zonder een reactie te krijgen zouden in Amerika of Engeland echt niet door de beugel kunnen. Sommige dingen worden wel een beetje overdreven, maar alsnog vind ik dat als je je gediscrimineert voelt je daar wel voor uit hoort te mogen komen. Het is een vrij land waar iedereen mag zeggen wat hij of zij wilt. De overheid kan dan besluiten wat en of er met zo iets gedaan wordt. 
+PR5: Ten eerste vind ik dat Nederland soms discrimineert. Het is lastig de grens aan te geven tussen discrimineren en vrijheid van meningsuiting. Omdat ik vind dat iedereen, op een nette manier, zijn of haar mening mag geven, vind ik ook dat veel mensen overgevoelig reageren. Veel dingen moeten gewoon gezegd kunnen worden en niet iedereen moet zich dat zo persoonlijk aantrekken. 
+choice5: NPR 
+rating5: interval2 
+reason5: Antwoord 1 is genuanceerder en in dit geval lijkt me dat te duiden op oprechtheid. 
+Q6: Hoe reageerden jij en je omgeving op de dood van Nelson Mandela? 
+NPR6: We waren heel verdrietig, deze man heeft erg veel voor de wereld betekent. Het is iemand waar veel mensen erg veel van zouden kunnen leren. Respect en gelijkheid is iets wat er sowieso meer zou moeten zijn in de wereld. Niet alleen tussen zwart en wit maar ook tussen vrouw en man en homo en hetero bijvoorbeeld. 
+PR6: Ook al zat het eraan te komen, toch was ik geschokt door het nieuws van het overlijden van Nelson Mandela. Hij heeft zoveel betekent voor zoveel mensen, op een bijzondere manier. Hij kon mensen, die alleen maar tegenstrijdigheden hadden, toch bij elkaar brengen en verbinden. 
+choice6: NPR 
+rating6: interval2 
+reason6: De antwoorden lijken af en toe tegenstrijdig te zijn, maar toch denk ik nogsteeds dat 2 niet doet alsof 
+Q7: Wat vind je een onderwerp waaraan door de overheid te weinig geld uit wordt gegeven? (Zoals bijvoorbeeld zorg, integratie, ontwikkelingshulp, noem maar op) 
+NPR7: Ik moet eerlijk zeggen dat ik me hier niet heel veel mee bezig houd, ik zou hier dus ook niet echt een goed antwoord op kunnen geven. 
+PR7: Wat mij betreft moet de overheid meer geld uitgeven aan het onderwijs, dat heeft tenslotte de toekomst van ons land. Daarnaast vind ik de zorg ook een heel belangrijk punt waarop niet bezuinigd moet worden en eerder extra geld aan gegeven moet worden. 
+choice7: NPR 
+rating7: interval2 
+reason7: Als ik alles in overweging neem, plus deze vraag(als je niet oprecht bent lijkt het me niet dat je zegt dat je je ergens niet mee bezig houdt), dan denk ik dat persoon 2 niet doet alsof. 
+Q8: Heb jij ooit het gevoel gehad dat er meer is tussen hemel en aarde? 
+NPR8: Ja zeker, ik zou alleen niet kunnen zeggen wat. Ik vind het namelijk moeilijk te geloven dat dit het allemaal is. Verder helemaal niks. Maar of er echt een God bestaat die de aarde geschapen heeft? Dat weet ik nog zo net niet. Er zijn zoveel wetenschappelijke onderzoeken die de oerknal bewijzen. Ik geloof sowieso niet in een Jezus 'de zoon van God'. 
+PR8: Soms heb ik dat gevoel wel ja, maar uiteindelijk denk ik dat dat niet zo is. Ik denk dat dit soort dingen meer te verklaren zijn door toeval, of door de natuur of wetenschap dan door een god die daar invloed op heeft. 
+choice8: NPR 
+rating8: interval2 
+reason8: Op basis van alle vragen denk ik dat persoon 2 oprecht is, zijn of haar antwoorden komen het normaalst over. 
+Final Rating: FINAL 
+choice9: NPR 
+rating9: finalInterval2 
+reason9: Persoon 2 doet niet alsof omdat zijn of haar antwoorden mij meer naturel overkomen dan die van persoon 1. Vraag 1 is een van mijn belangrijkste drijfveren, het lijkt me namelijk niet dat op welke basisschool dan ook geen godsdienstles wordt aangeboden, terwijl een ongelovige best op een christelijke basisschool kan hebben gezeten. 
+Day 1, Session 2, jType=X, jNo=5, uid=2967, side: NPR on left
+Q1: Hoe zie jij jezelf over 10 jaar wat betreft carriere en gezinsleven? 
+NPR1: Over 10 jaar zie ik mezelf als freelance journalist of als eigenaar van een leuk restaurantje of bed & breakfast in Frankrijk. Qua gezinsleven hoop ik nog steeds samen te zijn met mijn vriend en wellicht met kinderen erbij. 
+PR1: Ik wil over tien jaar al lang afgestudeerd zijn en een goede baan hebben. Ik wil dan tegen die tijd ook een eigen zaak beginnen. Ik wil later samenwonen en twee kinderen. 
+choice1: NPR 
+rating1: interval3 
+reason1: Ik denk dat antwoord 2 niet oprecht is en dus gegeven is door een protestantse deelnemer, omdat het een vrij vaag antwoord is. Ook sluit het aan bij het beeld dat ik van protestanten heb (degelijk, hard werken). Als dat heel stereotype is, sorry daarvoor :) 
+Q2: Voor welke partij heb je gestemd in de laatste verkiezingen, en waarom? 
+NPR2: De laatste verkiezingen heb ik gestemd op D66, omdat ik op dat moment de meeste raakvlakken had met deze partij. 
+PR2: VVD, omdat zij de economie willen stimuleren en niet te veel overheidsbemoeienis willen. Ik hoop zo dat de economie genoeg aantrekt straks en dat ik straks een baan kan krijgen. 
+choice2: NPR 
+rating2: interval3 
+reason2: Omdat antwoord 2 sterk gefocused is op werk en een baan, denk ik dat dit nog steeds aansluit bij de protestantse 'work ethic'. 
+Q3: Hoe kijk jij tegen abortus aan, en waarom? 
+NPR3: In bepaalde situaties, zoals na een verkrachting, vind ik abortus een legitiem middel en denk ik dat het veel leed kan voorkomen. 
+PR3: Ik vind abortus opzich wel oké, maar dan moet de baby niet al bijna volgroeid zijn. Als het binnen een paar maanden is is het niet zo erg. Vooral als de baby ziektes heeft die je via een echo kan zien en de ouders dat niet kunnen overzien is abortus wat mij betreft de beste oplossing, ook voor de baby zelf. 
+choice3: NPR 
+rating3: interval2 
+reason3: Omdat antwoord 1 alleen abortus na verkrachting noemt, vind ik dit het meest naar protestantisme neigen, en denk ik dat deze respondent niet oprecht is. 
+Q4: Uit wat voor gezin kom je, en hoe is de band tussen jou en de rest van de gezinsleden? 
+NPR4: Ik heb een oudere zus, een Franse vader en een Nederlandse moeder. We woonden vroeger in een dorpje bij Nijmegen in de buurt. Mijn moeder en zus zie ik nog regelmatig en daar heb ik een goede band mee, mijn vader is verhuisd naar Frankrijk dus die zie ik wat minder vaak, wat de band bemoeilijkt. 
+PR4: Ik kom uit een gezin van drie, ik ben de oudste en heb nog twee zusjes. Het is bij ons thuis best gezellig. Mijn vader heeft het druk met werk maar mijn moeder werkt maar 3 dagen in de week, dus vind het wel fijn om ze dan te zien. Heb denk ik daardoor meer met mijn moeder. Ik mag mijn zusjes graag maar soms zijn ze wel vervelend. Verder is het wel relaxed als m'n ouders er niet te veel zijn, want dan kan ik gewoon chillen met mijn vrienden. 
+choice4: NPR 
+rating4: interval3 
+reason4: Antwoord 2 lijkt wat meer op het traditionele protestantse gezin dat ik me voorstel. Het 'chillen met mijn vrienden' aan het einde lijkt ietwat geforceerd. Wanneer ga je dan chillen? Overdag? 
+Q5: Hoe kijk jij aan tegen het feit dat er meerdere godsdiensten bestaan? Wie heeft er 'gelijk'? Kun je hier wel over oordelen? 
+NPR5: Ik denk inderdaad dat hier niet over te oordelen is, er bestaat geen gelijk en geen absolute waarheid met betrekking tot het geloof. 
+PR5: Ik geloof zelf niet maar ik vind mensen die het wel doen niet belachelijk. Er zou best wel iets meer kunnen zijn. Wat dat dan is weet ik ook niet, maar ik snap wel dat er verschillende godsdiensten zijn. Wie er gelijk heeft weet ik niet, maar zolang ze maar geen oorlogen of terreuracties uitvoeren maakt het me ook niet zoveel uit. 
+choice5: NPR 
+rating5: interval3 
+reason5: Antwoord 2 legt de nadruk wel heel erg op ' niet geloven', en lijkt een beetje nep. 
+Q6: Wat vind je van het homohuwelijk? 
+NPR6: Ik ben blij dat ik een land woon waar het homohuwelijk tegenwoordig een mogelijkheid is en waar niet meer wordt vastgehouden aan oude ideeen over 'hoe het hoort'. 
+PR6: Hetzelfde als het heterohuwelijk, ik snap niet dat daarin onderscheid gemaakt wordt. Dat toevallig meer mensen hetero zijn dan homo maakt niet uit. Dat je van elkaar houdt is het belangrijkst 
+choice6: NPR 
+rating6: interval3 
+reason6: Antwoord 1 bekritiseerd oude ideen over 'hoe het hoort', en ik denk dat dat goed in het straatje van niet-gelovig past. Antwoord 2 is wederom een beetje geconstrueerd. 
+Final Rating: FINAL 
+choice7: NPR 
+rating7: finalInterval3 
+reason7: Repondent 1 geeft steeds helder en kort antwoord op de vragen, en komt uit een niet conventioneel gezin. Respondent 2 vind ik af en toe een beetje geforceerde en lange antwoorden geven, waardoor ik twijfel aan de echtheid. Ook de focus op werk vind ik protestants lijken. 
+Day 1, Session 2, jType=X, jNo=6, uid=2985, side: NPR on right
+Q1: Hoe ben je zelf tot persoonlijk geloof gekomen? 
+NPR1: Ik ben zelf geen gelover. Het grootste deel van mijn familie is of was dat wel. Zij hebben er echter voor gekozen om mij niet te dopen, in tegenstelling tot mijn oudere broer. 
+PR1: Zelf geloof ik niet, maar mijn ouders wel. 
+choice1: NPR 
+rating1: 
+reason1: Het antwoord is uitgebreider, en dus moeilijker te verzinnen. 
+Q1: Hoe ben je zelf tot persoonlijk geloof gekomen? 
+NPR1: Ik ben zelf geen gelover. Het grootste deel van mijn familie is of was dat wel. Zij hebben er echter voor gekozen om mij niet te dopen, in tegenstelling tot mijn oudere broer. 
+PR1: Zelf geloof ik niet, maar mijn ouders wel. 
+choice1: NPR 
+rating1: 
+reason1: Het antwoord is uitgebreider, en dus moeilijker te verzinnen. 
+Q2: Wat is volgens jou het belangrijkste binnen het protestantisme om naar de hemel te gaan? 
+NPR2: Ik denk dat het belangrijkste is dat je niks op je kerfstok hebt. Je moet een normaal leven hebben geleid en je niet schuldig hebben gemaakt aan ernstige misstanden (criminaliteit etc.) 
+PR2: Het redelijkst lijkt mij het doen van goede daden. Immers: wie goed doet, wie goed ontmoet. 
+choice2: NPR 
+rating2: 
+reason2: Goede daden spelen geen rol binnen het protestantisme. 
+Q2: Wat is volgens jou het belangrijkste binnen het protestantisme om naar de hemel te gaan? 
+NPR2: Ik denk dat het belangrijkste is dat je niks op je kerfstok hebt. Je moet een normaal leven hebben geleid en je niet schuldig hebben gemaakt aan ernstige misstanden (criminaliteit etc.) 
+PR2: Het redelijkst lijkt mij het doen van goede daden. Immers: wie goed doet, wie goed ontmoet. 
+choice2: NPR 
+rating2: 
+reason2: Goede daden spelen geen rol binnen het protestantisme. 
+Q3: Wie was Jezus, in jouw optiek? 
+NPR3: Mocht Jezus hebben bestaan, was het een man die hele bijzondere dingen heeft bewerkstelligd. Hij was behulpzaam aan de mensen en op die manier dwong hij respect af bij vele mensen. Zijn daden hebben ervoor gezorgd dat er een totaal nieuwe godsdienst is ontstaan: het christendom. Niet iedereen was echter blij met Jezus, gezien zijn kruisiging (door de joden?) 
+PR3: Jezus was een invloedrijk persoon vroeger, net zoals er vroeger meerdere wijzen bestonden. Net als bijvoorbeeld Mohammed bij de Islam heeft Jezus wel gezorgd voor het stichten van een grote religie lijkt mij. 
+choice3: NPR 
+rating3: interval3 
+reason3: Fout met briefje. 
+Q3: Wie was Jezus, in jouw optiek? 
+NPR3: Mocht Jezus hebben bestaan, was het een man die hele bijzondere dingen heeft bewerkstelligd. Hij was behulpzaam aan de mensen en op die manier dwong hij respect af bij vele mensen. Zijn daden hebben ervoor gezorgd dat er een totaal nieuwe godsdienst is ontstaan: het christendom. Niet iedereen was echter blij met Jezus, gezien zijn kruisiging (door de joden?) 
+PR3: Jezus was een invloedrijk persoon vroeger, net zoals er vroeger meerdere wijzen bestonden. Net als bijvoorbeeld Mohammed bij de Islam heeft Jezus wel gezorgd voor het stichten van een grote religie lijkt mij. 
+choice3: NPR 
+rating3: interval3 
+reason3: Fout met briefje. 
+Final Rating: FINAL 
+choice4: NPR 
+rating4: finalInterval3 
+reason4: Fout met briefje (protestants jurylid met inlogcodes voor niet-protestants jurylid). 
+Day 1, Session 2, jType=X, jNo=6, uid=2985, side: NPR on right
+Q1: Hoe ben je zelf tot persoonlijk geloof gekomen? 
+NPR1: Ik ben zelf geen gelover. Het grootste deel van mijn familie is of was dat wel. Zij hebben er echter voor gekozen om mij niet te dopen, in tegenstelling tot mijn oudere broer. 
+PR1: Zelf geloof ik niet, maar mijn ouders wel. 
+choice1: NPR 
+rating1: 
+reason1: Het antwoord is uitgebreider, en dus moeilijker te verzinnen. 
+Q1: Hoe ben je zelf tot persoonlijk geloof gekomen? 
+NPR1: Ik ben zelf geen gelover. Het grootste deel van mijn familie is of was dat wel. Zij hebben er echter voor gekozen om mij niet te dopen, in tegenstelling tot mijn oudere broer. 
+PR1: Zelf geloof ik niet, maar mijn ouders wel. 
+choice1: NPR 
+rating1: 
+reason1: Het antwoord is uitgebreider, en dus moeilijker te verzinnen. 
+Q2: Wat is volgens jou het belangrijkste binnen het protestantisme om naar de hemel te gaan? 
+NPR2: Ik denk dat het belangrijkste is dat je niks op je kerfstok hebt. Je moet een normaal leven hebben geleid en je niet schuldig hebben gemaakt aan ernstige misstanden (criminaliteit etc.) 
+PR2: Het redelijkst lijkt mij het doen van goede daden. Immers: wie goed doet, wie goed ontmoet. 
+choice2: NPR 
+rating2: 
+reason2: Goede daden spelen geen rol binnen het protestantisme. 
+Q2: Wat is volgens jou het belangrijkste binnen het protestantisme om naar de hemel te gaan? 
+NPR2: Ik denk dat het belangrijkste is dat je niks op je kerfstok hebt. Je moet een normaal leven hebben geleid en je niet schuldig hebben gemaakt aan ernstige misstanden (criminaliteit etc.) 
+PR2: Het redelijkst lijkt mij het doen van goede daden. Immers: wie goed doet, wie goed ontmoet. 
+choice2: NPR 
+rating2: 
+reason2: Goede daden spelen geen rol binnen het protestantisme. 
+Q3: Wie was Jezus, in jouw optiek? 
+NPR3: Mocht Jezus hebben bestaan, was het een man die hele bijzondere dingen heeft bewerkstelligd. Hij was behulpzaam aan de mensen en op die manier dwong hij respect af bij vele mensen. Zijn daden hebben ervoor gezorgd dat er een totaal nieuwe godsdienst is ontstaan: het christendom. Niet iedereen was echter blij met Jezus, gezien zijn kruisiging (door de joden?) 
+PR3: Jezus was een invloedrijk persoon vroeger, net zoals er vroeger meerdere wijzen bestonden. Net als bijvoorbeeld Mohammed bij de Islam heeft Jezus wel gezorgd voor het stichten van een grote religie lijkt mij. 
+choice3: NPR 
+rating3: interval3 
+reason3: Fout met briefje. 
+Q3: Wie was Jezus, in jouw optiek? 
+NPR3: Mocht Jezus hebben bestaan, was het een man die hele bijzondere dingen heeft bewerkstelligd. Hij was behulpzaam aan de mensen en op die manier dwong hij respect af bij vele mensen. Zijn daden hebben ervoor gezorgd dat er een totaal nieuwe godsdienst is ontstaan: het christendom. Niet iedereen was echter blij met Jezus, gezien zijn kruisiging (door de joden?) 
+PR3: Jezus was een invloedrijk persoon vroeger, net zoals er vroeger meerdere wijzen bestonden. Net als bijvoorbeeld Mohammed bij de Islam heeft Jezus wel gezorgd voor het stichten van een grote religie lijkt mij. 
+choice3: NPR 
+rating3: interval3 
+reason3: Fout met briefje. 
+Final Rating: FINAL 
+choice4: NPR 
+rating4: finalInterval3 
+reason4: Fout met briefje (protestants jurylid met inlogcodes voor niet-protestants jurylid). 
+Day 1, Session 2, jType=X, jNo=7, uid=2977, side: NPR on left
+Q1: Kunt u het verschil definieren tussen de Protestants Hervormde Kerk en de Protestants Gereformeerde Kerk? Zo ja, leg dit uit. 
+NPR1: Nee, ik weet niet wat het exacte verschil is. 
+PR1: De Protestants Hervormde Kerk is vergeleken met de Protestants Gereformeerde Kerk wat zwaarder en misschien wat deftiger, wat Hervormder. 
+choice1: NPR 
+rating1: interval2 
+reason1: De vraag die ik heb gesteld is best een moeilijke waarvan ik denk dat niet veel mensen het exacte verschil kennen. Daarom denk ik dat antwoord 1 het meest oprecht is. 
+Q2: Hoe ziet de viering van de Kerstmis er uit in uw kerkgemeenschap? 
+NPR2: Dat weet ik helaas niet, aangezien ik kerst nooit met de kerkgemeenschap vier. Ik vier kerst het liefst thuis met mijn familie en vrienden. 
+PR2: De mis op Kerstnacht is altijd super mooi. De priester leidt de mis en er is vaak ook een koor, wat het extra mooi en bijzonder maakt. 
+choice2: NPR 
+rating2: interval3 
+reason2: Ik denk dat Antwoord 2 door een persoon is beantwoord die wel doet alsof. Diegene kan namelijk niks concreets vertellen over wat er nou daadwerkelijk gebeurd. De zaken die hij beschrijft zijn van algemene bekendheid. Antwoord 1 lijkt mij te zijn gegeven door een oprecht persoon 
+Q3: Wat vindt u van de tegenstellingen tussen protestanten en katholieken die vaak tot vetes hebben geleid? (Denk bijvoorbeeld aan Ierland en Noord-Ierland) 
+NPR3: Ik vind die vetes raar. Weliswaar zijn er tegenstellingen, maar er moet naar de kern van beiden worden gekeken: beide groepen geloven uiteindelijk in dezelfde God. Er is mijns inziens dus geen reden tot een vete. 
+PR3: Triest dat mensen niet gewoon kunnen accepteren dat er mensen zijn die anders geloven. Als mensen zich beroepen op een absolute waarheid ga je vanzelf mensen die anders denken haten. 
+choice3: NPR 
+rating3: interval3 
+reason3: Antwoord 1 vind ik wederom meer gebaseerd een kijk van buitenaf. Dat er wordt geloof in een en dezelfde god blijkt dat dit een kijk is van iemand die niet protestants is. 
+Q4: Kunt u zich een leven zonder een God voorstellen? 
+NPR4: Nee, de wereld (natuur, mensen, dieren, enzovoorts.) is zo gedetaileerd ontworpen, daar moet wel een God achter zitten. Bovendien, is het toch veel mooier om te leven met de wetenschap dat er een hiernamaals is, waar het allemaal veel mooier is dan op aarde? 
+PR4: Iedereen leeft voor zichzelf en moet zijn of haar best doen om er in dit leven wat van te maken, daar heb je geen God voor nodig. Als je een God nodig hebt om jou ervan te overtuigen voor de mensen om je heen te zorgen, is dat geen liefde voor je medemens maar religeuze angst voor God. 
+choice4: NPR 
+rating4: interval3 
+reason4: Antwoord 2 is denk ik gegeven door een protestant die zich probeert voor te doen als niet-protestant. Antwoord 1 lijkt me geloofwaardig. hij/zij laat immers in het midden in welke God hij/zij gelooft. 
+Q5: Wat vindt u het mooiste bijbelboek? 
+NPR5: Dat vind ik een moeilijke. Ik ga voor Psalmen. Daar staan een hoop mooie teksten in. 
+PR5: Het eerste, genisis, waarin de aarde gemaakt wordt en de mensen die aan elkaar gegeven zijn. Ik vind het wel een mooi idee dat mensen niet alleen voor zichzelf leven maar gemaakt zijn om met elkaar te leven. 
+choice5: NPR 
+rating5: interval3 
+reason5: Antwoord 1 lijkt mij door iemand genomen die wel verstand heeft van de bijbel, maar geen protestant is. Genisis bij antwoord 2 noemt het bekendste boek en derhalve denk ik niet dat deze persoon oprecht is. 
+Final Rating: FINAL 
+choice6: NPR 
+rating6: finalInterval3 
+reason6: Al met al denk ik dat dat de persoon die de antwoorden 1 heeft gegeven oprecht is en niet doet alsof. Persoon 2 lijkt mij een protestant die probeert te doen alsof hij/zij dat niet is. Dit maak ik op uit de antwoorden die deze personen hebben gegeven. Bij elke vraag ben ik min of meer bij hetzelfde standpunt gebleven. 
+Day 1, Session 2, jType=X, jNo=8, uid=2983, side: NPR on right
+Q1: Hoe sta jij tegenover de oerknal en als tegenhanger het scheppingsverhaal? 
+NPR1: Mijn vader is wetenschapper en bioloog, dus ik ben opgegroeid met het idee van de oerknal en Darwins evolutietheorie. Het idee van een schepper die de wereld heeft gemaakt kwam bij mij pas veel later binnen, en het blijft me verbazen hoe mensen daar tegenwoordig nog steeds in kunnen geloven. 
+PR1: Er zijn genoeg bewijzen dat het scheppingsverhaal onzin is. De oerknal lijkt me een logischere verklaring voor het ontstaan van het heelal..maar ik ben er ook niet helemaal van overtuigd dat dat een volledige theorie is. Het blijft terugkijken op iets wat zo lang geleden is gebeurd, dus ik ben niet helemaal overtuigd wat het is. 
+choice1: NPR 
+rating1: interval3 
+reason1: Antwoord 1 is veel minder diepgaand, en lijkt zomaar uit de duim gezogen te zijn. Alleen zeggen dat iets onzin is geeft niet veel informatie en daar kan je weinig mee. Antwoord 2 is veel beter onderbouwt en lijkt daarom oprechter. 
+Q2: Hoe sta jij tegenover het homohuwelijk? 
+NPR2: Ik snap niet dat mensen hier tegen kunnen zijn: liefde is liefde. Een aantal van mijn mannelijke vrienden vallen op jongens, een van hen heeft al lange tijd een vaste relatie. Ik kan geen enkele reden bedenken waarom zij niet zouden mogen trouwen. 
+PR2: Het homohuwelijk moet uiteraard kunnen. Iedereen moet de vrijheid hebben om zijn leven in te richten zoals hij/zij dat zelf wil. Zo'n beperking van vrijheid mag niet door anderen opgelegd worden. 
+choice2: NPR 
+rating2: interval1 
+reason2: Ik denk dat tegenwoordig protestant en niet protestant voor het homohuwelijk kunnen zijn. Ik durf nu dus ook niet te zeggen dat 1 van de twee niet de waarheid spreekt. Ik denk namelijk dat tegenwoordig veel mensen inzien dat het niet tegen je geloof in hoeft te gaan. 
+Q3: Wat vind je van mensen die bij je aan de deur komen om hun geloof te verkondigen? Gooi je de deur dicht of ga je toch met zo iemand in gesprek? 
+NPR3: Ik ga niet in gesprek, omdat ik denk dat dit weinig zin heeft. Die mensen komen om mij te overtuigen, en dat gaat ze niet lukken. Dus hebben wij dan weinig om over te praten :) 
+PR3: Ik heb geen zin om met zulke mensen te praten, als ze zo opdringerig zijn. Een goede discussie kan ik wel waarderen, maar dan moet er wel wederzijds respect zijn. 
+choice3: NPR 
+rating3: interval3 
+reason3: Ik denk dat de persoon die antwoord 1 geeft vanuit zijn of haar christelijke oogpunt het respect opbrengt om in discussie te gaan. Veel mensen die ik ken zouden dat niet doen omdat mensen die aan de deur komen als opdringerig en irritant worden gezien. Iedereen in zijn of haar waarde laten lijkt me toch een aardig christelijke gedachte. 
+Q4: Kan jij je er iets bij voorstellen dat mensen steun uit hun geloof zouden kunnen krijgen? 
+NPR4: Dat kan ik zeker. Ik vind dat iedereen het recht heeft om steun te vinden uit elk soort geloof of overtuiging, zolang ze daar niemand anders mee kwetsen of hinderen. Ikzelf vind steun in de overtuiging dat alle mensen diep vanbinnen goed zijn, en ik denk dat dit in alle geloven wel terugkomt. Ik geloof niet in God, maar ik denk dat de essentie van alle godsdiensten ongeveer op hetzelfde neerkomen. 
+PR4: Ja, het kan denk wel rust geven wanneer je op iets kunt vertrouwen als je dingen zelf niet snapt. 
+choice4: NPR 
+rating4: interval4 
+reason4: Antwoord 1 is helemaal niet diepgaand en heel slecht onderbouwd terwijl antwoord 2 juist heel erg de diepte ingaat en zijn/haar eigen ervaringen in het antwoord gebruikt. 
+Q5: Moet een vrouw mogen kiezen om abortus te plegen? Zo ja, zijn daar dan bepaalde voorwaarde aan verbonden? Zo nee, waarom niet? 
+NPR5: Ja, ik vind dat een vrouw onder alle omstandigheden mag kiezen om abortus te plegen. Om dit zo veel mogelijk te vermijden is goede sexuele voorlichting nodig, en bijvoorbeeld de herintroductie van de pil in de basisverzekering. Een vrouw kiest ervoor om niet zwanger te willen raken door bijvoorbeeld de pil te slikken, mocht er dan toch iets fout gaan (op welke manier dan ook), dan heeft zij nog steeds het recht om te kiezen om de zwangerschap te beeindigen. 
+PR5: Ja, in sommige gevallen. Echter vind ik het leven van het kind ook belangrijk. Als een vrouw niet in staat is om het kind op een normale manier op te voeden vind ik dat het wel moet kunnen. Als ze dat echter wel kan, vind ik dat ze daar dan ook de verantwoordelijkheid voor moet nemen. 
+choice5: NPR 
+rating5: interval4 
+reason5: De persoon die antwoord 1 geeft neigt net wat meer naar het Christelijke antwoord: Abortus is slecht. Hij of zij zegt in principe dat het alleen in het ergste geval moet kunnen. In alle andere gevallen moet de moeder gewoon de verantwoordelijkheid op zich nemen. Het leven van het kind is belangrijk voor deze persoon. Terwijl degene die antwoord 2 geeft veel meer denkt aan het welzijn van de vrouw in kwestie. Lijkt me net iets minder Christelijk 
+Final Rating: FINAL 
+choice6: NPR 
+rating6: finalInterval4 
+reason6: De eerste persoon lijkt veel minder goede argumenten te geven voor zijn/haar keuzes. De tweede persoon gebruikt eigen ervaringen en is veel uitgebreider in zijn/haar antwoorden. Daarom lijkt het veel realistischer. Dit laat mij geloven dat persoon 1 alsof doet en dat persoon 2 wel echt zichzelf is. 
+Day 1, Session 2, jType=X, jNo=9, uid=2969, side: NPR on left
+Q1: Hoe vind jij dat er tegenwoordig tegen religie aangekeken wordt? 
+NPR1: Ik vind in Nederland dat er erg positief en tolerant naar religies wordt gekeken. Wel hangt er rondom religies vaak nog een air van 'domheid', als protestant kom je veelal binnen de hoogopgeleide mensen tegen dat zij niet kunnen begrijpen dat je zoiets kan geloven. Overigens heeft dit geen effect op de bejegening: dit is vrijwel altijd met respect. 
+PR1: Volgens mij is het voor de meeste mensen vrij abstract wat religie nu eigenlijk is en vooral waarom mensen dan zouden willen geloven. 
+choice1: PR 
+rating1: interval2 
+reason1: Ik heb het idee dat kandidaat nummer 1 denkt dat hij als protestant moet antwoorden, terwijl hij eigenlijk zou moeten antwoorden als niet-protestant (zowel gespeeld als oprecht). Toch denk ik dat kandidaat nummer 2 de oprechte niet-protestant is, zijn antwoord is helder en duidelijk en geeft weer waarom het zo lastig is zomaar ergens in te geloven. 
+Q2: Hoe kijk jij aan tegen het 'vertrouwen op een hogere macht' zoals dat in religies gedaan wordt? 
+NPR2: Dat is voor mij heel normaal. God bestond altijd al, Hij weet alles, Hij ziet alles... Iemand die alles weet en alles ziet is makkelijk op te vertrouwen. Als ik zelf voor een belangrijke keuze sta in mijn leven, leg ik die daarom ook altijd aan Hem voor. 
+PR2: Daar heb ik eigenlijk nooit zo over nagedacht. Ergens geloof ik wel dat er iets is, maar wat weet ik niet. In elk geval niets dat ik zou omschrijven als hogere macht. 
+choice2: PR 
+rating2: interval4 
+reason2: Kandidaat 1 is protestants of doet in ieder geval alsof hij protestants is en dat was de opdracht niet. Kandidaat 2 heeft naar mijn mening een oprecht niet-protestants antwoord. 
+Q3: Beschouw jij gelovige mensen als naievere mensen omdat ze ergens blindelings in geloven en op vertrouwen? Onderbouw je antwoord. 
+NPR3: Ja eigenlijk wel. Ik denk toch dat gelovige mensen sneller dingen aannemen dan niet-gelovige mensen, zeker ook omdat ik als niet-gelovige me bijvoorbeeld niet voor kan stellen om de dingen te geloven die in de Bijbel staan. 
+PR3: Ik weet niet of naief het goede woord is. Alles wat met spiritualiteit te maken heeft wordt tegenwoordig gezien als zweverig. Ik zie het zelf een beetje als een hobby. Sommige mensen zijn heel erg bezig met voetbal, andere mensen zijn heel erg bezig met religie. 
+choice3: PR 
+rating3: interval3 
+reason3: Ik denk dat een pretender bevestigend op deze vraag zou antwoorden. Ik denk dat een oprecht iemand juist genuanceerd zou antwoorden. Ik denk dat kandidaat 1 protestants is en dit beeld heeft van mensen die niet-gelovig zijn. 
+Q4: Als je aan het begin van je leven zou mogen kiezen of je ergens in gelooft of niet, zou je er dan voor kiezen om gelovig te zijn? Zo ja, waarom? Zo nee, waarom niet? 
+NPR4: Ik zou ervoor kiezen om ongelovig te zijn. Geloof lijkt me niet echt een meerwaarde hebben in je leven. 
+PR4: Ik vind dit een lastige vraag. De meeste baby's zijn namelijk nog niet instaat om een keuze te maken. Wat ik van gelovige vrienden hoor is dat het een fijn gevoel is ergens bij te horen en ergens in te geloven. Aan de andere kant ben ik niet zo van het klakkeloos aannemen van iets wat er in een boek staat. Zeker niet als je niet eens kunt controleren of het wel of niet waar is. Gewoon maar iets aannemen past niet echt bij wie ik als persoon ben, daarom denk ik dat ik er voor zou kiezen om nergens in te geloven. 
+choice4: PR 
+rating4: interval3 
+reason4: Kandidaat twee laat blijken dat de vraag hem bezig houdt, dat er voordelen van geloven zijn maar ook nadelen. Kandidaat 1 zegt meteen dit absoluut niet te willen, ik denk dat dit geen oprecht antwoord is maar meer een antwoord wat ik als niet-protestant zou willen horen. 
+Q5: Wat vind jij van extreem gelovige mensen (bible belt) die bijvoorbeeld hun kinderen niet laten vaccineren? Begrijp jij die gedachte of is het ver van je bed? 
+NPR5: Ik vind dat heel erg. Ik kan me sowieso niet voorstellen hoe je dat voor jezelf kan verantwoorden om je kinderen dusdanig in gevaar te brengen. Het kunnen namelijk hele ernstige ziektes zijn waarvoor je wordt gevaccineerd. 
+PR5: Als je het hebt over het vaccineren van kinderen begrijp ik het echt niet. Juist niet van die gelovige mensen. God wil toch dat alles goed gaat met zijn onderdanen? Waarom mag je dat je kinderen niet vaccineren? 
+choice5: PR 
+rating5: interval3 
+reason5: Het was niet zo'n sterke vraag want niemand (tenzij je extreem gelovig bent) is het hier natuurlijk mee eens. Toch denk ik dat kandidaat twee nog steeds de oprechte niet-gelover is omdat het antwoord minder uitgesproken is. 
+Final Rating: FINAL 
+choice6: PR 
+rating6: finalInterval3 
+reason6: Ik denk dat kandidaat twee de oprechte niet-protestant is, omdat hij voor mijn idee meer weloverwogen antwoorden geeft en zeker niet totaal niet openstaat voor de denkbeelden van protestantse mensen. Kandidaat een is meer uitgesproken en bijna anti-gelovig en ik denk niet dat niet-gelovige mensen daar zo over denken. Ik denk dat je als niet gelovige toch altijd wel openstaat voor de denkbeelden van anderen en daar misschien wel positieve punten in ziet. 
+Day 1, Session 2, jType=X, jNo=10, uid=2971, side: NPR on right
+Q1: Wat is het belangrijkste onderdeel voor jou van het geloof? 
+NPR1: Het geeft een richting aan het leven en zorgt voor de vorming van een community 
+PR1: Het gaan naar de kerk 
+choice1: NPR 
+rating1: interval3 
+reason1: Het gaan naar de kerk is wat een protestant zou zeggen dat een niet-protestant zegt. Het tweede antwoord zou een niet-protestant best kunnen denken van het geloof. 
+Q2: Wat doe jij op zondag? 
+NPR2: Uitslapen, brunchen, leuke dingen doen met mijn vriend en studeren. 
+PR2: Zondag slaap ik uit en pak ik over het algemeen een Feyenoord-wedstrijd mee. 
+choice2: NPR 
+rating2: interval4 
+reason2: Antwoord 1 is tot nu toe altijd heel extreem: een Feyenoord-supporter wordt doorgaans niet in verband gebracht met geloof. Antwoord 2 zou ik zelf ook kunnen geven als niet-protestant en is ook veel gedetailleerder. Daarom is de kans groot dat antwoord 1 verzonnen is en antwoord 2 waar is. 
+Q3: Hoe kijk jij aan tegen abortus? 
+NPR3: Dit is een verstandige keuze als je niet in staat bent een kind op te voeden. Het lijkt mij echter een moeilijke keuze, die jij alleen zelf kunt maken. 
+PR3: Iedereen moet het recht hebben om te beslissen over zijn eigen buik. 
+choice3: NPR 
+rating3: interval4 
+reason3: Ook hier is antwoord 1 "extreem", dat wil zeggen: ongenuanceerd. Antwoord 2 is uitgebreider en geeft meer blijk van een eigen opvatting. 
+Q4: Wat is het bekendste verhaal uit de bijbel (met name ook voor niet-christenen)? 
+NPR4: Het verhaal over de geboorte van jezus 
+PR4: Jona 
+choice4: NPR 
+rating4: interval4 
+reason4: Hier heb ik het idee dat de protestant de bijbelkennis van niet-protestanten overschat. Lang niet iedereen kent het verhaal van Jona. Het verhaal van de geboorte van Christus is een veel waarschijnlijker antwoord, zou ik zeggen als niet-protestant. 
+Q5: Wat is je doel in het leven? 
+NPR5: Een succesvolle carriere verkrijgen en uiteindelijk een familie hebben. 
+PR5: Uiteindelijk gaan we allemaal dood en daarom moet je er hier van maken wat er van te maken valt. Ik zorg in ieder geval dat ik me niet druk hoef te maken om eten, drinken, kleding etc. 
+choice5: NPR 
+rating5: interval4 
+reason5: Het eerste antwoord is weer zo ongeloofwaardig en geeft blijkt van een neerbuigende opvatting over niet-gelovigen. Het stereotiepe beeld is dat mensen niets geven om het leven en er geen waarde aan hechten, maar dat is absoluut niet waar. Carriere en familie geven veel concreter aan waarnaar mensen streven die niet-protestants zijn. 
+Q6: Waar(in) zoek je steun op heel moeilijke momenten in het leven, zoals bij het overlijden van een dierbaar persoon? 
+NPR6: Ik ben een vrij gesloten persoon, dus zal het het verdriet niet makkelijk delen met anderen. Ik zal mezelf dus proberen af te leiden en (tijdelijk) mijn aandacht alleen richten op de belangrijkste personen in mijn leven. 
+PR6: Steun heb ik niet echt nodig. Ik ben een nuchter persoon en het leven is zoals het is. De dood hoort erbij. Gewoon opstaan en weer doorgaan dus. 
+choice6: NPR 
+rating6: interval4 
+reason6: Mijn onderbouwing is steevast hetzelfde: ik vind dat persoon 1 (dus van antwoord 1) zeer neerbuigende en ongeloofwaardige antwoorden geeft op de vragen. Mensen die God niet in hun leven hebben, staan niet nuchter ten opzichte van de dood. Het is voor mij al een tijdje duidelijk wie de protestant is (antwoord 1) en wie niet (antwoord 2). 
+Q7: Hoe vier je de kerst? Heb je bijvoorbeeld kerstversiering in huis? 
+NPR7: Ik verdeel de kerstdagen onder mijn ouders (1e kerstdag bv moeder, 2e kerstdag vader), en op een van deze dagen ga ik ook naar de ouders van mijn vriend. Ik ben elk van deze dagen bij mijn vriend. We komen gewoon samen met de familie en eten wat en doen iets gezelligs, zoals film kijken of spelletjes. 
+PR7: Uiteraard. Wat is kerst zonder licht? Dat hoort toch bij het feest van het licht? de donkerste dag van het jaar is voorbij, op naar het licht! 
+choice7: NPR 
+rating7: interval4 
+reason7: Dit heeft weer te maken met details. Persoon 1 geeft een algemene visie vanuit het geloof op de betekenis van 'het licht', terwijl persoon 2 veel meer down-to-earth antwoordt en aangeeft hoe de kerstdagen eruit zien. Dat zouden alle niet-protestanten doen, denk ik. 
+Q8: Hoe kijk je aan tegen andere religies? 
+NPR8: Ik heb zelf meer met het christelijke geloof omdat een deel van mijn familie gelovig is (en ik dit dus ook wel heb meegekregen), en we leven natuurlijk in een, voor een merendeel, christelijk land. Bij andere geloven denk je al gauw aan het islamtische geloof, en dat lijkt vrij onderdrukkend voor vrouwen. 
+PR8: religies zeggen me niet zoveel. 
+choice8: NPR 
+rating8: interval4 
+reason8: Persoon 1 lijkt continu antwoord te geven voor niet-gelovigen in plaats van voor niet-protestanten. Daardoor zijn diens antwoorden verstrekkender dan nodig is, waardoor zijn ware identiteit snel boven komt. 
+Final Rating: FINAL 
+choice9: NPR 
+rating9: finalInterval4 
+reason9: Antwoord 1 is steeds korter en extremer dan antwoord 2. Hoe meer je prijsgeeft, hoe realistischer en geloofwaardiger ik het antwoord vind. Vaak getuigden de antwoorden van persoon 1 ook van een zekere neerbuigendheid naar niet-gelovigen (niet eens zozeer niet-protestanten). Door meer details aan te geven, voelde antwoord 2 altijd oprechter. 
+Day 1, Session 2, jType=X, jNo=11, uid=2981, side: NPR on left
+Q1: Wat zijn voor jou de drie belangrijkste waarden in het leven? 
+NPR1: Geluk, Gezondheid en lol hebben 
+PR1: Dat iedereen elk ras en geslacht gelijk is. Voor mij is dat belangrijk. Ook vind ik het belangrijk dat je leeft wanneer je leven kan. Een andere belangrijke waarde is dat aardig bent naar iedereen 
+choice1: NPR 
+rating1: interval3 
+reason1: De formulering in antwoord 2 komt mij te gemaakt over, vandaar dat ik denk dat degene die antwoord 2 gaf oprecht is. 
+Q2: Geloof jij of weet jij dat god bestaat? 
+NPR2: Ik geloof dat er wel zo iets is als een soort creatuur dat de wereld heeft gemaakt, maar om deze dan te eren in je leven strookt mijns inziens met elke redelijke gedachte. 
+PR2: ik denk dat er een hogere macht is maar ik zou niet persee die persoon god noemen. 
+choice2: NPR 
+rating2: interval3 
+reason2: Antwoord 1 klinkt voor mij als een veelgehoord antwoord van niet-gelovigen op deze vraag. 
+Q3: Geef je aan goede doelen, en zo ja, wat is hiervoor de belangrijkste reden? 
+NPR3: Ja, mijn belangrijkste reden hiervoor is dat geld me niet zoveel uitmaakt. Ieder moet krijgen wat hij nodig heeft om net zo'n plezierig leven te lijden als ik. 
+PR3: Ik geef soms aan goede doelen. Meestal geef ik het als ze aan de deur komen voor een collecte. Of als er buurtgenoten zijn die een sponsorloop hebben ofzo. 
+choice3: NPR 
+rating3: interval3 
+reason3: Antwoord 2 klinkt me te nonchalant. 
+Q4: Wat gebeurt er met je als je komt te overlijden? 
+NPR4: Er zijn twee mogelijkheden door de wet goed gekeurd: ten eerste begraven worden of anders gecremeerd worden. 
+PR4: Dat weet ik niet. 
+choice4: NPR 
+rating4: interval4 
+reason4: Slechte vraagstelling van mijn kant bij deze vraag. 
+Q5: Wat vind je van kinderen krijgen voor het huwelijk? 
+NPR5: Als iemand dat wil;prima. Hoewel kinderen krijgen me uberhaupt vreselijk lijkt, zowel voor als na het huwelijk 
+PR5: waarom niet? als je kinderen krijgt is het toch leuk? Trouwen kan later ook nog wel. Super leuk als je kinderen krijgt. Kinderen zijn jou nageslacht daar leef je toch voor? 
+choice5: NPR 
+rating5: interval3 
+reason5: Antwoord 2 komt me te gemaakt over. 
+Q6: Wat is jouw mening over het homohuwelijk? 
+NPR6: Prima, ik ben trots op het feit dat Nederland het eerste land was dat het homohuwelijk legaliseerde. Mensen die tegen het homohuwelijk zijn zitten vast in een bepaald religieus conservatisme dat stamt uit een tijd ver voor alle redelijke beschaving. 
+PR6: Mijn mening is dat ieder mens zelf mag weten met wie die trouwt. Als je van iemand houdt waarom zou je dan niet mogen trouwen? 
+choice6: NPR 
+rating6: interval4 
+reason6: De uitgebreide onderbouwing in antwoord 1 geeft me sterk het idee dat de respondent oprecht is. 
+Q7: Bestaat toeval? 
+NPR7: Ja,je moet maar net op de plek zijn waar iets gebeurt. Soms is iets toeval; besluit je wel of niet uit je bed te komen, ga je wel of niet met iemand de auto in die een dodelijk ongeval veroorzaakt. Soms ben je gewoon op de verkeerde plek op het foute moment. 
+PR7: Toeval bestaat ik kan alleen niet uitleggen waarom het gebeurt gewoon 
+choice7: NPR 
+rating7: interval4 
+reason7: Overtuigende uitleg. 
+Final Rating: FINAL 
+choice8: NPR 
+rating8: finalInterval4 
+reason8: Al vanaf de eerste vraag dacht ik dat respondent 1 de oprechte deelnemer was. Dit kwam voor een groot deel door de formulering die mij bij respondent 2 een stuk gemaakter voorkwam dan de formulering van respondent 2. Ook had deelnemer 1 voor mij meer overtuigende argumenten. 
+Day 1, Session 2, jType=X, jNo=12, uid=2979, side: NPR on right
+Q1: Hecht je er veel waarde aan om geen seks te hebben voor het huwelijk? 
+NPR1: Ik hecht er niet veel waarde aan, en vind ook dat je niet kan verwachten dat een huwelijkspartner nooit seks heeft gehad voor het huwelijk. 
+PR1: Nee, ik snap niet waarom er nog mensen zijn die een dergelijke regel hanteren. 
+choice1: NPR 
+rating1: interval4 
+reason1: Omdat het antwoord zeer stellig is geformuleerd. Kort en krachtig. Geen twijfel mogelijk. 
+Q2: Hoe ervaar je een bezoek aan de kerk en watvoor gevoel hou je eraan over? 
+NPR2: De laatste keer dat ik een kerk bezocht was 5 jaar geleden, toen ik verplicht mee moest naar de kerstviering met mijn ouders. Ik vond het niet boeiend en veel te lang duren. Het voelde een beetje als een verspilling van mijn, en eigenlijk iedereens, tijd. 
+PR2: Ik beleef het voornamelijk als een mooi moment, waarbij anderen zich geraakt voelen. Ik word er zelf wel vrolijk van als ik er ben, maar dat is denk ik meer omdat ik anderen een plezier doe. 
+choice2: NPR 
+rating2: interval3 
+reason2: Ik kan me het meest met dit antwoord inleven. Ik kan me namelijk goed voorstellen dat diegene wel degelijk Protestants is, maar dat diegene het er toch niet voor over heeft om heel lang in de kerk te zitten. 
+Q3: Wat is voor jou belangrijker: dat jij als individu een goed welzijn hebt of dat de hele wereld over het algemeen een goed welzijn heeft, ook als dat ten koste kan gaan van je eigen welzijn doordat je bijvoorbeeld wat geld aan de rest zou moeten afdragen? 
+NPR3: Mijn individuele welzijn is het belangrijkst. Echter, als mijn individuele welzijn verbeterd door het algemeen welzijn te verbeteren (ik vind het niet prettig dat er zwervers voor mijn huis slapen, dus laten we dan maar gemeenschappelijk geld inzamelen zodat ze een opleiding kunnen volgen en wat van hun leven kunnen maken), ben ik best bereid daar ook wat aan bij te dragen. Hetzelfde in de trend van ziektebestrijding, grote rampen etc. Als het mij beter laat voelen als die situatie beter aangepakt zou worden (meer noodhulp, meer onderzoek naar ziektes etc), ben ik bereid geld te betalen. Maar niet aan een doel waar ik ook indirect geen voordeel aan zal hebben. 
+PR3: Ik wil prima mijn steentje bijdragen voor een betere wereld en dat daarmee de hele wereld een beter welzijn heeft. Tegelijkertijd ben ik wel van mening dat dit niet altijd goed mogelijk is. Dan kan je het beter maar zo goed mogelijk investeren voor de toekomst. 
+choice3: NPR 
+rating3: interval4 
+reason3: Omdat deze persoon zeer uitgebreid heeft geantwoord. Het lijkt alsof hij heel eerlijk antwoord geeft, omdat hij erkent dat hij indirect ook voordelig uit wil zijn. 
+Q4: Hoe kijk je naar andere religies? Zijn deze te verenigen met de jouwe of vind je dat alleen de jouwe zou moeten bestaan? 
+NPR4: Ik ben atheist en heb dan ook geen religie. Ik vind in principe dat iedereen moet kunnen geloven waar ze maar behoefte in hebben, zolang het mij of mijn omgeving niet schaadt. Het is voor mij geen probleem dat mensen om 10 uur 's morgens op zondag naar de kerk willen, maar val mij vervolgens dan ook niet lastig met de winkel verplicht op zondag dicht houden omdat dat toevallig jullie geloof is. Het is niet mijn geloof, dus waarom wordt het mij dan onmogelijk gemaakt mijn inkopen te doen op zondag. 
+PR4: Iedereen mag zijn eigen religie hebben. Wil alleen niet zeggen dat ik met alles eens ben. Boedhisten hebben ook mooie waarden, maar ga het niet actief aanhangen. Ik kijk liever naar de essenties van de verschillende religies en vind die waarden belangrijk. 
+choice4: NPR 
+rating4: interval3 
+reason4: Dit antwoord komt het meest geloofwaardig over van de twee: deelnemer erkent atheist te zijn en het lijkt erop dat er verder eerlijk wordt geantwoord. 
+Q5: Zou je het liefst willen dat Nederland geregeerd wordt door een christelijke coalitie, zodat deze het land zal regeren op een wijze die het meest in overeenstemming is met jouw geloof of maakt dit niet uit? 
+NPR5: Ik heb liever een liberale coalitie die iedereen in zijn waarden laat voor wat je bent, een burger van Nederland, in plaats van bepaalde mensen te bevoordelen omdat ze religieus zijn. Echter, realistisch gekeken naar de huidige politieke partijen, kan het CDA nauwlijks nog echt religieus genoemd worden; het zijn voornamelijk CU en SGP die er nog een issue van maken. 
+PR5: Een christelijke coalitie heeft vaak wel iets moois. Zoals bij de laatste coalitie van Balkenende met o.a. Christenunie. Investeren in de kinderopvang. Vind ik een goede stap, omdat je daarmee gezinsleven op lange termijn bevordert. Echter als een andere partij die niet christelijk is zulke waarden onderschrijft zonder daarbij door te slaan naar de socialistisch kant, vind ik het goed. 
+choice5: NPR 
+rating5: interval3 
+reason5: Ik vind het hierbij moeilijk om te kiezen. Het lijkt alsof ze beiden niet doen alsof. 
+Q6: De afgelopen jaren is het zo dat de winkels op zondag vaak open zijn. Wat vind je van deze ontwikkeling? Moeten we weer terug naar het verleden, waarbij de winkels op zondag gesloten waren (zoals het eigenlijk hoort)? 
+NPR6: Waarom zou een zondag een uitzondering moeten zijn? Het is eigenlijk best lullig dat dat vroeger verboden werd; immers, een ondernemer betaalt wel huur voor zijn pand die zondag, maar heeft niet het recht er geld voor terug te verdienen die dag. Dit nog naast het feit dat ik niet belemmerd wil worden door wat iemand nou wel of niet vind; ik ga gelovigen toch ook niet verbieden de kerk te bezoeken? Het is dan ook onzin dat zij vroeger (en jammergenoeg vandaag de dag bij veel winkels alsnog) wel probeerden niet gelovigen op zondag te verbieden winkels te bezoeken. 
+PR6: Het was altijd wel mooi rustig in ons dorp op zondag. Nu ik in de stad woon vind ik het wel fijn dat de winkels op zondag open zijn. Ideaal. Hoef je tenminste niet op zaterdag voor zondag en maandag inkopen te doen. Maar in de dorpen zou ik het wel jammer vinden als het daar op zondag ook zo druk is. Ik kom daar juist voor de rust. 
+choice6: NPR 
+rating6: interval3 
+reason6: Het hart ligt bij deze deelnemer op de tong. Ik denk dat hij/zij de waarheid spreekt. Echter heb ik lichte twijfel, omdat het natuurlijk ook kan zijn dat deelnemer mij zo om de tuin probeert te leiden. 
+Final Rating: FINAL 
+choice7: NPR 
+rating7: finalInterval3 
+reason7: Ik heb het gevoel dat deze deelnemer erg eerlijk antwoordt. Vooral omdat hij/zij af en toe uitgebreid antwoordt en ook een mening geeft. Lichte twijfel: deze deelnemer antwoordt uitgebreider, maar dit kan ook betekenen dat diegene dit doet omdat hij er veel moeite voor doet om mij te overtuigen van iets dat hij niet is. 
+Day 1, Session 2, jType=X, jNo=13, uid=2975, side: NPR on left
+Q1: Wat vind je van het afschaffen van de strafbaarstelling van godslastering? 
+NPR1: Dat vind ik een slechte zaak omdat het ervoor kan zorgen dat mensen worden gekwetst terwijl dat niet nodig is. 
+PR1: Ik vind het kwetsend en onnodig als er op een dergelijke manier met godsdienst word omgegaan. Ik denk echter dat een verbod niet gaat helpen, en ik hoop dat dit op een andere manier opgelost kan worden. 
+choice1: PR 
+rating1: interval3 
+reason1: Slechte argumentatie en weinig inlevingsvermogen. 
+Q2: Wie is jouw favoriete karakter uit de Bijbel en waarom? 
+NPR2: God, mooie baas die alles naar zijn hand zet. 
+PR2: Ik vind het erg lastig om een favoriet karakter te kiezen. Het gaat er ook niet om wie het "leukste" karakter is, het gaat erom welke menselijke eigenschappen deze karakters symboliseren en hoe je dit kan relateren aan jouw eigen leven. 
+choice2: PR 
+rating2: interval4 
+reason2: Antwoord 1 is zo ongeloofwaardig dat ik niet denk dat ooit een gelovige zo zou praten over God. 
+Q3: In welke mate is God schuldig aan alle ellende in de wereld? 
+NPR3: Ik neem altijd aan dat God slechte dingen laat gebeuren omdat hij bezig is iets nog veel slechters te voorkomen. Een beetje als een keeper die tegelijk een miljoen penalties moet stoppen. 
+PR3: God houdt van iedereen. De ellende die je ziet in de wereld is allemaal deel van Gods plan voor de mensheid. 
+choice3: PR 
+rating3: interval3 
+reason3: Ik heb op een christelijke basisschool gezeten en als ik dan vroeg aan mijn docent waarom orkaan Katrina in New Orleans duizenden mensen had gedood kreeg ik altijd een soortgelijk antwoord. 
+Q4: Ben je voor of tegen legalisering van ethische kwesties zoals abortus en euthanasie? 
+NPR4: Dat verschilt, ik ben dan wel niet gelovig, maar ik blijf het vreemd vinden dat iemand levenslang krijgt als hij op straat iemand dood schiet, maar zelfs niet geschorst wordt als arts als hij een baby/feutus/hoe dat ook heet dood maakt. Euthanasie is iemands eigen zaak. 
+PR4: Ik ben hier op tegen. Elk leven is heilig en een geschenk van god. Dit dient ten alle tijden beschermt te worden. 
+choice4: PR 
+rating4: interval4 
+reason4: Deze persoon houdt zich zo dicht bij de Bijbel over deze ethische kwesties dat het niet anders kan dat deze persoon gelovig is. 
+Q5: Wat vind je ervan dat Abraham zijn eigen zoon moest offeren in de Bijbel? 
+NPR5: God is in het oude testament niet iemand waarmee je ruzie moet krijgen, het gaat dan ook wel wat ver, maar gelukkig mocht Abraham zijn zoon vervangen door een schaap. God vraagt veel, maar geeft dan ook wat terug. 
+PR5: Dit was een test van God om te zien of Abraham wel een ware leider is. Het is hard, maar het is in het belang van het goede. 
+choice5: PR 
+rating5: interval4 
+reason5: Ik weet uit eigen ervaring hoe gelovigen de Bijbel verdedigen indien ik ze hiermee aanval. Dit is een van die antwoorden. 
+Q6: Wat vind je van porno? 
+NPR6: Onsmakelijk, maar je doet er toch niets aan. 
+PR6: Ik vind dat porno een onrealistisch beeld schept van de relatie tussen mannen en vrouwen. Op deze manier kan porno een goede relatie tussen mannen en vrouwen verhinderen. Aan de andere kant heeft elk mens zijn behoeftes, en kan porno een uitlaatklep zijn om eventuele frustraties kwijt te kunnen. 
+choice6: PR 
+rating6: interval4 
+reason6: Christelijke taal. 
+Q7: Wat vind je van wiet roken? 
+NPR7: Niet super schadelijk of een ramp als het voorkomt, maar net als het roken van sigaretten onwenselijk. 
+PR7: Wiet roken is ontspannend en kan goede uitlaapklep zijn om stress te verlichten. Echter moet men zich ook bewust zijn van de negatieve effecten, en zich realiseren dat er ook andere en vaak betere manieren zijn om van stress af te komen. 
+choice7: PR 
+rating7: interval2 
+reason7: Tsja, deze is lastig omdat ik veel gelovigen ken die finaal tegen drugs zijn. Hierdoor vind ik het lastig om met zekerheid te zeggen dat deze persoon protestants is of niet. 
+Final Rating: FINAL 
+choice8: PR 
+rating8: finalInterval3 
+reason8: Ik ben zelf niet gelovig opgevoed maar ben wel naar een christelijke basisschool gegaan en daar enigzins met godsdienst in aanmerking gekomen. Als ik dan vroeg naar mijns inziens kwalijke dingen die in de Bijbel staat werd er gereageerd zoals persoon 2 dit deed. Door de rechtvaardiging van het Abraham verhaal denk ik te weten dat persoon twee niet alsof doet. 
+
+

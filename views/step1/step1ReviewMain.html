@@ -1,0 +1,114 @@
+
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">
+    
+    <div class="headerDeep">
+    	<h1>Admin: step1 data review</h1>
+        <ul>
+            <li><div id="name"></div></li>
+            <li><a id = "BackButton" href="#"><<< Back</a></li>
+        </ul>
+    </div>
+    
+    <!-- Admin tabs starts here -->
+    <div class="adminTabs adminReviewTabs" data-bind="foreach: days">
+               
+    	<!-- First tab -->
+        <div data-bind="attr: isReviewed() ? {'class': 'tab completed', 'id': 'tab' + $index() } : {'class': 'tab', 'id': 'tab' + $index() }"><h2 data-bind="text: 'Day ' + summary.dayNo()"></h2><span data-bind="text: summary.dataCode()">eId_30_1_1</span></div>
+        
+
+<!-- First tab content starts here -->
+		<div class="tabContent adminReviewContent" data-bind=" foreach: sessions">
+        	<h2 class="noBorder" data-bind="text: 'Session ' + id()">Session 1</h2>
+            <div class="adminSection adminReview">
+<!-- ko foreach: judges -->
+            	<div class="formRow dark">
+                	<div class="notReviewed" data-bind="attr: reviewed() ? {'class': 'reviewed' } : {'class': 'notReviewed' }">Reviewed</div>
+                    <input type="checkbox" data-bind="checked: discardJudge, attr: {'id': 'j_'+ jNo() }" ><label data-bind="attr: {'for': 'j_'+ jNo()}">Ignore</label>
+                    <h3 data-bind="click: toggleView, attr: isVisible() ? {'class': 'open' } : {'class': 'closed' }"><a href="#" data-bind="text: 'Judge ' + jNo() "></a></h3>
+                	<!-- Previous questions starts here -->
+                  <div class="igsnNo" data-bind="text: igsnNo, visible:false"></div>
+                    <div class="previousQuestions" data-bind="visible: isVisible, foreach: questions">
+                      <div data-bind="visible: finalTurn() == 0">
+                        <div data-bind="attr: $index() % 2 == 0 ? {'class': 'previousQuestion dark' } : {'class': 'previousQuestion light' }">
+                        	<div class="questionUseDiscard">
+                              <input type="radio" value="use" data-bind="attr:  {'name': 'question' + $index() },attr:  {'id': 'question1' + $index() }, checked: useQ" /><label class="checkboxLabel" data-bind="attr:  {'for': 'question1' + $index() }">Use question</label>
+                              <input type="radio" value="discard" data-bind="attr:  {'name': 'question' + $index() },attr:  {'id': 'question2' + $index() }, checked: useQ" /><label class="checkboxLabel" data-bind="attr:  {'for': 'question2' + $index() }">Discard question</label>
+                          </div>
+                          <h4 data-bind="text: 'Question ' + index()">Question 1</h4>
+                          <p><strong data-bind="visible: !editing(), text: jQ, click: edit"></strong></p>
+                          <input class="edit" data-bind="attr: { id : editID()}, visible: editing(), value: jQ, event: { blur: stopEditing }" />
+                          <p data-bind="text: 'interrogator intention: ' + iIntention()"></p>
+                          <p data-bind="text: 'selecting: ' + selecting()"></p>                            
+                          <p data-bind="text: 'npLeft: ' + npLeft()"></p>
+                          <p data-bind="text: 'choice: ' + choice()"></p>
+                          <p data-bind="text: 'correct: ' + correct()"></p>
+                          <p data-bind="text: 'reason: ' + reason()"></p>
+                          <p data-bind="text: 'confidence: ' + rating()"></p>
+                          <p data-bind="text: 'category alignment: ' + categoryAlignmentStr() + '; value: ' + categoryAlignmentValue()"></p>
+                          <div data-bind="visible: npLeft() == 1">
+                            <div class="responseOne">
+                              <h5>Non-pretender response:</h5>
+                              <p><strong data-bind="visible: !editingNPR(), text: npR, click: editNPR"></strong></p>
+                              <input class="edit" data-bind="attr: { id: editNPRID()}, visible: editingNPR(), value: npR, event: { blur: stopEditingNPR }" />
+                              <p data-bind="text: 'alignment: '+npAlignmentStr() + '; value: ' + npAlignmentValue()"></p>
+                            </div>
+                            <div class="responseTwo">
+                              <h5>Pretender response:</h5>
+                              <p><strong data-bind="visible: !editingPR(), text: pR, click: editPR"></strong></p>
+                              <input class="edit" data-bind="attr: { id: editPRID()}, visible: editingPR(), value: pR, event: { blur: stopEditingPR }" />
+                              <p data-bind="text: 'alignment: '+pAlignmentStr() + '; value: ' + pAlignmentValue()"></p>
+                            </div>                            
+                          </div>
+                          <div data-bind="visible: npLeft() == 0">
+                            <div class="responseOne">
+                              <h5>Pretender response:</h5>
+                              <b><p data-bind="visible: !editingPR(), text: pR, click: editPR"></p></b>
+                              <input class="edit" data-bind="attr: { id: editPRID()}, visible: editingPR, value: pR, event: { blur: stopEditingPR }" />
+                              <p data-bind="text: 'alignment: '+pAlignmentStr() + '; value: ' + pAlignmentValue()"></p>
+                            </div>
+                            <div class="responseTwo">
+                              <h5>Non-pretender response:</h5>
+                              <b><p data-bind="visible: !editingNPR(), text: npR, click: editNPR"></p></b>
+                              <input class="edit" data-bind="attr: { id: editNPRID()}, visible: editingNPR, value: npR, event: { blur: stopEditingNPR }" />
+                              <p data-bind="text: 'alignment: '+npAlignmentStr() + '; value: ' + npAlignmentValue()"></p>
+                            </div>                            
+                          </div>
+                          
+                        </div>                        
+                      </div>
+                      <div data-bind="visible: finalTurn() == 1">
+                        <div data-bind="attr: $index() % 2 == 0 ? {'class': 'previousQuestion dark' } : {'class': 'previousQuestion light' }">
+                          <h4>Final rating decisions</h4>
+                          <p data-bind="text: 'selecting: ' + selecting()"></p>                            
+                          <p data-bind="text: 'npLeft: ' + npLeft()"></p>
+                          <p data-bind="text: 'choice: ' + choice()"></p>
+                          <p data-bind="text: 'correct: ' + correct()"></p>
+                          <p data-bind="text: 'reason: ' + reason()"></p>
+                          <p data-bind="text: 'confidence: ' + rating()"></p>
+                        </div>                        
+                      </div>
+                      
+                    </div>
+                    <!-- Previous questions ends here -->
+                </div>
+                <a href="#" class="buttonBlue" data-bind="click: saveData">Save</a>
+                <p class="saveStatus" visible="false">You have saved your work. You can continue to mark/edit this session, or use the back button to select another session to mark.</p>
+<!-- /ko -->
+            </div>
+        </div>
+        <!-- First tab content ends here -->
+    </div>
+    <!-- Admin tabs ends here -->
+      
+</div>
+<!-- Wrapper ends here -->
+
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/jquery-ui-1.11.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/ko//knockout-3.2.0.js"></script>
+<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+<script type="text/javascript" src="/js/step1/step1Review.js"></script>
+<script type="text/javascript" src="/js/mobile/adminNavigate.js"></script>
+</body>
+</html>

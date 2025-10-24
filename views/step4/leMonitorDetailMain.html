@@ -1,0 +1,64 @@
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">
+    
+    <div class="headerDeep">
+    	<h1>Admin: linked experiment monitor</h1>
+        <ul>
+            <li><div id="name"></div></li>
+            <li> | <a href="#">Logout</a></li>
+        </ul>
+    </div>
+    
+    <!-- Admin tabs starts here -->
+    <div class="adminTabs adminReviewTabs">
+   <!-- Waiting for data -->
+  <div class="waitingForAction">
+      <h2>Loading linked experiment transcripts.....</h2>
+  </div>
+    
+<!-- First tab content starts here -->
+  <div class="tabContent adminReviewContent">
+    <h2 data-bind="text: judgeLabel()"></h2>
+    <!-- ko foreach: s4judges -->
+    <div class="adminReview adminSection" >
+      <h2 class="noBorder open" data-bind="click: toggleView, attr: isVisible() ? {'class': 'open' } : {'class': 'closed' }, text: 'S4 judge:' + s4jNo() + '(' + url() + ') percentage complete:' + percentFinished() + '%'"></h2>
+      <div class="transcriptsWrapper" data-bind="visible: isVisible">
+        <div class="formRow dark" data-bind="foreach: transcripts">
+          <div class="formRow light">
+            <h3 data-bind="click:toggleTranscript, attr: transcriptVisible() ? {'class': 'open'} : {'class': 'closed'}, 
+              style: {color: colorCode()}, text:'transcript: ' + transcriptNo() + ' expt-source.igNo:' + exptId() + '.' + jNo() "></h3>
+              <br />
+            <div class="s4turn" data-bind="visible: transcriptVisible">
+              <div class="s4result formRow light" data-bind="visible: rated() == '1' ? true : false, text:'correct:' + correct() + ' confidence:' + confidence() + ' reason:' + reason()"></div>
+              <div class="previousQuestions" data-bind="foreach: turns">
+                <p><strong data-bind="text: q"></strong></p>          
+                <div class="responseOne">
+                  <h5>pretender response:</h5>
+                  <p data-bind="text: pr"></p>
+                </div>
+                <div class="responseTwo">
+                  <h5>non-pretender response:</h5>
+                  <p data-bind="text: npr"></p>
+                </div>
+              </div> 
+            </div>
+          </div>
+        </div>     
+      </div>
+
+    </div>
+    <!-- /ko -->
+  </div>
+        <!-- First tab content ends here -->
+</div>
+    <!-- Admin tabs ends here -->
+      
+</div>
+<!-- Wrapper ends here -->
+
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/js/ko/knockout-3.2.0.js"></script>
+<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+<script type="text/javascript" src="/js/step4/leMonitor.js"></script>
+</body>
+</html>

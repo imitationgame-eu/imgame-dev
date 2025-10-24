@@ -1,0 +1,103 @@
+/*-------------------------------------------------------------------------
+Imgame - 480px resolution.
+Created by Joseph Gallagher.
+July 2012
+-------------------------------------------------------------------------*/
+
+body {
+	font-size: 0.525em;
+}
+
+.wrapper {
+	width: 100%;
+	margin: 10px 0;
+}
+
+#admin input[type="text"] {
+    width: 94%;
+}
+
+#admin .formRow label {
+    text-align: left;
+}
+
+.loginForm .forgotPassword, .registerForm .formRow p {
+    margin: 0;
+}
+
+.registerForm h3 {
+    padding: 4px 0 3px 30px;
+}
+
+#judgeContent {
+	border: none;
+	border-top: #3e2558 5px solid;
+	border-bottom: #3e2558 5px solid;
+}
+
+#nonPretenderContent {
+	border: none;
+	border-top: #4f6b2e 5px solid;
+	border-bottom: #4f6b2e 5px solid;
+}
+
+#pretenderContent {
+	border: none;
+	border-top: #712c22 5px solid;
+	border-bottom: #712c22 5px solid;
+}
+
+.gameTabs .tab, .adminTabs .tab {
+	height: 34px;
+	width: 80px;
+	padding: 15px 20px 0 40px;
+	font-size: 1.4em;
+}
+
+.gameTabs .tab.active, .adminTabs .tab.active {
+	padding: 21px 20px 0 40px;
+	height: 39px;
+}
+
+.gameTabs .tab span, .adminTabs .tab span {
+	font-size: 1.2em;
+}
+
+.gameTabs #tabTwo, .adminTabs #tabTwo {
+	left: 150px;
+}
+
+.gameTabs #tabThree, .adminTabs #tabThree {
+	left: 300px;
+}
+
+.interval {
+    font-size: 1.1em;
+}
+
+.nonPretendersAnswer textarea, .pretendersAnswer textarea {
+	width: 98%;
+}
+
+.guidanceNotes {
+	display: none;
+}
+
+.adminContent {
+	border: none;
+	border-top: #666666 8px solid;
+	border-bottom: #666666 8px solid;
+	background: #fff;
+	width: 96%;
+	padding: 2%;
+	clear: both;
+	display: inline-block;
+}
+
+.statusPods li {
+	margin: 4% 9px 0 0;
+}
+
+.statusPods li:nth-child(2n+2) {
+	margin: 2% 0 0 0;
+}

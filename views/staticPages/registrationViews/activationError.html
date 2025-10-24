@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Imgame activation error</title>
+
+<link href="/css/basic.css" rel="stylesheet" type="text/css" media="Screen" />
+<link href="/css/480.css" rel="stylesheet" media="screen and (max-width: 480px)" />
+<link href="/css/481-1023.css" rel="stylesheet" media="screen and (min-width: 481px) and (max-width: 1023px)" />
+<link href="/css/1024.css" rel="stylesheet" media="screen and (min-width: 1024px)" />
+
+<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" media="Screen" href="css/ie.css" />
+<![endif]-->
+</head>
+
+<body>
+
+
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">
+
+    <div class="adminContent">
+        <h1>Imgame activation error</h1>
+        <h3>Activation error</h3>
+         <div>
+         <p>You have attempted to activate your imgame registration.</p>
+         <div id="errorMsg">
+            <p>Unfortunately an error has occurred. Please try again (by clicking the email-link you used just now) in 10 minutes or so. If you experience a subsequent error then please contact <a href="mailto:igrtadmin@imgame.eu">the imgame administrator</a>.</p>
+         </div>
+         </div>
+         <form action="/index.php" method="post" name="login">
+        <div class="loginForm">
+        	<h2>Login</h2>
+            <div class="logF formRow light">
+		<label for="email">Email address</label>
+                <input type="email" class="email" placeholder="example@domain.com" name="emailT" id="emailT">
+            </div>
+            <div class="logF formRow dark">
+		<label for="password">Password</label>
+                <input type="password" class="password" placeholder="enter your password" name="p1" id="p1" />
+                <!--<input type="text" id="password">-->
+                <input type="hidden" value="1" name="action" />
+                <input type="hidden" value="1" name="process" />
+                <a href="#" class="forgotPassword">Forgot password?</a>
+            </div>
+            <input id="loginB" type="Submit" value="Login" class="buttonBlue">
+        </div>
+        </form>
+        
+    
+    </div>
+    
+</div>
+<!-- Wrapper ends here -->
+
+<script type="text/javascript" src="/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.23.custom.min.js"></script>
+<script type="text/javascript" src="/js/global/viewScripts.js"></script>
+
+</body>
+</html>

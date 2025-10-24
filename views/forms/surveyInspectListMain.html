@@ -1,0 +1,111 @@
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">
+    <div class="headerDeep">
+        <div id="exptTitle">
+            <h1>Surveys: <span>existing survey sets</span></h1>
+        </div>
+        <div id="summaryHeaderDetails">
+            <ul>
+                <!--<placeholder for injected content -->
+                <li><a href="#">Logout</a></li>
+                <li><div id="name"></div></li>
+            </ul>
+        </div>
+    </div>
+    <div id="dialog-showSurvey" title="Choose view type">
+      <p><span class="ui-icon ui-icon-alert" style="float:left; margin: 0 7px 20px 0;"></span><label id="legend"></label></p>
+      <!-- <input class="checkboxButton" id="downloadSurveys" name="downloadSurveys" value="download as CSV"/> -->
+    </div>
+    <!-- control tabs starts here -->
+    <div class="adminTabs">    	
+      <!-- First tab -->
+    	<div id="tabOne" class="tab">Surveys</div>       
+        <!-- First tab content starts here -->
+        <div id="tabOneContent" class="tabContent">
+          <p class="note">Note: this functionality is under development - the numbers of respondents may be incorrect as the table structure evolved during the first few surveys, and some manual corrections are being undertaken.</p>
+          <div class="adminSection" id="activeStandardExperiments" data-bind="visible: exptTypeSectionVisible()">
+            <div class="exptHeader">
+              <h2 data-bind="css: headerClass(), click: toggleHeader">Active standard experiments with survey data</h2>              
+              <div class="formRow dark" data-bind="visible: bodyVisible(), foreach: asExperiments">
+                <div class="formRow light">
+                  <label class="erId" data-bind="text: exptId()"></label>
+                  <label class="erColon">:</label>
+                  <label class="erTitle" data-bind="text: exptTitle()"></label>
+                  <button data-bind="css:s2preClass(), text: viewS2preMsg(), click: processS2pre"></button>
+                  <button data-bind="css:s2postClass(), text: viewS2postMsg(), click: processS2post"></button>
+                  <button data-bind="css:is2preClass(), text: viewiS2preMsg(), click: processiS2pre"></button>
+                  <button data-bind="css:is2postClass(), text: viewiS2postMsg(), click: processiS2post"></button>
+                  <button data-bind="css:s4preClass(), text: viewS4preMsg(), click: processS4pre"></button>
+                  <button data-bind="css:s4postClass(), text: viewS4postMsg(), click: processS4post"></button>                  
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="adminSection" id="activeInjectedExperiments" data-bind="visible: exptTypeSectionVisible()">
+            <div class="exptHeader">
+              <h2 data-bind="css: headerClass(), click: toggleHeader">Active injected experiments with survey data</h2>              
+              <div class="formRow dark" data-bind="visible: bodyVisible(), foreach: aiExperiments">
+                <div class="formRow light">
+                  <label class="erId" data-bind="text: exptId()"></label>
+                  <label class="erColon">:</label>
+                  <label class="erTitle" data-bind="text: exptTitle()"></label>
+                  <button data-bind="css:s2preClass(), text: viewS2preMsg(), click: processS2pre"></button>
+                  <button data-bind="css:s2postClass(), text: viewS2postMsg(), click: processS2post"></button>
+                  <button data-bind="css:is2preClass(), text: viewiS2preMsg(), click: processiS2pre"></button>
+                  <button data-bind="css:is2postClass(), text: viewiS2postMsg(), click: processiS2post"></button>
+                  <button data-bind="css:s4preClass(), text: viewS4preMsg(), click: processS4pre"></button>
+                  <button data-bind="css:s4postClass(), text: viewS4postMsg(), click: processS4post"></button>                  
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="adminSection" id="inactiveStandardExperiments" data-bind="visible: exptTypeSectionVisible()">
+            <div class="exptHeader">
+              <h2 data-bind="css: headerClass()">Inactive standard experiments with survey data</h2>
+              <div class="formRow dark" data-bind="visible: bodyVisible(), foreach: isExperiments">
+                <div class="formRow light">
+                  <label class="erId" data-bind="text: exptId()"></label>
+                  <label class="erColon">:</label>
+                  <label class="erTitle" data-bind="text: exptTitle()"></label>
+                  <button data-bind="css:s2preClass(), text: viewS2preMsg(), click: processS2pre"></button>
+                  <button data-bind="css:s2postClass(), text: viewS2postMsg(), click: processS2post"></button>
+                  <button data-bind="css:is2preClass(), text: viewiS2preMsg(), click: processiS2pre"></button>
+                  <button data-bind="css:is2postClass(), text: viewiS2postMsg(), click: processiS2post"></button>
+                  <button data-bind="css:s4preClass(), text: viewS4preMsg(), click: processS4pre"></button>
+                  <button data-bind="css:s4postClass(), text: viewS4postMsg(), click: processS4post"></button>                  
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="adminSection" id="inactiveInjectedExperiments" data-bind="visible: exptTypeSectionVisible()">
+            <div class="exptHeader">
+              <h2 data-bind="css: headerClass()">Inactive injected experiments with survey data</h2>
+              <div class="formRow dark" data-bind="visible: bodyVisible(), foreach: iiExperiments">
+                <div class="formRow light">
+                  <label class="erId" data-bind="text: exptId()"></label>
+                  <label class="erColon">:</label>
+                  <label class="erTitle" data-bind="text: exptTitle()"></label>
+                  <button data-bind="css:s2preClass(), text: viewS2preMsg(), click: processS2pre"></button>
+                  <button data-bind="css:s2postClass(), text: viewS2postMsg(), click: processS2post"></button>
+                  <button data-bind="css:is2preClass(), text: viewiS2preMsg(), click: processiS2pre"></button>
+                  <button data-bind="css:is2postClass(), text: viewiS2postMsg(), click: processiS2post"></button>
+                  <button data-bind="css:s4preClass(), text: viewS4preMsg(), click: processS4pre"></button>
+                  <button data-bind="css:s4postClass(), text: viewS4postMsg(), click: processS4post"></button>                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>          
+
+    </div>
+   <div id="configStage" class="login"></div>
+   <!-- tabs end here -->
+</div>
+<!-- Wrapper ends here -->
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/jquery-ui-1.11.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/ko/knockout-3.2.0.js"></script>
+<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+<script type="text/javascript" src="/js/forms/surveyInspectList.js"></script>
+</body>
+</html>

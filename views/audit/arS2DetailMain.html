@@ -1,0 +1,78 @@
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">   
+  <div class="headerDeep">
+    <h1>Audit reports: step2 status</h1>
+      <ul>
+        <li><div id="name"></div></li>
+        <li><a id = "BackButton" href="#"><<< Back</a></li>
+      </ul>
+  </div>    
+  <!-- Admin tabs starts here -->
+  <div class="adminTabs adminReviewTabs">
+    <!-- Waiting for data -->
+    <div class="waitingForAction">
+      <h2>Loading step2 status.....</h2>
+    </div>   
+    <!-- First tab content starts here -->
+    <div class="tabContent" >
+      <div class="adminSection">
+        <div class="formRow light">
+          <h1 data-bind="text: exptId()+': '+exptTitle() + ' days:' + dayCnt() + ' sessions:' +sessionCnt()" ></h1>
+          <div class="viewAccordion contracted"><a href="#">expand all</a></div><div class="download"><a href="#">download as RTF</a></div>
+        </div>
+        <div class="currentExperiments active">
+          <h2 data-bind="click: toggleIgnoredVisible, attr: isIgnoredVisible() ? {'class': 'open' } : {'class': 'closed' }">Respondents ignored at Step2 review</h2>
+          <div class="exptReviewSummary formRow dark" data-bind="visible: isIgnoredVisible">
+            <div data-bind="foreach: ignoredS2Respondents">
+              <div data-bind="attr: index() %2 == 0 ? {'class' : 'formRow dark'} : {'class' : 'formRow light'}">
+                <div data-bind="text: 'reviewed respNo: ' + reviewedRespNo()"></div>
+                <div data-bind="text: 'respNo : ' + respNo()"></div>
+                <div data-bind="foreach: turns">
+                  <div data-bind="text: 'qNo: ' + qNo() + ': ' + q()"></div>
+                  <div data-bind="text: 'P reply: ' + reply()"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <h2 data-bind="click: toggleDiscardedVisible, attr: isDiscardedVisible() ? {'class': 'open' } : {'class': 'closed' }">Respondents discarded or restarted due to error</h2>
+          <div class="exptReviewSummary formRow dark" data-bind="visible: isDiscardedVisible">
+            <div data-bind="foreach: discardedS2Respondents">
+              <div data-bind="attr: index() %2 == 0 ? {'class' : 'formRow dark'} : {'class' : 'formRow light'}">
+                <div data-bind="text: 'date-time started : ' + chrono()"></div>
+                <div data-bind="text: 'respNo : ' + respNo()"></div>
+                <div data-bind="foreach: turns">
+                  <div data-bind="text: 'qNo: ' + qNo() + ': ' + q()"></div>
+                  <div data-bind="text: 'P reply: ' + reply()"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <h2 data-bind="click: toggleGoodVisible, attr: isGoodVisible() ? {'class': 'open' } : {'class': 'closed' }">Respondents completed and used for Step4</h2>
+          <div class="exptReviewSummary formRow dark" data-bind="visible: isGoodVisible">
+            <div data-bind="foreach: goodS2Respondents">
+              <div data-bind="attr: index() %2 == 0 ? {'class' : 'formRow dark'} : {'class' : 'formRow light'}">
+                <div data-bind="text: 'reviewed respNo: ' + reviewedRespNo()"></div>
+                <div data-bind="text: 'respNo : ' + respNo()"></div>
+                <div data-bind="foreach: turns">
+                  <div data-bind="text: 'qNo: ' + qNo() + ': ' + q()"></div>
+                  <div data-bind="text: 'P reply: ' + reply()"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    <!-- First tab content ends here -->
+  </div>
+  <!-- Admin tabs ends here -->      
+</div>
+<!-- Wrapper ends here -->
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/js/ko/knockout-3.2.0.js"></script>
+<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+<script type="text/javascript" src="/js/audit/arS2View.js"></script>
+<script type="text/javascript" src="/js/mobile/adminNavigate.js"></script>
+</body>
+</html>

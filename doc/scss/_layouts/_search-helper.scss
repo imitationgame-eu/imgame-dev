@@ -1,0 +1,30 @@
+.search-helper {
+  text-align: center;
+
+  &__inner {
+    max-width: 690px;
+    margin: 0 auto;
+  }
+
+  .search-form {
+    margin: 20px 0 0;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .search-helper {
+
+    .search-form {
+      margin: 32px 0 0;
+    }
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .search-helper {
+
+    h2 {
+      font-size: 44px;
+    }
+  }
+}

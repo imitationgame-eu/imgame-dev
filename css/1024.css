@@ -1,0 +1,78 @@
+/*-------------------------------------------------------------------------
+Imgame - 1024px resolution.
+Created by Joseph Gallagher.
+July 2012
+-------------------------------------------------------------------------*/
+
+.wrapper {
+	width: 980px;
+	margin: 50px auto;
+}
+
+.gameTabs .tab {
+	height: 40px;
+	width: 258px;
+	padding: 9px 20px 0 40px;
+}
+
+.adminTabs .tab {
+	height: 33px;
+	width: 139px;
+	padding: 20px 10px 0 35px;
+}
+
+.adminTabs.adminReviewTabs .tab {
+	height: 40px;
+	width: 82px;
+	padding: 13px 10px 0 35px;
+}
+
+.adminTabs.adminReviewTabs #tabTwo {
+	left: 148px;
+}
+
+.adminTabs.adminReviewTabs #tabThree {
+	left: 286px;
+}
+
+.adminTabs.adminReviewTabs #tabFour {
+	left: 286px;
+}
+
+.gameTabs #tabTwo, .adminTabs #tabTwo {
+	left: 318px;
+}
+
+.gameTabs #tabThree, .adminTabs #tabThree {
+	left: 576px;
+}
+
+.gameTabs #tabFour, .adminTabs #tabFour {
+	left: 568px;
+}
+
+.statusPods li:nth-child(4n+4) {
+	margin: 2% 0 0 0;
+}
+
+.adminContent {
+	background: #fff;
+	border: #666666 8px solid;
+	width: 924px;
+	padding: 20px;
+	clear: both;
+	display: inline-block;
+}
+
+.adminTabs .tabContent {
+	clear: both;
+	display: none;
+	position: absolute;
+	top: 64px;
+	left: 0;
+	background: #fff;
+	border: #666666 8px solid;
+	width: 924px;
+	padding: 20px;
+}
+

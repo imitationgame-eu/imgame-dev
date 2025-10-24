@@ -1,0 +1,81 @@
+/*-------------------------------------------------------------------------
+Imgame - 0px to 479px resolution.
+Created by Joseph Gallagher.
+July 2012
+-------------------------------------------------------------------------*/
+
+body {
+	font-size: 0.525em;
+}
+
+.wrapper {
+	width: 100%;
+	margin: 10px 0;
+}
+
+#judgeContent {
+	border: none;
+	border-top: #3e2558 5px solid;
+	border-bottom: #3e2558 5px solid;
+}
+
+#nonPretenderContent {
+	border: none;
+	border-top: #4f6b2e 5px solid;
+	border-bottom: #4f6b2e 5px solid;
+}
+
+#pretenderContent {
+	border: none;
+	border-top: #712c22 5px solid;
+	border-bottom: #712c22 5px solid;
+}
+
+.gameTabs .tab {
+	height: 37px;
+	width: 50px;
+	padding: 13px 0 0 40px;
+	font-size: 1.2em;
+}
+
+.gameTabs .tab span {
+	font-size: 1.0em;
+}
+
+.gameTabs #tabTwo {
+	left: 95px;
+}
+
+.gameTabs #tabThree {
+	left: 190px;
+}
+
+.choice label {
+	font-size: 1.2em;
+}
+
+.interval {
+    font-size: 0.9em;
+}
+
+.nonPretendersAnswer textarea, .pretendersAnswer textarea {
+	width: 98%;
+}
+
+.guidanceNotes {
+	display: none;
+}
+
+.adminContent {
+	border: none;
+	border-top: #666666 8px solid;
+	border-bottom: #666666 8px solid;
+}
+
+.statusPods li {
+	margin: 4% 9px 0 0;
+}
+
+.statusPods li:nth-child(2n+2) {
+	margin: 2% 0 0 0;
+}

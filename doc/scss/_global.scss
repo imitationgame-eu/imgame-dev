@@ -1,0 +1,132 @@
+.container,
+.container-fluid {
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.container {
+  max-width: 1320px;
+
+  &-fluid {
+    max-width: 1470px;
+  }
+}
+
+.anchor-overlay {
+  font-size: 0;
+  inset: 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.search-form {
+
+  form {
+    height: 50px;
+    position: relative;
+  }
+
+  input {
+    &[type="text"] {
+      border: 0.5px solid #d5d5d5;
+      box-shadow: none;
+      height: 100%;
+      display: block;
+      font-size: 1rem;
+      padding: 0 60px 0 15px;
+      width: 100%;
+
+      &::placeholder {
+        color: #8D8D8D;
+        opacity: 1;
+      }
+
+      &:focus {
+        box-shadow: 0 0 9px 1px rgba($color: #000000, $alpha: 0.06);
+        outline: none;
+      }
+    }
+
+    &[type="submit"] {
+      background-color: rgba($color: #002664, $alpha: 1);
+      background-image: url(../images/magnify-glass.svg);
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 0;
+      border-radius: 3px;
+      bottom: 3px;
+      cursor: pointer;
+      font-size: 0;
+      position: absolute;
+      transition: 300ms background-color linear;
+      right: 3px;
+      top: 3px;
+      width: 50px;
+
+      &:hover {
+        background-color: rgba($color: #002664, $alpha: 0.85);
+      }
+    }
+  }
+}
+
+.breadcrumbs {
+  color: #868484;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-top: 0;
+  padding-left: 0;
+
+  li {
+    &:not(:last-of-type) {
+      &::after {
+        content: "/";
+        color: #575656;
+        margin: 0 5px;
+      }
+    }
+  }
+
+  a {
+    color: #575656;
+    text-decoration: none;
+
+    &:hover {
+      color: #000000;
+    }
+  }
+}
+
+.text-content {
+  color: #3B3939;
+
+  h2, h3, h4, h5, h6 {
+    color: #010101;
+    font-weight: 500;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .search-form {
+    &:not(.documentation-sidebar__form) {
+
+      form {
+        height: 68px;
+      }
+
+      input {
+        &[type="text"] {
+          padding: 0 75px 0 22px;
+        }
+
+        &[type="submit"] {
+          bottom: 6px;
+          width: 58px;
+          right: 9px;
+          top: 6px;
+        }
+      }
+    }
+  }
+}

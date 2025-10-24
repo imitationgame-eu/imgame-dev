@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Imgame home page</title>
+	<link rel="stylesheet" href="/jquery-themes/imgame.min.css" />
+	<link rel="stylesheet" href="/jquery-mobile/jquery.mobile.icons-1.4.5.min.css" />
+	<link rel="stylesheet" href="/jquery-mobile/jquery.mobile.structure-1.4.5.min.css" />
+  <link href="/mobile-css/1024.css" rel="stylesheet" media="screen and (min-width: 1024px)" />
+</head>
+<body>
+	<div data-role="page" data-theme="a" data-cache="false">
+		<div data-role="header" data-position="inline">
+			<h1>Imgame registration error</h1>
+		</div>
+		<div data-role="content" data-theme="a">
+			<h3>Registration Error</h3>
+			<p>Your registration attempt was unsuccessful. This can happen for many reasons: perhaps the server is busy or the email address you used is already registered.</p>
+			<p>Please try again below. If you are unsuccessful after another attempt, please contact <a href="mailto:martin.hall326@gmail.com">the imgame administrator</a></p>
+			<form action="/index.php" method="post" name="register">
+				<div class="registerForm">
+					<h3>Register now</h3>
+					<div class="regForm formRow light">
+						<label for="firstName">First name</label>
+						<input type="text" class="text" id="firstName">
+					</div>
+					<div class="regForm formRow dark">
+						<label for="lastName">Last name</label>
+						<input type="text" class="text" id="lastName">
+					</div>
+					<div class="regform formRow light">
+						<label for="rEmail">Email address</label>
+						<input type="email" class="email" placeholder="example@domain.com" name="rEmail" id="rEmail">
+					</div>
+					<div class="regForm formRow dark">
+						<label for="rp1">Choose password</label>
+						<input type="password" class="password" id="rp1" name="rp1"/>
+						<p>Your password must be at least 5 characters long. It is recommended you use at least 8 characters and use a mixture of numbers, lower-, and upper-case characters.</p>
+					</div>
+					<div class="regForm formRow light">
+						<label for="rp2">Confirm password</label>
+						<input type="password" class="password" id="rp2" name="rp2"  onfocus="checkPassword(document.getElementById('rp1'), this);" oninput="checkPassword(document.getElementById('rp1'), this);"/>
+					</div>
+					<input type="hidden" value="0" name="action" />
+					<input type="hidden" value="1" name="process" />
+					<input id="regB" type="Submit" value="Register" class="buttonBlue">
+				</div>
+			</form>
+		</div>
+    <div data-role="footer" data-position="inline" data-tap-toggle="false">
+      <h1>~~~~~~~~~~~~</h1>
+    </div>
+	</div>
+	<script src="/jquery/jquery-2.1.3.min.js"></script>
+	<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>  
+	<script src="/jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
+	<script src="/jquery-mobile/page.modifiers.js"></script>
+	<script src="/jquery-validation/jquery.validate.min.js"></script>
+	<script src="/jquery-validation/additional-methods.min.js"></script>
+	<script src="/js/global/loginRegister.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+/*
+
+to make mobile registrationViews look more akin to standard web registrationViews when viewed landscape
+on larger screens (e.g. iPad landscape mode & PCs)
+
+*/
+
+
+.ui-page {
+  width: 960px !important;
+  margin: 0 auto !important;
+  position: relative !important;
+  border-right: 5px #666 outset !important;
+  border-left: 5px #666 outset !important;
+}

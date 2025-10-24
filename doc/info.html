@@ -1,0 +1,95 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Imgame online documentation</title>
+
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+<!-- ko using: docVM -->
+<main class="site-content">
+    <div class="d-flex flex-wrap documentation-page">
+        <aside class="documentation-sidebar">
+            <div class="documentation-sidebar__logo">
+                <a href="./info.html">
+                    <img src="./images/imgamelogo.png" height="144" alt="imgame Logo">
+                </a>
+            </div>
+
+            <div class="search-form documentation-sidebar__form">
+                <form>
+                    <input type="text" placeholder="search not yet active!">
+                    <input type="submit" value="submit">
+                </form>
+            </div>
+
+            <div class="documentation-sidebar__menu">
+                <ul>
+                    <!-- ko foreach: headerVMs -->
+                    <li data-bind="class: getHeaderClass()">
+                        <a href="#" data-bind="text: headerText, click:toggleClick"></a>
+                        <!-- ko if: hasItems -->
+                        <ul data-bind="visible: accordionOpen">
+                            <!--ko foreach: sectionVMs -->
+                            <li data-bind="class: getSectionClass" >
+<!--                                <a href="#">junk</a>-->
+                                <a href="#" data-bind="text: accordionHeader, click:toggleClick"></a>
+                            </li>
+                            <!--/ko-->
+                        </ul>
+                        <!--/ko-->
+                    </li>
+                    <!--/ko -->
+                </ul>
+            </div>
+        </aside>
+
+        <button type="button" class="documentation-sidebar__toggle">
+            <img src="./images/arrow-right.svg" alt="Arrow Right/Left Icon" height="30" width="30">
+        </button>
+
+
+        <div class="documentation-content">
+            <!--ko foreach: headerVMs -->
+            <!--ko foreach: sectionVMs -->
+            <ul class="breadcrumbs" data-bind="visible: accordionOpen">
+                <li>
+                    <a href="./info.html">Documentation</a>
+                </li>
+                <li data-bind="text: getHeaderBreadcrumb">
+                </li>
+                <li data-bind="text: accordionHeader"></li>
+            </ul>
+
+            <!--/ko-->
+            <!--/ko-->
+
+
+
+            <div class="text-content">
+                <!--ko foreach: headerVMs -->
+                <!--ko foreach: sectionVMs -->
+                <div data-bind="visible: accordionOpen">
+                    <h2 data-bind="text: accordionDescription"></h2>
+                    <div data-bind="html: content"></div>
+                </div>
+                <!--/ko-->
+                <!--/ko -->
+            </div>
+        </div>
+
+    </div>
+</main>
+<!--/ko-->
+
+
+<script src="./js/script.min.js"></script>
+<script src="./js/jquery-3.7.1.min.js"></script>
+<script src="./js/knockout-3.5.1.js"></script>
+<script src="./js/docapi.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!-- NOTE:  survey registrationViews use jQM v1.3.2 for reliable KO bindings
+            other registrationViews use jQM v1.4.5 -->
+
+  <div data-role="page" data-theme="b">
+		<div data-role="header" data-position="inline">
+			<h1>Imgame Step2</h1>
+		</div>
+		<div data-role="content">
+      <div data-bind="visible: isIntroPageVisible">
+        <!-- ko foreach: formInst -->
+          <h3 data-bind="text: para"></h3>
+        <!-- /ko -->
+        <!-- shared header -->
+        <div data-bind="visible: isSubIntroPageVisible">
+          <h2 data-bind="text: introPageTitle"></h2>
+          <div data-bind="foreach: introPageMessage">
+            <p data-bind="text: para"></p>
+          </div>
+          <br />               
+        </div>
+        <!-- end of shared header -->
+        <!-- eligibility section -->
+        <div data-bind="if: isEligibilityVisible">
+          <!-- ko foreach: eligibilityQLabel -->
+            <p data-bind="text: para"></p>
+          <!-- /ko -->
+          <fieldset data-role="controlgroup">
+              <!-- ko foreach: eqOptions -->
+                <label data-bind="text: label"></label>
+                <input type="radio" data-bind="attr: {'name': eqRBName, 'id': eqRBId}, value: optionNo, checked: optionSelected" />
+              <!-- /ko -->            
+          </fieldset>
+          <fieldset data-role="controlgroup">
+            <div data-bind="foreach: eqOptions">
+                <label data-bind="text: label"></label>
+                <input type="radio" data-bind="attr: {'name': eqRBName, 'id': eqRBId}, value: optionNo, checked: optionSelected" />
+              </div>            
+          </fieldset>
+              <!-- ko foreach: eqOptions -->
+              <label data-bind="attr:{'for' : eqRBId}, text: label"></label>
+              <input type="radio" data-bind="attr: {'name': eqRBName, 'id': eqRBId}, value: optionNo, checked: optionSelected" />
+              <!-- /ko -->
+              <div data-role="fieldcontain">
+            <fieldset data-role="controlgroup">
+              <legend>some text</legend>
+              <!-- ko foreach: eqOptions -->
+                <label data-bind="text: label"></label>
+                <input type="radio" data-bind="attr: {'name': eqRBName, 'id': eqRBId}, value: optionNo, checked: optionSelected" />
+              <!-- /ko -->
+            </fieldset>
+              </div>
+          
+<fieldset data-bind="value: Vote, jqCheckboxRadio: { mini: 'true', type: 'horizontal' }">
+    <label><input type="radio" value="Yes" data-bind="attr: {name: 'VoteGroup'}, checked: Vote" />Yes</label>
+    <label><input type="radio" value="No" data-bind="attr: {name: 'VoteGroup'}, checked: Vote" />No</label>
+    <label><input type="radio" value="Abstain" data-bind="attr: {name: 'VoteGroup'}, checked: Vote" />Abstain</label>
+</fieldset>
+          
+<p>
+    <select data-native-menu="false" data-bind="options: ['Yes','No','Abstain'], optionsCaption: 'Choose...', value: Vote" data-mini="true">
+    </select>
+</p>
+          
+          
+          
+          <input id="eligibilityButton" type="submit" data-bind="value:introPageButtonLabel, attr:{class: eligibleButtonClass}, event:{click: setEligibilitySections} "/>
+        </div>  
+        <!-- end of eligibility section -->
+      </div>
+		</div>
+    <div data-role="footer" data-position="inline" data-tap-toggle="false">
+      <h1>~~~~~~~~~~~~</h1>
+    </div>
+	</div>
+<script src="/jquery/jquery-2.1.3.min.js"></script>
+<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>  
+<script src="/jquery-mobile/jquery.mobile-1.3.2.min.js"></script>
+<script src="/jquery-mobile/page.modifiers.js"></script>
+<script src="/js/ko/knockout-3.3.0.js"></script>
+<script src="/js/ko/ko-mapping.js"></script>
+<script src="/js/forms/stepFormRuntime.js"></script>
+</body>
+</html>

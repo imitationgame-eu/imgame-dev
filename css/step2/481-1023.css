@@ -1,0 +1,94 @@
+/*-------------------------------------------------------------------------
+Imgame - 481px to 1023px resolution.
+Created by Joseph Gallagher.
+July 2012
+-------------------------------------------------------------------------*/
+
+.wrapper {
+	width: 100%;
+	margin: 25px 0;
+}
+
+#judgeContent {
+	border: none;
+	border-top: #3e2558 5px solid;
+	border-bottom: #3e2558 5px solid;
+}
+
+#nonPretenderContent {
+	border: none;
+	border-top: #4f6b2e 5px solid;
+	border-bottom: #4f6b2e 5px solid;
+}
+
+#pretenderContent {
+	border: none;
+	border-top: #712c22 5px solid;
+	border-bottom: #712c22 5px solid;
+}
+
+.gameTabs .tab, .adminTabs .tab {
+	height: 40px;
+	width: 129px;
+	padding: 9px 20px 0 40px;
+}
+
+.gameTabs #tabTwo, .adminTabs #tabTwo {
+	left: 199px;
+}
+
+.gameTabs #tabThree, .adminTabs #tabThree {
+	left: 388px;
+}
+
+.gameTabs #tabFour, .adminTabs #tabFour {
+	left: 578px;
+}
+
+.guidanceNotes p {
+	font-size: 1.2em;
+}
+
+.adminContent {
+	border: none;
+	border-top: #666666 8px solid;
+	border-bottom: #666666 8px solid;
+	clear: both;
+    display: inline-block;
+}
+
+.statusPods li:nth-child(3n+3) {
+	margin: 2% 0 0 0;
+}
+
+.adminTabs .tab {
+    height: 33px;
+    padding: 20px 10px 0 35px;
+    width: 139px;
+}
+
+.adminContent {
+	border: none;
+	border-top: #666666 8px solid;
+	border-bottom: #666666 8px solid;
+	background: #fff;
+	width: 96%;
+	padding: 2%;
+	clear: both;
+	display: inline-block;
+}
+
+.adminTabs .tabContent {
+	clear: both;
+	display: none;
+	position: absolute;
+	top: 64px;
+	left: 0;
+	background: #fff;
+	border-top: #666666 8px solid;
+	border-bottom: #666666 8px solid;
+	border-left: none;
+	border-right: none;
+	width: 96%;
+	padding: 2%;
+}

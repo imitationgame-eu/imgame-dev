@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Imgame registration error</title>
+
+<link href="/css/basic.css" rel="stylesheet" type="text/css" media="Screen" />
+<link href="/css/480.css" rel="stylesheet" media="screen and (max-width: 480px)" />
+<link href="/css/481-1023.css" rel="stylesheet" media="screen and (min-width: 481px) and (max-width: 1023px)" />
+<link href="/css/1024.css" rel="stylesheet" media="screen and (min-width: 1024px)" />
+
+<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" media="Screen" href="css/ie.css" />
+<![endif]-->
+</head>
+
+<body>
+
+
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">
+    
+    <div class="adminContent">
+        <h1>Imgame registration error</h1>
+        <h3>Registration Error</h3>
+        <div>
+        <p>Your registration attempt was unsuccessful. This can happen for many reasons, perhaps the server is busy, or the email address you used is already registered.</p>
+        <p>Please try again below. If you are unsuccessful after several attempts, please contact <a href="mailto:martin.hall326@gmail.com">the imgame administrator</a></p>
+        <form action="/index.php" method="post" name="login">
+        <div class="loginForm">
+        	<h2>Login</h2>
+            <div class="logF formRow light">
+		<label for="email">Email address</label>
+                <input type="email" class="email" placeholder="example@domain.com" name="emailT" id="emailT">
+            </div>
+            <div class="logF formRow dark">
+		<label for="password">Password</label>
+                <input type="password" class="password" placeholder="enter your password" name="p1" id="p1" />
+                <!--<input type="text" id="password">-->
+                <input type="hidden" value="1" name="action" />
+                <input type="hidden" value="1" name="process" />
+                <a href="#" class="forgotPassword">Forgot password?</a>
+            </div>
+            <input id="loginB" type="Submit" value="Login" class="buttonBlue">
+        </div>
+        </form>
+        
+    
+    </div>
+    
+</div>
+<!-- Wrapper ends here -->
+
+<script type="text/javascript" src="/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.23.custom.min.js"></script>
+<script type="text/javascript" src="/js/global/viewScripts.js"></script>
+
+</body>
+</html>

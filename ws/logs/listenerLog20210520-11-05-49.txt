@@ -1,0 +1,231 @@
+<loginJoin><:>2<:>41982<:>399<:>1<:>1<:>1<:>3<:>
+<loginJoin><:>3<:>41981<:>399<:>1<:>1<:>0<:>2<:>
+<loginJoin><:>4<:>41980<:>399<:>1<:>1<:>1<:>2<:>
+<loginJoin><:>5<:>41983<:>399<:>1<:>1<:>0<:>3<:>
+initSession<:>1<:>399<:>1<:>1<:>4
+<loginJoin><:>6<:>41979<:>399<:>1<:>1<:>0<:>1<:>
+<loginJoin><:>7<:>41976<:>399<:>1<:>1<:>1<:>0<:>
+37.33.160.217 (4)
+78.27.122.222 (6)
+<loginJoin><:>4<:>41980<:>399<:>1<:>1<:>1<:>2<:>
+ 4
+<loginJoin><:>6<:>41978<:>399<:>1<:>1<:>1<:>1<:>
+<loginJoin><:>8<:>41977<:>399<:>1<:>1<:>0<:>0<:>
+<loginJoin><:>9<:>41979<:>399<:>1<:>1<:>0<:>1<:>
+ 9
+StartSignal to: 8
+StartSignal to: 7
+StartSignal to: 9
+StartSignal to: 6
+StartSignal to: 3
+StartSignal to: 4
+StartSignal to: 5
+StartSignal to: 2
+78.27.122.222 (9)
+<JQ><:>7<:>0<:>What%20type%20of%20academic%20social%20events%20do%20you%20participate%20in%20and%20why%3F<:>.Perhaps%20access%20and%20intention%20differs%20between%20doctors%20%2F%20non-doctors
+<JQ><:>2<:>0<:>What%20is%20the%20most%20important%20task%20of%20the%20Faculty%20Board%3F<:>.more%20experienced%20uni%20members%20will%20know%20the%20answer.
+<JQ><:>3<:>0<:>What%20has%20been%20your%20most%20challenging%20academic%20accomplishment%20so%20far%3F<:>.I%20assume%20that%20there%20might%20be%20some%20differences%20between%20the%20doctors%20and%20non-doctors.%20Perhaps%20the%20doctor%20accidentally%20reveals%20their%20advanced%20experiences%20in%20academic%20research.
+<JQ><:>6<:>0<:>What%20do%20you%20expect%20from%20your%20future%20career%3F<:>.There%20may%20be%20a%20difference%20in%20life%20stages
+<JQ><:>8<:>0<:>Who%20gives%20a%20speech%20right%20after%20the%20defendant%20at%20the%20dissertation%20defense%20afterparty%20(karonkka)%3F<:>.A%20person%20who%20has%20defended%20their%20dissertation%20and%20had%20a%20karonkka%20party%20most%20likely%20knows%2Fremembers%20the%20order%20of%20speeches.
+<JQ><:>1<:>0<:>How%20much%20reading%20and%20what%20types%20of%20reading%20do%20you%20do%20in%20a%20typical%20week%3F<:>.I%20think%20that%20MA%20students%20are%20still%20working%20out%20their%20strategies%20and%20learning%20about%20different%20types%20of%20literature%20review%20vs.%20course%20work.%20I%20want%20to%20see%20if%20there%20is%20evidence%20of%20strategy%20or%20differentiation%20between%20types%20of%20reading.
+<loginJoin><:>9<:>41979<:>399<:>1<:>1<:>0<:>1<:>
+9
+ 9
+<JQ><:>5<:>0<:>What%20is%20the%20optimal%20time%20to%20finish%20writing%20up%20your%20thesis%3F<:>.MA%20thesis%20takes%20less%20time%20(months)%20than%20PhD%20thesis%20(years).%20
+<JQ><:>4<:>0<:>what%20is%20the%20objective%20or%20your%20work%20at%20the%20moment%3F<:>.too%20see%20whether%20it%20is%20phd%20or%20later%20career
+<NPA><:>8<:>2<:>0<:>Creates%20and%20modifies%20strategic%20plans%20for%20the%20faculty
+<NPA><:>4<:>6<:>0<:>a%20tenure%20track%20position
+<PA><:>8<:>7<:>0<:>Seminars
+<NPA><:>3<:>1<:>0<:>I%20read%20quite%20a%20lot.%20During%20my%20spare%20time%2C%20I%20read%20couple%20of%20newspapers%20and%20I'm%20always%20reading%20trough%20a%20novel%20just%20for%20fun.%20I%20also%20read%20some%20academic%20research%20for%20my%20work.%20
+<NPA><:>5<:>3<:>0<:>Writing%20an%20argumentative%20essay.%20
+<PA><:>2<:>1<:>0<:>Reading%20is%20connected%20to%20writing%20and%20in%20that%20way%20it%20is%20difficult%20to%20count%20the%20hours.%20in%20time%20wise%20maybe%20about%2010%20hours.
+<NPA><:>6<:>8<:>0<:>The%20opponent
+<PA><:>4<:>3<:>0<:>getting%20the%20scope%20my%20phd%20goal%20narrow%20enough
+<PA><:>6<:>5<:>0<:>4%20yrs%0A
+<NPA><:>2<:>4<:>0<:>Most%20objectives%20are%20related%20to%20money.%20how%20to%20get%20it%2C%20or%20evaluate%20who%20should%20get%20it.
+<PA><:>5<:>2<:>0<:>To%20make%20decisions%20about%20the%20structural%20organisation%20of%20Uni%20and%20tasks%20and%20responsibilities%20of%20Faculty.%20
+<NPA><:>1<:>7<:>0<:>I%20attend%20lectures%2C%20zoom%20conferences%2C%20meetings%2C%20to%20see%20others%20work%2C%20to%20network%20professionally%2C%20to%20learn%20about%20different%20approaches%20and%20to%20compare%20my%20own%20approach.
+<NPA><:>7<:>5<:>0<:>According%20to%20Helsinki%20University%20official%20criteria%20it%20is%205%20years%20I%20think.%20Some%20finish%20before%2C%20some%20take%20longer.%20The%20optimal%20time%20depends%20on%20the%20research%20and%20the%20person%20I%20guess.%20My%20aim%20has%20always%20been%20to%20finish%20in%205%20years%20simply%20because%20I%20want%20to%20have%20enough%20time%20to%20do%20it%20well%2C%20and%20not%20keep%20on%20doing%20it%20forever%20
+<PA><:>3<:>8<:>0<:>The%20opponent.
+<PA><:>1<:>6<:>0<:>I%20expect%20that%20it%20will%20remain%20very%20similar%20to%20my%20current%20activities%2C%20but%20you%20never%20know.
+<PA><:>7<:>4<:>0<:>I'm%20working%20on%20various%20tasks.%20Teaching%2C%20applying%20for%20new%20funding%2C%20research%2C%20writing%20as%20well%20as%20some%20administrative%20tasks.
+pong check<:>9
+pong check<:>9
+<JR><:>3<:>1<:>0<:>The%20response%201%20is%20what%20I%20would%20assume%20from%20a%20non-doctor.%20The%20response%202%20is%20also%20possible%2C%20if%20the%20non-doctor%20in%20question%20is%20working%20with%20their%20phd%20(and%20therefore%20is%20not%20yet%20a%20doctor).%20<:>interval3<:>0<:>respondent1Interval4<:>respondent2Interval2<:>categoryInterval1
+<JR><:>8<:>1<:>0<:>Both%20answers%20are%20the%20same.%20I%20chose%20the%20one%20with%20the%20full%20stop%20at%20the%20end.%20Perhaps%20that%20is%20the%20non-pretender%20%3A)<:>interval1<:>1<:>respondent1Interval4<:>respondent2Interval4<:>categoryInterval3
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+<JQ><:>3<:>1<:>Please%20describe%20your%20career%20plans%20for%20the%20next%205%20years.<:>.The%20career%20plans%20might%20be%20different%20for%20the%20doctors%20and%20non-doctors.%20However%2C%20I'm%20afraid%20this%20question%20might%20be%20too%20easy%20for%20the%20pretender.
+<JR><:>7<:>1<:>0<:>Response%201%20is%20similar%20to%20what%20I%20would%20have%20answered.%20Response%202%20sounds%20like%20a%20lazy%20pretender<:>interval3<:>0<:>respondent1Interval3<:>respondent2Interval1<:>categoryInterval2
+<JR><:>2<:>1<:>1<:>neither%20of%20the%20respondents%20know%20a%20thing.%20question%20was%20probably%20not%20that%20good.%20but%20the%20other%20one%20might%20be.%0A<:>interval2<:>0<:>respondent1Interval1<:>respondent2Interval2<:>categoryInterval1
+<JQ><:>2<:>1<:>Who%20is%20the%20key%20person%20in%20assessing%20a%20doctoral%20thesis%3F<:>.those%20who%20have%20defended%20the%20thesis%20know%20the%20answer.
+<JQ><:>7<:>1<:>Are%20you%20pursuing%20a%20PhD%3F%20If%20yes%2C%20why%3F<:>.Although%20doctors%20have%20been%20MA's%20at%20some%20point%2C%20perhaps%20one%20forgets%20the%20perspective%20over%20time.
+<JR><:>4<:>1<:>0<:>r1%3A%20I%20know%20that%20there%20is%20a%20pressure%20to%20get%20funding%20for%20phDs%20-this%20is%20a%20professor%20level%20answer%20that%20is%20very%20focused%20on%20one%20aspect%20that%20is%20not%20relevant%20to%20a%20non%20phd%0Ar2%3A%20this%20can%20be%20either%20or%2C%20but%20I'd%20guess%20a%20non-pretender%20would%20try%20to%20find%20a%20more%20specific%20answer%20-especially%20compared%20with%20the%20r1%20this%20is%20not%20as%20convincing<:>interval4<:>0<:>respondent1Interval4<:>respondent2Interval3<:>categoryInterval1
+<JR><:>5<:>1<:>0<:>Both%20MA%20and%20PhD%20students%20know%20the%20time%20frame%20to%20complete%20a%20thesis%2C%20a%20PhD%20student%20would%20never%20say%20'I%20want%20to%20have%20enough%20time%20to%20do%20it%20well'.%20<:>interval3<:>0<:>respondent1Interval2<:>respondent2Interval3<:>categoryInterval1
+<JR><:>6<:>1<:>1<:>Maybe%20this%20is%20a%20professor<:>interval1<:>0<:>respondent1Interval2<:>respondent2Interval3<:>categoryInterval2
+<JR><:>1<:>1<:>0<:>I%20think%20Responder%202%20is%20trying%20to%20fool%20me%20and%20Responder%201%20is%20answering%20naturally.<:>interval2<:>1<:>respondent1Interval1<:>respondent2Interval1<:>categoryInterval2
+<NPA><:>8<:>2<:>1<:>A%20pre-examiner
+<PA><:>5<:>2<:>1<:>Doctoral%20thesis'%20supervisor.
+<JQ><:>1<:>1<:>Tell%20me%20about%20your%20relationship%20with%20your%20supervisor.<:>.I%20am%20curious%20to%20see%20how%20a%20Ph.D.%20might%20pretend%20to%20answer%20this%20question.
+<PA><:>4<:>3<:>1<:>I%20need%20to%20finish%20my%20PhD%20as%20soon%20as%20possible%20and%20then%20get%20some%20good%20publications%20so%20that%20I%20will%20get%20first%20a%20post%20doc%20position%20and%20a%20tenure%20after%20that
+<NPA><:>5<:>3<:>1<:>Graduate%20and%20once%20I%20find%20a%20job%2C%20I%20want%20to%20see%20how%20I%20like%20putting%20in%20practice%20the%20academic%20competence%20I've%20gained%20so%20far.%20
+<JQ><:>6<:>1<:>Why%20did%20you%20choose%20to%20pursue%20your%20PhD%3F<:>.PhDs%20may%20have%20a%20experienced%20answer
+<NPA><:>1<:>7<:>1<:>Yes%20I%20am%20pursuing%20a%20Ph.D.%20because%20I%20can.%20I%20am%20on%20a%20path%20to%20a%20natural%20destination%20for%20me%20that%20will%20allow%20me%20to%20keep%20doing%20what%20I%20am%20doing%20and%20culminate%20in%20a%20position%20at%20an%20institution%20to%20teach%2C%20do%20research%2C%20and%20contribute%20to%20society%20with%20expertise.
+<JR><:>2<:>2<:>0<:>this%20answer%20is%20little%20closer%20to%20the%20truth.<:>interval3<:>0<:>respondent1Interval2<:>respondent2Interval1<:>categoryInterval1
+<PA><:>8<:>7<:>1<:>Yes%2C%20because%20my%20topic%20is%20widely%20interesting%20and%20current%2C%20and%20because%20I%20want%20to%20pursue%20an%20academic%20career.
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+<NPA><:>3<:>1<:>1<:>I%20have%20a%20good%20relationship%20with%20my%20supervisor.%20Not%20exactly%20friendly%2C%20but%20we%20have%20mutual%20respect%20and%20our%20communication%20works%20well.%20
+pong check<:>9
+<JQ><:>8<:>1<:>What%20kind%20of%20options%20there%20are%20to%20get%20funding%20for%20your%20research%3F<:>.Perhaps%20PhD's%20are%20more%20familiar%20with%20different%20funding%20options%20and%20can%20describe%20them.
+pong check<:>9
+pong check<:>9
+<JQ><:>5<:>1<:>What%20do%20you%20aim%20to%20achieve%20in%20your%20work%3F<:>.MA%20and%20Doctoral%20students%20have%20different%20goals%20-%20MA%20students%20aim%20at%20furthering%20their%20field-specific%20knowledge%20and%20skills%20while%20doctoral%20students%20are%20working%20towards%20learning%20how%20to%20do%20do%20science.%20
+<JQ><:>4<:>1<:>thinking%20about%20the%20upcoming%20year%20(next%2012%20moths)%20of%20your%20career%2C%20what%20do%20you%20fear%20the%20most%20at%20the%20moment%3F<:>.I%20hope%20this%20reveals%20whether%20the%20persons%20fears%20advancing%20phd%20or%20the%20career%20after%20that
+<PA><:>2<:>1<:>1<:>Often%20supervisors%20are%20not%20engaged%20enough.%20But%20maybe%20my%20field%20is%20such%20that%20there%20kind%20of%20of%20mentorship%20is%20possible.
+<PA><:>1<:>6<:>1<:>I%20chose%20to%20do%20my%20Ph.D.%20to%20challenge%20myself%20to%20go%20further%20with%20my%20research%20and%20because%20I%20was%20interested%20in%20gaining%20more%20detailed%20knowledge%20about%20my%20topic%20of%20interest.%20I%20wanted%20to%20be%20a%20professor%20and%20getting%20a%20Ph.D.%20was%20the%20only%20way%20to%20do%20that.
+<NPA><:>6<:>8<:>1<:>Tenure%2C%20foundation%20and%20organization%20grants%2C%20Academy%20positions%20and%20projects%2C%20BF%2C%20EU%2C%20%20...
+<NPA><:>2<:>4<:>1<:>the%20work%20load%20and%20new%20changes%20coming%20in%20all%20the%20time%20and%20too%20rapidly.
+<JR><:>7<:>2<:>1<:>Neither%20response%20resonates%20at%20first%20sight.%20But%20Response%202%20seems%20a%20reasonable%20answer%20as%20it%20is%20focused%20on%20the%20theme%20and%20content%20of%20the%20research%2C%20rather%20than%20oneself%20as%20a%20person.%20In%20terms%20of%20linguistic%20style%20Response%202%20is%20now%20similar%20to%20what%20I%20considered%20a%20pretender%20the%20last%20round.%20So%20this%20choice%20is%20very%20unsure%2C<:>interval1<:>0<:>respondent1Interval2<:>respondent2Interval2<:>categoryInterval2
+pong check<:>9
+pong check<:>9
+<NPA><:>4<:>6<:>1<:>I%20had%20a%20question%20in%20mind%20and%20I%20wanted%20to%20find%20out%20an%20answer%20for%20it%20by%20doing%20phd%20research.%20I%20am%20happy%20that%20I%20did%20find%20the%20answer%20-but%20it%20was%20totally%20different%20from%20what%20I%20expected%20and%20it%20become%20clear%20for%20me%20only%20when%20I%20was%20finalising%20my%20thesis%20for%20pre-examination.
+<PA><:>6<:>5<:>1<:>Finish%20in%20a%20timely%20manner%20and%20consider%20future%20job%20and%20personal%20life%20possibilities
+<JQ><:>2<:>2<:>what%20are%20the%20most%20important%20things%20you%20have%20to%20do%20to%20progress%20in%20your%20career%3F%20<:>.seniors%20know
+<JR><:>1<:>2<:>1<:>Response%202%20seemed%20more%20natural.<:>interval3<:>1<:>respondent1Interval2<:>respondent2Interval2<:>categoryInterval3
+<NPA><:>7<:>5<:>1<:>I'm%20pursuing%20a%20PhD%20at%20this%20moment%20so%20the%20formalized%20aim%20is%20naturally%20to%20finish%20the%20process.%20In%20a%20broader%20sense%20my%20aim%20is%20to%20make%20a%20scientific%20discovery%2C%20contribute%20in%20my%20field%20and%20hopefully%20have%20a%20positive%20social%20impact%20as%20well.
+<PA><:>5<:>2<:>2<:>Do%20empirical%20research%3B%20Publish%20articles%3B%20Present%20my%20findings%20in%20conferences%3B%20Teach.%20
+<PA><:>3<:>8<:>1<:>Private%20companies%20or%20third%20sector%20organizations%20fund%20research%20(better%20funding!%3A)).%20The%20most%20common%20funding%20option%20is%20a%20foundation%2C%20for%20example%20Suomen%20Akatemia%2C%20Suomen%20Kulttuurirahasto%20or%20Koneen%20S%C3%A4%C3%A4ti%C3%B6.%20
+<JR><:>6<:>2<:>1<:>A%20personal%20experience<:>interval3<:>1<:>respondent1Interval2<:>respondent2Interval3<:>categoryInterval2
+<NPA><:>8<:>2<:>2<:>Actively%20publisihing%20research%20articles%20in%20high-quality%20journals%2C%20teaching%2C%20and%20getting%20positive%20funding%20decisions.
+<JQ><:>1<:>2<:>How%20did%20you%20choose%20your%20MA%20program%3F<:>.I%20think%20that%20MA%20students%20may%20have%20general%20interests.%20-%20I%22m%20not%20actually%20sure.
+<PA><:>7<:>4<:>1<:>Apart%20from%20the%20ordinary%20financial%20instability%2C%20I%20do%20not%20fear%20for%20my%20career.%20
+<JR><:>2<:>3<:>0<:>one%20step%20closer%20to%20the%20understanding.<:>interval3<:>0<:>respondent1Interval3<:>respondent2Interval2<:>categoryInterval1
+pong check<:>9
+<JQ><:>7<:>2<:>The%20doctoral%20program%20in%20social%20sciences%20has%20certain%20coursework%20that%20needs%20to%20be%20done%20alongside%20to%20the%20dissertation.%20Please%20outline%20roughly%20and%20briefly%20the%20amount%20and%20type%20of%20required%20coursework%2C%20what%20you%20have%20done%2C%20and%20plan%20do.<:>.I%20am%20hoping%20that%20the%20non-pretender%20is%20also%20a%20PhD%20student.%20Institutional%20framework%20provides%20a%20shared%20and%20uniform%20knowledge%20base%20between%20us.%20Post-docs%20might%20have%20forgotten%2C%20and%20the%20system%20changes%20often.
+pong check<:>9
+<JR><:>8<:>2<:>1<:>I%20think%20that%20a%20PhD%20would%20more%20likely%20mention%20tenures%20and%20academy%20positions%20in%20addition%20to%20foundations.<:>interval3<:>1<:>respondent1Interval2<:>respondent2Interval3<:>categoryInterval2
+pong check<:>9
+<JR><:>3<:>2<:>1<:>Now%20this%20gets%20interesting%3A%20the%20response%201%20is%20the%20textbook%20answer%20from%20a%20master's%20student%2C%20and%20therefore%20it%20seems%20almost%20too%20easy.%20Moreover%2C%20I%20don't%20think%20the%20pretender%20would%20choose%20to%20act%20as%20a%20PhD%20student.%20I'm%20choosing%20respondent%202%20as%20the%20non-pretender%2C%20since%20the%20answer%20is%20less%20likely%20to%20come%20from%20the%20pretender.%20<:>interval3<:>0<:>respondent1Interval4<:>respondent2Interval3<:>categoryInterval1
+<JQ><:>6<:>2<:>What%20is%20the%20biggest%20benefit%20that%20you%20find%20in%20accomplishing%20a%20PhD%3F<:>.Value-related%20question
+<JfinalR><:>2<:>3<:>0<:>respondent%201%20got%20the%20first%20question%20badly%20wrong.%20two%20next%20ones%20a%20bit%20more%20convincing.%0Aa%20doctor%20who%20does%20not%20know%20anything%20of%20the%20faculty%20board.<:>finalInterval3<:>1
+<JR><:>5<:>2<:>1<:>An%20MA%20student%20would%20orient%20to%20finding%20a%20job%20whereas%20a%20PhD%20would%20aim%20at%20making%20scientific%20discovery.%20Members%20of%20both%20groups%20are%20aware%20of%20these%20aspects%20though%2C%20it%20is%20hard%20to%20tell%20who%20is%20who%20from%20the%20answers.%20<:>interval1<:>0<:>respondent1Interval1<:>respondent2Interval3<:>categoryInterval1
+<JQ><:>8<:>2<:>What%20kind%20of%20feedback%20you%20stereotypically%20get%20from%20%22reviewer%202%22%3F<:>.PhD's%20might%20be%20more%20familiar%20with%20this%20stereotype%20and%20have%20received%20more%20reviews.
+<PA><:>2<:>1<:>2<:>it%20more%20chose%20me.%20It%20was%20still%20the%20practice%20that%20students%20continued%20from%20the%20BA%20to%20MA.%0Awell%20just%20some%20years%20ago.
+<JQ><:>3<:>2<:>How%20would%20you%20describe%20your%20occupational%20strengths%20and%20weaknesses%3F<:>.I'm%20trying%20to%20catch%20the%20pretender%20from%20over-pretending.%20
+<NPA><:>1<:>7<:>2<:>The%20amount%20of%20coursework%20has%20to%20total%2040%20credits%20-%2010%20credits%20in%20skills%20work%20(academic%20writing%2C%20pitching%2C%20etc.)%20and%2030%20credits%20of%20subject-related%20work.%20I%20have%20completed%2035%20credits%20of%20the%2040%20required.%20My%20last%20remaining%20credits%20will%20be%20in%20the%20second%20year%20of%20my%20Ph.D.%20seminar%20class.
+<JQ><:>5<:>2<:>How%20does%20the%20work%20affect%20your%20work%2Flife%20balance%3F%20<:>.I%20expect%20an%20MA%20student%20to%20not%20have%20such%20a%20concern%20at%20all%20while%20for%20doctoral%20students%20this%20is%20a%20constant%20struggle.%20
+<NPA><:>6<:>8<:>2<:>%22Your%20thesis%20is%20besides%20the%20topic%22
+pong check<:>9
+pong check<:>9
+pong check<:>9
+<JR><:>4<:>2<:>1<:>r1%20does%20not%20speak%20of%20%22career%22%20s%2Fhe%20seems%20to%20be%20lost%20in%20process%20-this%20could%20be%20an%20answer%20of%20someone%20who%20has%20not%20decided%20s%2Fhe%20will%20pursue%20a%20%22career%22%20of%20a%20researcher%20after%20phd%20-but%20I%20am%20not%20sure%20as%20this%20could%20be%20also%20a%20very%20young%20phd%20who%0Ar2%20answer%20implies%20that%20financial%20instability%20is%20ordinary%20and%20s%2Fhe%20is%20pursuing%20a%20career%2C%20i.e.%20s%2Fhe%20has%20got%20used%20to%20financial%20instability%20and%20is%20pursuing%20a%20career%20-both%20of%20these%20require%20experience%20in%20the%20field%20-but%20this%20could%20also%20be%20a%20phd%20student%20who%20is%20mature%20in%20his%20or%20her%20thinking<:>interval3<:>0<:>respondent1Interval3<:>respondent2Interval3<:>categoryInterval1
+<PA><:>1<:>6<:>2<:>being%20called%20Doctor%20%3A)
+<PA><:>8<:>7<:>2<:>I%20plan%20to%20participate%20in%20research%20methodology%20courses%20(20%20credits)%0Aand%20to%20courses%20supporting%20the%20topic%20of%20my%20dissertation%20research%20(20%20credits).%20Alternatively%2C%20I%20will%20get%20credits%20from%20my%20conference%20presentations.%0A%0A
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+<NPA><:>3<:>1<:>2<:>I%20enjoyed%20my%20BA%20program%20and%20simply%20continued%20the%20same%20field%20for%20my%20MA.%20It%20was%20simple%2C%20since%20I%20didn't%20have%20to%20apply.%20Moreover%2C%20I%20had%20already%20started%20my%20MA%20courses%20before%20I%20even%20finished%20my%20BA.%20
+<PA><:>6<:>5<:>2<:>I%20can%20enjoy%20both%20my%20work%20and%20social%20life%2C%20only%20the%20pandemic%20prevents%20of%20doing%20what%20I%C2%B4%C2%B4d%20like%20to%20do%20besides%20work
+<NPA><:>5<:>3<:>2<:>Strengths%3A%20Highly%20educated%3B%20Updated%20knowledge%20in%20the%20field%3B%20Creative%20and%20innovative%20thinking.%0A%0AWeaknesses%3A%20Lack%20of%20work%20experience.
+<JR><:>1<:>3<:>1<:>I%20think%20it%20was%20a%20more%20natural%20response<:>interval4<:>1<:>respondent1Interval4<:>respondent2Interval4<:>categoryInterval3
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+<JQ><:>1<:>3<:>What%20type%20of%20literature%20review%20are%20you%20conducting%20for%20your%20MA%20thesis<:>.Wondering%20how%20specific%20they%20will%20be
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+<NPA><:>7<:>5<:>2<:>I%20consider%20research%20a%20very%20complicated%20task.%20I%20cannot%20for%20example%20write%20well%20if%20I'm%20tired%2C%20or%20not%20in%20the%20mood.%20I%20am%20also%20not%20able%20to%20force%20it%20very%20well.%20So%20I%20have%20to%20make%20sure%20that%20I%20am%20fit%20when%20I'm%20working%20and%20allocate%20the%20most%20%22wake%22%20hours%20to%20work.%20Further%2C%20I%20find%20sitting%20in%20front%20of%20the%20computer%20and%20working%20with%20the%20mind%20exhausting.%20So%20I%20do%20sports%2Fgo%20out%20running%20a%20lot%20to%20%22get%20out%20of%20my%20head%22.%20In%20the%20future%20I%20would%20hope%20that%20research%20gets%20a%20bit%20easier%2C%20so%20that%20I%20can%20be%20productive%20even%20if%20I'm%20not%20putting%20120%25%20to%20it.
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+pong check<:>9
+<JQ><:>4<:>2<:>What%20did%20you%20find%20difficult%20when%20arranging%20your%20%22karonkka%22%20%3F<:>.for%20Cardiff%3A%20%22karonkka%22%20is%20the%20afterparty%20held%20after%20the%20defence%20-in%20Finland%2C%20this%20is%20a%20very%20big%20party%2C%20expensive%2C%20very%20formal%2C%20and%20a%20heavy%20thing%20to%20prepare%20for%20-usually%20people%20do%20not%20realise%20these%20points%20in%20advance
+<JR><:>5<:>3<:>1<:>Only%20a%20doctoral%20student%20can%20know%20about%20the%20difficulties%20of%20work%2Flife%20balance.%20<:>interval1<:>0<:>respondent1Interval1<:>respondent2Interval4<:>categoryInterval1
+<PA><:>2<:>1<:>3<:>In%20our%20institution%20we%20do%20not%20really%20do%20the%20type%20of%20systematical%20reviews.%20so%20it%20is%20more%20like%20ad%20hoc.
+<PA><:>3<:>8<:>2<:>The%20reviewer%202%20is%20such%20a%20pain%20--%20there%20are%20even%20numerous%20memes%20about%20this!%20Somehow%20it%20is%20a%20global%20issue.%20Blunt%20comments%20about%20the%20relevance%20of%20your%20topic%2C%20taking%20forever%20to%20give%20the%20review%2C%20critic%20about%20the%20methods%20etc.
+<JR><:>7<:>3<:>1<:>Both%20answers%20are%20formally%20correct.%20So%20in%20terms%20of%20epistemics%20it%20is%20difficult%20to%20tell%20who%20is%20who.%20However%2C%20response%201%20sounds%20like%20s%2Fhe%20looked%20up%20the%20info%20on%20the%20internet.%20So%20Response%201%20sounds%20like%20a%20pretender%20based%20on%20the%20form%20of%20the%20answer<:>interval4<:>0<:>respondent1Interval1<:>respondent2Interval3<:>categoryInterval3
+pong check<:>9
+pong check<:>9
+<NPA><:>2<:>4<:>2<:>It%20is%20rather%20valuable%2C%20so%20some%20investment%20is%20needed.%20In%20social%20terms%2C%20it%20is%20a%20bit%20delicate%20balance%20to%20think%20which%20relatives%2C%20which%20friends%20and%20which%20academic%20people%20to%20invite.
+<NPA><:>4<:>6<:>2<:>It%20gave%20me%20the%20qualifications%20for%20pursuing%20a%20career%20in%20research%20-this%20comprises%20the%20phd%20certificate%2C%20networks%2C%20and%20also%20a%20reputation%20as%20being%20qualified%20in%20relation%20to%20my%20research%20topic%20and%20using%20the%20methods%20I%20want%20to%20use%20for%20my%20research.
+<NPA><:>3<:>1<:>3<:>I%20have%20already%20finished%20my%20MA%20thesis.%20I%20conducted%20way%20too%20much%20literature%2C%20and%20had%20to%20eventually%20cut%20most%20of%20it.%20I%20won't%20share%20the%20topic%20here%2C%20since%20it%20might%20reveal%20too%20much%20and%20spoil%20the%20game.%20%3A)%20
+pong check<:>9
+pong check<:>9
+<JR><:>8<:>3<:>0<:>Response%201%20is%20to%20the%20point%20and%20descriptive.%20In%20addition%2C%20you%20get%20%22reviewers%22%20for%20your%20journal%20manuscripts%20and%20conference%20papers%2C%20and%20%22pre-examinors%22%20for%20your%20thesis%2C%20which%20is%20why%20Response%202%20is%20not%20believable.<:>interval3<:>1<:>respondent1Interval4<:>respondent2Interval1<:>categoryInterval1
+213.255.186.132 (7)
+213.255.186.132 (7)
+<loginJoin><:>7<:>41976<:>399<:>1<:>1<:>1<:>0<:>
+7
+ 7
+<JfinalR><:>5<:>3<:>1<:>Some%20details%20in%20Response%201%20person%20include%20information%20that%20only%20a%20doctoral%20student%20can%20know.%20<:>finalInterval3<:>0
+pong check<:>9
+pong check<:>9
+<JR><:>6<:>3<:>0<:>Response%202%20seems%20more%20a%20wish<:>interval2<:>1<:>respondent1Interval3<:>respondent2Interval2<:>categoryInterval3
+<JfinalR><:>7<:>3<:>0<:>I%20think%20I%20have%20chosen%20both%20respondents%20interchangeably%20as%20pretender%2Fnon-pretender.%20In%20my%20last%20assessment%2C%20I%20considered%20the%20granular%20answer%20a%20sign%20of%20a%20Pretender.%20On%20second%20thought%2C%20Response%202%20is%20actually%20not%20entirely%20correct.%20So%20having%20reviewed%20the%20answers%20again%20I%20think%20Respondent%202%20is%20the%20pretender.%20Both%20because%20of%20the%20form%20and%20the%20content.%20But%20to%20be%20honest%2C%20the%20choice%20is%20quite%20unsure%2C%20both%20could%20be%20both.%20<:>finalInterval1<:>0
+<JR><:>1<:>4<:>0<:>I%20chose%201%20because%20it%20was%20natural.%0A<:>interval4<:>1<:>respondent1Interval4<:>respondent2Interval1<:>categoryInterval3
+<PA><:>4<:>3<:>2<:>Financially%2C%20it%20is%20mostly%20about%20the%20weaknesses%20for%20me%2C%20as%20I%20cannot%20know%20if%20I%20can%20sustain%20funding%20for%20long%20enough%20to%20complete%20my%20phd%20as%20a%20full%20time%20occupation.%20However%2C%20I%20do%20like%20that%20I%20can%20direct%20and%20re-direct%20my%20phd%20research%20as%20I%20best%20see%20fit%2C%20I%20guess%20the%20%22academic%20freedom%22%20is%20an%20occupational%20strength.%20However%2C%20I'd%20rather%20have%20the%20financial%20security%20in%20this%20occupation%2C%20even%20though%20I%20am%20still%20a%20phd%20student.
+<JfinalR><:>8<:>3<:>1<:>Answer%20to%20question%203%20is%20the%20dealbreaker%20for%20me%2C%20I%20think%20that%20reveals%20that%20the%20person%20is%20in%20my%20group.<:>finalInterval3<:>0
+<JfinalR><:>1<:>4<:>1<:>Mostly%20my%20reasoning%20is%20about%20the%20natural%20form%20in%20the%20way%20the%20person%20is%20talking.<:>finalInterval3<:>1
+<PA><:>7<:>4<:>2<:>Where%20to%20organize%20it%2C%20financial%20costs%2C%20and%20who%20to%20invite.%20To%20me%20the%20karonkka%20was%20not%20only%20difficult%20but%20a%20lot%20of%20fun!
+pong check<:>2
+<JR><:>3<:>3<:>1<:>The%20respondents%20interpreted%20my%20question%20in%20two%20different%20ways%20-%20I%20meant%20personal%20strengths%20and%20weaknesses%2C%20but%20maybe%20my%20question%20was%20poorly%20formulated.%20Respondent%202%20is%20again%20answering%20as%20a%20PhD%20student.%20I%20honestly%20have%20no%20idea%20at%20this%20point.<:>interval1<:>0<:>respondent1Interval3<:>respondent2Interval3<:>categoryInterval1
+<JfinalR><:>6<:>3<:>0<:>The%20selection%20is%20problematic%2C%20R1%20might%20be%20a%20professor%2C%20R2%20gives%20credible%20answers...%0AIntutition%20-based%20choice%20is%20R1<:>finalInterval1<:>1
+pong check<:>2
+<JfinalR><:>3<:>3<:>0<:>Either%20of%20the%20respondents%20could%20be%20the%20non-pretender.%20Respondent%201%20appears%20to%20be%20a%20PhD%20student%2C%20and%20the%20respondent%202%20a%20MA%20student.%20I'm%20choosing%20respondent%201%20as%20the%20member%20of%20my%20group%20only%20because%20acting%20as%20a%20PhD%20student%20is%20quite%20unlikely%20for%20the%20pretender.%20<:>finalInterval2<:>1
+<JR><:>4<:>3<:>1<:>r1%20appears%20too%20vague.%20Also%20the%20social%20aspect%20is%20important%20but%20when%20you%20are%20actually%20arranging%20a%20karonkka%20that%20usually%20sorts%20out%20by%20itself%20as%20you%20realise%20you%20only%20have%20so%20much%20money%20so%20you%20only%20can%20have%20certain%20number%20of%20people%20-usually%20once%20you%20have%20invited%20your%20supervisor%2C%20co-authors%20and%20opponent%2C%20you%20only%20have%20money%20for%20the%20very%20nearest%20relatives%20and%20friends.%20But%20for%20someone%20who%20is%20very%20social%2C%20this%20can%20be%20a%20problem.%20%0Ar2%20appears%20to%20have%20really%20done%20it%20as%20the%20%22where%20to%20organise%20it%22%20is%20a%20question%20that%20is%20a%20super%20difficult%20in%20practice%20but%20not%20something%20you%20can%20anticipate%20in%20advance%20-the%20%22lot%20of%20fun%22%20-comment%20seems%20to%20be%20a%20bit%20forced%2C%20as%20if%20the%20person%20is%20trying%20to%20make%20me%20sure%20that%20s%2Fhe%20has%20really%20done%20it.%20This%20could%20be%20someone%20who%20is%20still%20a%20phd%20student%20but%20close%20to%20defending%20and%20therefore%20already%20aware%20of%20the%20venue%20trouble<:>interval3<:>0<:>respondent1Interval2<:>respondent2Interval4<:>categoryInterval1
+pong check<:>2
+<JfinalR><:>4<:>3<:>1<:>specifying%20the%20answer%20and%20focusing%20on%20something%20%3D%20non-pretender%2C%20certain%20vagueness%20%3D%20pretenders%0A%0A<:>finalInterval3<:>1
+87.95.114.37 (6)
+89.27.35.49 (5)
+213.255.186.132 (7)
+93.106.49.70 (2)
+80.221.159.28 (3)
+78.27.122.222 (9)
+84.250.173.102 (8)
+37.33.160.217 (4)
+37.136.227.59 (1)
+64.62.197.32 (1)

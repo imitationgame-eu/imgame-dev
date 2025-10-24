@@ -1,0 +1,81 @@
+    <div class="systemHeader">
+        <h1>User permissions and memberships</h1>
+    </div>
+
+
+    <div  class="systemContainer" id="container">
+    <p><b>Please note:</b> any changes you make here are immediately stored in the database. You do not need to use 'save and operate on changes'.</p>
+     <h2 data-bind="click: usersClick, text: usersHeaderText(), attr:{'class' : usersHeaderClass}"></h2>
+        <div class='h2BodyClass' data-bind="visible: usersVisible()">
+            <!-- ko foreach: userViewModels -->
+            <div class="systemRow usersRow">
+                <div class="systemColumn">
+                    <h3 data-bind="text: email()"></h3>
+                </div>
+                <div class="systemColumn">
+                    <select data-bind="options: ddOptions(), value: ddValue()"></select>
+                </div>
+            </div>
+            <!-- /ko  -->
+        </div>
+
+        <h2 data-bind="text: groupsHeaderText, click:groupsClick, attr:{'class' : groupsHeaderClass}"></h2>
+        <div class = 'h2BodyClass' data-bind="visible: groupsVisible">
+            <!-- ko foreach: groupMembershipViewModels -->
+            <h4 data-bind="text: groupHeaderText, click:groupClick, attr: {'class' : groupHeaderClass}"></h4>
+            <div data-bind="visible: groupVisible">  <!-- class = 'groupBodyClass' -->
+                <div class="systemRow">                             <!-- egBodyClass must always contain at least "systemRow" for the 2 column-layout to work, but will also control open-closed-->
+                    <div class="systemColumn">
+                    <h4>existing mappings</h4>
+                    <!-- ko foreach: members -->
+                    <input type="button" class="move_r" data-bind="value: moveRightText(), click: changeMapping" />
+                    <!-- /ko -->
+                    </div>
+                    <div class="systemColumn">
+                    <h4>possible mappings</h4>
+                    <!-- ko foreach: nonmembers -->
+                    <input type="button" class="move_l" data-bind="value: moveLeftText(), click: changeMapping" />
+                    <!-- /ko -->
+                    </div>
+                </div>
+            </div>
+            <!-- /ko -->
+        </div>
+
+        <h2 data-bind="click:exptsClick, text: exptsHeaderText, attr:{'class' : groupsHeaderClass}"></h2>
+        <div class = 'h2BodyClass' data-bind="visible: exptsVisible">
+            <!-- ko foreach: exptViewModels -->
+
+            <h4 data-bind="click:exptClick, text: exptHeaderText, attr: {'class' : exptHeaderClass}"></h4>
+            <div data-bind="visible: exptVisible">
+
+            <div class="systemRow">
+                <div class="systemColumn">
+                <!-- ko foreach: members -->
+                <input type="button" class="move_r" data-bind="value: moveRightText(), click: changeMapping" />
+                <!-- /ko -->
+                </div>
+                <div class="systemColumn">
+                <!-- ko foreach: nonmembers -->
+                <input type="button" class="move_l" data-bind="value: moveLeftText(), click: changeMapping" />
+                <!-- /ko -->
+                </div>
+            </div>
+
+            </div>
+            <!-- /ko -->
+        </div>
+
+    </div>
+
+    <div id="footer" class="systemFooter">
+        <input type="button" id="backB" value="<<  back"/>
+    </div>
+<script src="/jquery/jquery-2.1.3.min.js"></script>
+<script src="/js/ko/knockout-3.2.0.js"></script>
+<script src="/js/ko/ko-mapping.js"></script>
+<script src="/js/mobile/adminNavigate.js"></script>
+<script src="/js/mobile/systemPageControl.js"></script>
+<script src="/js/admin/usersManage.js"></script>
+</body>
+</html>

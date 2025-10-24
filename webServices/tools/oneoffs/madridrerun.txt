@@ -1,0 +1,2055 @@
+initSession<:>1<:>331<:>1<:>1<:>9
+<loginJoin><:>2<:>30149<:>331<:>1<:>1<:>0<:>3<:>
+<loginJoin><:>3<:>30155<:>331<:>1<:>1<:>0<:>6<:>
+<loginJoin><:>4<:>30151<:>331<:>1<:>1<:>0<:>4<:>
+<loginJoin><:>5<:>30147<:>331<:>1<:>1<:>0<:>2<:>
+<loginJoin><:>6<:>30154<:>331<:>1<:>1<:>1<:>6<:>
+<loginJoin><:>7<:>30159<:>331<:>1<:>1<:>0<:>8<:>
+<loginJoin><:>8<:>30153<:>331<:>1<:>1<:>0<:>5<:>
+<loginJoin><:>9<:>30142<:>331<:>1<:>1<:>1<:>0<:>
+<loginJoin><:>10<:>30143<:>331<:>1<:>1<:>0<:>0<:>
+<loginJoin><:>11<:>30146<:>331<:>1<:>1<:>1<:>2<:>
+<loginJoin><:>12<:>30145<:>331<:>1<:>1<:>0<:>1<:>
+<loginJoin><:>13<:>30144<:>331<:>1<:>1<:>1<:>1<:>
+<loginJoin><:>14<:>30148<:>331<:>1<:>1<:>1<:>3<:>
+<loginJoin><:>15<:>30158<:>331<:>1<:>1<:>1<:>8<:>
+<loginJoin><:>16<:>30156<:>331<:>1<:>1<:>1<:>7<:>
+<loginJoin><:>17<:>30157<:>331<:>1<:>1<:>0<:>7<:>
+<loginJoin><:>18<:>30150<:>331<:>1<:>1<:>1<:>4<:>
+<loginJoin><:>19<:>30152<:>331<:>1<:>1<:>1<:>5<:>
+StartSignal to: 10
+StartSignal to: 9
+StartSignal to: 12
+StartSignal to: 13
+StartSignal to: 5
+StartSignal to: 11
+StartSignal to: 2
+StartSignal to: 14
+StartSignal to: 4
+StartSignal to: 18
+StartSignal to: 8
+StartSignal to: 19
+StartSignal to: 3
+StartSignal to: 6
+StartSignal to: 17
+StartSignal to: 16
+StartSignal to: 7
+StartSignal to: 15
+<JQ><:>3<:>0<:>%C2%BFC%C3%B3mo%20de%20importante%20consideras%20el%20gobierno%20de%20tu%20Comunidad%20Aut%C3%B3noma%3F<:>.Creo%20que%20los%20Madrile%C3%B1os%20no%20tenemos%20una%20relaci%C3%B3n%20demasiado%20directa%20con%20el%20gobierno%20de%20la%20Comunidad%20de%20Madrid%20como%20podr%C3%ADa%20tenerlo%20un%20Catal%C3%A1n.
+<JQ><:>18<:>0<:>%C2%BFQu%C3%A9%20motivos%20crees%20que%20un%20catal%C3%A1n%20dar%C3%ADa%20a%20favor%20de%20la%20independencia%3F<:>.La%20visi%C3%B3n%20acerca%20de%20los%20motivos%20que%20defienden%20la%20independencia%20es%20diferente%20entre%20los%20catalanes%20y%20los%20espa%C3%B1oles
+pong check<:>14
+<JQ><:>6<:>0<:>C%C3%B3mo%20definir%C3%ADas%20la%20din%C3%A1mica%20pol%C3%ADtica%20catalana%20en%20los%20%C3%BAltimos%20cinco%20a%C3%B1os%3F<:>.Hago%20esta%20pregunta%20para%20saber%20si%20los%20que%20contestan%20tienen%20una%20imagen%20formada%20%C3%BAnicamente%20a%20trav%C3%A9s%20de%20los%20medios%20de%20comunicaci%C3%B3n%20y%20informes%20oficiales%20o%20si%20realmente%20han%20estado%20viviendo%20en%20Catalunya%20durante%20ese%20per%C3%ADodo%20y%20tienen%20una%20visi%C3%B3n%20m%C3%A1s%20detallada%20y%20menos%20estereotipada.
+163.117.90.38 (20)
+<JQ><:>12<:>0<:>%C2%BFConsidera%20que%20el%20Estado%20de%20la%20Autonom%C3%ADa%20est%C3%A1%20correctamente%20orientado%20a%20la%20pluralidad%20de%20naciones%20dentro%20de%20Espa%C3%B1a%3F<:>.Porque%20creo%20que%20la%20identidad%20nacional%20catalana%20es%20algo%20m%C3%A1s%20elevada%20que%20la%20madrile%C3%B1a%2C%20por%20lo%20tanto%2C%20que%20el%20catal%C3%A1n%20ser%C3%A1%20m%C3%A1s%20cr%C3%ADtico
+<JQ><:>17<:>0<:>%C2%BFCrees%20que%20los%20madrile%C3%B1os%20respetan%20el%20derecho%20a%20decidir%20que%20exigen%20los%20catalanes%3F<:>.Hago%20esta%20pregunta%20porque%20considero%20que%20la%20respuesta%20entre%20una%20persona%20catalana%20y%20una%20madrile%C3%B1a%20ser%C3%ADa%20bastante%20diferente%2C%20por%20lo%20que%20ser%C3%A1%20m%C3%A1s%20f%C3%A1cil%20saber%20quien%20est%C3%A1%20realizando%20cada%20papel
+<JQ><:>13<:>0<:>a%20qu%C3%A9%20l%C3%ADder%20pol%C3%ADtico%20votaste%20en%20las%20pasadas%20elecciones%3F%20Por%20qu%C3%A9%3F<:>.Es%20un%20tipo%20de%20pregunta%20bastante%20abierta%20y%20general%2C%20pero%20puede%20dar%20una%20respuesta%20orientativa%2C%20ya%20que%20tanto%20la%20derecha%20como%20la%20izquierda%20catalana%20se%20diferencian%20de%20la%20del%20resto%20del%20Estado%2C%20principalmente%20por%20el%20peso%20de%20la%20independencia.%20otra%20serei%20de%20consideraciones%20y%20justificaciones%20pueden%20aportar%20alguna%20pista
+<JQ><:>10<:>0<:>%C2%BFA%20que%20cree%20que%20se%20debe%20el%20rechazo%20de%20una%20parte%20importante%20de%20la%20poblaci%C3%B3n%20catalana%20a%20la%20tauromaquia%3F<:>.Normalmente%20los%20catalanes%2C%20considerando%20una%20identidad%20nacional%20distinta%2C%20suelen%20rechazar%20los%20s%C3%ADmbolos%20atribuidos%20al%20espa%C3%B1olismo.%20
+<PA><:>3<:>18<:>0<:>El%20principal%20motivo%20para%20la%20independencia%20de%20Catalu%C3%B1a%20es%20la%20historia%2C%20cultura%20y%20sociedad%20propia%20de%20esta%20regi%C3%B3n%2C%20y%20la%20continuada%20represi%C3%B3n%20por%20parte%20de%20el%20gobierno%20y%20las%20instituciones%20Espa%C3%B1olas.
+<JQ><:>5<:>0<:>Explica%20cu%C3%A1l%20es%20tu%20opini%C3%B3n%20sobre%20la%20independencia%20catalana.<:>.Espero%20que%20un%20catal%C3%A1n%2C%20tratando%20de%20hacerse%20pasar%20por%20madrile%C3%B1o%2C%20de%20una%20respuesta%20propia%20de%20alguien%20con%20una%20mente%20mucho%20m%C3%A1s%20cerrada%20de%20lo%20que%20realmente%20son%20muchos%20madrile%C3%B1os%20(que%20no%20se%20les%20deber%C3%ADa%20permitir%20ni%20siquiera%20realizar%20un%20refer%C3%A9ndum%2C%20por%20ejemplo).
+<NPA><:>12<:>6<:>0<:>Considero%20que%20se%20ha%20centrado%20demasiado%20en%20la%20cuesti%C3%B3n%20nacionalista%2C%20que%20a%20pesar%20de%20que%20es%20importante%2C%20la%20situaci%C3%B3n%20ped%C3%ADa%20fijarse%20tambi%C3%A9n%20en%20otros%20aspectos.
+<JQ><:>1<:>0<:>Considerando%20que%20la%20Constituci%C3%B3n%20Espa%C3%B1ola%20no%20contempla%20el%20derecho%20de%20autodeterminaci%C3%B3n%20de%20las%20autonom%C3%ADas%20espa%C3%B1olas%2C%20%C2%BFes%20leg%C3%ADtimo%20emprender%20acciones%20legales%20contra%20quienes%20persigan%20fines%20separatistas%20desde%20las%20comunidades%20aut%C3%B3nomas%3F<:>.El%20derecho%20de%20autodeterminaci%C3%B3n%20de%20las%20autonom%C3%ADas%20tiene%20muy%20poca%20aceptaci%C3%B3n%20en%20Madrid.%20En%20Catalu%C3%B1a%2C%20en%20cambio%2C%20tiene%20una%20aceptaci%C3%B3n%20mucho%20mayor.
+<NPA><:>18<:>12<:>0<:>No%2C%20pues%20no%20respalda%20ni%20apoya%20la%20plurinacionalidad%20de%20Espa%C3%B1a.%20Se%20defiende%20la%20centralidad%20pol%C3%ADtica%20pero%20tambi%C3%A9n%20la%20cultural%20con%20lo%20que%20no%20hay%20una%20orientaci%C3%B3n%20hacia%20la%20pluralidad%20de%20naciones
+<JQ><:>2<:>0<:>%C2%BFHas%20participado%20nunca%20en%20una%20movilizaci%C3%B3n%20por%20la%20Diada%20de%20Catalunya%3F%20Explica%20c%C3%B3mo%20la%20viviste%20m%C3%A1s%20que%20c%C3%B3mo%20fue.<:>.Sabiendo%20que%20buena%20parte%20de%20la%20gente%20joven%20catalana%20se%20ha%20manifestado%20por%20las%20Diadas%20de%20Catalunya%2C%20creo%20que%20la%20respuesta%20catalana%20ser%C3%A1%20muy%20expresiva%20y%20basada%20en%20el%20sentimiento%20de%20participar%20en%20ellas%20mientras%20que%20la%20del%20fingidor%20ser%C3%A1%20solamente%20una%20defensa%20del%20patriotismo%20y%20particularismo%20catal%C3%A1n%20mucho%20m%C3%A1s%20objetiva.
+<NPA><:>6<:>18<:>0<:>Motivos%20principalmente%20econ%C3%B3micos%20referidos%20a%20los%20agravantes%20que%20puede%20suponer%20para%20Catalu%C3%B1a%20su%20relaci%C3%B3n%20con%20el%20conjunto%20de%20Espa%C3%B1a.%20Motivos%20de%20tipo%20hist%C3%B3rico-nacionalista%20como%20la%20diferencia%20cultural%20o%20algunos%20hechos%20hist%C3%B3ricos%20que%20deber%C3%ADan%20otorgar%20a%20Catalu%C3%B1a%20el%20derecho%20a%20la%20secesi%C3%B3n.%20
+<JQ><:>14<:>0<:>Si%20tuvieras%20que%20priorizar%20uno%20de%20los%20principios%2C%20el%20de%20igualdad%20o%20el%20de%20libertad%2C%20%C2%BFcu%C3%A1l%20escoger%C3%ADas%3F<:>.En%20Catalu%C3%B1a%2C%20la%20uni%C3%B3n%20de%20partidos%20de%20derechas%20(Converg%C3%A8ncia)%20y%20izquierdas%20(Esquerra%20Republicana)%20para%20un%20fin%20com%C3%BAn%20bajo%20Junts%20pel%20s%C3%AD%20denota%20que%20una%20gran%20mayor%C3%ADa%20de%20catalanes%20priorizamos%20la%20libertad%20de%20nuestra%20%22naci%C3%B3n%22%20antes%20que%20solucionar%20problemas%20sociales%20que%20nos%20afectan%20a%20todos%2C%20catalanes%20y%20no%20catalanes.%20Por%20tanto%2C%20esperar%C3%ADa%20tal%20vez%20de%20los%20madrile%C3%B1os%20que%20priorizaran%20la%20igualdad%2C%20y%20los%20catalanes%2C%20la%20libertad.
+pong check<:>20
+<JQ><:>15<:>0<:>%C2%BFCrees%20que%20los%20madrile%C3%B1os%20tienen%20una%20ideolog%C3%ADa%20m%C3%A1s%20pr%C3%B3xima%20a%20la%20del%20gobierno%20central%20que%20el%20resto%20de%20espa%C3%B1a%3F<:>.Porque%20me%20parece%20que%20muchas%20personas%20de%20fuera%20identifican%20la%20capital%20con%20el%20Gobierno%20y%20que%20pueden%20presentar%20actitudes%20contrarias%20a%20los%20madrile%C3%B1os%20al%20identificarlos%20con%20las%20politicas%20del%20gobierno%20central.
+<JQ><:>7<:>0<:>Para%20asegurar%20el%20correcto%20funcionamiento%20de%20las%20instituciones%20en%20Espa%C3%B1a%2C%20%C2%BFes%20mejor%20un%20modelo%20centralizado%20evitando%20as%C3%AD%20los%20problemas%20que%20surgen%20al%20a%C3%B1adir%20intermediarios%20que%20puedan%20distorsionar%20las%20pol%C3%ADticas%20deseadas%20o%20por%20el%20contrario%20un%20mayor%20grado%20de%20autonom%C3%ADa%20har%C3%A1%20que%20sean%20m%C3%A1s%20eficientes%3F<:>.En%20principio%20los%20madrile%C3%B1os%20como%20habitantes%20de%20la%20capital%20estar%C3%A1n%20m%C3%A1s%20inclinados%20a%20que%20el%20gobierno%20central%20tenga%20un%20papel%20predominante%2C%20mientras%20que%20en%20las%20provincias%20de%20la%20periferia%20est%C3%A1n%20a%20favor%20de%20un%20mayor%20grado%20de%20autonom%C3%ADa.
+<JQ><:>9<:>0<:>Una%20vez%20se%20realizan%20las%20elecciones%20generales%20en%20Espa%C3%B1a%20se%20publican%20en%20diversos%20medios%20de%20comunicaci%C3%B3n%20los%20resultados%2C%20no%20s%C3%B3lo%20a%20nivel%20nacional%20sino%20tambi%C3%A9n%20por%20comunidad%20aut%C3%B3noma.%20En%20dichos%20resultados%20sale%20siempre%20como%20partido%20vencedor%20en%20la%20comunidad%20de%20Madrid%20el%20PP%2C%20sin%20embargo%2C%20si%20nos%20fijamos%20en%20los%20distintos%20barrios%20de%20la%20capital%20vemos%20como%20hay%20una%20gran%20zonas%20en%20las%20que%20se%20votan%20otros%20partidos.%20Si%20tuvieras%20que%20decir%20dos%20barrios%20de%20Madrid%20en%20los%20que%20se%20votara%20a%20un%20partido%20distinto%20al%20PP%2C%20%C2%BFcu%C3%A1les%20ser%C3%ADan%20y%20porqu%C3%A9%3F%0A<:>.Para%20poder%20comprobar%20si%20el%20participante%20conoce%20no%20s%C3%B3lo%20dos%20barrios%20de%20madrid%20sino%20tambi%C3%A9n%20la%20ideolog%C3%ADa%20que%20se%20da%20en%20esas%20zonas
+<JQ><:>4<:>0<:>%C2%BFA%20qu%C3%A9%20crees%20que%20es%20debido%20el%20crecimiento%20del%20movimiento%20independentista%20en%20Catalu%C3%B1a%3F<:>.Yo%20creo%20que%20en%20general%20el%20resto%20de%20Espa%C3%B1a%20cree%20que%20la%20crisis%20y%20la%20situaci%C3%B3n%20econ%C3%B3mica%20han%20llevado%20a%20los%20catalanes%20a%20pensar%20que%20su%20dinero%20est%C3%A1%20siendo%20utilizado%20por%20otras%20comunidades%2C%20y%20que%20siendo%20una%20naci%C3%B3n%20independiente%20esto%20no%20pasar%C3%ADa.%20Los%20que%20hemos%20vivido%20all%C3%AD%2C%20lo%20vemos%20m%C3%A1s%20como%20un%20producto%20de%20las%20acciones%20de%20los%20pol%C3%ADticos.%20Ha%20creado%20m%C3%A1s%20independentismo%20el%20PP%20y%20CIU%20creando%20dos%20tipos%20de%20catalanes%3A%20fachas%20o%20independentistas%2C%20que%20no%20la%20causa%20del%20dinero.%20Todo%20ha%20sido%20comida%20de%20cabeza%20en%20la%20que%20nos%20han%20hecho%20sentirnos%20poco%20queridos%20por%20el%20resto%20de%20Espa%C3%B1a.%20Esto%20es%20lo%20que%20los%20catalanes%20hemos%20vivido%20y%20el%20resto%20no.
+<PA><:>13<:>10<:>0<:>Los%20toros%2C%20en%20mi%20opini%C3%B3n%2C%20son%20algo%20deplorables%20de%20por%20s%C3%AD.%20Pero%2C%20es%20cierto%20que%20en%20catalu%C3%B1a%20cuentan%20con%20menos%20adeptos%20principalmente%20porque%20se%20relaciona%20la%20tauromaquia%20c%C3%B3mo%20un%20s%C3%ADmbolo%20de%20hispanidad
+<NPA><:>3<:>1<:>0<:>Emprender%20acciones%20legales%20contra%20este%20tipo%20de%20personas%20es%20leg%C3%ADtimo%20en%20cuanto%20a%20que%20hay%20un%20marco%20legal%20que%20as%C3%AD%20lo%20establece.%20
+<JQ><:>11<:>0<:>%C2%BFQu%C3%A9%20sentimientos%20tienes%20hacia%20la%20pertenencia%20al%20territorio%20concreto%20en%20el%20que%20has%20nacido%20y%20vivido%2C%20en%20este%20caso%2C%20la%20Comunidad%20de%20Madrid%3F<:>.Bas%C3%A1ndome%20un%20poco%20en%20el%20libro%20%22Arag%C3%B3n%20es%20nuestro%20Ohio%22%2C%20que%20habla%20sobre%20los%20nacionalismos%20entre%20otros%20aspectos.%20destaca%20que%20en%20comunidades%20como%20la%20Comunidad%20de%20Madrid%2C%20no%20existe%20un%20alto%20sentimiento%20de%20nacionalismo%20hacia%20dicha%20comunidad%2C%20sino%20m%C3%A1s%20bien%20a%20Espa%C3%B1a%20como%20pa%C3%ADs%2C%20si%20es%20que%20existe%20dicho%20sentimiento%20o%20actitud%20nacionalista.%20Algo%20que%20creo%20que%20es%20claramente%20diferente%20en%20la%20ideario%20catal%C3%A1n%2C%20que%20ya%20que%20se%20desarrolla%20una%20cultura%20propia%20diferente%20a%20la%20del%20resto%20del%20estado%2C%20desarrolla%20una%20actitud%20de%20pertenecia%20o%20%22aprecio%22%20al%20territorio%20en%20el%20que%20han%20nacido.
+<PA><:>18<:>17<:>0<:>Los%20madrile%C3%B1os%20respetan%20la%20voluntad%20que%20pueda%20tener%20la%20sociedad%20catalana%20pero%20no%20est%C3%A1n%20a%20favor%20de%20que%20Catalu%C3%B1a%20se%20independice.%20
+<PA><:>6<:>5<:>0<:>Es%20un%20tema%20complicado.%20La%20Constituci%C3%B3n%20es%20un%20documento%20de%20garant%C3%ADas%20democr%C3%A1ticas%20y%20por%20lo%20tanto%20se%20debe%20respetar%2C%20pero%20por%20otro%20lado%20no%20se%20puede%20obviar%20el%20problema%20pol%C3%ADtico%20que%20supone%20la%20demanda%20hecha%20por%20una%20parte%20de%20la%20sociedad%20catalana.%20Todo%20el%20mundo%20est%C3%A1%20en%20su%20derecho%20de%20pensar%20lo%20que%20quiera%20y%2Fo%20pedir%20lo%20que%20quiera%2C%20peor%20eso%20no%20implica%20que%20sus%20demandas%20deban%20cumplirse.
+<NPA><:>15<:>13<:>0<:>Pablo%20Iglesia%2C%20Podemos.%20Por%20el%20cansancio%20con%20los%20gobiernos%20anteriores%20y%20por%20darle%20una%20oportunidad%20a%20un%20cambio%20en%20el%20gobierno.
+<NPA><:>5<:>3<:>0<:>Lo%20considero%20muy%20importante%2C%20ya%20que%20es%20un%20gobierno%20mucho%20m%C3%A1s%20cercano%20y%20centrado%20en%20los%20temas%20que%20conciernen%20a%20la%20propia%20Comunidad%20Aut%C3%B3noma.%20Espa%C3%B1a%20tiene%20diferentes%20culturas%2C%20por%20lo%20que%20le%20Gobierno%20de%20cada%20Comunidad%20Aut%C3%B3noma%20es%20muy%20necesario.
+<PA><:>2<:>1<:>0<:>La%20legalidad%20est%C3%A1%20completamente%20clara%20en%20el%20tema%20del%20separatismo%20y%20el%20refer%C3%A9ndum%2C%20habr%C3%ADa%20una%20legitimidad%20real%20en%20intentar%20emprender%20acciones%20legales%20en%20contra%20de%20ellos.%20Aun%20as%C3%AD%2C%20ser%C3%ADa%20poco%20o%20nada%20productivo%2C%20pues%20la%20propaganda%20de%20los%20gobiernos%20de%20estas%20comunidades%20aut%C3%B3nomas%20acostumbra%20a%20martirizar%20y%20exagerar%20un%20supuesto%20derecho%20internacional%20y%20una%20actitud%20democr%C3%A1tica%2C%20por%20lo%20que%20ser%C3%ADa%20contraproducente%20en%20la%20lucha%20contra%20%C3%A9sto.
+<NPA><:>9<:>7<:>0<:>A%20mi%20parecer%2C%20en%20Espa%C3%B1a%20se%20deber%C3%ADa%20dotar%20de%20mayor%20autonom%C3%ADa%20a%20las%20comunidades%20aut%C3%B3nomas%2C%20siendo%20estas%20capaces%20de%20establecer%20las%20pol%C3%ADticas%20que%20consideran%20m%C3%A1s%20adecuadas%20para%20sus%20ciudadanos.%20Por%20ejemplo%2C%20que%20las%20comunidades%20tenga%20la%20autonom%C3%ADa%20de%20decidir%20el%20plan%20educativo%2C%20sobre%20todo%2C%20en%20lo%20referente%20a%20la%20lengua%20en%20la%20que%20se%20imparten%20las%20clases.%20
+<JQ><:>8<:>0<:>%C2%BFPor%20qu%C3%A9%20los%20catalanes%20han%20salido%20en%20masa%20a%20las%20calles%20durante%20las%20%C3%BAltimas%20manifestaciones%20del%2011S%20(la%20%22Diada%22)%3F<:>.Porque%20los%20catalanes%20de%20verdad%20har%C3%A1n%20referencia%20al%20estatuto%20de%20autonom%C3%ADa%20(o%20cuestiones%20de%20lengua%20o%20cultura)%20y%20el%20fingidor%20hablar%C3%A1%20de%20temas%20econ%C3%B3micos.
+<NPA><:>1<:>17<:>0<:>Los%20madrile%C3%B1os%20no%20pueden%20respetar%20el%20derecho%20a%20decidir%20que%20exigen%20los%20catalanes%20en%20tanto%20que%20no%20existe%20un%20derecho%20a%20decidir.%20La%20Constituci%C3%B3n%20Espa%C3%B1ola%20garantiza%20la%20unidad%20de%20Espa%C3%B1a.
+<NPA><:>7<:>5<:>0<:>siempre%20que%20haya%20una%20mayor%C3%ADa%20suficiente%20de%20ciudadanos%20a%20favor%20la%20independencia%20debe%20ser%20una%20opci%C3%B3n%2C%20aunque%20personalmente%20no%20est%C3%A9%20a%20favor%20de%20la%20separaci%C3%B3n
+<PA><:>17<:>14<:>0<:>Sin%20lugar%20a%20duda%20escoger%C3%ADa%20el%20principio%20de%20igualdad.%20La%20igualdad%20es%20un%20principio%20universal%2C%20cuyo%20cumplimiento%20debe%20estar%20garantizado%20a%20todas%20las%20personas%20y%20en%20todos%20los%20lugares.%20Si%20la%20igualdad%20no%20se%20cumple%2C%20la%20libertad%20carece%20de%20sentido
+<JQ><:>16<:>0<:>Explica%20c%C3%B3mo%20vivieron%20tus%20abuelos%20los%20a%C3%B1os%20de%20la%20guerra%20y%20la%20pos-guerra%3B%20d%C3%B3nde%20pasaron%20esos%20a%C3%B1os%2C%20si%20se%20tuvieron%20que%20desplazar%2C%20los%20impedimentos%20vividos%2C%20hechos%20relevantes%2C%20etc.%20<:>.La%20hago%20porque%20me%20indicar%C3%A1%20su%20conocimiento%20sobre%20qu%C3%A9%20sitios%20conoce%2C%20si%20sabe%20d%C3%B3nde%20afect%C3%B3%20m%C3%A1s%20la%20guerra%2C%20y%20tambi%C3%A9n%20el%20factor%20de%20la%20prohibici%C3%B3n%20del%20catal%C3%A1n%20y%20la%20fuerte%20represi%C3%B3n%20puden%20darme%20indicios.%20
+<NPA><:>13<:>11<:>0<:>Me%20gusta%20la%20regi%C3%B3n%20en%20la%20que%20vivo%2C%20aunque%20no%20soy%20demasiado%20nacionalista.%20La%20gente%20que%20he%20conocido%20y%20sus%20costumbres%20me%20agradan.%20a%20pesar%20de%20ello%2C%20me%20gusta%20salir%20y%20viajar%2C%20y%20no%20concsidero%20estas%20costumbres%20ni%20modales%20exclusivos%20de%20Madrid
+<NPA><:>2<:>14<:>0<:>La%20igualdad%20es%20completamente%20necesaria%20e%20imprescindible%20a%20la%20hora%20de%20establecer%20la%20libertad%2C%20por%20lo%20que%20la%20igualdad%20no%20puede%20menospreciarse%20en%20beneficio%20de%20la%20segunda.%20Solo%20en%20la%20igualdad%20existe%20libertad%2C%20adem%C3%A1s%20de%20que%20la%20%22libertad%22%20en%20desigualdad%20no%20es%20m%C3%A1s%20que%20libertarismo.%0AAs%C3%AD%2C%20elegir%C3%ADa%20la%20igualdad.
+<PA><:>15<:>12<:>0<:>No%2C%20creo%20que%20el%20Estado%20actual%20no%20tiene%20en%20cuenta%20los%20diferentes%20valores%20y%20tradiciones%20que%20conforman%20espa%C3%B1a%20y%20que%20por%20tanto%20tiende%20a%20minusvalorar%20el%20pluralismo%20tratando%20de%20eliminar%20las%20posibles%20diferencias.
+<PA><:>12<:>11<:>0<:>Me%20considera%20madrile%C3%B1o%20y%20estoy%20orgulloso%20de%20ello%2C%20ya%20que%20es%20la%20capital%20del%20estado%20y%20un%20territorio%20internacionalmente%20importante.%20Pero%20tampoco%20pienso%20que%20la%20pertenencia%20a%20este%20territorio%20me%20diferencie%20mucho%20del%20sentimiento%20que%20pueda%20tener%20cualquier%20espa%C3%B1ol%20hacia%20su%20pa%C3%ADs%20en%20general.
+<NPA><:>8<:>2<:>0<:>S%C3%AD.%20Particip%C3%A9%20como%20representante%20de%20mi%20pueblo%20y%20fue%20una%20experiencia%20muy%20bonita.%20Realmente%20no%20me%20considero%20independentista%2C%20pero%20me%20fascin%C3%B3%20ver%20a%20tanta%20gente%20junta%20con%20un%20mismo%20prop%C3%B3sito.
+<PA><:>4<:>3<:>0<:>Es%20trascendental%20para%20la%20sociedad%20de%20mi%20comunidad%2C%20ya%20que%20es%20el%20que%20tiene%20unas%20competencias%20m%C3%A1s%20directas%20sobre%20los%20ciudadanos.%20Educaci%C3%B3n%2C%20sanidad...%20Siempre%20estar%C3%A1%20por%20encima%20del%20alcalde%20del%20municipio%2C%20aunque%20muchas%20veces%20tengan%20que%20consensuar%20las%20medidas%20que%20se%20toman.%20Es%20bueno%20que%20existan%20distintos%20niveles%20de%20gobierno%20y%20se%20repartan%20el%20poder.
+<PA><:>14<:>13<:>0<:>En%20las%20pasadas%20elecciones%20vot%C3%A9%20a%20Pablo%20Iglesias%20puesto%20que%20es%20el%20que%20para%20m%C3%AD%20ofrece%20la%20posibilidad%20de%20un%20cambio%20en%20la%20pol%C3%ADtica%20de%20este%20pa%C3%ADs%2C%20as%C3%AD%20como%20tambi%C3%A9n%20el%20l%C3%ADder%20del%20%C3%BAnico%20partido%20realmente%20de%20izquierdas%20con%20posibilidad%20de%20formar%20gobierno.%20
+<NPA><:>17<:>15<:>0<:>Si.%20Creo%20que%20los%20madrile%C3%B1os%20tienen%20una%20ideolog%C3%ADa%20m%C3%A1s%20pr%C3%B3xima%20a%20la%20del%20gobierno%20central.%20Esta%20diferencia%20es%20especialmente%20grande%20si%20comparamos%20al%20colectivo%20madrile%C3%B1o%20con%20el%20vasco%20o%20el%20catal%C3%A1n
+<PA><:>10<:>9<:>0<:>En%20Madrid%2C%20hay%20ciertas%20diferencias%20econ%C3%B3micas%20seg%C3%BAn%20el%20barrio.%20Los%20barrios%20con%20renta%20per%20c%C3%A1pita%20menor%2C%20son%20m%C3%A1s%20propensos%20a%20votar%20a%20partidos%20de%20izquierdas.%20En%20Madrid%20eso%20ocurre%20en%20barrios%20como%20Vallecas%20o%20Carabanchel%2C%20ambos%20situados%20en%20el%20sur%20de%20la%20ciudad.%20
+<PA><:>7<:>4<:>0<:>El%20movimiento%20independentista%20nunca%20ha%20llegado%20a%20desaparecer%20por%20completo%2C%20sin%20embargo%20es%20evidente%20que%20a%20partir%20de%20que%20el%20constitucional%20tumb%C3%B3%20el%20estatuto%20%C3%A9ste%20ha%20resurgido%2Cvi%C3%A9ndose%20incrementado%20por%20la%20pol%C3%ADtica%20que%20sigui%C3%B3%20el%20gobierno%20desde%20Madrid.
+<NPA><:>11<:>9<:>0<:>Vallecas%20y%20Carabanchel%2C%20que%20son%20barrios%20obreros%2C%20de%20inmigrantes%20tambi%C3%A9n%2C%20y%20que%20tienen%20un%20potente%20desarrollo%20de%20la%20sociedad%20civil%2C%20sectores%20poblacionales%20castigados%20por%20la%20ideolog%C3%ADa%20derechista.%20A%20parte%2C%20son%20barrios%20que%20tradicionalmente%20han%20sido%20de%20izquierdas%2C%20ejerciendo%20su%20voto%20al%20Psoe%2C%20y%20en%20los%20nuevos%20tiempos%20a%20Podemos.%20
+<PA><:>9<:>6<:>0<:>En%20los%20%C3%BAltimos%20cinco%20a%C3%B1os%20catalunya%20a%20experimentado%20un%20proceso%20de%20cambio%20y%20ha%20tenido%20que%20hacer%20frente%20al%20inmovil%C3%ADsmo%20procedente%20del%20gobierno%20central.%20Los%20ciudadanos%20catalanes%20no%20hemos%20tenido%20la%20posibilidad%20de%20manifestar%20abiertamente%20nuestro%20deseo%20de%20permanecer%20o%20no%20dentro%20de%20Espa%C3%B1a%2C%20y%20se%20han%20puesto%20trabas%20constantes%20a%20nuestro%20derecho%20a%20procesar%20dicha%20opini%C3%B3n%2C%20catalogando%20de%20inconstitucional%20un%20refer%C3%A9ndum%20en%20el%20que%20%C3%BAnicamente%20quisimos%20hacer%20latente%20nuestra%20opini%C3%B3n%20acerca%20del%20s%C3%AD%20o%20no%20a%20la%20independencia.%20En%20definitiva%2C%20en%20estos%20%C3%BAltimos%20cinco%20a%C3%B1os%20la%20relaci%C3%B3n%20que%20exist%C3%ADa%20entre%20el%20gobierno%20central%20y%20Catalunya%20se%20ha%20enfriado%20llegando%20al%20punto%20de%20oprimir%20las%20libertades%20y%20derechos%20del%20pueblo%20catal%C3%A1n.%20
+<JR><:>3<:>1<:>1<:>Considero%20que%20la%20menci%C3%B3n%20a%20las%20distintas%20culturas%20que%20conforman%20Espa%C3%B1a%20en%20la%20respuesta%202%20es%20m%C3%A1s%20propia%20de%20un%20catal%C3%A1n%20que%20de%20un%20madrile%C3%B1o.<:>interval2<:>1<:>3<:>4<:>
+<JR><:>1<:>1<:>1<:>La%20respuesta%20que%20considero%20fingida%20proporciona%20unas%20explicaciones%20que%20son%20en%20cierta%20manera%20condescendientes%20con%20el%20soberanismo.%20En%20Madrid%2C%20en%20cambio%2C%20es%20com%C3%BAn%20que%20la%20actitud%20contra%20el%20separatismo%20sea%20tajante%2C%20sin%20concesi%C3%B3n%20alguna.<:>interval3<:>0<:>3<:>1<:>
+<PA><:>16<:>15<:>0<:>No%2C%20Madrid%20es%20una%20ciudad%20abierta%2C%20muy%20internacional%20y%20poco%20conservadora%20en%20comparaci%C3%B3n%20con%20otros%20sitios%20de%20Espa%C3%B1a.
+<PA><:>5<:>2<:>0<:>S%C3%AD%20he%20participado.%20Es%20uno%20de%20los%20eventos%20m%C3%A1s%20importantes%20en%20Catalunya%2C%20y%20la%20viv%C3%AD%20con%20mucha%20emoci%C3%B3n%2C%20ya%20que%20mucha%20gente%20de%20tu%20pa%C3%ADs%20se%20une%20por%20una%20buena%20causa.
+<PA><:>8<:>7<:>0<:>Es%20mejor%20un%20modelo%20centralizado%2C%20como%20por%20ejemplo%20en%20Francia.%20De%20esta%20manera%2C%20el%20Estado%20ser%C3%ADa%20el%20encargado%20de%20repartir%20las%20partidas%20presupuestarias%20y%20habr%C3%ADa%20uniformidad%20en%20cuanto%20al%20funcionamiento%20de%20las%20instituciones.
+<JR><:>13<:>1<:>1<:>La%20respuestas%20no%20son%20demasiado%20orientativas%2C%20por%20lo%20que%20me%20cuesta%20decidirme.%20Si%20tengo%20que%20apostar%20me%20decanto%20por%20el%202%C2%BA%20participante%2C%20ya%20que%20el%20primero%20parece%20m%C3%A1s%20implicado%20pol%C3%ADticamente%2C%20y%20en%20catalu%C3%B1a%20la%20gente%20joven%20con%20esas%20implicaciones%20tiende%20a%20caer%20hacia%20otros%20partidos%20independentristas.%20Reitero%20que%20no%20es%20una%20raz%C3%B3n%20de%20peso<:>interval1<:>1<:>2<:>2<:>
+<JR><:>18<:>1<:>1<:>El%20primero%20ofrece%20una%20explicaci%C3%B3n%20m%C3%A1s%20elaborada%20centrada%20en%20los%20aspectos%20hist%C3%B3ricos%20y%20econ%C3%B3micos%2C%20habla%20de%20conceptos%20como%20%22agravantes%22%2C%20%22relaci%C3%B3n%20con%20el%20conjunto%20de%20Espa%C3%B1a%22%20y%20%22derecho%20a%20la%20secesi%C3%B3n%22.%20En%20el%20segundo%20%20se%20da%20una%20respuesta%20muy%20general%20que%20es%20la%20que%20se%20ofrece%20muchas%20veces%20desde%20fuera%20de%20Catalu%C3%B1a.%20<:>interval3<:>0<:>2<:>3<:>
+<JR><:>12<:>1<:>1<:>Las%20respuestas%20son%20realmente%20iguales.%20Podr%C3%ADan%20pertenecer%20perfectamente%20ambas%20%20a%20un%20catal%C3%A1n%2C%20as%C3%AD%20que%20no%20puedo%20decir%20qui%C3%A9n%20es%20qui%C3%A9n.%20%0A<:>interval1<:>1<:>2<:>2<:>
+<JR><:>9<:>1<:>1<:>A%20mi%20parecer%20la%20respuesta%20dos%20corresponde%20al%20fingidor%20por%20la%20forma%20en%20la%20que%20esta%20redactada.<:>interval4<:>0<:>1<:>3<:>
+<JQ><:>3<:>1<:>%C2%BFTe%20consideras%20notablemente%20diferente%20a%20otro%20habitante%20de%20tu%20comunidad%20de%20otra%20regi%C3%B3n%20distinta%3F%20Justifica%20tu%20respuesta<:>.Considero%20que%20existe%20m%C3%A1s%20diferencia%20entre%20los%20catalanes%20por%20el%20hecho%20de%20tener%20distintas%20provincias%20que%20entre%20madrile%C3%B1os%2C%20y%20eso%20se%20puede%20notar%20en%20la%20respuesta%20del%20fingidor%20a%20esta%20pregunta.
+<JR><:>17<:>1<:>0<:>Creo%20que%20el%20fingidor%20es%20la%20respuesta%201%2C%20ya%20que%20su%20respuesta%20es%20demasiado%20contundente%20para%20ser%20un%20madrile%C3%B1o.%20<:>interval3<:>0<:>1<:>3<:>
+<JR><:>2<:>1<:>0<:>La%20respuesta%20que%20he%20marcado%20como%20Fingidor%20ha%20sido%20demasiada%20t%C3%ADpica%2C%20sin%20ning%C3%BAn%20contenido%20m%C3%A1s%20que%20el%20del%20eslogan%20cl%C3%A1sico.%20La%20respuesta%20real%20(en%20mi%20opini%C3%B3n)%2C%20en%20lugar%20de%20basarse%20en%20lo%20que%20espera%20que%20dir%C3%ADa%20de%20un%20catal%C3%A1n%2C%20representa%20a%20una%20gran%20parte%20de%20amigos%20y%20conocidos%20m%C3%ADos%20que%2C%20sin%20sentirse%20independentistas%2C%20se%20unen%20a%20estas%20manifestaciones%20y%20se%20sienten%20impresionados%20por%20su%20dimensi%C3%B3n.<:>interval3<:>1<:>2<:>3<:>
+<PA><:>11<:>8<:>0<:>Hemos%20demandado%20nuestro%20derecho%20de%20autodeterminaci%C3%B3n%2C%20quiz%C3%A1%20en%20estos%20momentos%20m%C3%A1s%20apoyado%20por%20la%20poblaci%C3%B3n%2C%20debido%20a%20la%20falta%20de%20dialogo%20con%20el%20gobierno%20central%2C%20y%20las%20pol%C3%ADticas%20econ%C3%B3micas%20y%20culturales%20que%20no%20dejan%20de%20penalizar%20a%20Catalunya%2C%20desestimando%20nuestra%20identidad%20como%20pueblo.%20
+<NPA><:>16<:>10<:>0<:>Principalmente%20por%20el%20motivo%20nacionalista.%20Es%20un%20rechazo%20hacia%20los%20valores%20espa%C3%B1oles%20y%20las%20corridas%20de%20toros%20es%20un%20blanco%20f%C3%A1cil.
+<PA><:>1<:>16<:>0<:>Mis%20abuelos%20no%20vivieron%20la%20guerra.%20Respecto%20a%20la%20postguerra%2C%20pasaron%20estos%20a%C3%B1os%20en%20una%20comodidad%20material%20aceptable%20para%20la%20%C3%A9poca%2C%20y%20no%20tuvieron%20que%20desplazarse.%20Sin%20embargo%2C%20siendo%20de%20familia%20catalana%2C%20vieron%20restringida%20por%20completa%20su%20identidad.%20Mi%20abuelo%20fue%20multado%20por%20hablar%20en%20catal%C3%A1n%20al%20llamar%20a%20casa%20desde%20el%20extranjero%2C%20y%20un%20guardia%20civil%20grit%C3%B3%20a%20mi%20abuela%20que%20hablara%20en%20cristiano%20cuando%20estaba%20hablando%20catal%C3%A1n%20por%20la%20calle.
+<JQ><:>13<:>1<:>%C2%BFQu%C3%A9%20es%20lo%20que%20m%C3%A1s%20te%20gusta%20de%20los%20madrile%C3%B1os%3F%20intenta%20centrarte%20en%20aspectos%20espec%C3%ADficos%20o%20que%20te%20sorprendan%20por%20su%20exclusividad%20<:>.Los%20valores%20y%20las%20caracter%C3%ADsticas%20t%C3%ADpicas%20de%20una%20sociedad%20son%20dif%C3%ADciles%20de%20adivinar%20para%20alguien%20que%20no%20ha%20vivido%20toda%20su%20vida%20en%20esa%20regi%C3%B3n.
+<NPA><:>4<:>16<:>0<:>Mi%20abuelo%20paterno%20vivi%C3%B3%20la%20guerra%20en%20su%20pueblo%20de%20veraneo%2C%20ya%20que%20esta%20empez%C3%B3%20cuando%20%C3%A9l%20hab%C3%ADa%20ido%20con%20su%20madre%20al%20Valle%20de%20Mena%2C%20donde%20vivian%20sus%20abuelos%2C%20para%20pasar%20las%20vacaciones.%20All%C3%AD%20quedaron%20tres%20a%C3%B1os%2C%20que%20han%20quedado%20muy%20intensos%20en%20su%20memoria%2C%20mientras%20su%20padre%20luchaba%20en%20Madrid.%20La%20posguerra%20la%20pas%C3%B3%20en%20Madrid%2C%20hizo%20sus%20estudios(enla%20guerra%20tenia%2010%20a%C3%B1os)%20y%20termin%C3%B3%20veterinaria.%0AMi%20abuela%20materna%20se%20movi%C3%B3%20mucho%20durante%20la%20guerra.%20Su%20abuelo%20estaba%20en%20un%20ministerio%20de%20la%20rep%C3%BAblica%20y%20los%20iban%20trasladando%3A%20de%20madrid%20a%20Valencia%2C%20luego%20Barcelona...%20Al%20final%20regresaron%20a%20Madrid.%20Ella%20termin%C3%B3%20sus%20estudios%20y%20se%20cas%C3%B3%20con%20mi%20abuelo.%0A%0AMis%20otros%20dos%20abuelos%20eran%20beb%C3%A9s%20durante%20la%20guerra.%20Los%20dos%20crecieron%20en%20Barcelona%20durante%20la%20posguerra%20pero%20pasaron%20bastantes%20temporadas%20en%20otros%20pa%C3%ADses.%0A%0A
+<NPA><:>14<:>8<:>0<:>Porque%20est%C3%A1n%20hartos%20de%20que%20no%20se%20les%20respete%3B%20hartos%20tambi%C3%A9n%20de%20que%20no%20se%20los%20represente.%20Si%20bien%20muchos%20se%20ven%20movilizados%20por%20su%20sentimiento%20nacionalista%2C%20no%20es%20la%20%C3%BAnica%20raz%C3%B3n.%20Este%20hartazgo%2C%20en%20mi%20caso%2C%20se%20materializa%20en%20la%20impotencia%20que%20siento%20al%20ver%20que%20en%20Catalu%C3%B1a%2C%20el%20PP%20apenas%20obtiene%20votos%2C%20mientras%20que%20el%20Presidente%20de%20nuestro%20pa%C3%ADs%20es%20el%20l%C3%ADder%20de%20dicho%20partido.%20Es%20un%20hartazgo%20que%20en%20muchos%20casos%20no%20viene%20acompa%C3%B1ado%20de%20un%20sentimiento%20nacionalista%20sino%20m%C3%A1s%20bien%20por%20la%20situaci%C3%B3n%20actual%20de%20Espa%C3%B1a%2C%20tanto%20pol%C3%ADtica%20como%20social.%20La%20guerra%20que%20se%20ha%20potenciado%20desde%20las%20cumbres%20pol%C3%ADticas%20solo%20aumenta%20este%20sentimiento%2C%20y%20el%20discurso%20%22Catalu%C3%B1a%20es%20DE%20Espa%C3%B1a%22%20en%20vez%20de%20un%20di%C3%A1logo%20m%C3%A1s%20consensual%20ha%20movido%20tambi%C3%A9n%20a%20muchos%20catalanes.
+<NPA><:>10<:>4<:>0<:>Desde%20la%20aprobaci%C3%B3n%20de%20l'Estatut%20en%20las%20Cortes%20Generales%2C%20recortado%20en%20la%20sentencia%20del%20Constitucional%20en%202010%2C%20los%20catalanes%20nos%20hemos%20sentido%20dejados%20de%20lado%20por%20un%20gobierno%20central%20que%20m%C3%A1s%20que%20intentar%20favorecer%20la%20convivencia%20y%20las%20ganas%20de%20seguir%20en%20Espa%C3%B1a%2C%20ha%20hecho%20justo%20lo%20contrario.%20Obvio%20una%20gran%20manifestaci%C3%B3n%20en%202012%2C%20seguida%20de%20la%20petici%C3%B3n%20de%20un%20Pacto%20Fiscal%20por%20parte%20de%20la%20Generalitat.%20En%20los%20a%C3%B1os%20siguientes%20sigui%C3%B3%20habiendo%20manifestaciones%20pidiendo%20la%20independencia%20y%20el%20Ejecutivo%20hac%C3%ADa%20o%C3%ADdos%20sordos%2C%20eso%20crisp%C3%B3%20los%20%C3%A1nimos.%20Ahora%2C%20aunque%20haya%20un%20cambio%20de%20gobierno%20en%20Espa%C3%B1a%2C%20los%20catalanes%20estamos%20en%20otra%20pantalla%20dejando%20atr%C3%A1s%20el%20di%C3%A1logo%2C%20ahora%20la%20mayor%C3%ADa%20solo%20est%C3%A1%20por%20la%20independencia.
+<JR><:>7<:>1<:>0<:>No%20s%C3%A9%20qui%C3%A9n%20de%20los%20dos%20puede%20ser%2C%20en%20principio%20un%20madrile%C3%B1o%20apostar%C3%A1%20por%20un%20modelo%20centralizado%20pero%20no%20es%20descartable%20que%20est%C3%A9%20a%20favor%20de%20las%20autonom%C3%ADas<:>interval1<:>0<:>2<:>3<:>
+<JQ><:>18<:>1<:>%C2%BFCrees%20que%20el%20idioma%20castellano%20est%C3%A1%20suficientemente%20presente%20el%20la%20sociedad%20catalana%3F%20(Medios%20de%20comunicaci%C3%B3n%2C%20educaci%C3%B3n%2C%20familia%2C%20amigos...)<:>.La%20falta%20educaci%C3%B3n%20y%20medios%20de%20comunicaci%C3%B3n%20en%20castellano%20en%20Catalu%C3%B1a%20ha%20sido%20siempre%20un%20motivo%20de%20debate.%20Un%20catal%C3%A1n%20probablemente%20dir%C3%A1%20que%20hay%20m%C3%A1s%20que%20suficientes%20y%20un%20espa%C3%B1ol%20dir%C3%A1%20que%20falta%20educaci%C3%B3n%20y%20presencia%20del%20castellano.
+<JQ><:>12<:>1<:>%C2%BFQu%C3%A9%20aspectos%20de%20la%20Constituci%C3%B3n%20Espa%C3%B1ola%20le%20parece%20que%20se%20deber%C3%ADan%20modificar%3F%20(quiz%C3%A1s%20le%20parece%20que%20ninguno)<:>.Porque%20la%20ideolog%C3%ADa%20general%20en%20Madrid%20y%20en%20Catalu%C3%B1a%20ha%20sido%20muy%20diferente%20durante%20muchos%20a%C3%B1os.%20Eso%20se%20puede%20ver%20reflejado%20en%20c%C3%B3mo%20ve%20la%20Constituci%C3%B3n%20de%20Espa%C3%B1a
+<JQ><:>17<:>1<:>Si%20se%20realizara%20un%20refer%C3%A9ndum%20sobre%20cu%C3%A1l%20deber%C3%ADa%20ser%20la%20capital%20de%20Espa%C3%B1a%2C%20%C2%BFConsiderar%C3%ADas%20que%20debe%20seguir%20siendo%20Madrid%20o%20votar%C3%ADas%20a%20favor%20de%20Barcelona%3F%20En%20cualquier%20caso%20aporta%20argumentos%20contundentes%20para%20defender%20tu%20respuesta<:>.En%20caso%20de%20ser%20madrile%C3%B1o%20la%20respuesta%20est%C3%A1%20bastante%20clara.%20Pero%20lo%20que%20creo%20que%20puede%20ser%20determinante%20son%20las%20razones.%20No%20creo%20que%20las%20razones%20aportadas%20sean%20las%20mismas.%20
+<JR><:>11<:>1<:>0<:>Creo%20que%20se%20ajusta%20a%20la%20descripci%C3%B3n%20que%20d%C3%AD%20en%20la%20respuesta.%20El%20Madrile%C3%B1o%20no%20tiene%20por%20lo%20general%20sentimientos%20nacionalistas%20hacia%20su%20regi%C3%B3n%20en%20concreto%2C%20no%20la%20diferencia%2C%20por%20ejemplo%2C%20de%20las%20Castillas%2C%20al%20menos%20culturalmente.%20Si%20es%20nacionalista%2C%20lo%20es%20con%20el%20conjunto%20del%20Estado%20Espa%C3%B1ol.<:>interval4<:>1<:>4<:>2<:>
+<JR><:>5<:>1<:>1<:>El%20fingidor%20ha%20dejado%20claro%20que%20no%20est%C3%A1%20a%20favor%20de%20la%20separaci%C3%B3n%2C%20mientras%20que%20el%20el%20no%20fingidor%20no%20expone%20directamente%20su%20ideolog%C3%ADa.%20Por%20tanto%2C%20creo%20que%20el%20fin%20de%20la%20respuesta%20del%20fingidor%20es%20dejar%20claro%20que%20est%C3%A1%20en%20contra%20de%20la%20independencia%2C%20lo%20que%20dir%C3%ADa%20un%20madrile%C3%B1o.<:>interval3<:>1<:>1<:>3<:>
+pong check<:>2
+<JR><:>15<:>1<:>1<:>Creo%20que%20en%20Madrid%20tenemos%20una%20ideologia%20bastante%20cercana%20a%20la%20del%20gobierno%20central%20puesto%20que%20no%20existe%20un%20conflicto%20regional%2C%20ni%20de%20la%20b%C3%BAsqueda%20de%20independencia...%20asimismo%20creo%20que%20el%20fingidor%20fuerza%20demasiado%20el%20caracter%20internacional%20que%20tamp%C3%B2co%20es%20demasiado%20caracteristico%20de%20madrid.<:>interval2<:>0<:>2<:>4<:>
+<JR><:>6<:>1<:>0<:>La%20respuesta%201%20est%C3%A1%20muy%20elaborada%20y%20responde%20a%20un%20patr%C3%B3n%20estereotipado%20y%20a%20un%20discurso%20exgaerado%2C%20pero%20aun%20as%C3%AD%20hay%20gente%20dentro%20de%20Catalunya%20que%20piensa%20de%20esa%20forma.%20La%20respuesta%202%20es%20muy%20simple%2C%20aunque%20verdadera.%20Pero%20la%20palabra%20nacionalista%20me%20ha%20hecho%20pensar%20en%20que%20quiz%C3%A1s%20la%20persona%20que%20lo%20ha%20respondido%20no%20ha%20sabido%20esconder%20su%20hast%C3%ADo%20hacia%20el%20proceso%20independentista.%20Es%20realmente%20una%20elecci%C3%B3n%20dif%C3%ADcil%20debido%20a%20que%20ambas%20son%20en%20parte%20verdad%2C%20peor%20ambas%20tienen%20alg%C3%BAn%20tic%20de%20enga%C3%B1ador.%20<:>interval2<:>1<:>3<:>3<:>
+<JQ><:>9<:>1<:>A%20tu%20parecer%2C%20%C2%BFresulta%20para%20el%20conjunto%20de%20la%20sociedad%20espa%C3%B1ola%20beneficioso%20que%20exista%20un%20gobierno%20liderado%20por%20un%20partido%20a%20favor%20del%20derecho%20a%20decidir%20del%20pueblo%20catal%C3%A1n%2C%20o%2C%20por%20contra%2C%20consideras%20que%20ser%C3%ADa%20m%C3%A1s%20provechoso%20que%20el%20pa%C3%ADs%20estuviera%20gobernado%20por%20un%20partido%20que%20tratara%20de%20mantener%20unido%20el%20pa%C3%ADs%3F<:>.Para%20ver%20si%20qui%C3%A9n%20contesta%20esta%20o%20no%20a%20favor%20de%20la%20secesi%C3%B3n%20de%20catalu%C3%B1a%20pero%20desde%20el%20punto%20de%20vista%20de%20un%20no%20catal%C3%A1n%20y%20tener%20en%20cuenta%20las%20implicaciones%20a%20las%20que%20puede%20dar%20lugar%20en%20Espa%C3%B1a%20y%20no%20s%C3%B3lo%20en%20catalu%C3%B1a
+<PA><:>4<:>3<:>1<:>No.%20Tengo%20amigos%20de%20mi%20misma%20regi%C3%B3n%20muy%20diferentes%20a%20mi%20en%20cuanto%20a%20caracter%2C%20de%20la%20misma%20manera%20que%20en%20regiones%20de%20mis%20alrededores%20habr%C3%A1%20gente%20m%C3%A1s%20parecida%20a%20mi%20y%20gente%20que%20menos.%20Pero%20no%20creo%20que%20con%20tan%20pocas%20diferencias%20culturales%20se%20pueda%20decir%20que%20somos%20distintos%20por%20el%20sitio%20donde%20vivimos%20habiendo%20tan%20poca%20distancia%20de%20separaci%C3%B3n.
+<JQ><:>1<:>1<:>%C2%BFPuede%20afirmarse%20que%20los%20argumentos%20patri%C3%B3ticos%20del%20independentismo%20son%20una%20mera%20excusa%20para%20perseguir%20una%20independencia%20fiscal%2C%20libr%C3%A1ndose%20as%C3%AD%20Catalu%C3%B1a%20de%20colaborar%20econ%C3%B3micamente%20con%20las%20regiones%20menos%20favorecidas%20de%20Espa%C3%B1a%3F<:>.Es%20com%C3%BAn%20entre%20los%20madrile%C3%B1os%20la%20creencia%20de%20que%20los%20argumentos%20patri%C3%B3ticos%20del%20independentismo%20son%20una%20mera%20excusa%20para%20conseguir%20la%20independencia%20fiscal%20y%20prosperar%20econ%C3%B3micamente%20sin%20colaborar%20con%20el%20resto%20de%20regiones%20de%20Espa%C3%B1a.%20Para%20la%20mayor%C3%ADa%20de%20madrile%C3%B1os%2C%20Catalu%C3%B1a%20es%20una%20autonom%C3%ADa%20adinerada%20y%20ego%C3%ADsta%20que%20se%20niega%20a%20contribuir.
+<JR><:>10<:>1<:>0<:>En%20mi%20opini%C3%B3n%2C%20el%20Fingidor%2C%20pese%20a%20haber%20dado%20una%20respuesta%20parecida%20a%20la%20que%20yo%20dar%C3%ADa%20como%20catal%C3%A1n%2C%20dando%20su%20opini%C3%B3n%20sin%20ir%20directamente%20al%20grano%20me%20hace%20pensar%20que%20es%20madrile%C3%B1o.%20<:>interval3<:>1<:>3<:>2<:>
+<JQ><:>2<:>1<:>En%20una%20situaci%C3%B3n%20diaria%2C%20por%20ejemplo%20al%20comprar%20el%20peri%C3%B3dico%20o%20alquilar%20una%20pel%C3%ADcula%2C%20%C2%BFusas%20el%20catal%C3%A1n%20al%20comunicarte%20con%20tu%20interlocutor%3F%20Tanto%20en%20caso%20afirmativo%20como%20en%20caso%20negativo%2C%20%C2%BFpodr%C3%ADas%20explicar%20por%20qu%C3%A9%3F<:>.Una%20cl%C3%A1sica%20impresi%C3%B3n%20de%20los%20no-catalanes%20es%20que%20el%20catal%C3%A1n%20es%20una%20lengua%20que%20se%20impone%20a%20las%20otras%2C%20por%20lo%20que%20los%20catalanes%20la%20usan%20en%20todos%20los%20%C3%A1mbitos%20del%20d%C3%ADa%20a%20d%C3%ADa%20y%20se%20sienten%20atacados%20si%20tienen%20que%20expresarse%20en%20castellano.%20Los%20catalanes%2C%20en%20cambio%2C%20tienen%20que%20paliar%20constantemente%20con%20dependientes%20y%20terceros%20que%20usan%20otra%20lengua%20que%20la%20catalana%2C%20por%20lo%20que%20reducen%20su%20uso%20enormemente.%0ADe%20todos%20modos%2C%20supongo%20que%2C%20en%20la%20explicaci%C3%B3n%2C%20en%20catal%C3%A1n%20afirmar%C3%A1%20que%20usa%20el%20catal%C3%A1n%20de%20punto%20de%20partida%2C%20y%20que%20el%20madrile%C3%B1o%20en%20cambio%20no%20har%C3%A1%20menci%C3%B3n%20a%20ninguna%20posibilidad%20de%20cambiar%20entre%20las%20dos%20lenguas.
+<JQ><:>7<:>1<:>%C2%BFCu%C3%A1les%20consideras%20que%20son%20las%20condiciones%20que%20deben%20cumplirse%20para%20que%20se%20convoque%20un%20refer%C3%A9ndum%20vinculante%20sobre%20la%20independencia%3F<:>.En%20teor%C3%ADa%20los%20catalanes%20ser%C3%A1n%20menos%20exigentes%20en%20cuanto%20a%20los%20requisitos%20m%C3%ADnimos%20para%20permitir%20la%20consulta
+<NPA><:>18<:>12<:>1<:>Los%20art%C3%ADculos%20con%20respecto%20a%20la%20monarqu%C3%ADa%2C%20distribuci%C3%B3n%20de%20esca%C3%B1os%2C%20plurinacionalidad%2C%20dise%C3%B1o%20del%20poder%20judicial%2C%20divisi%C3%B3n%20de%20poderes%20y%20dise%C3%B1o%20de%20las%20c%C3%A1maras%20parlamentarias.
+<PA><:>3<:>18<:>1<:>Depende%20de%20la%20regiones%20dentro%20de%20la%20Comunidad.%20No%20creo%20que%20se%20pueda%20hablar%20de%20suficiente%20representaci%C3%B3n%2C%20si%20no%20m%C3%A1s%20bien%20de%20que%20existe%20las%20oportunidades%20suficientes%20para%20elegir%20el%20idioma%20que%20quieres%20usar%20en%20todos%20los%20campos%20de%20la%20sociedad%20catalana.
+<JQ><:>15<:>1<:>%C2%BFc%C3%B3mo%20crees%20que%20afecta%20a%20los%20madrile%C3%B1os%20las%20actitudes%20independentistas%3F<:>.porque%20es%20probable%20que%20un%20catal%C3%A1n%20piense%20que%20los%20madrile%C3%B1os%20ven%20realmente%20mal%20a%20los%20independentistas%2C%20y%20seg%C3%BAn%20la%20respuesta%20puede%20identificarse%20al%20fingidor
+<JR><:>8<:>1<:>0<:>Porque%20ha%20empezado%20con%20un%20verbo%20en%20tercera%20persona%20(%22est%C3%A1n%20hartos%22)%20y%20un%20catal%C3%A1n%20deber%C3%ADa%20usar%20la%20primera%20persona%20del%20plural.%20Ha%20dado%20una%20respuesta%20muy%20basada%20en%20la%20actualidad%20pol%C3%ADtica%20y%20ha%20olvidado%20de%20hablar%20de%20la%20identidad%20y%20de%20la%20cultura.<:>interval4<:>0<:>3<:>2<:>
+<JQ><:>5<:>1<:>Expresa%20tu%20opini%C3%B3n%20de%20c%C3%B3mo%20ser%C3%ADa%20un%20Gobierno%20con%20Albert%20Rivera%20como%20presidente.<:>.Se%20sabe%20que%20la%20mayor%C3%ADa%20de%20los%20catalanes%20(al%20menos%2C%20estudiantes%20o%20j%C3%B3venes)%20no%20tienen%20demasiado%20aprecio%20a%20este%20pol%C3%ADtico%2C%20mientras%20q
+<NPA><:>3<:>1<:>1<:>No%20puede%20afirmarse%20rotundamente%20tal%20afirmaci%C3%B3n%2C%20si%20bien%20debemos%20considerar%20este%20argumento%20como%20una%20posible%20causa%20del%20auge%20pol%C3%ADtico%20del%20independentismo.
+<NPA><:>15<:>13<:>1<:>Creo%20que%20los%20madrile%C3%B1os%20tienen%20una%20identidad%20poco%20caracteristica%2C%20eso%20es%20precisamente%20lo%20que%20les%20hace%20m%C3%A1s%20exclusivos.%20No%20existe%20la%20identidad%20madrile%C3%B1a%20como%20tal%20y%20por%20tanto%20son%20m%C3%A1s%20f%C3%A1ciles%20y%20m%C3%A1s%20abiertos%20a%20la%20hora%20de%20conocer%20o%20tratar%20con%20gente%20de%20fuera%20de%20Madrid.
+<JQ><:>6<:>1<:>Hasta%20que%20punto%20crees%20que%20la%20lengua%20es%20un%20valor%20importante%20para%20el%20ser%20humano%20y%20si%20se%20deber%C3%ADa%20proteger%20una%20lengua%20independientemente%20de%20su%20%22valor%20comercial%22%20o%20n%C3%BAmero%20de%20hablantes%3F<:>.La%20hago%20para%20intentar%20captar%20como%20un%20no-catal%C3%A1n%20fingir%C3%ADa%20ponerse%20en%20la%20piel%20de%20un%20catal%C3%A1n%20en%20este%20aspecto%20tan%20delicado.%20El%20estilo%20de%20respuesta%20puede%20revelar%20mucho.%20
+<JR><:>14<:>1<:>0<:>No%20ha%20sido%20una%20pregunta%20suficientemente%20acertada%2C%20y%20ahora%20me%20doy%20cuenta%3A%20va%20m%C3%A1s%20orientada%20a%20la%20ideolog%C3%ADa%20pol%C3%ADtica%20(m%C3%A1s%20de%20derechas%20o%20izquierdas)%20y%20los%20que%20hoy%20participamos%20somos%20m%C3%A1s%20de%20izquierdas%2C%20por%20lo%20que%20no%20estoy%20segura%20de%20qui%C3%A9n%20es%20el%20fingidor%20y%20lo%20he%20elegido%20al%20azar%20completamente.%20%20<:>interval1<:>0<:>1<:>1<:>
+<JQ><:>11<:>1<:>%C2%BFQu%C3%A9%20relaciones%20crees%20que%20se%20establecen%20entre%20el%20Gobierno%20de%20Central%20y%20Madrid%3F%C2%BFCrees%20que%20de%20alguna%20forma%20nos%20afectan%20m%C3%A1s%20las%20pol%C3%ADticas%20que%20se%20puedan%20tomar%20que%20al%20resto%20de%20comunidades%3F<:>.En%20mi%20opini%C3%B3n%20el%20Madrile%C3%B1o%20no%20piensa%20en%20Madrid%20como%20capital%20organizadora%20y%20definitoria%20del%20poder%20del%20Estado.%20Cuando%20piensa%20en%20el%20gobierno%20central%2C%20piensa%20en%20toda%20Espa%C3%B1a.%20mientras%20que%20el%20catal%C3%A1n%20relaciona%20gobierno%20central%20con%20Madrid.%20
+<NPA><:>7<:>5<:>1<:>Negativo%20tanto%20desde%20el%20punto%20econ%C3%B3mico%20y%20social%20como%20en%20lo%20referente%20a%20la%20situaci%C3%B3n%20en%20Catalu%C3%B1a%20en%20concreto%2C%20ya%20que%20su%20pol%C3%ADtica%20es%20la%20misma%20que%20ha%20hecho%20que%20lleguemos%20a%20este%20punto.
+<JQ><:>8<:>1<:>%C2%BFPodr%C3%ADas%20explicar%20cu%C3%A1les%20son%20los%20objetivos%20de%20%C3%93mnium%20Cultural%20(asociaci%C3%B3n%20independentista)%3F<:>.Un%20catal%C3%A1n%20hablar%C3%A1%20de%20su%20defensa%20de%20la%20lengua%20y%20de%20la%20cultura%20catalanas%20y%20un%20fingidor%20solo%20se%20centrar%C3%A1%20en%20la%20cuesti%C3%B3n%20de%20la%20independencia.
+<JR><:>16<:>1<:>0<:>Me%20hace%20pensar%20que%20es%20el%20fingidor%20por%20la%20multa%20que%20le%20pusieron%20al%20llamar%20desde%20el%20extranjero.%20Adem%C3%A1s%2C%20es%20como%20muy%20forzado%20lo%20de%20%22siendo%20de%20familia%20catalana%22.%20Y%20tambi%C3%A9n%20vieron%20restringida%20por%20completa%20su%20identidad%2C%20ya%20que%20compar%C3%A1ndolo%20con%20mi%20familia%20y%20casos%20que%20conozco%20la%20identidad%20era%20restringida%20en%20t%C3%A9rminos%20oficiales%20pero%20en%20la%20privacidad%20y%20comunidad%20dif%C3%ADcilmente%20era%20tan%20%22restringida%20por%20completa%22<:>interval3<:>1<:>4<:>2<:>
+<JR><:>4<:>1<:>1<:>Un%20catal%C3%A1n%20no%20dir%C3%ADa%20que%20el%20independentismo%20no%20ha%20llegado%20a%20desaparecer.%20Yo%20no%20supe%20del%20independentismo%20hasta%20los%2013%20a%C3%B1os%20o%20as%C3%AD.%20Actualmente%20a%20los%205%20ya%20lo%20deben%20saber%20todos.%20No%20se%20puede%20comparar%20el%20momento%20actual%20con%20hace%2020%20a%C3%B1os.%20Adem%C3%A1s%20de%20que%20da%20pocas%20razones%20para%20argumentar%20la%20respuesta.<:>interval3<:>0<:>3<:>4<:>
+<NPA><:>6<:>18<:>1<:>Si.%20Los%20dos%20idiomas%20disfrutan%20de%20un%20estatus%20suficiente%20y%20del%20respeto%20que%20la%20ley%20pide.%20A%20nivel%20social%20casi%20todo%20el%20mundo%20es%20capaz%20de%20hablar%20castellano%20sin%20ning%C3%BAn%20problema%20o%20reticencia.
+<PA><:>18<:>17<:>1<:>Creo%20que%20la%20capital%20de%20un%20pa%C3%ADs%20no%20tiene%20relevancia%20m%C3%A1s%20all%C3%A1%20del%20%C3%A1mbito%20tur%C3%ADstico%20o%20cultural.%20%20As%C3%AD%20que%20no%20creo%20que%20deber%C3%ADa%20modificarse%20la%20capital%20de%20Espa%C3%B1a.
+<NPA><:>5<:>3<:>1<:>No%20me%20considero%20demasiado%20diferente.%20Todo%20tenemos%20m%C3%A1s%20o%20menos%20las%20mismas%20costumbres%20a%C3%BAn%20perteneciendo%20a%20distintas%20regiones.%20Si%20bien%20es%20cierto%20que%20la%20orientaci%C3%B3n%20pol%C3%ADtica%20puede%20cambiar%20seg%C3%BAn%20cada%20regi%C3%B3n%2C%20la%20diferencia%20en%20identidades%20no%20es%20tan%20abismal.
+<NPA><:>9<:>7<:>1<:>Desde%20mi%20punto%20de%20vista%2C%20no%20deben%20cumplirse%20condiciones%20algunas%20para%20llevar%20a%20cabo%20dicho%20refer%C3%A9ndum.%20El%20pueblo%20catal%C3%A1n%20quiere%20manifestar%20su%20opini%C3%B3n%20y%20deseo%20de%20permanecer%20o%20no%20en%20el%20conjunto%20de%20Espa%C3%B1a%2C%20es%20decir%2C%20quieren%20expresar%20su%20deseo%20de%20continuar%20sinti%C3%A9ndote%20o%20no%20parte%20de%20un%20pa%C3%ADs.%20Por%20ello%2C%20no%20creo%20que%20tengan%20que%20darse%20unas%20circunstancias%20o%20condiciones%20determinadas%20para%20llevarlo%20a%20cabo%2C%20simplemente%2C%20se%20debe%20dejar%20a%20los%20catalanes%20expresar%20sus%20deseos%2C%20al%20igual%20que%20se%20deber%C3%ADa%20dejar%20a%20cualquier%20otra%20comunidad%2C%20v%C3%A9ase%20el%20Pa%C3%ADs%20Vasco.%20%20
+<NPA><:>1<:>17<:>1<:>En%20ning%C3%BAn%20caso%20ser%C3%ADa%20aceptable%20realizar%20este%20refer%C3%A9ndum.%20Incluso%20si%20se%20realizara%2C%20lo%20cual%20ser%C3%ADa%20una%20desfachatez%2C%20la%20opci%C3%B3n%20de%20Madrid%20habr%C3%ADa%20de%20prevalecer%20debido%20a%20razones%20hist%C3%B3ricas%20(lleva%20siglos%20siendo%20la%20capital%20de%20Espa%C3%B1a)%2C%20econ%C3%B3micas%20(el%20traslado%20de%20las%20instituciones%20conllevar%C3%ADa%20un%20coste%20inaceptable)%20y%20de%20estabilidad%20cultural%20(todos%20los%20espa%C3%B1oles%20identifican%20Madrid%20como%20la%20capital%20de%20Espa%C3%B1a%20de%20forma%20cultural%2C%20y%20el%20hipot%C3%A9tico%20traslado%20de%20la%20capital%20a%20Barcelona%20crear%C3%ADa%20un%20enorme%20descontento%20ante%20todo%20entre%20los%20madrile%C3%B1os%2C%20pero%20tambi%C3%A9n%20entre%20la%20enorme%20mayor%C3%ADa%20de%20espa%C3%B1oles%20de%20las%20comunidades%20que%20no%20tienen%20un%20sentimiento%20propio%20de%20pertenencia%20auton%C3%B3mica).
+<NPA><:>17<:>15<:>1<:>Los%20madrile%C3%B1os%20nos%20sentimos%20profundamente%20dolidos%20por%20la%20actitud%20que%20est%C3%A1%20tomando%20la%20sociedad%20catalana%20con%20respecto%20a%20la%20naci%C3%B3n%20espa%C3%B1ola.%20Pero%20quiz%C3%A1s%20lo%20que%20m%C3%A1s%20nos%20molesta%20es%20el%20eco%20que%20realiza%20la%20parte%20independentista%20con%20respecto%20a%20los%20%22unionistas%22.%20Es%20importa%20defender%20la%20unidad%20nacional%20por%20el%20bien%20de%20la%20sociedad%20en%20su%20conjunto%20
+<NPA><:>8<:>2<:>1<:>No.%20Suelo%20usar%20el%20castellano%2C%20porque%20soy%20uno%20de%20los%20much%C3%ADsimos%20catalanes%20que%20en%20su%20casa%20hablan%20castellano%2C%20pero%20que%20sabe%20usar%20ambas%20lenguas%20por%20igual.
+<JQ><:>10<:>1<:>%C2%BFConsidera%20posible%20que%20Catalu%C3%B1a%20se%20convierta%20en%20un%20estado%20independiente%20en%2018%20meses.%20como%20el%20Ejecutivo%20catal%C3%A1n%20tiene%20en%20proyecto%3F%20Explique%20porqu%C3%A9.<:>.En%20mi%20opini%C3%B3n%2C%20si%20el%20catal%C3%A1n%20es%20independentista%2C%20por%20lo%20que%20hemos%20visto%20en%20Catalu%C3%B1a%2C%20seguir%C3%A1%20confiando%20en%20ello.%20Aun%20no%20siendo%20independentista%2C%20juzgar%C3%A1%20duramente%20al%20gobierno%20espa%C3%B1ol.%20Si%20es%20de%20fuera%2C%20su%20respuesta%20deber%C3%ADa%20ser%20una%20negativa%20y%20los%20motivos%20que%20expresara%20no%20se%20parecer%C3%ADan%20tanto%20a%20los%20expuestos%20por%20un%20catal%C3%A1n.%20
+<JQ><:>16<:>1<:>Explica%20los%20hechos%20m%C3%A1s%20relevantes%20del%20catalanismo%20a%20principios%20de%20siglo%20XX%20<:>.Porque%20al%20ser%20parte%20de%20la%20historia%20que%20incumbe%20a%20Catalu%C3%B1a%2C%20una%20persona%20Madrlie%C3%B1a%20desconocer%C3%A1%20m%C3%A1s%20sobre%20el%20tema
+<NPA><:>12<:>6<:>1<:>La%20lengua%20es%20uno%20de%20los%20valores%20m%C3%A1s%20importantes%20para%20el%20ser%20humano.%20Al%20final%20es%20algo%20que%20aprendemos%20de%20nuestros%20padres%20desde%20peque%C3%B1os%20y%20es%20lo%20que%20nos%20identifica%20y%20nos%20permite%20comunicarnos%20con%20las%20personas%20m%C3%A1s%20cercanas%20y%20que%20comparten%20los%20mismos%20valores%20que%20nosotros.%20Siempre%20se%20debe%20proteger%20una%20lengua%2C%20el%20gobierno%20debe%20hacer%20hincapi%C3%A9%20en%20ello%20y%20no%20ejercer%20nunca%20ning%C3%BAn%20tipo%20de%20discriminaci%C3%B3n.
+<PA><:>2<:>1<:>1<:>No.%20Una%20Catalu%C3%B1a%20fuera%20de%20Espa%C3%B1a%20(y%20de%20la%20Uni%C3%B3n%20Europea%2C%20entre%20otros)%20ser%C3%ADa%20un%20desastre%20econ%C3%B3mico%2C%20por%20lo%20que%20su%20independencia%20fiscal%20no%20ser%C3%ADa%20m%C3%A1s%20que%20renunciar%20al%20mayor%20per%C3%ADodo%20de%20autonom%C3%ADa%20de%20esta%20regi%C3%B3n%20en%20su%20historia%20para%20caer%20en%20el%20caos.%0A%0ALos%20argumentos%20patri%C3%B3ticos%20son%20fruto%20de%20una%20sensaci%C3%B3n%20de%20intromisi%C3%B3n%20del%20gobierno%20de%20Espa%C3%B1a%20y%20de%20la%20lengua%20espa%C3%B1ola%20en%20Catalu%C3%B1a%20que%20han%20visto%20con%20los%20a%C3%B1os%20(ni%20para%20bien%20ni%20para%20mal%2C%20simplemente%20el%20espa%C3%B1ol%20se%20ha%20impuesto%20al%20catal%C3%A1n).%0A%0AEl%20sentimiento%20separatista%20no%20tiene%20un%20fin%20tan%20malvado%20detr%C3%A1s%3A%20es%20un%20sentimiento%20desorganizado%20y%20ca%C3%B3tico%2C%20con%20un%20par%20de%20pol%C3%ADticos%20oportunistas%20en%20la%20cabeza%2C%20que%20simplemente%20rechaza%20lo%20que%20ve%20como%20incursi%C3%B3n%20for%C3%A1nea.
+<NPA><:>11<:>9<:>1<:>Quiz%C3%A1%20ser%C3%ADa%20m%C3%A1s%20beneficioso%20econ%C3%B3micamente%2C%20que%20Catalunya%2C%20fuese%20forzada%20a%20no%20tener%20referend%C3%BAm%2C%20y%20pertenecer%20al%20Estado%20Espa%C3%B1ol.%20pero%20desde%20luego%2C%20no%20ser%C3%ADa%20democr%C3%A1tico.%20Paralelamente%2C%20por%20mi%20idelog%C3%ADa%2C%20considero%20que%20es%20mucho%20m%C3%A1s%20democr%C3%A1tico%20y%20correcto%20un%20gobierno%20que%20respete%20la%20autonom%C3%ADa%2C%20identidad%20y%20derecho%20a%20decidir%20de%20los%20pueblos%2C%20y%20que%20no%20obligue%20a%20Espa%C3%B1a%20a%20ser%20un%20conglomerado%20homog%C3%A9neo%2C%20sino%20que%20entienda%20Espa%C3%B1a%20como%20una%20diversidad%20de%20culturas%2C%20si%20as%C3%AD%20se%20desean%20manifestar%20dichas%20culturas.
+<PA><:>5<:>2<:>1<:>S%C3%AD%20utilizo%20el%20catal%C3%A1n%2C%20pues%20es%20mi%20lengua%20materna%20y%20la%20que%20utilizo%20en%20casa%20diariamente.%20Creo%20que%20es%20importante%20su%20uso%20porque%20es%20parte%20de%20mi%20identidad%20y%20cultura.
+<JR><:>3<:>2<:>1<:>Considero%20que%20la%20respuesta%202%20pertenece%20al%20fingidor%20ya%20que%20hace%20hincapi%C3%A9%20en%20la%20poca%20distancia%20de%20separaci%C3%B3n%20entre%20regiones%2C%20eso%20me%20hace%20sospechar%20que%20est%C3%A1%20intentando%20parecer%20madrile%C3%B1o.<:>interval3<:>0<:>2<:>4<:>
+pong check<:>5
+<PA><:>14<:>13<:>1<:>Lo%20que%20m%C3%A1s%20me%20gusta%20es%20la%20tendencia%20que%20tienen%20a%20reunirse%20una%20vez%20a%20la%20semana%20aunque%20sea%2C%20a%20pesar%20de%20lo%20ocupado%20o%20no%20que%20est%C3%A9n%2C%20para%20tomar%20algo.%20
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+<PA><:>9<:>6<:>1<:>La%20lengua%20forma%20parte%20de%20la%20identidad%20de%20un%20pueblo%2C%20de%20un%20etnia.Si%20suprimimos%20la%20lengua%20estamos%20destrozando%20una%20parte%20importante%20de%20la%20cultura%20e%20identidad%20de%20dicho%20pueblo%2C%20independientemente%20del%20n%C3%BAmero%20de%20hablantes%20o%20de%20su%20valor%20comercial%20debemos%20tener%20en%20cuenta%20que%20no%20se%20puede%20prohibir%20a%20nadie%20el%20uso%20de%20su%20propia%20lengua%2C%20o%20qu%C3%A9%20pasa%20%C2%BFestamos%20volviendo%20a%20tiempos%20de%20la%20Inquisici%C3%B3n%3F%0APor%20ello%2C%20la%20lengua%20de%20cualquier%20pueblo%20o%20comunidad%20debe%20protegerse%20pues%20forma%20parte%20indispensable%20de%20su%20identidad%20y%20cultura%20y%20es%20un%20valor%20sobre%20el%20que%20se%20ha%20desarrollado%20dicho%20pueblo%20o%20comunidad.%20
+pong check<:>5
+pong check<:>5
+pong check<:>5
+<JR><:>17<:>2<:>1<:>La%20decisi%C3%B3n%20sobre%20el%20posible%20fingidor%20tiene%20las%20mismas%20caracter%C3%ADsticas%20que%20en%20el%20caso%20anterior.%20El%20fingidor%20debe%20tener%20una%20actitud%20mucho%20m%C3%A1s%20exagerada%2C%20que%20en%20ocasiones%20le%20puede%20delatar<:>interval3<:>1<:>4<:>1<:>
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+<PA><:>8<:>7<:>1<:>Que%20todos%20los%20espa%C3%B1oles%20podamos%20votar%2C%20porque%20estamos%20hablando%20de%20la%20integridad%20de%20la%20unidad%20de%20nuestro%20pa%C3%ADs.%20Aunque%20no%20voto%20al%20PP%2C%20creo%20que%20debemos%20respetar%20lo%20que%20se%20dice%20en%20la%20Constituci%C3%B3n.%20Si%20no%20nos%20gusta%20hay%20que%20cambiarla%2C%20pero%20para%20eso%20hay%20que%20votar%20consecuentemente%20en%20las%20elecciones.
+pong check<:>5
+pong check<:>5
+pong check<:>5
+<JQ><:>4<:>1<:>%C2%BFQu%C3%A9%20piensas%20en%20cuanto%20a%20que%20el%20idioma%20para%20estudiar%20todas%20las%20asignaturas%20(excepto%20la%20clase%20de%20castellano)%2C%20sea%20el%20catal%C3%A1n%3F<:>.Los%20catalanes%20hemos%20visto%20como%20a%20la%20larga%20se%20emplea%20mucho%20el%20castellano%20y%20estudiar%20en%20catal%C3%A1n%20no%20nos%20limita%2C%20pues%20muchos%20hablamos%20casi%20mejor%20el%20espa%C3%B1ol%20al%20emplearlo%20m%C3%A1s%20en%20el%20d%C3%ADa%20a%20d%C3%ADa.%20Para%20lo%20poco%20que%20se%20estudia%20en%20el%20colegio%2C%20el%20espa%C3%B1ol%20est%C3%A1%20muy%20bien%20hablado.%20Visto%20desde%20fuera%2C%20uno%20reclamar%C3%ADa%20m%C3%A1s%20horas%20de%20espa%C3%B1ol.
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+<PA><:>15<:>12<:>1<:>Creo%20que%20la%20Constituci%C3%B3n%20deber%C3%ADa%20ser%20modificada%20para%20tener%20en%20cuenta%20los%20cambios%20que%20se%20han%20producido%20en%20espa%C3%B1a%20desde%20su%20creaci%C3%B3n.%20Deber%C3%ADa%20replantearse%20por%20ejemplo%2C%20el%20Estadp%20de%20las%20Autonomias%20ya%20que%20el%20pa%C3%ADs%20se%20sigue%20rigiendo%20por%20una%20constituci%C3%B3n%20creada%20justo%20despu%C3%A9s%20de%20una%20dictadura%20franquista%20y%20los%20valores%20de%20sus%20creadores%20no%20eran%20del%20todo%20independientes%20a%20ella.%20
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+<PA><:>11<:>8<:>1<:>%C3%93mnium%20es%20la%20principal%20y%20con%20m%C3%A1s%20poder%20asociaci%C3%B3n%20catalana%20independentista.%20Sus%20funciones%20son%20las%20relacionadas%20con%20el%20activismo%20pol%C3%ADtico%2C%20en%20favor%20del%20derecho%20a%20decidir%20de%20Catalunya%2C%20as%C3%AD%20como%20la%20promoci%C3%B3n%20de%20nuestra%20cultura%20e%20identidad.
+pong check<:>5
+<NPA><:>13<:>11<:>1<:>Creo%20que%20el%20gobierno%20central%20resida%20en%20Madrid%20s%C3%AD%20que%20puede%20afectar%20a%20un%20cierto%20favoritismo.%20Pero%20creo%20que%20este%20es%20menos%20notable%20que%20los%20beneficios%20que%20la%20comunidad%20tiene%20de%20por%20s%C3%AD%20por%20ser%20la%20capital%20y%20el%20centro%20de%20negocios%20m%C3%A1s%20importante%20del%20estado.%20Ciertamente%2C%20no%20creo%20que%20haya%20algo%20as%C3%AD%20como%20una%20favoritismo%20extremo.%20y%2C%20si%20lo%20hay%2C%20es%20resultado%20de%20que%20Madrid%2C%20por%20lo%20dicho%20anteriormente%2C%20est%C3%A9%20sobrevalorada%20(tal%20vez)%2C%20y%20no%20es%20causado%20por%20una%20elecci%C3%B3n%20deliberadA
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>12<:>11<:>1<:>En%20un%20principio%2C%20las%20relaciones%20son%20las%20mismas%20que%20las%20de%20cualquier%20gobierno%20de%20una%20comunidad%20aut%C3%B3noma%20con%20el%20gobierno%20central.%20Pero%20tambi%C3%A9n%20est%C3%A1%20claro%20que%20el%20factor%20de%20la%20cercan%C3%ADa%20y%20que%20todas%20las%20instituciones%20centrales%20est%C3%A9n%20situadas%20en%20Madrid%20propicia%20que%20de%20alguna%20forma%20nos%20afecten%20m%C3%A1s%20las%20pol%C3%ADticas%20que%20se%20toman%20que%20al%20resto%20de%20comunidades.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>7<:>4<:>1<:>Teniendo%20en%20cuenta%20que%20el%20idioma%20de%20Catalu%C3%B1a%20es%20el%20catal%C3%A1n%20lo%20contrario%20no%20tendr%C3%ADa%20sentido
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>18<:>2<:>0<:>El%20primero%20hace%20referencia%20al%20concepto%20de%20%22respeto%20que%20la%20ley%20pide%22.%20Probablemente%2C%20un%20catal%C3%A1n%20que%20se%20refiriera%20al%20%C3%A1mbito%20jur%C3%ADdico%20afirmar%C3%ADa%20que%20no%20hay%20un%20reconocimiento%20suficiente.%20En%20cuanto%20a%20la%20segunda%20respuesta%2C%20es%20bastante%20neutral%20por%20lo%20que%20descarto%20(con%20poca%20seguridad)%20que%20sea%20el%20fingidor.%20<:>interval2<:>0<:>3<:>2<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>4<:>16<:>1<:>A%20principios%20de%20siglo%2020%20el%20movimiento%20catalanista%20no%20era%20tan%20trascendental%20como%20ahora%2C%20pero%20ya%20empez%C3%B3%20a%20tener%20sus%20indicios.%20Se%20crearon%20revistas%2C%20peri%C3%B3dicos%2C%20etc%2C%20que%20proclamaban%20el%20resurgir%20de%20la%20cultura%20catalana.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>3<:>2<:>%C2%BFConsideras%20que%20el%20madrile%C3%B1o%20medio%20tiene%20un%20gran%20sentimiento%20de%20pertenencia%20a%20su%20Comunidad%3F%20<:>.Creo%20que%20los%20madrile%C3%B1os%20no%20tenemos%20en%20general%20un%20gran%20sentimiento%20de%20madrile%C3%B1os%2C%20en%20cambio%20otras%20comunidades%20este%20es%20m%C3%A1s%20notable
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>10<:>9<:>1<:>El%20gobierno%20central%20debe%20defender%20la%20integridad%20de%20Espa%C3%B1a.%20Lo%20cierto%20es%20que%20si%20se%20desea%20que%20Espa%C3%B1a%20no%20se%20rompa%2C%20no%20parece%20del%20todo%20claro%20que%20un%20gobierno%20muy%20centralista%20fuera%20capaz%20de%20mantener%20el%20pa%C3%ADs%20unido.%20En%20otros%20lugares%20como%20la%20Comunidad%20Valencia%20o%20el%20Pa%C3%ADs%20Vasco%20ya%20se%20est%C3%A1%20pidiendo%20m%C3%A1s%20autogobierno%2C%20por%20tanto%20no%20ser%C3%ADa%20f%C3%A1cil%20mantener%20la%20unidad%20del%20pa%C3%ADs%20ya%20que%20hay%20m%C3%A1s%20de%20un%20frente%20abierto.%20En%20mi%20opini%C3%B3n%2C%20si%20el%20gobierno%20es%20muy%20poco%20flexible%2C%20acabar%C3%A1%20provocando%20que%20m%C3%A1s%20regiones%2C%20como%20las%20anteriormente%20nombradas%2C%20no%20est%C3%A9n%20a%20gusto%20en%20el%20pa%C3%ADs.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>2<:>2<:>0<:>La%20respuesta%20a%20la%20que%20me%20refiero%20como%20no-fingidor%20es%20la%20misma%20que%20yo%20dar%C3%ADa%20en%20este%20contexto%3A%20no%20obstante%2C%20no%20estoy%20nada%20seguro%20de%20la%20respuesta%2C%20pues%20es%20la%20respuesta%20t%C3%B3pica%20en%20este%20%C3%A1mbito%3B%20y%20la%20otra%20respuesta%2C%20aunque%20podr%C3%ADa%20salir%20de%20un%20peri%C3%B3dico%20de%20tirada%20nacional%20por%20hacer%20referencia%20al%20t%C3%ADpico%20eslogan%20que%20proclama%20que%20el%20castellano%20es%20la%20lengua%20de%20Catalunya%2C%20es%20la%20situaci%C3%B3n%20de%20muchos%20otros%20catalanes%20y%20nada%20extra%C3%B1a.%0AAmbas%20son%20respuestas%20corrientes%20y%20coherentes%2C%20pero%20al%20tener%20que%20elegir%20una%20me%20decanto%20por%20la%20primera.%0ATan%20poco%20seguro%20estoy%20de%20mi%20respuesta%20que%2C%20recordando%20el%20perfil%20de%20respuestas%20anteriores%2C%20me%20decanto%20por%20la%20otra%20(el%20texto%20anterior%20queda%2C%20pues%2C%20invertido)%20por%20ser%20m%C3%A1s%20factible%20y%20menos%20t%C3%B3pica.%20Es%20el%20juego%20de%20la%20psicolog%C3%ADa%20inversa.<:>interval1<:>1<:>1<:>3<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>13<:>10<:>1<:>Creo%20que%20de%20una%20manera%20formal%20la%20independencia%20se%20puede%20conseguir%20en%20menos%2C%20aunque%20a%C3%BAn%20quedar%C3%ADan%20problemas%20por%20resolver%20que%20llevar%C3%ADan%20un%20tiempo%3A%20la%20construcci%C3%B3n%20de%20nuevas%20instituciones%2C%20nuevas%20reglas%20democr%C3%A1ticas%20(constituci%C3%B3n)%2C%20conseguir%20reconocimiento%20internacional%20de%20la%20independencia...%0APero%2C%20desde%20luego%20creo%20que%20muchas%20de%20estas%20reformas%20se%20pueden%20llevar%20a%20cabo%20tras%20la%20independencia%2C%20y%20desde%20luego%20que%20en%2018%20meses%20hay%20tiempo%20para%20avanzar%20notablemente%20en%20ellas%20y%20otras%20muchas%20m%C3%A1s%0A
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>16<:>15<:>1<:>No%20creo%20que%20haya%20una%20afectaci%C3%B3n%20com%C3%BAn%2C%20sino%20que%20var%C3%ADa%20seg%C3%BAn%20la%20ideolog%C3%ADa%2C%20el%20tipo%20de%20trabajo%20y%20lo%20informado%20que%20est%C3%A9%20la%20persona.%20Por%20ejemplo%2C%20si%20se%20trata%20de%20una%20persona%20con%20negocios%20con%20empresas%20catalanas%20probablemente%20le%20afecte%20negativamente%2C%20por%20la%20inestabilidad%20de%20la%20situaci%C3%B3n.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>17<:>2<:>%C2%BFEstas%20a%20favor%20del%20papel%20que%20est%C3%A1%20realizando%20el%20partido%20pol%C3%ADtico%20de%20ciudadanos%20en%20la%20comunidad%20de%20Catalu%C3%B1a%3F<:>.No%20creo%20que%20lo%20que%20piense%20una%20y%20otra%20persona%20sobre%20la%20pregunta%20tenga%20mucha%20relaci%C3%B3n.%20A%20pesar%20de%20que%20no%20seas%20cercano%20a%20la%20pol%C3%ADtica%20general%20de%20ciudadanos%2C%20un%20madrile%C3%B1o%20(defensor%20de%20la%20unidad%20nacional)%20no%20creo%20que%20pueda%20estar%20en%20contra%20del%20papel%20que%20est%C3%A1%20realizando%20este%20partido%20en%20Catalu%C3%B1a
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>12<:>2<:>1<:>El%20fingidor%20hace%20demasiado%20hincapi%C3%A9%20en%20el%20estado%20de%20las%20autonom%C3%ADas%2C%20porque%20es%20un%20t%C3%B3pico%20que%20identifica%20a%20los%20catalanes.%0APero%20realmente%20creo%20que%20hablando%20de%20la%20constituci%C3%B3n%2C%20cualquier%20catal%C3%A1n%20identificar%C3%ADa%20muchos%20m%C3%A1s%20problemas%20que%20la%20cuesti%C3%B3n%20nacional.<:>interval3<:>0<:>1<:>3<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>7<:>2<:>0<:>El%20fingidor%20claramente%20relaciona%20a%20los%20madrile%C3%B1os%20con%20una%20visi%C3%B3n%20de%20Espa%C3%B1a%20muy%20parecida%20a%20la%20del%20PP%2C%20por%20lo%20que%20utiliza%20su%20mismo%20discurso%20para%20hacerse%20pasar%20por%20uno%20de%20ellos<:>interval3<:>1<:>4<:>2<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>11<:>2<:>0<:>La%20respuesta%20del%20no%20fingidor%20se%20adecua%20a%20el%20el%20ideario%20de%20que%20sufrimos%20los%20mismos%20resultados%20de%20las%20pol%C3%ADticas%20centrales%20que%20en%20cualquier%20otra%20comunidad%20aut%C3%B3noma.%20Sin%20embargo%2C%20la%20respuesta%20del%20que%20creo%20que%20es%20el%20fingidor%2C%20cr%C3%ADtica%20incluso%20que%20Madrid%20sea%20capital.<:>interval3<:>0<:>4<:>2<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>5<:>3<:>2<:>S%C3%AD%2C%20opino%20que%20la%20mayor%C3%ADa%20de%20madrile%C3%B1as%2C%20a%20pesar%20de%20que%20les%20gusten%20otras%20partes%20de%20Espa%C3%B1a%2C%20tienen%20un%20sentimiento%20de%20pertenencia%20a%20su%20Comunidad%20bastante%20fuerte.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>4<:>3<:>2<:>El%20que%20corresponde.%20No%20porque%20no%20quiera%20la%20independencia%20de%20la%20comunidad%20de%20Madrid%20significa%20que%20no%20se%20sienta%20madrile%C3%B1o.%20Es%20solo%20que%20tambi%C3%A9n%20se%20siente%20espa%C3%B1ol.%20Pero%20una%20cosa%20no%20quita%20la%20otra.%20Uno%20puede%20sentirse%20de%20su%20comunidad%20y%20del%20pa%C3%ADs%20a%20la%20vez.%20Yo%20creo%20que%20en%20general%20los%20madrile%C3%B1os%20s%C3%AD%20est%C3%A1n%20orgullosos%20de%20serlo.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>1<:>16<:>1<:>El%20catalanismo%20vivi%C3%B3%20a%20principios%20del%20siglo%20XX%20la%20Renaixen%C3%A7a%2C%20que%20es%20el%20renacimiento%20del%20sentimiento%20de%20identidad%20nacional%20tras%20a%C3%B1os%20de%20imposici%C3%B3n%20cultural%20por%20culpa%20de%20la%20monarqu%C3%ADa%20centralista%20borb%C3%B3nica.%20En%20el%20%C3%A1mbito%20pol%C3%ADtico%2C%20por%20primera%20vez%20se%20crearon%20partidos%20nacionalistas%2C%20como%20Estat%20Catal%C3%A1%20o%20Solidaritat%20Catalana.%20La%20mancomunidad%20consigui%C3%B3%20el%20autogobierno%20por%20primera%20vez%2C%20y%20ya%20en%20los%20a%C3%B1os%20treinta%20Francesc%20Maci%C3%A1%20declar%C3%B3%20la%20Rep%C3%BAblica%20Catalana.
+<NPA><:>16<:>10<:>1<:>A%20pesar%20de%20que%20viviendo%20en%20Madrid%20me%20cuesta%20decirlo%20porque%20no%20vivo%20el%20d%C3%ADa%20a%20d%C3%ADa%20all%C3%AD%2C%20creo%20que%20es%20un%20proyecto%20demasiado%20ambicioso%20y%20que%20hay%20demasiada%20divisi%C3%B3n%20interna.%20%20
+pong check<:>5
+time out occurred<:>5
+<NPA><:>14<:>8<:>1<:>Los%20objetivos%20son%20los%20de%20promover%20la%20cultura%20y%20tradiciones%20catalanas%2C%20as%C3%AD%20como%20movilizar%20y%20organizar%20a%20la%20poblaci%C3%B3n%20independentista
+pong check<:>5
+time out occurred<:>5
+<NPA><:>10<:>4<:>1<:>Sin%20duda%20me%20parece%20lo%20l%C3%B3gico.%20El%20idioma%20menor%20debe%20estar%20en%20igualdad%20de%20condiciones%20que%20el%20grande%2C%20y%20eso%20solo%20puede%20ocurrir%20si%20se%20dan%20las%20materias%20en%20catal%C3%A1n%20y%20solo%20se%20imparte%20la%20asignatura%20de%20Lengua%20Castellana.%20Por%20tanto%2C%20no%20se%20deber%C3%ADa%20cambiar%20eso%2C%20incluso%20dir%C3%ADa%20que%20se%20debe%20mejorar%20si%20lo%20que%20se%20desea%20es%20mantener%20nuestra%20identidad.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>13<:>2<:>1<:>Creo%20que%20el%20jugador%20dos%20es%20el%20fingidor%2C%20poca%20gente%20considera%20que%20su%20regi%C3%B3n%20y%20cultura%20tiene%20poco%20de%20espec%C3%ADfico.%20Adem%C3%A1s%2C%20no%20coincido%20con%20la%20segunda%20descripci%C3%B3n%20del%20car%C3%A1cter%20abierto%20de%20los%20madrile%C3%B1os.%20En%20mi%20opini%C3%B3n%2C%20es%20equivocada<:>interval3<:>1<:>3<:>4<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>8<:>2<:>1<:>%C3%93mnium%20Cultural%20no%20es%20la%20principal%20asociaci%C3%B3n%20independentista%2C%20ya%20que%20olvida%20la%20ANC.%20No%20obstante%2C%20se%20centra%20solo%20en%20la%20cuesti%C3%B3n%20independentista%20y%20no%20habla%20de%20cultura%20ni%20de%20tradici%C3%B3n.<:>interval4<:>0<:>1<:>4<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>14<:>1<:>%C2%BFCrees%20que%20los%20catalanes%20est%C3%A1n%20m%C3%A1s%20implicados%20en%20la%20pol%C3%ADtica%20que%20los%20madrile%C3%B1os%3F<:>.Porque%20en%20Catalu%C3%B1a%20se%20ha%20movilizado%20much%C3%ADsima%20poblaci%C3%B3n%20(sobre%20todo%20joven%20y%20estudiantil)%20en%20los%20%C3%BAltimos%20a%C3%B1os%20por%20el%20tema%20Independentista.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>4<:>2<:>1<:>El%20segundo%20es%20el%20fingidor%20ya%20que%20la%20respuesta%20es%20muy%20exagerada%20y%20cortante.%20Y%20la%20pregunta%20no%20da%20pie%20a%20una%20respuesta%20tan%20tajante%20ya%20que%20el%20espa%C3%B1ol%20debe%20considerarse%20tambi%C3%A9n%20lengua%20madre%20en%20Catalu%C3%B1a.%20<:>interval4<:>0<:>3<:>4<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>12<:>2<:>%C2%BFQu%C3%A9%20valores%20piensas%20que%20diferencian%20las%20personas%20de%20nacionalidad%20catalana%20con%20las%20de%20nacionalidad%20espa%C3%B1ola%3F<:>.Porque%20el%20fingidor%20tirar%C3%A1%20m%C3%A1s%20hacia%20los%20t%C3%B3picos%2C%20en%20cambio%20el%20catal%C3%A1n%20podr%C3%A1%20aportar%20valores%20reales%20que%20intentar%C3%A9%20identificar.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>9<:>2<:>1<:>Me%20parece%20que%20la%20respuesta%20esta%20forzada%2C%20es%20decir%2C%20que%20no%20es%20algo%20que%20naturalmente%20diga%20un%20catal%C3%A1n%20que%20fuese%20independentista%20y%20tampoco%20un%20catal%C3%A1n%20que%20no%20lo%20fuese%20pues%20no%20respeta%20ni%20un%20m%C3%ADnimo%20de%20autonom%C3%ADa%20para%20la%20regi%C3%B3n.%20<:>interval3<:>0<:>4<:>3<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>16<:>2<:>1<:>El%20fingidor%20es%20la%20respuesta%20dos%20porque%20en%20historia%20todos%20dimos%20este%20temario%20y%20por%20eso%20estoy%20segura%20que%20un%20catal%C3%A1n%20puede%20dar%20m%C3%A1s%20informaci%C3%B3n%20que%20la%20que%20ha%20dado.<:>interval3<:>1<:>1<:>4<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>18<:>17<:>2<:>Creo%20que%20es%20necesaria%20la%20existencia%20de%20partidos%20como%20Ciudadanos%20pues%20representan%20una%20parte%20importante%20de%20la%20sociedad%20catalana.%20Por%20tanto%2C%20contribuye%20a%20mejorar%20la%20calidad%20y%20pluralidad%20de%20la%20pol%C3%ADtica%20catalana.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>13<:>2<:>Cuales%20crees%20que%20son%20los%20principales%20argumentos%20que%20justificar%C3%ADan%20la%20independencia%20de%20una%20regi%C3%B3n%3F<:>.Los%20argumentos%20que%20dan%20los%20madrile%C3%B1os%20y%20catalenes%20en%20este%20asunto%20pueden%20variar.%20Mientras%20que%20en%20madrid%20los%20argumentos%20econ%C3%B3micos%20se%20oyen%20m%C3%A1s%2C%20el%20factor%20cultural%20es%20el%20m%C3%A1s%20importante%20para%20los%20catalanes.%20Adem%C3%A1s%2C%20el%20discurso%20del%20catal%C3%A1n%20suele%20estar%20m%C3%A1s%20trabajado
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>16<:>2<:>Explica%20la%20historia%20que%20hay%20detr%C3%A1s%20del%20Paff%20el%20drac%20m%C3%A0gic.%20<:>.Es%20un%20personaje%20de%20una%20canci%C3%B3n%20catalana%20que%20todos%20hemos%20escuchado%20de%20peque%C3%B1os%20as%C3%AD%20que%20si%20es%20catal%C3%A1n%20sabr%C3%A1%20de%20que%20va.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>2<:>2<:>Muchas%20veces%20se%20ha%20afirmado%20que%20la%20cultura%20catalana%20no%20es%20m%C3%A1s%20que%20un%20subconjunto%20dentro%20de%20la%20cultura%20espa%C3%B1ola.%20%C2%BFDefiendes%20esta%20teor%C3%ADa%20o%20crees%20que%2C%20al%20contrario%2C%20existen%20dos%20culturas%20CLARAMENTE%20diferenciadas%2C%20catalana%20y%20castellana%2C%20del%20mismo%20modo%20que%20lo%20son%20la%20castellana%20y%20la%20portuguesa%3F%20Razona%20tu%20respuesta<:>.Muchas%20veces%20se%20percibe%20fuera%20de%20Catalunya%20que%20los%20catalanes%20hemos%20inventado%20una%20cultura%20y%20nos%20hemos%20creado%20un%20relato%20nacional%20propio%20intentando%20huir%20de%20la%20historia%20com%C3%BAn%20espa%C3%B1ola.%20Queriendo%20con%20esta%20pregunta%20capturar%20al%20fingidor%2C%20pretendo%20que%20%C3%A9ste%20responda%20que%20la%20cultura%20catalana%20es%20totalmente%20distinta%20de%20la%20espa%C3%B1ola%20(pues%20recordemos%20que%20%C3%A9ste%20intentar%C3%A1%20hacerse%20pasar%20por%20un%20catal%C3%A1n%20adoctrinado%20en%20una%20pseudocultura%20inventada%20que%20se%20considera%20a%20s%C3%AD%20misma%20cultura)%20mientras%20que%20el%20catal%C3%A1n%20dar%C3%A1%20una%20respuesta%20m%C3%A1s%20moderada.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>11<:>2<:>%C2%BFCu%C3%A1les%20crees%20que%20son%20los%20principales%20problemas%20del%20transporte%20p%C3%BAblico%20madrile%C3%B1o%3F%20De%20metro%2C%20autobuses%2C%20bicicletas%20y%20cercan%C3%ADas%20por%20separado.<:>.Creo%20que%20es%20una%20pregunta%2C%20que%2C%20si%20se%20ajusta%20a%20mi%20respuesta%2C%20o%20a%20una%20respuesta%20que%20yo%20dar%C3%ADa%2C%20es%20porque%20la%20persona%20ha%20tenido%20suficientes%20experiencias%20en%20el%20transporte%20p%C3%BAblico%2C%20y%20puede%20ser%20madrile%C3%B1a%20o%20madrile%C3%B1o.
+<JR><:>15<:>2<:>1<:>La%20primera%20es%20una%20respuesta%20bastante%20objetiva%20y%20creo%20que%20engloba%20bastante%20las%20diferentes%20actitudes%20madrile%C3%B1as%20con%20respecto%20al%20independentismo%2C%20no%20obstante%20la%20segunda%20podr%C3%ADa%20ser%20de%20un%20madrile%C3%B1o%20de%20determinada%20ideolog%C3%ADa.%20Aun%20asi%20elijo%20que%20este%20sea%20el%20fingidor%20ya%20que%20parece%20una%20postura%20radical%20que%20no%20contempla%20la%20generalidad%20madrile%C3%B1a%20y%20casi%20parece%20seguir%20un%20estereotipo.<:>interval3<:>1<:>1<:>3<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>10<:>2<:>1<:>El%20No%20fingidor%20es%20optimista%20y%20a%20mi%20parecer%20es%20independentista.%20Sus%20ganas%20son%20de%20cambio%20y%20sin%20duda%20sabe%20lo%20que%20ocurre%20en%20Catalu%C3%B1a%20y%20las%20opciones%20que%20hay.%20El%20Fingidor%20a%20mi%20parecer%20da%20la%20respuesta%20de%20alguien%20que%20realmente%20es%20de%20fuera%20y%20no%20conoce%20del%20todo%20la%20realidad%20catalana.<:>interval4<:>1<:>1<:>4<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>18<:>12<:>2<:>Probablemente%20aquellos%20valores%20relacionados%20con%20la%20pluralidad%20cultural%20y%20de%20lengua.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>3<:>3<:>0<:>Considero%20m%C3%A1s%20propia%20de%20un%20madrile%C3%B1o%20o%20madrile%C3%B1a%20la%20respuesta%20n%C3%BAmero%202%20ya%20que%20habla%20del%20sentimiento%20de%20pertenencia%20de%20una%20forma%20menos%20fuerte%2C%20tal%20y%20como%20considero%20que%20se%20vive%20por%20un%20madrile%C3%B1o.<:>interval3<:>1<:>4<:>3<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>4<:>2<:>%C2%BFEs%20cierto%20que%20los%20catalanes%20son%20m%C3%A1s%20%22agarraos%22%20pero%20m%C3%A1s%20fieles%3F<:>.Porque%20sin%20duda%20s%C3%AD%2C%20all%C3%AD%20se%20piensa%20mucho%20m%C3%A1s%20en%20el%20dinero.%20Pero%20a%20los%20catalanes%20nos%20cuesta%20reconocerlo.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>17<:>14<:>1<:>Los%20catalanes%20estamos%20mucho%20m%C3%A1s%20implicado%20en%20la%20pol%C3%ADtica%20que%20los%20madrile%C3%B1os.%20Los%20catalanes%20tenemos%20gran%20cantidad%20de%20motivos%20para%20participar%20activamente%20en%20pol%C3%ADtica.%20El%20papel%20del%20madrile%C3%B1o%20en%20pol%C3%ADtica%20se%20limita%20a%20ejercer%20su%20derecho%20a%20voto%20y%20a%20criticar%20los%20deseos%20de%20los%20catalanes%20a%20poder%20decidir%20sobre%20nuestro%20futuro.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>7<:>2<:>%C2%BFCu%C3%A1l%20es%20la%20visi%C3%B3n%20m%C3%A1s%20extendida%20entre%20los%20madrile%C3%B1os%20respecto%20a%20Catalu%C3%B1a%20en%20tu%20opini%C3%B3n%3F<:>.Un%20madrile%C3%B1o%20estar%C3%A1%20menos%20inclinado%20a%20generalizar%20y%20se%20basar%C3%A1%20en%20su%20experiencia%2C%20mientras%20que%20probablemente%20el%20fingidor%20dar%C3%A1%20la%20respuesta%20m%C3%A1s%20obvia%20que%20es%20decir%20que%20est%C3%A1%20mal%20considerada.
+pong check<:>5
+time out occurred<:>5
+<NPA><:>2<:>14<:>1<:>Completamente.%20No%20se%20ha%20visto%20jam%C3%A1s%20en%20la%20historia%20de%20Madrid%20(ni%20de%20Espa%C3%B1a)%20una%20capacidad%20de%20movilizaci%C3%B3n%20relativa%20tan%20importante%20como%20la%20vista%20en%20Catalunya%20estos%20%C3%BAltimos%20a%C3%B1os.%20Aunque%20algunos%20han%20criticado%20que%20los%20catalanes%20solo%20salimos%20a%20las%20calles%20para%20reclamar%20un%20ficticio%20y%20falaz%20derecho%20a%20la%20autodeterminaci%C3%B3n%2C%20las%20cifras%20hablan%20por%20si%20solas.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>8<:>2<:>%C2%BFConsideras%20que%20Espa%C3%B1a%20roba%20a%20Catalunya%20m%C3%A1s%20que%20a%20Madrid%3F%20%C2%BFPor%20qu%C3%A9%3F<:>.El%20fingidor%20responder%C3%A1%20con%20contundencia%20porque%20creer%C3%A1%20que%20as%C3%AD%20parecer%C3%A1%20m%C3%A1s%20catal%C3%A1n.%20El%20catal%C3%A1n%20de%20verdad%20podr%C3%A1%20decir%20que%20s%C3%AD%2C%20pero%20dar%C3%A1%20matices%20o%20simplemente%20dir%C3%A1%20que%20Madrid%20es%20una%20de%20las%20comunidades%20que%20tambi%C3%A9n%20se%20ve%20perjudicada%20por%20el%20reparto%20presupuestario.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>9<:>2<:>Pasemos%20a%20preguntar%20sobre%20sitios%20emblem%C3%A1ticos%20de%20Madrid.%20El%20Templo%20de%20Debot%20se%20establece%20como%20un%20lugar%20clave%20para%20ver%20la%20puesta%20de%20Sol%20en%20Madrid%20y%20poder%20disfrutar%20de%20las%20vistas%20de%20la%20ciudad%2C%20sin%20embargo%2C%20no%20mucha%20gente%20conoce%20la%20historia%20del%20porqu%C3%A9%20esta%20ah%C3%AD%20ese%20templo%2C%20%C2%BFme%20sabr%C3%ADas%20decir%20porqu%C3%A9%20se%20encuentra%20en%20Madrid%20este%20templo%3F<:>.Los%20Madrile%C3%B1os%20suelen%20conocer%20la%20historia%20de%20este%20conocido%20templo%20situado%20en%20Madrid%20ya%20sea%20porque%20un%20amigo%20se%20la%20ha%20contado%20o%20sus%20familiares%2C%20y%20por%20contra%20creo%20que%20alguien%20que%20no%20lleve%20un%20cierto%20tiempo%20la%20capital%20la%20conozca%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>4<:>16<:>2<:>Paff%20era%20un%20drag%C3%B3n%20m%C3%A1gico%20que%20viv%C3%ADa%20en%20el%20fondo%20del%20mar%2C%20solo%20se%20aburr%C3%ADa%20mucho%20y%20sal%C3%ADa%20a%20jugar%20con%20un%20ni%C3%B1o%20peque%C3%B1o%2C%20se%20hicieron%20grandes%20amigos.%20El%20ni%C3%B1o%20creci%C3%B3%20y%20creo%20que%20tuvo%20que%20irse.%20Era%20triste%20la%20historia.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>13<:>11<:>2<:>Metro%2C%20no%20abre%20ninguna%20noche%0Aautobuses%2C%20por%20el%20d%C3%ADa%20funcionan%20realmente%20bien%2C%20pero%20los%20nocturnos%20son%20radiales%2C%20y%20no%20es%20algo%20efectivo%20para%20una%20ciudad%20tan%20grande.%0ABicicletas%2C%20es%20un%20servicio%20demasiado%20caro%2C%20y%20las%20calles%20todav%C3%ADa%20no%20est%C3%A1n%20adaptadas%0ACercan%C3%ADas%2C%20algunas%20paradas%2C%20sobretodo%20de%20fuera%20de%20la%20ciudad%2C%20tienen%20muy%20muy%20poca%20frecuencia%0AEn%20genreal%2C%20considero%20que%20est%C3%A1%20bastante%20bien%20el%20sitema%20p%C3%BAblico%20de%20transportes%2C%20exceptuando%20el%20servicio%20nocturno
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>1<:>2<:>0<:>La%20respuesta%20que%20considero%20fingida%20es%20demasiado%20condescendiente%20con%20el%20catalanismo.%20Un%20madrile%C3%B1o%20suele%20ser%20en%20realidad%20mucho%20m%C3%A1s%20tajante%2C%20y%20rara%20vez%20entiende%20que%20pueda%20existir%20algo%20tan%20fuerte%20como%20una%20identidad%20nacional%20catalana%2C%20o%20que%20los%20catalanes%20amen%20su%20idioma.<:>interval3<:>1<:>4<:>3<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>7<:>4<:>2<:>Si%20con%20m%C3%A1s%20a%20%22agarraos%22%20te%20refieres%20a%20m%C3%A1s%20sensatos%2C%20sin%20duda%20s%C3%AD%20%3A)
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>15<:>2<:>%C2%BFcrees%20que%20hay%20m%C3%A1s%20sentimiento%20de%20identidad%20colectiva%20en%20Barcelona%20o%20en%20Madrid%3F<:>.Porque%20para%20m%C3%AD%20en%20Madrid%20no%20hay%20un%20sentimiento%20de%20identidad%20tan%20fuerte%2C%20pero%20es%20probable%20que%20un%20no-madrile%C3%B1o%20s%C3%AD%20piense%20que%20Madrid%20se%20sienten%20todos%20muy%20madrile%C3%B1os
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>5<:>2<:>2<:>La%20cultura%20de%20catalana%20y%20la%20de%20Espanya%20est%C3%A1n%20claramente%20diferenciadas.%20No%20se%20puede%20afirmar%20que%20la%20catalana%20es%20un%20subconjunto%20partiendo%20de%20que%20los%20catalanes%20tienen%20una%20lengua%20propia%2C%20festividades%20distintas%2C%20comidas%20t%C3%ADpicas%20diferentes...
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<loginJoin><:>21<:>30147<:>331<:>1<:>1<:>0<:>2<:>
+5<:><message><messageType>closeLogin</messageType><content></content></message>
+21
+ 21
+<duplicateloginJoin><:>21<:>30147<:>331<:>1<:>1<:>0<:>2<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>12<:>11<:>2<:>En%20general%2C%20la%20medida%20que%20ha%20introducido%20el%20nuevo%20gobierno%20de%20Carmena%20de%20la%20tarjeta%20joven%20a%2020%20euros%20me%20parece%20perfecto%20(comparado%20con%20lo%20que%20pag%C3%A1bamos%20antes)%0AEl%20metro%20creo%20que%20funciona%20realmente%20bien%2C%20con%20pocos%20minutos%20de%20espera.%20Aunque%20a%20veces%20las%20estaciones%20son%20un%20poco%20sucias.%0ALos%20autobuses%20demasiada%20espera%20y%20a%20veces%20muy%20llenos.%0ALas%20bicicletas%20no%20las%20he%20usado%20nunca%20porque%20no%20me%20ha%20hecho%20falta%2C%20pero%20tengo%20amigos%20que%20s%C3%AD%20y%20no%20han%20tenido%20ninguna%20queja.%0APor%20%C3%BAltimo%2C%20el%20%C3%BAnico%20problema%20del%20cercan%C3%ADas%20es%20que%20cierra%20demasiado%20pronto%20y%20no%20da%20espacio%20para%20poder%20cogerlo%20en%20horario%20nocturno.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>1<:>17<:>2<:>Ciudadanos%20es%20sin%20duda%20el%20%C3%BAnico%20partido%20que%20est%C3%A1%20actuando%20de%20forma%20contundente%20frente%20a%20la%20amenaza%20separatista.%20El%20Partido%20Popular%20podr%C3%A1%20estar%20todo%20lo%20en%20contra%20del%20independentismo%20que%20dice%2C%20pero%20sus%20acciones%20demuestran%20una%20dejadez%20e%20indiferencia%20impropias%20de%20un%20partido%20que%20afirma%20ser%20patriota%20y%20espa%C3%B1ol.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>14<:>13<:>2<:>Un%20argumento%20de%20peso%20ser%C3%ADa%20por%20ejemplo%20el%20peso%20de%20la%20historia%20y%20de%20que%20ese%20pa%C3%ADs%20hubiese%20sido%20en%20alg%C3%BAn%20momento%20previo%20independiente%2C%20como%20por%20ejemplo%2C%20Escocia.%20No%20es%20argumento%20suficiente%20para%20m%C3%AD%20el%20que%20se%20hable%20una%20lengua%20distinta%3B%20al%20fin%20y%20al%20cabo%2C%20cada%20vez%20m%C3%A1s%20se%20separa%20el%20concepto%20de%20%22Estado%22%20del%20de%20%22Naci%C3%B3n%22%20por%20lo%20que%20es%20absurdo%20asociar%20independencia%20con%20el%20habla%20mayoritario%20de%20una%20regi%C3%B3n.%20Otro%20argumento%20principal%20ser%C3%ADa%20que%20esa%20regi%C3%B3n%20hubiese%20carecido%20de%20integraci%C3%B3n%20a%20nivel%20nacional%2C%20por%20lo%20que%2C%20si%20democraticamente%20se%20diese%20una%20mayor%C3%ADa%20independentista%2C%20deber%C3%ADa%20darse%20el%20derecho%20a%20independizarse.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>9<:>7<:>2<:>La%20visi%C3%B3n%20m%C3%A1s%20extendida%20que%20se%20tiene%20de%20Catalu%C3%B1a%20en%20Madrid%2C%20es%20que%20los%20catalanes%20son%20altamente%20intolerantes%20con%20el%20resto%20de%20espa%C3%B1oles%2C%20que%20no%20ayudan%20al%20espa%C3%B1ol%20a%20integrarse%20hablando%20siempre%20en%20catal%C3%A1n.%20Tambi%C3%A9n%20se%20tiene%20la%20opini%C3%B3n%20de%20que%20resultan%20altamente%20taca%C3%B1os%20y%20ariscos%20sobre%20todo%20cuanto%20m%C3%A1s%20de%20Madrid%20y%20espa%C3%B1ol%20te%20sientas.%20En%20definitiva%2C%20la%20opini%C3%B3n%20que%20los%20madrile%C3%B1os%20tienen%20de%20los%20catalanes%20esta%20formada%20por%20los%20t%C3%B3picos%20que%20se%20han%20hecho%20o%20hay%20sobre%20Catalu%C3%B1a%0A%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>18<:>2<:>%C2%BFQu%C3%A9%20crees%20que%20hace%20%C3%BAnica%20la%20tradici%C3%B3n%20de%20la%20Diada%20de%20Sant%20Jordi%3F<:>.Un%20catalana%20responder%C3%A1%20que%20es%20el%20hecho%20de%20apoyar%20la%20cultura%20y%20la%20literatura%20o%20que%20es%20un%20d%C3%ADa%20especial%20para%20todos%20los%20catalanes.%20Probablemente%20espa%C3%B1ol%20dir%C3%A1%20que%20es%20%C3%BAnica%20en%20el%20mundo%20o%20famosa%20por%20su%20singularidad.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>3<:>3<:>%C2%BFQu%C3%A9%20opinas%20sobre%20la%20gastronom%C3%ADa%20t%C3%ADpica%20de%20tu%20Comunidad%20Aut%C3%B3noma%3F%20%C2%BFCrees%20que%20es%20conocida%20fuera%20de%20tu%20comunidad%3F<:>.Considero%20que%20la%20gastronom%C3%ADa%20es%20un%20s%C3%ADmbolo%20importante%20de%20las%20distintas%20regiones%2C%20y%20posicionarse%20muy%20orgullosos%20o%20al%20contrario%20podr%C3%ADa%20determinar%20el%20perfil%20de%20fingidor%20y%20de%20no%20fingidor.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JQ><:>10<:>2<:>%C2%BFCree%20que%20el%20programa%20de%20televisi%C3%B3n%20%22Pol%C3%B2nia%22%20es%20saludable%20para%20la%20democracia%20y%20para%20las%20relaciones%20entre%20Catalu%C3%B1a%20y%20el%20resto%20de%20Espa%C3%B1a%3F<:>.Los%20catalanes%20estamos%20acostumbrados%20a%20la%20s%C3%A1tira%20pol%C3%ADtica%20y%20la%20vemos%20necesaria%20para%20la%20democracia%2C%20por%20tanto%20creo%20que%20un%20madrile%C3%B1o%20responder%C3%ADa%20distinto.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>8<:>2<:>2<:>Est%C3%A1%20claro%20que%20existe%20una%20cultura%20claramente%20diferenciada.%20Nosotros%20tenemos%20una%20lengua%20propia%2C%20unas%20tradiciones%20aut%C3%B3ctonas%20y%20un%20territorio%20donde%20todo%20esto%20se%20da.%20Yo%20cuando%20voy%20al%20extranjero%20digo%20que%20soy%20catal%C3%A1n%2C%20porque%20creo%20que%20somos%20diferentes.%20No%20obstante%2C%20eso%20no%20significa%20que%20seamos%20mejores%20o%20peores%2C%20simplemente%20hay%20que%20reconocer%20la%20diferencia%20y%20la%20singularidad%20de%20nuestro%20pa%C3%ADs.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<JR><:>6<:>2<:>0<:>La%20respuesta%202%20se%20expresa%20con%20menos%20vehemencia%20e%20indignaci%C3%B3n%20que%20el%201%2C%20y%20adem%C3%A1s%20habla%20de%20la%20lengua%20como%20un%20bien%20colectivo%20y%20no%20individual.%20El%20catal%C3%A1n%20se%20percibe%20en%20Catalu%C3%B1a%20como%20un%20bien%20com%C3%BAn%20y%20un%20simbolo%20compartido%20con%20todos%2C%20no%20solo%20un%20identificador%20individual.%20<:>interval3<:>0<:>2<:>3<:>
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>17<:>15<:>2<:>Creo%20que%20hay%20m%C3%A1s%20sentimiento%20de%20identidad%20colectiva%20en%20Madrid.%20No%20obstante%20creo%20que%20es%20una%20pregunta%20cuya%20respuesta%20no%20es%20f%C3%A1cil%20de%20determinar.%20Puede%20haber%20una%20tendencia%20a%20pensar%20que%20por%20el%20tema%20del%20independentismo%20hay%20m%C3%A1s%20sentimiento%20de%20identidad%20colectiva%20en%20Barcelona%2FCatalu%C3%B1a%2C%20pero%20en%20la%20realidad%20no%20creo%20que%20sea%20asi.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>15<:>13<:>2<:>creo%20que%20para%20que%20un%20territorio%20pueda%20independizarse%20debe%20de%20presentar%20unos%20rasgos%20culturales%2C%20politicos%20e%20hist%C3%B3ricos%20claramente%20distintos%20al%20territorio%20en%20el%20que%20se%20encuentra%2C%20pero%20sobre%20todo%20debe%20de%20existir%20cierta%20unanimidad%20en%20la%20decisi%C3%B3n%20y%20no%20puede%20ser%20tomada%20por%20una%20minor%C3%ADa.
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<PA><:>8<:>7<:>2<:>Los%20madrile%C3%B1os%20tenemos%20una%20visi%C3%B3n%20positiva%20de%20la%20gente%20de%20Catalu%C3%B1a.%20Es%20totalmente%20falso%20lo%20que%20se%20intenta%20transmitir%20tanto%20en%20las%20televisiones%20madrile%C3%B1as%20como%20catalanas.%20Ni%20en%20Madrid%20hay%20odio%20hacia%20Catalu%C3%B1a%2C%20ni%20viceversa.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+<NPA><:>6<:>18<:>2<:>La%20diada%20de%20St.Jordi%20es%20una%20Diada%20%C3%BAnica%20por%20su%20singularidad%20en%20el%20mundo%2C%20pero%20eso%20es%20tan%20sol%C3%B3%20una%20loter%C3%ADa%20geogr%C3%A1fica-hist%C3%B3rica.%20Podr%C3%ADa%20ser%20en%20Catalu%C3%B1a%20o%20en%20cualquier%20otro%20sitio%20si%20las%20circunstancias%20lo%20propiciaran.%20No%20obstante%2C%20el%20hecho%20de%20compartir%20libro%20me%20parece%20una%20excelente%20forma%20de%20trabajar%20valores%20c%C3%ADvicos%20y%20promover%20la%20cultura%20y%20el%20pensamiento%20cr%C3%ADtico%2C%20y%20por%20eso%20debiera%20ser%20defendida%20y%20promovida%20dicha%20diada.%20
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+pong check<:>5
+time out occurred<:>5
+163.117.8.51 (5)
+<NPA><:>5<:>3<:>3<:>La%20gastronom%C3%ADa%20de%20mi%20Comunidad%20Aut%C3%B3noma%20es%2C%20en%20mi%20opini%C3%B3n%2C%20de%20las%20mejores%20de%20Espa%C3%B1a.%20La%20cultura%20de%20tapas%20y%20el%20cocido%20son%20conocidos%20fuera%20de%20mi%20comunidad.%20Adem%C3%A1s%2C%20tenemos%20de%20los%20mejores%20pescados%20de%20Espa%C3%B1a.
+<PA><:>11<:>8<:>2<:>En%20mi%20opini%C3%B3n%2C%20creo%20que%20Catalunya%20es%20un%20pa%C3%ADs%20mucho%20m%C3%A1s%20productivo%20que%20Madrid%2C%20que%20debido%20a%20su%20industria%2C%20sector%20servicios%20en%20general%20y%20turismo%20en%20particular%2C%20reporta%20unos%20grandes%20beneficios%20al%20Estado%20Espa%C3%B1ol%2C%20que%20probablemente%20sean%20m%C3%A1s%20altos%20que%20los%20que%20reporta%20Madrid.%20La%20cuesti%C3%B3n%20no%20es%20que%20la%20pol%C3%ADtica%20de%20solidaridad%20entre%20comunidades%20aut%C3%B3nomas%20sea%20m%C3%A1s%20injusta%20con%20nosotros%2C%20o%20que%20paguemos%20a%20Espa%C3%B1a%20m%C3%A1s%20de%20lo%20que%20recibimos%20en%20presupuesto.%20Sino%20que%20una%20regi%C3%B3n%20con%20tanto%20poder%20econ%C3%B3mico%20como%20la%20nuestra%2C%20deber%C3%ADa%20tener%20derecho%20a%20tener%20m%C3%A1s%20autonom%C3%ADa%20y%20poder%20de%20decisi%C3%B3n%20sobre%20su%20propia%20pol%C3%ADtica%20fiscal%20y%20econ%C3%B3mica%20en%20general%2C%20as%C3%AD%20como%20la%20tienen%20otras%20regiones%20como%20Euskadi.
+<PA><:>3<:>18<:>2<:>La%20Diada%20de%20Sant%20Jordi%20no%20es%20una%20tradici%C3%B3n.%20En%20el%20caso%20de%20Sant%20Jordi%2C%20considero%20que%20es%20una%20de%20las%20mejores%20tradiciones%20que%20conserva%20la%20sociedad%20catalana%2C%20el%20ambiente%20que%20se%20genera%20al%20rededor%20de%20ese%20d%C3%ADa%20es%20lo%20que%20la%20hace%20%C3%BAnica.%20Por%20otra%20parte%20la%20Diada%20es%20igualmente%20%C3%BAnica%2C%20especialmente%20para%20aquellos%20que%20compartimos%20los%20valores%20de%20la%20celebraci%C3%B3n.
+<PA><:>13<:>10<:>2<:>Creo%20que%20aunque%20el%20programa%20pueda%20ser%20criticable%20por%20su%20claro%20sesgo%20pol%C3%ADtico%2C%20est%C3%A1%20amparado%20por%20el%20derecho%20a%20la%20libertad%20de%20expresi%C3%B3.%20Es%20positivo%20que%20la%20televisi%C3%B3n%20tenga%20cabida%20para%20todo%20tipo%20de%20ideas%2C%20para%20aquellos%20a%20los%20que%20nos%20gusta%20lo%20podamos%20ver%2C%20mientras%20que%20otros%20con%20opiniones%20contrarias%20tengan%20otras%20opciones
+<JR><:>17<:>3<:>0<:>La%20respuesta%202%20es%20excesivamente%20pobre%20en%20relaci%C3%B3n%20a%20la%20pregunta%20que%20se%20ha%20hecho.%20No%20creo%20que%20un%20catal%C3%A1n%20piense%20realmente%20la%20respuesta%201<:>interval2<:>0<:>1<:>3<:>
+<JR><:>2<:>3<:>1<:>Ambos%20responden%20pr%C3%A1cticamente%20lo%20mismo%2C%20con%20ciertos%20matices%20que%20son%20los%20que%20hacen%20que%20me%20decante%20hacia%20la%20respuesta%20marcada.%0ALa%20%C3%BAnica%20diferencia%20es%20que%20uno%20hace%20gala%20de%20un%20nacionalismo%20c%C3%ADvico%2C%20mientras%20que%20el%20otro%20se%20limita%20a%20responder%20a%20la%20pregunta%20apelando%20a%20la%20existencia%20de%20puntos%20particulares%20de%20la%20cultura%20catalana%20(cosa%20que%20el%20otro%20tambi%C3%A9n%20hace%2C%20pero%20en%20menor%20cantidad).%0ALa%20respuesta%20a%20la%20que%20considero%20aut%C3%A9ntica%20es%20sin%20dudas%20la%20misma%20que%20yo%20dar%C3%ADa%2C%20reclamando%20puntos%20distintivos%20entre%20las%20dos%20culturas%20pero%20sin%20renunciar%20a%20ninguna%20y%20sin%20intentar%20considerar%20que%20hay%20culturas%20mejores%20ni%20peores%20(algo%20que%20en%20Catalunya%20se%20intenta%20repetir%20mucho%3A%20la%20cultura%20catalana%20no%20va%20en%20contra%20de%20la%20espa%C3%B1ola%2C%20sino%20por%20otro%20camino).<:>interval2<:>0<:>1<:>2<:>
+<JR><:>14<:>2<:>0<:>La%20respuesta%201%20me%20parece%20mucho%20m%C3%A1s%20fingida%20que%20la%20primera%3B%20a%20pesar%20de%20los%20'piques'%20que%20siempre%20existen%20entre%20Catalu%C3%B1a%20y%20Madrid%2C%20estos%20no%20difieren%20de%20los%20que%20existen%20entre%20catalanes%20y%20andaluces%20o%20vascos%20y%20madrile%C3%B1os.%20Ning%C3%BAn%20catal%C3%A1n%20que%20yo%20conozca%2C%20sea%20muy%20o%20poco%20independentista%2C%20ha%20llegado%20a%20decir%20que%20los%20madrile%C3%B1os%20solo%20votan%20en%20contra%20de%20los%20catalanes.%20<:>interval3<:>1<:>4<:>3<:>
+163.117.90.38 (20)
+<PA><:>4<:>3<:>3<:>Como%20todas%20las%20gastronom%C3%ADas%20de%20cada%20zona%2C%20la%20nuestra%20viene%20dada%20por%20la%20tradici%C3%B3n%20y%20los%20platos%20que%20preparaban%20nuestros%20antepasados%20muy%20condicionados%20por%20el%20clima.%20Hay%20pocos%20platos%20que%20sean%20realmente%20atribuidos%20a%20mi%20comunidad%2C%20pero%20s%C3%AD%20se%20reconocen%20propios%20de%20nuestra%20ubicaci%C3%B3n%20en%20el%20territorio%20espa%C3%B1ol.Es%20cierto%20tambi%C3%A9n%20que%20plaatos%20como%20el%20bocadillo%20de%20calamares%20o%20las%20lenguas%20de%20gatos%20son%20vendidas%20como%20productos%20muy%20madrile%C3%B1os%20cuando%20casi%20nunca%20los%20tomamos!

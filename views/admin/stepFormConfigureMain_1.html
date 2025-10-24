@@ -1,0 +1,34 @@
+	<div data-role="page" data-theme="a" data-cache="false">
+		<div data-role="header" data-position="inline">
+			<h1>Imgame admin hub</h1>
+		</div>
+		<div data-role="content" data-theme="a">
+      <div id="container">
+        <!-- ko foreach: tabs -->
+        <div class="accordionControl" data-role="collapsible" data-bind="attr: {'data-collapsed' : accordionCollapsed(), 'id': accordionFieldname()}">
+          <h4 data-bind="text: tabName()"></h4>
+              <!-- ko foreach: categories -->
+                <div data-bind="if: hasItems">
+                  <div class="accordionControl" data-role="collapsible" data-bind="attr:{'data-collapsed' : accordionCollapsed(), 'id': accordionFieldname()}">
+                    <h4 data-bind="text: categoryLabel()"></h4>
+                    <div data-bind="foreach: items">
+                      <input type="button" data-icon="grid" data-bind="value: exptId() + ' - ' + exptTitle(), click: selectExperiment"/>
+                    </div>
+                  </div>                
+                </div>
+              <!-- /ko -->
+            </div>
+        <!-- /ko -->        
+        </div>
+    </div>
+	</div>
+	<script src="/jquery/jquery-2.1.3.min.js"></script>
+  <script src="/js/ko/knockout-3.2.0.js"></script>
+  <script src="/js/ko/ko-mapping.js"></script>
+	<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>  
+	<script src="/jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
+  <script src="/js/mobile/adminNavigate.js"></script>
+	<script src="/jquery-mobile/page.modifiers.js"></script>
+	<script src="/js/admin/adminHub.js"></script>
+</body>
+</html>

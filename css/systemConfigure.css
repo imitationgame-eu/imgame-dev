@@ -1,0 +1,117 @@
+.systemHeader h1 {
+    font-size: medium;
+    background: #e8d7cf;
+    text-align: center;
+    color: #5c463b;
+    padding: 10px 0 10px 0;
+}
+
+.systemRow {
+    display: flex;
+}
+
+.h2HeaderOpen {
+    background: #e2ccab;
+    margin: 10px 0 0 0;
+}
+
+.h2HeaderClosed {
+    background: #e4d1c0;
+    margin: 10px 0 0 0;
+}
+
+.usersRow {
+    background: #b4ab9f;
+    margin: 5px 0 0 0;
+}
+
+.h2BodyClass {
+    background: #b4ab9f;
+    padding: 0 5px 5px 5px;
+    margin: 0 0 0 0;
+}
+
+.systemColumn {
+    flex: 50%;
+}
+
+.systemColumn h3 {
+    text-align: right;
+    padding: 0 15px 10px 0;
+    margin: 10px 0 0 0;
+}
+
+.systemColumn h4 {
+    text-align: center;
+    padding: 0 0 10px 0;
+}
+
+.systemColumn select {
+    padding: 10px 0 10px 0;
+    margin: 10px 0 0 0;
+}
+
+.systemColumn div {
+    margin: 5px 0 0 0;
+}
+
+.systemFooter {
+    position: absolute;
+    width: 100%;
+}
+
+.systemFooter input {
+    width: 100%;
+    background: #e8d7cf;
+    color: #5c463b;
+    padding: 5px 0 10px 0;
+}
+
+.itemHeaderClosed {
+    background: #f8f5ea;
+    color: #181716;
+    padding: 5px 0 5px 0;
+    margin: 5px 0 0 0;
+}
+
+.itemHeaderOpen {
+    background: #cfa672;
+    color: #181716;
+    padding: 5px 0 5px 0;
+    margin: 5px 0 0 0;
+}
+
+.groupBodyClass {
+    background: #f6efd2;
+}
+
+.collapsibleClosed {
+    display: none;
+}
+
+.collapsibleOpen {
+    background: #f6ddc5;
+    display: block;
+}
+
+input.move_r {
+    background: linear-gradient(to right, #f3f0ed, #f8e6d6) !important;
+    width: 100%;
+    color: #181716;
+}
+input.move_l {
+    background: linear-gradient(to left, #f3f0ed, #f8e6d6) !important;
+    width: 100%;
+    color: #181716;
+}
+
+input.itemName {
+    background: linear-gradient(to right, #f3f0ed, #f8e6d6) !important;
+    color: #181716;
+}
+
+input.acceptB {
+    background: linear-gradient(to right, #f3f0ed, #f8e6d6) !important;
+    color: #181716;
+}
+

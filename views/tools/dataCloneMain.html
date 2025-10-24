@@ -1,0 +1,87 @@
+
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">
+    
+    <div class="headerDeep">
+    	<h1>Clone data targets</h1>
+        <ul>
+            <li><div id="name"></div></li>
+            <li> | <a href="#">Logout</a></li>
+        </ul>
+    </div>
+  <!-- First tab content starts here -->
+	<div class="tabContent adminWrapper">
+    <h2>Choose target experiments/steps</h2>
+    <p data-bind="text: getReminder"></p>
+    <div class="adminRow neutral">
+      <div class="leftHeaderItem">experiment</div>
+      <div class="headerItem">S1 target</div>
+      <div class="headerItem">S2 target</div>
+      <div class="headerItem">invS2 target</div>
+      <div data-bind="foreach: experiments">
+        <div class="adminDataRow" >
+          <div class="leftDataItem" data-bind="style: {height: getRowHeight}"><label data-bind="text: getExptTitle"></label></div>
+          <div class="dataItem" data-bind="visible: showOverrideS1, style: {height: getRowHeight}">
+            <div class="s1description" data-bind="text: s1srcLegend"></div>
+            <div data-bind="foreach: daySessions">
+              <label data-bind="for: overrides1cloneId, text: sLegend"></label>
+              <input type="checkbox" data-bind="attr: {id: overrides1cloneId}, checked: overrideS1" />               
+            </div>
+          </div>
+          <div class="dataItem" data-bind="visible: showCloneS1, style: {height: getRowHeight}">
+            <div class="s1description" data-bind="text: s1srcLegend"></div>
+            <div data-bind="foreach: daySessions">
+              <label data-bind="for: s1cloneId, text: sLegend"></label>
+              <input type="checkbox" data-bind="attr: {id: s1cloneId}, checked: hasS1" />                
+            </div>
+          </div>
+          <div class="dataItem" data-bind="visible: showOverrideS2, style: {height: getRowHeight}">
+            <div class="s1description" data-bind="text: s2srcLegend"></div>
+            <div data-bind="foreach: daySessions">
+              <label data-bind="for: overrides2cloneId, text: sLegend"></label>
+              <input type="checkbox" data-bind="attr: {id: overrides2cloneId}, checked: overrideS2" />               
+            </div>
+          </div>
+          <div class="dataItem" data-bind="visible: showCloneS2, style: {height: getRowHeight}">
+            <div class="s1description" data-bind="text: s2srcLegend"></div>
+            <div data-bind="foreach: daySessions">
+              <label data-bind="for: s2cloneId, text: sLegend"></label>
+              <input type="checkbox" data-bind="attr: {id: s2cloneId}, checked: hasS2" />               
+            </div>
+          </div>
+          <div class="dataItem" data-bind="visible: showOverrideS2inverted, style: {height: getRowHeight}">
+            <div class="s1description" data-bind="text: s2srcLegend"></div>
+            <div data-bind="foreach: daySessions">
+              <label data-bind="for: overrides2invertedcloneId, text: sLegend"></label>
+              <input type="checkbox" data-bind="attr: {id: overrides2invertedcloneId}, checked: overrideS2inverted" />               
+            </div>
+          </div>
+          <div class="dataItem" data-bind="visible: showCloneS2inverted, style: {height: getRowHeight}">
+            <div class="s1description" data-bind="text: s2srcLegend"></div>
+            <div data-bind="foreach: daySessions">
+              <label data-bind="for: s2invertedcloneId, text: sLegend"></label>
+              <input type="checkbox" data-bind="attr: {id: s2invertedcloneId}, checked: hasS2inverted" />               
+            </div>
+          </div>
+        </div>
+        <div class="saveRow" data-bind="visible: showSaveRow"><label>Ready to clone?</label><input type="button" class="buttonBlue" value="do clone" data-bind="click: doClone"/></div>        
+        <div class="leftHeaderItem" data-bind="visible: showStandardHeader">experiment</div>
+        <div class="headerItem" data-bind="visible: showStandardHeader">S1 target</div>
+        <div class="headerItem" data-bind="visible: showStandardHeader">S2 target</div>
+        <div class="headerItem" data-bind="visible: showStandardHeader">invS2 target</div>
+      </div>
+    </div>
+  </div>
+  <!-- First tab content ends here -->
+
+      
+</div>
+<!-- Wrapper ends here -->
+
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/jquery-ui-1.11.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/ko//knockout-3.2.0.js"></script>
+<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+<script type="text/javascript" src="/js/tools/dataClone.js"></script>
+</body>
+</html>

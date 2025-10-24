@@ -1,0 +1,32 @@
+/* 
+    Document   : extraExpt
+    Created on : 22-Aug-2012, 09:03:57
+    Author     : MartinHall
+    Description:
+        additional derived css fro extra elelments introduced into Joe's html for the experiment registrationViews
+*/
+
+/*-------------------------------
+	Previous Questions
+-------------------------------*/
+
+.finalMessage {
+	background: #e0e0e0;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	display: inline-block;
+	padding: 2%;
+	width: 96%;
+}
+.finalHeader {
+	background: #e0e0e0;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	display: inline-block;
+	padding: 2%;
+	width: 96%;
+}
+
+

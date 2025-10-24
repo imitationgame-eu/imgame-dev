@@ -1,0 +1,66 @@
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">
+    <div class="headerDeep">
+        <div id="exptTitle">
+            <h1>Experiment Control: <span>Step1 live monitor</span></h1>
+        </div>
+        <ul>
+            <!--<li><a href="#">Return to overview</a></li> -->
+            <li><a id="backB" href="#">Back</a></li>
+        </ul>
+    </div>
+
+    
+   <!-- control tabs starts here -->
+    <div class="adminTabs">    	
+        <!-- First tab -->
+    	<div id="tabOne" class="tab">STEP1</div>       
+        <!-- First tab content starts here -->
+        <div id="tabOneContent" class="tabContent">
+            <div class="adminsection">
+                <div class="step1Control" style="display:block">
+                    <!-- will inject the expt info into here -->
+                    <div id="step1ExptTables">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+     </div>
+    <!-- tabs end here -->
+    
+    <!-- socket timeout message -->
+    <div id="timeoutMsg" class="adminContent tabContent">
+    </div>
+    
+ 
+     
+    <!-- control status page - becomes visible when a STEP1 allocation session is started -->
+    <div id="statusPage" class="adminContent tabContent">
+        <div id="connectionStatus" style="display:none">
+            <div class="connectionList">
+                <div class="OddConnectionHolder">
+                    <h2>Expected odd connections:</h2>
+                    <p>live connection status</p>
+                    <div class="OddConnections"></div>
+                </div>
+                <div class="EvenConnectionHolder">
+                    <h2>Expected even connections:</h2>
+                    <p>live connection status</p>
+                    <div class="EvenConnections"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- invisible divs to keep stage status etc -->
+    <div id="configStage"></div> 
+</div>
+<!-- Wrapper ends here -->
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/jquery-ui-1.11.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/mobile/adminNavigate.js"></script>
+<script type="text/javascript" src="/js/wsockets/igrtwebsocket.js"></script>
+<script type="text/javascript" src="/js/wsockets/wsServerMonitor.js"></script>
+</body>
+</html>

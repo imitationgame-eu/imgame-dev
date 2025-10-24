@@ -1,0 +1,295 @@
+/*-------------------------------------------------------------------------
+-------------------------------------------------------------------------*/
+
+.exptHeader {
+  border-bottom: 1px dotted;
+}
+
+.experimentButton {
+	border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	background: #557495; /* For IE 9 */
+	background-image: linear-gradient(bottom, rgb(54,85,118) 20%, rgb(104,135,168) 69%);
+	background-image: -o-linear-gradient(bottom, rgb(54,85,118) 20%, rgb(104,135,168) 69%);
+	background-image: -moz-linear-gradient(bottom, rgb(54,85,118) 20%, rgb(104,135,168) 69%);
+	background-image: -webkit-linear-gradient(bottom, rgb(54,85,118) 20%, rgb(104,135,168) 69%);
+	background-image: -ms-linear-gradient(bottom, rgb(54,85,118) 20%, rgb(104,135,168) 69%);
+	background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.2, rgb(54,85,118)),
+		color-stop(0.69, rgb(104,135,168))
+	);
+	-webkit-box-shadow: 0px 1px 1px rgba(50, 50, 50, 1);
+	-moz-box-shadow: 0px 1px 1px rgba(50, 50, 50, 1);
+	box-shadow: 0px 1px 1px rgba(50, 50, 50, 1);
+	color: #fff!important;
+	padding: 5px 15px;
+	font-size: 1.2em;
+	font-weight: bold;
+	border: none;
+	border-top: #adbed0 2px solid;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.buttonSection {
+	color: #436a93;
+	font-size: 1.4em;  
+}
+
+.buttonSection p {
+  font-size: 1.1em;
+  color: #0f5fb4;
+  font-style: italic;
+}
+
+.adminSection {
+	color: #436a93;
+	font-size: 1.1em;
+	clear: both;
+	cursor: pointer;
+	font-weight: normal;      
+}
+
+.adminSection h2 {
+	color: #436a93;
+	font-size: 1.3em;
+	padding: 10px 0 10px 30px;
+	clear: both;
+	cursor: pointer;
+	font-weight: bold;    
+}
+
+.adminSection h2.open {
+	background: url(../../images/experimentTitleArrow.gif) no-repeat 0 -65px;
+}
+
+.adminSection h2.closed {
+	background: url(../../images/experimentTitleArrow.gif) no-repeat 0px 10px;
+}
+
+
+/*-------------------------------
+	Step2 transcript monitor
+-------------------------------*/
+
+#admin .s2Resp {
+	color: #436a93;
+	font-size: 1.5em;
+	padding: 3px 0 3px 30px;
+	clear: both;
+	cursor: pointer;
+	font-weight: bold;    
+}
+
+#admin .done {
+}
+
+#admin .started {
+  color: #712C22;
+}
+
+#admin .discarded {
+  color: #b9908b;
+}
+
+#admin .s2Resp.open {
+	background: url(../../images/experimentTitleArrow.gif) no-repeat 0 -75px;
+}
+
+#admin .s2Resp.closed {
+	background: url(../../images/experimentTitleArrow.gif) no-repeat 0px 0px;
+}
+
+#admin .s2r {
+	font-size: 0.8em;
+	padding: 3px 0 3px 30px;
+	clear: both;  
+}
+
+#admin .s2q {
+	font-size: 0.9em;
+	padding: 3px 0 3px 30px;
+	clear: both;
+	font-weight: bold; 
+}
+
+/*-------------------------------
+	MH LR justification
+-------------------------------*/
+.outer {
+    overflow: hidden;   /* makes outer contain floated children */
+    width: 100%;
+    border: solid 3px #847793;
+}
+
+.innerL {
+    float: left;
+    padding-left: 5px;  
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.innerR {
+    overflow: hidden;
+    padding-left: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#adminContent .waitingForAction h2 {
+	background: url(../images/loading.gif) no-repeat 0 0;
+	padding: 4px 0 4px 35px;
+}
+
+/*-------------------------------
+	Tab Colour Coding
+-------------------------------*/
+
+/* Admin */
+
+#adminContent .XDataHolder h3, .YDataHolder h3, OddConnectionHolder h3, EvenConnectionHolder h3{
+	color: #847793;
+	font-size: 1.4em;
+	background: none;
+	padding: 0;
+}
+
+
+/*-------------------------------
+	Data & Connection Status
+-------------------------------*/
+
+.OddDataHolder {
+	float: left;
+	width: 48%;
+	padding: 3% 0 2% 0;
+	margin: 0 4% 0 0;
+}
+
+.EvenDataHolder {
+	float: left;
+	width: 48%;
+	padding: 3% 0 2% 0;
+}
+
+.OddDataHolder h2, .EvenDataHolder h2 {
+	color: #847793;
+	font-size: 1.8em;
+}
+
+.OddDataHolder p, .EvenDataHolder p {
+	font-size: 1.4em;
+	clear: left;
+}
+
+.OddConnectionHolder {
+	float: left;
+	width: 48%;
+	padding: 3% 0 2% 0;
+	margin: 0 4% 0 0;
+}
+
+.EvenConnectionHolder {
+	float: left;
+	width: 48%;
+	padding: 3% 0 2% 0;
+}
+
+.OddConnectionHolder h2, .EvenConnectionHolder h2 {
+	color: #847793;
+	font-size: 1.8em;
+}
+
+.OddConnectionHolder p, .EvenConnectionHolder p {
+	font-size: 1.4em;
+	clear: left;
+}
+
+.statusOwnNP.done, .statusOwnP.done, .statusJudge.done  {
+	background: #5f7f5f;
+	color: #fff;
+	font-weight: bold;
+}
+
+.statusJudge.rating {
+	background: #af30af;
+	color: #fff;
+	font-weight: bold;
+}
+
+.statusJudge.finalRating {
+	background: #af1010;
+	color: #fff;
+	font-weight: bold;  
+}
+
+.statusNonPretender.done {
+	background: #5f7f5f;
+	color: #fff;
+	font-weight: bold;
+}
+
+.statusPretender.done {
+	background: #5f7f5f;
+	color: #fff;
+	font-weight: bold;
+}
+
+.statusJudge.disconnected {
+	background: #ff7f5f;
+	color: #fff;
+	font-weight: bold;
+}
+
+.statusNonPretender.disconnected {
+	background: #ff7f5f;
+	color: #fff;
+	font-weight: bold;
+}
+
+.statusPretender.disconnected {
+	background: #ff7f5f;
+	color: #fff;
+	font-weight: bold;
+}
+
+/* ------------------------
+Diagnostic registrationViews
+------------------------*/
+
+#connectionInfo .disconnection {
+    background: #aa1111;
+    color: #fff;
+}
+
+#connectionInfo .connection {
+    background: #118811;
+    color: #fff;
+}
+
+#socketControl .disconnection {
+    background: #aa1111;
+    color: #fff;
+}
+
+#socketControl .connection {
+    background: #118811;
+    color: #fff;
+}
+
+.healthStatusRed {
+    background: #aa1111;
+    color: #fff;
+	font-weight: bold;
+}
+
+.healthStatusGreen {
+    background: #117711;
+    color: #fff;
+	font-weight: bold;
+}
+

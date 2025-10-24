@@ -1,0 +1,11 @@
+.site-header {
+  margin: 0 0 30px;
+  padding: 20px 0;
+}
+
+@media screen and (min-width: 576px) {
+  .site-header {
+    margin: 0 0 9px;
+    padding: 45px 0;
+  }
+}

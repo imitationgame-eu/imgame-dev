@@ -1,0 +1,284 @@
+<!-- Wrapper starts here -->
+<div class="wrapper" id="admin">   
+  <div class="headerDeep">
+    <h1>Step form definition</h1>
+      <ul>
+        <li><div id="name"></div></li>
+        <li> | <a href="#">Logout</a></li>
+      </ul>
+  </div>    
+  <!-- Admin tabs starts here -->
+  <div class="adminTabs adminReviewTabs">
+    <!-- Waiting for data -->
+    <div class="waitingForAction">
+      <h2>Loading step form definition....</h2>
+    </div>   
+    <!-- First tab content starts here -->
+    <div class="tabContent" >
+      <div class="adminSection">
+        <div class="currentExperiments" data-bind="id: formName()">
+          <h1 data-bind="text: formName()">formName</h1>
+          <div class="formWrapper">
+            <!-- admin functions -->
+            <div class="formRow light">
+              <label>survey definition complete</label>
+              <input type="checkbox" class="checkboxButton" data-bind="checked: definitionComplete, tabIndex: getTabIndex" />              
+            </div>
+            <!-- end of admin functions -->
+            <!-- intro page -->
+            <div class="pageWrapper">
+              <div class="formRow dark">
+                <h2 data-bind="click: toggleIntroAccordion, attr: introAccordion() === '1' ? { 'class' : 'introAccordion open' } : { 'class' : 'introAccordion closed' }" >Introduction page</h2>
+              </div>
+              <div class="formRow dark" data-bind="visible: introAccordionVisible ">
+                <div class="formRow light">
+                  <label data-bind="attr: {'for': formTitleID}" >Form heading</label>
+                  <input type="text" class="text" data-bind="attr: {'id': formTitleID}, value: formTitle, tabIndex: getTabIndex" />                
+                </div>
+                <div class="formRow light">
+                  <label data-bind="attr: {'for': formInstID}" >Form instructions</label>
+                  <textarea class="text" data-bind="attr: {'id': formInstID}, value: formInst, tabIndex: getTabIndex" ></textarea>                
+                </div>
+                <div class="formRow light">
+                  <label data-bind="attr: {'for': introPageButtonLabelID}" >Button legend</label>
+                  <input type="text" class="text" data-bind="attr: {'id': introPageButtonLabelID}, value: introPageButtonLabel, tabIndex: getTabIndex "/>                
+                </div>
+                <div class="formRow dark">
+                  <label data-bind="attr: {'for': useIntroPageID}" >Display introduction page</label>
+                  <input type="checkbox" class="checkboxButton" data-bind="checked: useIntroPage">                
+                </div>
+                <div class="formRow dark" data-bind="visible: useIntroPage">
+                  <div class="formRow light">
+                    <label data-bind="attr: {'for': introPageTitleID}" >Introduction title</label>
+                    <input type="text" class="text" data-bind="attr: {'id': introPageTitleID}, textInput: introPageTitle, tabIndex: getTabIndex"/>                
+                  </div>
+                  <div class="formRow light">
+                    <label data-bind="attr: {'for': introPageMessageID}" >Introduction instructions</label>
+                    <textarea class="text" data-bind="attr: {'id': introPageMessageID}, textInput: introPageMessage, tabIndex: getTabIndex" ></textarea>                
+                  </div>
+                </div>
+                <div class="formRow dark">
+                  <label data-bind="attr: {'for': useEligibilityQID}" >Use eligibility question</label>
+                  <input type="checkbox" class="checkboxButton" data-bind="checked: useEligibilityQ, tabIndex: getTabIndex, attr: {'id': useEligibilityQID}" />
+                </div>
+                <div class="formRow dark" data-bind="visible: useEligibilityQ">
+                  <div class="formRow light">
+                    <label data-bind="attr: {'for': eligibilityQLabelID}" >Eligibility instructions</label>
+                    <textarea class="text" data-bind="attr: {'id': eligibilityQLabelID}, textInput: eligibilityQLabel, tabIndex: getTabIndex" ></textarea>
+                  </div>
+                  <div class="formRow light">
+                    <label data-bind="attr: {'for': eligibilityQValidationMsgID}" >validation guidance message</label>
+                    <textarea class="text" data-bind="attr: {'id': eligibilityQValidationMsgID}, textInput: eligibilityQValidationMsg, tabIndex: getTabIndex" ></textarea>
+                  </div>
+                  <div class="formRow light">
+                    <label data-bind="attr: {'for': eligibilityQTypeID}" >Eligibility control type</label>
+                    <select class="select" data-bind="attr: {'id': eligibilityQTypeID}, options: eligibilityControlTypes, value: eligibilityQType"></select>
+                    <input type="number" data-bind="attr: {'id' : eligibilityQContinuousSliderMaxID}, value: eligibilityQContinuousSliderMax, visible: eligibilityQContinuousSliderMaxVisible, tabIndex: getTabIndex"/>
+                    <label data-bind="attr: {'for': eligibilityQContinuousSliderMaxID}, visible: eligibilityQContinuousSliderMaxVisible">Continuous slider range</label>
+                  </div>
+                  <div class="formRow light">
+                    <label>eligibility options are exclusive?</label>
+                    <input type="checkbox" class="checkboxButton" data-bind="checked: eligibilityQOptionsAreExclusive, tabIndex: getTabIndex" />
+                    <label class="note left">&lt;&lt;Note: altering the value of eligibility options will cause the form to reload, as the values need to be propagated to contingent pages</label>
+                    <label>use eligibility options as odd/even selector</label>
+                    <input type="checkbox" class="checkboxButton" data-bind="checked: eligibilityUseJTypeSelector" />
+                    <p>NOTE - if you are setting up a Step2 pre-survey then be careful to think through the even/odd selection, as this is the pretender phase, and Odd pretenders should answer Even QSs and vice-versa.</p>
+                  </div>                  
+                  <div class="formRow light" data-bind="foreach: eqOptions">
+                    <div data-bind="attr:{class: optionNo()%2==0 ? 'formRow dark':'formRow light'}">
+                      <label data-bind="text: 'item ' + optionNoLabel()  + ' label'">item label</label>
+                      <input type="text" class="eligibilityOptionText" data-bind="value: label, tabIndex: getTabIndex, attr:{'id' : 'eligibilityOption_' + optionNoLabel()}"/> 
+                      <label class="small">valid?</label>
+                      <input type="checkbox" class="checkboxButton" data-bind="checked: isEligibleResponse" />
+                      <select class="select narrow" data-bind="visible: isEligibleResponse, options: $parent.jTypeOptions, value:jType"></select>
+                      <a class="addOption" data-bind="attr: {'id': 'add_eligibilityOption_X_X_' + optionNo()} ">+add option</a>
+                      <a class="delOption" data-bind="attr: {'id': 'del_eligibilityOption_X_X_' + optionNo()} ">-del option</a>
+                    </div>                 
+                  </div>
+                  <div class="formRow light">
+                    <label>Message for non-eligible respondents</label>
+                    <textarea id="nonEligibleMsg" class="text" data-bind="textInput: qNonEligibleMsg, tabIndex: getTabIndex" ></textarea>
+                    <label class="note">Note: this message is displayed on a separate page so that the respondent cannot reload the page to attempt another go.</label>
+                  </div>                  
+                </div>              
+                <div class="formRow dark">
+                  <label>Use a recruitment code</label>
+                  <input type="checkbox" class="checkboxButton" data-bind="checked: useRecruitmentCode, tabIndex: getTabIndex" />
+                  <label>allow "no code response"</label>
+                  <input type="checkbox" class="checkboxButton" data-bind="checked: allowNullRecruitmentCode, tabIndex: getTabIndex" />
+                </div>
+                <div class="formRow dark" data-bind="visible: useRecruitmentCode">
+                  <div class="formRow light">
+                    <label>Recruitment code instructions</label>
+                    <textarea class="text" data-bind="textInput: recruitmentCodeMessage, tabIndex: getTabIndex" ></textarea>
+                  </div>
+                  <div class="formRow light">
+                    <label>Has code option label</label>
+                    <input type="text" class="text" data-bind="textInput: recruitmentCodeOptionLabel, tabIndex: getTabIndex"/>                
+                  </div>
+                  <div class="formRow light" data-bind="visible: allowNullRecruitmentCode">
+                    <label>No code option label</label>
+                    <input type="text" class="text" data-bind="textInput: nullRecruitmentCodeOptionLabel, tabIndex: getTabIndex"/>                
+                  </div>
+                  <div class="formRow light">
+                    <label>Code entry box label</label>
+                    <input type="text" class="text" data-bind="textInput: recruitmentCodeLabel, tabIndex: getTabIndex"/>                
+                  </div>
+                </div>              
+              </div> 
+            </div>
+            <!-- end of intro page -->
+            <!-- page repeater -->
+            <div data-bind="foreach: pages">
+              <div class="pageWrapper">
+                <div class="formRow dark">
+                  <h2 data-bind="click: togglePageAccordion, text: 'page ' + pageNoLabel(), attr: pageAccordion() === '1' ? { 'class' : 'pageAccordion open' } : { 'class' : 'pageAccordion closed' }" > page #</h2>
+                    <label class="small" data-bind="visible: isFirstPage">ignore page</label>
+                    <input type="checkbox" class="checkboxButton" data-bind="checked: ignorePage, visible: isFirstPage" />                  
+                    <a class="addPage" data-bind="attr: {'id': addPageID}">+add page</a>
+                    <a class="delPage" data-bind="attr: {'id': delPageID}, visible: canDelPage">-del page</a>                
+                    <a class="clonePage" data-bind="attr: {'id': clonePageID}">++clone page</a>                
+                </div>
+                <div class="formRow dark" data-bind="visible: pageAccordionVisible ">                 
+                  <div class="formRow dark" data-bind="visible: $parent.useEligibilityQ">
+                    <label>Contingent page</label>
+                    <input type="checkbox" class="checkboxButton" data-bind="checked: contingentPage, tabIndex: $parent.getTabIndex" />
+                    <label data-bind="visible: canShowContingent">Contingent value</label>
+                    <select class="select" data-bind="options: $parent.eligibilityChoices(), value: contingentPageText, visible: canShowContingent"></select>
+                    <p>Note: a contingent page is one which is displayed either depending on the participant's response to the eligibility question</p>
+                  </div>
+                  <div class="formRow dark" data-bind="visible: canShowJType">
+                    <label>Contingent page</label>
+                    <input type="checkbox" class="checkboxButton" data-bind="checked: contingentPage, tabIndex: $parent.getTabIndex" />
+                    <label data-bind="visible: canShowJAttach">attach to judge type</label>
+                    <select class="select" data-bind="options: $parent.jTypeOptions(), value: jType, visible:canShowJAttach"></select>
+                    <p>If there is no eligibility, then pages can be made contingent on a jType injected from a previous form or step.</p>
+                  </div>
+                  <div class="formRow light">
+                    <label data-bind="attr: {'for': pageTitleID}" >Page heading</label>
+                    <input type="text" class="text" data-bind="attr: {'id': pageTitleID}, value: pageTitle, tabIndex: $parent.getTabIndex" />                
+                  </div>
+                  <div class="formRow light">
+                    <label data-bind="attr: {'for': pageInstID}" >Page instructions</label>
+                    <textarea class="text" data-bind="attr: {'id': pageInstID}, value: pageInst, tabIndex: $parent.getTabIndex" ></textarea>                
+                  </div>
+                  <div class="formRow light">
+                    <label data-bind="attr: {'for': pageButtonLabelID}" >Page button legend</label>
+                    <input type="text" class="text" data-bind="attr: {'id': pageButtonLabelID}, value: pageButtonLabel, tabIndex: $parent.getTabIndex"/>                
+                  </div>
+                  <!-- questions repeater -->
+                  <div data-bind="foreach: questions">
+                    <div class="qWrapper">
+                      <h2 data-bind="click: toggleQAccordion, text: 'question ' + qNoLabel(), attr: qAccordion() === '1' ? {'class' : 'pageAccordion open' } : { 'class' : 'pageAccordion closed'}">question # </h2>
+                      <div class="formRow dark">
+                        <label data-bind="visible: canShowFilter">Filter question</label>
+                        <input type="checkbox" class="checkboxButton" data-bind="visible: canShowFilter, checked: $parent.q0isFilter, tabIndex: $parent.getTabIndex" />
+                        <label data-bind="visible: canShowNonMandatory">Mandatory question</label>
+                        <input type="checkbox" class="checkboxButton" data-bind="checked: qMandatory, tabIndex: $parent.getTabIndex, visible:canShowNonMandatory" />
+                        <a class="addQuestion" data-bind="attr: {'id': addQuestionID}">+add question</a>
+                        <a class="delQuestion" data-bind="attr: {'id': delQuestionID}, visible: canDelQ">-del question</a>
+                        <a class="cloneQuestion" data-bind="attr: {'id': cloneQuestionID}">++clone question</a>
+                      </div>
+                      <div class="formRow dark">
+                      </div>
+                      <div class="formRow dark" data-bind="visible: qAccordionVisible">
+                        <div class="formRow dark" data-bind="visible: showFilterSelect">  
+                          <label>Filter response:</label>
+                          <select class="select" data-bind="options: $parent.filterQoptions(), value: qContingentText"></select>                      
+                        </div>
+                        <div class="formRow light">
+                          <label data-bind="attr: {'for': qLabelID}" >Question title/label</label>
+                          <textarea class="text" data-bind="attr: {'id': qLabelID}, value: qLabel, tabIndex: $parent.$parent.getTabIndex"></textarea>                     
+                        </div>                    
+                        <div class="formRow light">
+                          <label data-bind="attr: {'for': qValidationMsgID}" >Validation Message</label>
+                          <input type="text" class="text" data-bind="attr: {'id': qValidationMsgID}, value: qValidationMsg, tabIndex: $parent.$parent.getTabIndex" />                     
+                        </div>
+                        <div class="formRow light" >
+                          <label data-bind="attr: {'for': qTypeID}" >Question control type</label>
+                          <select class="select" data-bind="attr: {'id': qTypeID}, options: $parent.controls(), value: qType"></select>
+                          <span data-bind="visible: needsContingentMsg">* this question should be a radiobutton, selector or a slider</span>
+                          <label class="note" data-bind="visible: canShowFilter">Note: altering option values on a filter question will cause the form to reload as the new value needs to be propagated to filtered questions.</label>
+                          <input type="number" data-bind="attr: {'id' : qContinuousSliderMaxID}, value: qContinuousSliderMax, visible: qContinuousSliderMaxVisible, tabIndex: getTabIndex"/>
+                          <label data-bind="attr: {'for': qContinuousSliderMaxID}, visible: qContinuousSliderMaxVisible">Continuous slider range</label>
+                        </div> 
+                        <div class="formRow light" data-bind="visible: isSlider">
+                          Note: if using a slider, the first option defined should be the initial "unset" value, so that the user needs to move the slider to make a response.
+                        </div>
+                        <div class="formRow light" data-bind="visible: multiOptions, foreach: options">
+                          <div class="formRow light form_t_single">
+                            <label data-bind="text: 'item ' + optionNoLabel()  + ' label'">item label</label>
+                            <input type="text" class="optionText" data-bind="value: label, tabIndex: $parent.$parent.getTabIndex, attr:{'id' : optionID}, event:{change: changeOptionValue}" /> 
+                            <a class="addOption" data-bind="attr: {'id': addOptionID} ">+add option</a>
+                            <a class="delOption" data-bind="visible: delOptionVisible, attr: {'id': delOptionID} ">-del option</a>
+                          </div>
+                        </div>
+                        <div data-bind="visible: qGrid">
+                          <div class="formRow light">
+                            <label data-bind="attr: {'for': qGridInstructionID}" >Grid explanation</label>
+                            <textarea class="text" data-bind="attr: {'id': qGridInstructionID}, value: qGridInstruction, tabIndex: $parent.$parent.getTabIndex"></textarea>                     
+                          </div> 
+                          <div class="formRow light">
+                            <label>Validation target (use -1 if validation not enforced)</label>
+                            <input type="number" data-bind="value: qGridTarget, tabIndex: $parent.$parent.getTabIndex, event:{change: changeValue} "/>
+                          </div>
+                          <div class="formRow light" >
+                            <label>Column labels and validation values</label>
+                            <div class="formRow light" data-bind="foreach: gridColumns">
+                              <label>column label</label>
+                              <input type="text" class="optionText" data-bind="value: label, tabIndex: $parent.$parent.getTabIndex, event:{change: $parent.changeValue}" />                             
+                              <label>validation value</label>
+                              <input type="number" data-bind="value: colValue, tabIndex: $parent.$parent.getTabIndex, event:{change: $parent.changeValue} "/>                             
+                            </div>
+                          </div>
+                          <div class="formRow light" >
+                            <label>Row labels</label>
+                            <!-- ko foreach: gridRows -->
+                            <div class="formRow light">
+                              <label data-bind="text: 'row number '+rowNoLabel()"></label>
+                              <input type="text" class="optionText" data-bind="value: label, tabIndex: $parent.$parent.getTabIndex, event:{change: $parent.changeValue}" />                             
+                            </div>
+                            <!-- /ko -->
+                          </div>                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                  <!-- end of questions repeater -->
+              </div>
+              </div>
+            </div>
+            <!-- end of page repeater -->
+            <!-- final message page -->
+            <div class="pageWrapper">
+              <div class="formRow dark">
+                <h2 data-bind="click: toggleFinalAccordion, attr: finalAccordion() === '1' ? { 'class' : 'pageAccordion open'} : { 'class' : 'pageAccordion closed' } ">final page</h2>
+              </div>
+              <div class="formRow dark" data-bind="visible: finalAccordionVisible">
+                <div class="formRow light">
+                  <label data-bind="attr: {'for': finalMsgID}" >Final message</label>
+                  <input type="text" class="text" data-bind="attr: {'id': finalMsgID}, value: finalMsg, tabIndex: getTabIndex" />                
+                </div>                
+                <div class="formRow light">
+                  <label data-bind="attr: {'for': finalButtonLabelID}" >Final button legend</label>
+                  <input type="text" class="text" data-bind="attr: {'id': finalButtonLabelID}, value: finalButtonLabel, tabIndex: getTabIndex" />                
+                </div>                
+              </div>
+                
+              </div>
+            <!-- end of final message page -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- First tab content ends here -->
+  </div>
+  <!-- Admin tabs ends here -->      
+</div>
+<!-- Wrapper ends here -->
+<script type="text/javascript" src="/jquery/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/js/ko/knockout-3.2.0.js"></script>
+<script type="text/javascript" src="/js/ko/ko-mapping.js"></script>
+<script type="text/javascript" src="/js/forms/formConfigurator.js"></script>
+</body>
+</html>
