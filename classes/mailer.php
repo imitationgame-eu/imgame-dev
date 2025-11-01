@@ -17,8 +17,8 @@ class mailer
 		$this->mail->SMTPSecure = "tls";
 		$this->mail->Port = 587;
 		$this->mail->Host = "smtp.gmail.com";
-		$this->mail->Username = "martin.hall326@gmail.com";
-		$this->mail->Password = "Mahler80g";
+		$this->mail->Username = "";
+		$this->mail->Password = "";
 
 		$this->mail->IsHTML(true);
 		$this->mail->AddAddress($to, "Imgame user");
