@@ -1,4 +1,4 @@
-## dev branch of imgame application.
+## Main branch of distribution version of imgame application.
 ### Status
 
 These notes reflect current deployment to imitationgame.co.uk and the clean codebase/SQL committed here ready for deployment/installation for use by anyone who wishes.
