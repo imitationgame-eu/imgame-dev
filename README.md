@@ -36,7 +36,11 @@ If imgame will be the only website running on the server then copy the full code
 If making changes to a dev version of the site, I find it useful to create an SFTP user and make this user a member of the apache or www-data group and use WinSCP to push code to the server.
 
 ##### SQL
-Extract sql/igrt_clean.zip and use MySQL Workbench or equivalent to build a data schema and import the tables and stored-procedures into the schema. Create a database user with full DBA access to the schema, tables etc.
+Extract sql/igrt_clean.zip and use MySQL Workbench or equivalent to build a data schema and import the tables and stored-procedures into the schema. Create a database user with full DBA access to the schema, tables etc. Use these details to create the db connection string in domain specifics below.
+The clean tables contain 1 admin user in igUsers and 1 fully defined experiment which can be cloned onto other new experiments.
+The intial admin to login to the portal can be created or derived by:-
+- modifying the existing user in igUsers (martin.hall326@gmail.com) and change to the required email address. The passwords in this table are encrypted hashes (all login operations just compare the hash of the submitted password with the hashed value stored in the table). So the password hash will also need to be updated to the required value. The hash alogrithm is sha256. Check /helpers/login/class.PasswordManager.php for details (or to implement other hashing if required).
+- adding a new user to this table with the required details. Set permissions = 1024 (full admin) and activated = 1.
 
 ##### Domain specifics
 The database connection is configured in /domainSpecific/mySQLObject.php
