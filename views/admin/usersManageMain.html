@@ -13,7 +13,7 @@
                     <h3 data-bind="text: email()"></h3>
                 </div>
                 <div class="systemColumn">
-                    <select data-bind="options: ddOptions(), value: ddValue()"></select>
+                    <select data-bind="options: ddOptions(), value: ddValue, event { change: updateRole }"></select>
                 </div>
             </div>
             <!-- /ko  -->

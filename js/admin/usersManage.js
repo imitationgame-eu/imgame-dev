@@ -95,7 +95,7 @@ function moveGroupMapping(itemVM) {
     viewModel.groupMembershipViewModels()[itemVM.groupIndex].members.push(itemVM);
   }
 
-  sendAction('memberUpdate', [itemVM.groupId, itemVM.id, itemVM.isMember ? 1 : 0]);
+  systemUpdate('memberUpdate', [itemVM.groupId, itemVM.id, itemVM.isMember ? 1 : 0]);
 }
 
 function moveExptMapping(itemVM) {
@@ -109,7 +109,7 @@ function moveExptMapping(itemVM) {
     itemVM.isMember = true;
     viewModel.exptViewModels()[itemVM.exptIndex].members.push(itemVM);
   }
-  sendAction('exptUpdate',[itemVM.exptId, itemVM.id, itemVM.isMember ? 1 : 0])
+  systemUpdate('exptUpdate',[itemVM.exptId, itemVM.id, itemVM.isMember ? 1 : 0])
 }
 
 // </editor-fold>
@@ -290,34 +290,48 @@ var userViewModel = function (data) {
   this.id = ko.observable(data.id);
   this.email = ko.observable(data.email);
   this.permissions = data.permissions;
+  this.ddValue = ko.observable(getRoleLabel(data.permissions));
   this.isVisible = ko.computed(function() {
     return currentUserPermissions >= _this.permissions ? true : false;
   });
 
-  this.ddOptions = ko.computed(function() {
-    var options = [];
-    if (currentUserPermissions >= 1024) options.push('Superuser');
-    if (currentUserPermissions >= 512)  options.push('Experimenter');
-    if (currentUserPermissions >= 256)  options.push('Local Organiser');
-    if (currentUserPermissions >= 128)  options.push('Analyst');
-    options.push('Undefined');
-    return options;
-  });
+  this.ddOptions = ko.observableArray();
+  if (currentUserPermissions >= 1024) this.ddOptions().push('Superuser');
+  if (currentUserPermissions >= 512) this.ddOptions().push('Experimenter');
+  if (currentUserPermissions >= 256) this.ddOptions().push('Local Organiser');
+  if (currentUserPermissions >= 128) this.ddOptions().push('Analyst');
+  if (currentUserPermissions >= 1024) this.ddOptions().push('Undefined');
 
-  this.ddValue = ko.computed(function() {
-    switch (_this.permissions) {
-      case '1024' :
-        return 'Superuser';
-      case '512' :
-        return 'Experimenter';
-      case '256' :
-        return 'Local Organiser';
-      case '128' :
-        return 'Analyst';
-    }
-    return 'Undefined';
-  });
+
+  this.updateRole = function() {
+    systemUpdate('roleChange',[_this.id(), getRoleID(_this.ddValue())])
+  }
 };
+
+function getRoleID(roleValue) {
+  switch(roleValue) {
+    case 'Superuser' : return '1024';
+    case 'Experimenter' : return '512';
+    case 'Local Organiser' : return '256';
+    case 'Analyst' : return '128';
+    case 'Undefined' : return '0';
+  }
+}
+
+
+function getRoleLabel(roleID) {
+  switch (roleID) {
+    case '1024' :
+      return 'Superuser';
+    case '512' :
+      return 'Experimenter';
+    case '256' :
+      return 'Local Organiser';
+    case '128' :
+      return 'Analyst';
+  }
+  return 'Undefined';
+}
 
 
 // </editor-fold>

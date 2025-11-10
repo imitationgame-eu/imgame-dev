@@ -57,6 +57,9 @@ var headerViewModel = function(data) {
     this.getHeaderClass = ko.computed(function() {
         return _this.accordionOpen() ? 'menu-item menu-item-has-children' : 'menu-item';
     });
+    this.getHeaderText = ko.computed(function() {
+        return _this.headerID() + '. ' + _this.headerText();
+    });
     this.hasItems = ko.computed(function() {
         return _this.sectionVMs.length > 0;
     });
@@ -77,11 +80,17 @@ var sectionViewModel = function(parent, data) {
     this.getHeaderBreadcrumb = ko.computed(function() {
         return _this.parent.headerText();
     });
+    this.getChapterText = ko.computed(function() {
+        return 'Chapter ' + _this.parent.headerID();
+    });
     this.toggleClick = function() {
         for (var i=0; i<_this.parent.sectionVMs.length; i++) {
-            this.parent.sectionVMs[i].accordionOpen(false);
+            _this.parent.sectionVMs[i].accordionOpen(false);
         }
-        this.accordionOpen(true);
+        _this.accordionOpen(true);
+    }
+    this.selectThisChapter = function() {
+        _this.parent.toggleClick();
     }
     return _this;
 }

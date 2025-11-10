@@ -31,7 +31,7 @@
                 <ul>
                     <!-- ko foreach: headerVMs -->
                     <li data-bind="class: getHeaderClass()">
-                        <a href="#" data-bind="text: headerText, click:toggleClick"></a>
+                        <a href="#" data-bind="text: getHeaderText, click:toggleClick"></a>
                         <!-- ko if: hasItems -->
                         <ul data-bind="visible: accordionOpen">
                             <!--ko foreach: sectionVMs -->
@@ -57,8 +57,8 @@
             <!--ko foreach: headerVMs -->
             <!--ko foreach: sectionVMs -->
             <ul class="breadcrumbs" data-bind="visible: accordionOpen">
-                <li>
-                    <a href="./info.html">Documentation</a>
+                <li data-bind="text: getChapterText, click: selectThisChapter">
+
                 </li>
                 <li data-bind="text: getHeaderBreadcrumb">
                 </li>

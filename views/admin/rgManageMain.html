@@ -4,15 +4,6 @@
 
 
     <div  class="systemContainer" id="container">
-    <h3>Existing research groups</h3>
-    <!-- ko foreach: groups -->
-        <div class = 'groupRow'>
-            <input type="text" class="itemName" data-bind="textInput: groupname" />
-            <input type="button" class="acceptB" data-bind="visible: hasChanged(), value: acceptText(), click: accept" />
-        </div>
-    <!-- /ko -->
-
-
         <h3>Add new group</h3>
         <!-- ko with: newGroup -->
         <div class = 'groupRow'>
@@ -21,8 +12,36 @@
         </div>
         <!-- /ko -->
 
-    </div>
 
+        <h3>Existing research groups</h3>
+        <!-- ko foreach: groups -->
+            <div class = 'groupRow'>
+                <input type="text" class="itemName" data-bind="textInput: groupname" />
+                <input type="button" class="acceptB" data-bind="visible: hasChanged(), value: acceptText(), click: accept" />
+                <input type="button" class="acceptB" data-bind="value: mappingsText, click: toggleMappings" />
+                <div class = 'h2BodyClass' data-bind="visible: !collapsed()">
+                    <!-- ko with: groupMembershipVM -->
+                    <div class="systemRow">                             <!-- egBodyClass must always contain at least "systemRow" for the 2 column-layout to work, but will also control open-closed-->
+                        <div class="systemColumn">
+                            <h4>existing mappings</h4>
+                            <!-- ko foreach: experimentVMs -->
+                            <input type="button" class="move_r" data-bind="value: getExperimentText, click: removeMapping" />
+                            <!-- /ko -->
+                        </div>
+                        <div class="systemColumn">
+                            <h4>possible mappings</h4>
+                            <!-- ko foreach: nonexperimentVMs -->
+                            <input type="button" class="move_l" data-bind="value: getExperimentText, click: addMapping" />
+                            <!-- /ko -->
+                        </div>
+                    </div>
+                    <!-- /ko -->
+                </div>
+            </div>
+        <!-- /ko -->
+
+
+    </div>
     <div id="footer" class="systemFooter">
         <input type="button" id="backB" value="<<  back"/>
     </div>

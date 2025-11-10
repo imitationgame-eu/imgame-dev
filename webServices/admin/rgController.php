@@ -33,7 +33,7 @@ $rgID = isset($_GET['rgID']) ? $_GET['rgID'] : -1;
 	    }
 	    case "userGroupsPermissions" : {
 				$ugp = new stdClass();
-				$ugp->groupsMembership = $rgConfigurator->GetGroupMemberships(returnAsObject);
+				$ugp->groupsMembership = $rgConfigurator->GetAllGroupMemberships(returnAsObject);
 				$ugp->users = $rgConfigurator->userManager->getSystemUsers();
 				$ugp->currentUser = $rgConfigurator->userManager->getUserPermissions();
 				$ugp->exptUsers = $rgConfigurator->GetExperimentMemberships( returnAsObject);
@@ -59,9 +59,14 @@ $rgID = isset($_GET['rgID']) ? $_GET['rgID'] : -1;
 		    break;
 	    }
 	    case "exptUpdate" : {
-	    	$json = $rgConfigurator->UpdateExperimentMapping($content);
+	    	$json = $rgConfigurator->UpdateExperimentUserMapping($content);
 	    	break;
 	    }
+      case "roleChange" : {
+        $json = $rgConfigurator->ChangeRole($content);
+        break;
+      }
+      
 
       default : {
         $json = '{"status": false}';
