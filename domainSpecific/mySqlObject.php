@@ -3,7 +3,7 @@
   global $username;
   global $password;
   // create a mysql object for use in classes and web-services
-  $igrtSqli = new mysqli("localhost", $username, $password, "igrt");
+  $igrtSqli = new mysqli("localhost", $username, $password, "igrt"); //
   //check connection
   $connectionOK = true;
   if ($igrtSqli->connect_error) {
