@@ -656,7 +656,7 @@ $.ui.plugin = {
 		version: "1.4.5",
 
 		// Deprecated and no longer used in 1.4 remove in 1.5
-		// Define the url parameter used for referencing widget-generated sub-registrationViews.
+		// Define the url parameter used for referencing widget-generated sub-pages.
 		// Translates to example.html&ui-page=subpageIdentifier
 		// hash segment before &ui-page= is used to make Ajax request
 		subPageUrlKey: "ui-page",
@@ -681,7 +681,7 @@ $.ui.plugin = {
 		// Automatically handle clicks and form submissions through Ajax, when same-domain
 		ajaxEnabled: true,
 
-		// Automatically load and show registrationViews based on location.hash
+		// Automatically load and show pages based on location.hash
 		hashListeningEnabled: true,
 
 		// disable to prevent jquery from bothering with links
@@ -2550,7 +2550,7 @@ if ( !$.support.boxShadow ) {
 					u = path.parseUrl( absUrl );
 
 				if ( path.isEmbeddedPage( u ) ) {
-					// For embedded registrationViews, remove the dialog hash key as in getFilePath(),
+					// For embedded pages, remove the dialog hash key as in getFilePath(),
 					// and remove otherwise the Data Url won't match the id of the embedded Page.
 					result = u.hash
 						.split( dialogHashKey )[0]
@@ -3183,7 +3183,7 @@ if ( !$.support.boxShadow ) {
 				//      can't know the users intention. It might be better to explicitly _not_
 				//      support location.hash assignment in preference to $.navigate calls
 				// TODO first arg to add should be the href, but it causes issues in identifying
-				//      embeded registrationViews
+				//      embeded pages
 				missing: function() {
 					history.add( hash, {
 						hash: hash,

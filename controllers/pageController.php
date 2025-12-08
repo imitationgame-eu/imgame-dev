@@ -36,8 +36,8 @@ class PageController {
     }
     // mainBody is only used in JQM runtime steps and forms
     $mainBody = ""; 
-    // switch statement below builds hidden content div - common across all registrationViews
-    // which can be overridden in some specific registrationViews
+    // switch statement below builds hidden content div - common across all pages
+    // which can be overridden in some specific pages
     // which is then wrapped in $mappingDetails files
     $hiddenContents = "<div id=\"hiddenHolder\" style=\"display: none;\">";
     $hiddenContents.= sprintf("<div id=\"hiddenReferer\">%s</div>", $referer);
@@ -174,7 +174,7 @@ class PageController {
         $restartUID = isset($parameters[4]) ? $parameters[4] : -1;
         $respId = isset($parameters[5]) ? $parameters[5] : -1;  // passed from Step2 or inverted Step2
         $viewBuilder = new viewBuilderClass();
-        $mainBody = $viewBuilder->makeStepFormView($formType, $exptId, $jType);
+        $mainBody = $viewBuilder->makeStepFormView($formType, $exptId, $jType); // build static jqm html
         $hiddenContents.= sprintf("<div id=\"hiddenExptId\">%s</div>", $exptId);
         $hiddenContents.= sprintf("<div id=\"hiddenFormType\">%s</div>", $formType);
         $hiddenContents.= sprintf("<div id=\"hiddenJType\">%s</div>", $jType);
@@ -222,7 +222,8 @@ class PageController {
 	    case '1_3_2' :  // step form definition
       {
         $viewBuilder = new viewBuilderClass();
-        $mainBody = $viewBuilder->makeStepFormConfigurationView($exptId, $_POST['formType']);
+        //$mainBody = $viewBuilder->makeStepFormConfigurationView($exptId, $_POST['formType']);                           // jqm static page
+        
         $hiddenContents.= sprintf("<div id=\"hiddenFormType\">%s</div>",$_POST['formType']);           
         $hiddenContents.= sprintf("<div id=\"hiddenActiveControl\">%s</div>",$viewBuilder->formActiveControl);                   
         break;

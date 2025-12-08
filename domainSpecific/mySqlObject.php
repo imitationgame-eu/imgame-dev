@@ -1,7 +1,7 @@
 <?php
   //include('/var/www/config/connectionStrings.php');
   // create a mysql object for use in classes and web-services
-  $igrtSqli = new mysqli("localhost", "", "", "");
+  $igrtSqli = new mysqli("localhost", "imgame", "M0z4rt!!", "igrt");
   //check connection
   $connectionOK = true;
   if ($igrtSqli->connect_error) {

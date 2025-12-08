@@ -117,7 +117,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
     protected $_gutter;
 
     /**
-     * flag, if true margins will be the opposite for odd and even registrationViews
+     * flag, if true margins will be the opposite for odd and even pages
      * @var boolean
      */
     protected $_useMirrorMargins;
@@ -171,7 +171,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
 
 
     /**
-     * sets the paper width of registrationViews in section.
+     * sets the paper width of pages in section.
      *
      * @param float $width paper width
      */
@@ -182,7 +182,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
 
 
     /**
-     * gets the paper width of registrationViews in section.
+     * gets the paper width of pages in section.
      *
      * @return float paper width
      */
@@ -193,7 +193,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
 
 
     /**
-     * sets the paper height of registrationViews in section.
+     * sets the paper height of pages in section.
      *
      * @param float $height paper height
      */
@@ -204,7 +204,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
 
 
     /**
-     * gets the paper height of registrationViews in section.
+     * gets the paper height of pages in section.
      *
      * @return float paper height
      */
@@ -215,7 +215,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
 
 
     /**
-     * sets the margins of registrationViews in section.
+     * sets the margins of pages in section.
      *
      * @param float $marginLeft Margin left
      * @param float $marginTop Margin top
@@ -232,7 +232,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
 
 
     /**
-     * sets the left margin of document registrationViews.
+     * sets the left margin of document pages.
      *
      * @param float $margin
      */
@@ -243,7 +243,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
 
 
     /**
-     * gets the left margin of document registrationViews.
+     * gets the left margin of document pages.
      *
      * @return float $margin
      */
@@ -254,7 +254,7 @@ class PHPRtfLite_Container_Section extends PHPRtfLite_Container
 
 
     /**
-     * sets the right margin of document registrationViews.
+     * sets the right margin of document pages.
      *
      * @param float $margin
      */

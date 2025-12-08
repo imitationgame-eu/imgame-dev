@@ -3,7 +3,7 @@
  * Experiment Configuration
  * top-level controller to create/delete experiments
  * @author MartinHall
- * used mainly in AJAX registrationViews, but also used in Step1 admin registrationViews to
+ * used mainly in AJAX pages, but also used in Step1 admin pages to
  * provide experiment status details
  */
 ini_set('display_errors', 'On');

@@ -1,6 +1,6 @@
 <?php
 /**
- * de-reference experiment metadata in admin registrationViews and other
+ * de-reference experiment metadata in admin pages and other
  * 
  * @author MartinHall
  */

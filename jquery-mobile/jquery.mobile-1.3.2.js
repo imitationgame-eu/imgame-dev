@@ -37,7 +37,7 @@
 		// Namespace used framework-wide for data-attrs. Default is no namespace
 		ns: "",
 
-		// Define the url parameter used for referencing widget-generated sub-registrationViews.
+		// Define the url parameter used for referencing widget-generated sub-pages.
 		// Translates to to example.html&ui-page=subpageIdentifier
 		// hash segment before &ui-page= is used to make Ajax request
 		subPageUrlKey: "ui-page",
@@ -54,7 +54,7 @@
 		// Automatically handle clicks and form submissions through Ajax, when same-domain
 		ajaxEnabled: true,
 
-		// Automatically load and show registrationViews based on location.hash
+		// Automatically load and show pages based on location.hash
 		hashListeningEnabled: true,
 
 		// disable to prevent jquery from bothering with links
@@ -2090,7 +2090,7 @@ if ( !$.support.boxShadow ) {
 			convertUrlToDataUrl: function( absUrl ) {
 				var u = path.parseUrl( absUrl );
 				if ( path.isEmbeddedPage( u ) ) {
-					// For embedded registrationViews, remove the dialog hash key as in getFilePath(),
+					// For embedded pages, remove the dialog hash key as in getFilePath(),
 					// and remove otherwise the Data Url won't match the id of the embedded Page.
 					return u.hash
 						.split( dialogHashKey )[0]
@@ -2652,7 +2652,7 @@ if ( !$.support.boxShadow ) {
 				//      can't know the users intention. It might be better to explicitly _not_
 				//      support location.hash assignment in preference to $.navigate calls
 				// TODO first arg to add should be the href, but it causes issues in identifying
-				//      embeded registrationViews
+				//      embeded pages
 				missing: function() {
 					history.add( hash, {
 						hash: hash,
@@ -4035,7 +4035,7 @@ $.mobile.getMaxScrollForTransition = $.mobile.getMaxScrollForTransition || defau
 		return transition;
 	};
 
-	//function for transitioning between two existing registrationViews
+	//function for transitioning between two existing pages
 	function transitionPages( toPage, fromPage, transition, reverse ) {
 		if ( fromPage ) {
 			//trigger before show/hide events
@@ -4187,7 +4187,7 @@ $.mobile.getMaxScrollForTransition = $.mobile.getMaxScrollForTransition || defau
 		var fileUrl = path.getFilePath( absUrl ),
 
 			// The version of the Url actually stored in the data-url attribute of
-			// the page. For embedded registrationViews, it is just the id of the page. For registrationViews
+			// the page. For embedded pages, it is just the id of the page. For registrationViews
 			// within the same domain as the document base, it is the site relative
 			// path. For cross-domain registrationViews (Phone Gap only) the entire absolute Url
 			// used to load the page.

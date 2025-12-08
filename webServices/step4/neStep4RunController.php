@@ -2,7 +2,7 @@
 // -----------------------------------------------------------------------------
 // 
 // web service to support AJAX calls generated from  a null-experiment step4
-// monitor and runtime registrationViews
+// monitor and runtime pages
 // 
 // -----------------------------------------------------------------------------
 ini_set('display_errors', 'On');

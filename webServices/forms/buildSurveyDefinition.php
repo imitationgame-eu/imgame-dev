@@ -46,17 +46,17 @@ class buildSurveyDefinition
 		$this->doesFieldHaveQuotes($formDef['finalMsg']);
 		// then do arrays
 		$this->doesArrayOptionsHaveQuotes($formDef['eligibilityQ']['options']);
-		// now do dynamic list of registrationViews
-		for ($i=0; $i<count($formDef['registrationViews']); $i++) {
-			$this->doesFieldHaveQuotes($formDef['registrationViews'][$i]['pageTitle']);
-			$this->doesFieldHaveQuotes($formDef['registrationViews'][$i]['pageButtonLabel']);
-			$this->doesFieldHaveQuotes($formDef['registrationViews'][$i]['contingentText']);
-			for ($j=0; $j<count($formDef['registrationViews'][$i]['questions']); $j++) {
-				$this->doesFieldHaveQuotes($formDef['registrationViews'][$i]['questions'][$j]['qLabel']);
-				$this->doesFieldHaveQuotes($formDef['registrationViews'][$i]['questions'][$j]['qValidationMsg']);
-//				$this->doesArrayOptionsHaveQuotes($formDef['registrationViews'][$i]['questions'][$j]['gridColumns']);
-//				$this->doesArrayOptionsHaveQuotes($formDef['registrationViews'][$i]['questions'][$j]['gridRows']);
-				$this->doesArrayOptionsHaveQuotes($formDef['registrationViews'][$i]['questions'][$j]['options']);
+		// now do dynamic list of pages
+		for ($i=0; $i<count($formDef['pages']); $i++) {
+			$this->doesFieldHaveQuotes($formDef['pages'][$i]['pageTitle']);
+			$this->doesFieldHaveQuotes($formDef['pages'][$i]['pageButtonLabel']);
+			$this->doesFieldHaveQuotes($formDef['pages'][$i]['contingentText']);
+			for ($j=0; $j<count($formDef['pages'][$i]['questions']); $j++) {
+				$this->doesFieldHaveQuotes($formDef['pages'][$i]['questions'][$j]['qLabel']);
+				$this->doesFieldHaveQuotes($formDef['pages'][$i]['questions'][$j]['qValidationMsg']);
+//				$this->doesArrayOptionsHaveQuotes($formDef['pages'][$i]['questions'][$j]['gridColumns']);
+//				$this->doesArrayOptionsHaveQuotes($formDef['pages'][$i]['questions'][$j]['gridRows']);
+				$this->doesArrayOptionsHaveQuotes($formDef['pages'][$i]['questions'][$j]['options']);
 			}
 		}
 	}
@@ -379,7 +379,7 @@ class buildSurveyDefinition
 
 		// in a jqm form, the submitted json only contains the questions shown to a respondent,
 		// so formDef is not required to be able to imply form flow, but is still needed to de-reference answer values
-		$pages = $this->GetPagesForJType($formDef["registrationViews"], $jsonArray["jType"]);
+		$pages = $this->GetPagesForJType($formDef["pages"], $jsonArray["jType"]);
 
 
 		for ($i=0; $i<count($jsonArray["pageResponses"]); $i++) {
@@ -496,7 +496,7 @@ class buildSurveyDefinition
 	{
 		global $igrtSqli;
 
-		$stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+		$stepFormsHandler = new stepFormsHandler(null, $this->exptId, $this->formType);
 		$formDef          = $stepFormsHandler->getForm();
 		$responseList     = [];
 		$this->markFieldsWithQuotes($formDef);

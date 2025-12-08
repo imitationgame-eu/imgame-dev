@@ -9,6 +9,9 @@ var messageType;
 var formName;
 var formData;
 var pageLabel;
+var initialBind = true;
+var surveyVM = null;
+var igControlTypes = [];
 
 function setControls() {
   if (formData.currentFocusControlId != 'unset') {
@@ -40,6 +43,7 @@ function setControls() {
   $('#addPage').click(function() {
     getNewPageComponent();
   });
+  // eqOptions.click looks for add/del events
   $('[id^=eqOptions_]').click(function() {
     var details = $(this).attr('id').split('_');
     switch (details[1]) {
@@ -49,7 +53,7 @@ function setControls() {
       case 'del':
         var remainingOptions = [];
         for (var i=0; i<formData.eligibilityQ.options.length; i++) {
-          if (formData.eligibilityQ.options != details[2]) {
+          if (formData.eligibilityQ.options[i].id != details[2]) {
             remainingOptions.push(formData.eligibilityQ.options[i]);
           }
         }
@@ -58,10 +62,26 @@ function setControls() {
         break;
     }
   });
+  // eqOptions.change looks for text value changes
+  $('[id^=eqOptions_]').change(function(e) {
+    var details = $(this).attr('id').split('_');
+    switch (details[1]) {
+      case 'jType':
+        var selectedValue = $(this).children('option:selected').val();
+        formData.eligibilityQ.options[details[2]].jType = selectedValue;
+        break;
+      case 'label':
+        formData.eligibilityQ.options[details[2]].label = $(this).val();
+        break;
+    }
+    e.stopPropagation();
+  });
   $('#jTypeSelectorFS').on('change', function() {
-    formData.eligibilityQ.qUseJTypeSelector = !formData.eligibilityQ.qUseJTypeSelector;
-    formData.currentFocusControlId = $(this).attr('id');
-    sendStructureAction();
+    if (!initialBind) {
+      formData.eligibilityQ.qUseJTypeSelector = !formData.eligibilityQ.qUseJTypeSelector;
+      formData.currentFocusControlId = $(this).attr('id');
+      sendStructureAction();
+    }
   });
   $('[id^=qB_]').click(function() {
     var details = $(this).attr('id').split('_');
@@ -83,7 +103,8 @@ function setControls() {
   // -----------------------------------------------------------------------------------------
   $('[id^=ignorePage_]').on('change', function() {
     var pageNo = $(this).attr('id').split('_')[1];
-    formData.pages[pageNo].ignorePage = formData.pages[pageNo].ignorePage === "0" ? "1" : "0";
+    if (!initialBind)
+      formData.pages[pageNo].ignorePage = formData.pages[pageNo].ignorePage === "0" ? "1" : "0";
   });
   $('[id^=pageTitleTA_]').change(function() {
     var details = $(this).attr('id').split('_');
@@ -119,79 +140,75 @@ function setControls() {
       case 'enem': formData.eligibilityQ.qNonEligibleMsg = $(this).val(); break;
     }
   });
-  // eqOptions.change looks for text value changes
-  $('[id^=eqOptions_]').change(function(e) {
-    var details = $(this).attr('id').split('_');
-    switch (details[1]) {
-      case 'jType':
-        var selectedValue = $(this).children('option:selected').val();
-        formData.eligibilityQ.options[details[2]].jType = selectedValue;
-        break;
-      case 'label':
-        formData.eligibilityQ.options[details[2]].label = $(this).val();
-        break;
-    }
+  $('#useFinalPage').click(function(e){
+    if (!initialBind) formData.useFinalPage = formData.useFinalPage === "0" ? "1" : "0";
     e.stopPropagation();
   });
-  $('#dcFS').on('change', function() {
-    formData.definitionComplete = formData.definitionComplete === "0" ? "1" : "0";
+  $('#useIntroPage').click(function(e) {
+    if (!initialBind) formData.useIntroPage = formData.useIntroPage === "0" ? "1" : "0";
+    e.stopPropagation();
   });
-  $('#urFS').on('change', function() {
-    formData.useRecruitmentCode = formData.useRecruitmentCode === "0" ? "1" : "0";
+  $('#dcFS').click(function() {
+    if (!initialBind) formData.definitionComplete = formData.definitionComplete === "0" ? "1" : "0";
   });
-  $('#ueFS').on('change', function() {
-    formData.useEligibilityQ = formData.useEligibilityQ === "0" ? "1" : "0";
+  $('#urFS').click(function() {
+    if (!initialBind) formData.useRecruitmentCode = formData.useRecruitmentCode === "0" ? "1" : "0";
+  });
+  $('#ueFS').click(function() {
+    if (!initialBind) formData.useEligibilityQ = formData.useEligibilityQ === "0" ? "1" : "0";
   });
   $('[id^=q0Filter_]').on('change', function() {
     var pageNo = $(this).attr('id').split('_')[1];
-    formData.pages[pageNo].q0isFilter = formData.pages[pageNo].q0isFilter === "0" ? "1" : "0";
+    if (!initialBind) formData.pages[pageNo].q0isFilter = formData.pages[pageNo].q0isFilter === "0" ? "1" : "0";
   });
   $('[id^=qType_]').on('change', function(e) {
     var details = $(this).attr('id').split('_');
     var selectedValue = $(this).children('option:selected').val();
-    formData.pages[details[1]].questions[details[2]].qType = selectedValue;
+    if (!initialBind) {
+      formData.pages[details[1]].questions[details[2]].qType = selectedValue;
+      // show or hide options as per selector
+      updateOptionsVisibility(details, selectedValue);
+    }
     e.stopPropagation();
-    // show or hide options as per selector
-    updateOptionsVisibility(details, selectedValue);
-  });
+   });
   $('[id^=isContingentPage_]').on('change', function() {
     var pageNo = $(this).attr('id').split('_')[1];
-    if (formData.pages[pageNo].contingentPage === "0") {
-      formData.pages[pageNo].contingentPage = "1";
-      $('#contingent_' + pageNo).show();
-    }
-    else {
-      formData.pages[pageNo].contingentPage = "0";
-      $('#contingent_' + pageNo).hide();
+    if (!initialBind) {
+      if (formData.pages[pageNo].contingentPage === "0") {
+        formData.pages[pageNo].contingentPage = "1";
+        $('#contingent_' + pageNo).show();
+      } else {
+        formData.pages[pageNo].contingentPage = "0";
+        $('#contingent_' + pageNo).hide();
+      }
     }
   });
-  $('[id^=qMandatory_]').on('change', function() {
+  $('[id^=qMandatory_]').on('change', function(e) {
     var details = $(this).attr('id').split('_');
     var pageNo = details[1];
     var qNo = details[2];
-    formData.pages[pageNo].questions[qNo].qMandatory = formData.pages[pageNo].questions[qNo].qMandatory === "1" ?  "0" : "1";
+    if (!initialBind) formData.pages[pageNo].questions[qNo].qMandatory = formData.pages[pageNo].questions[qNo].qMandatory === "1" ?  "0" : "1";
+    e.stopPropagation();
   });
   $('[id^=filterR_]').on('change', function(e) {
     var details = $(this).attr('id').split('_');
     var pageNo = details[1];
     var qNo = details[2];
     var selectedValue = $(this).children('option:selected').val();
-    formData.pages[pageNo].questions[qNo].qContingentValue = selectedValue;
+    if (!initialBind) formData.pages[pageNo].questions[qNo].qContingentValue = selectedValue;
     e.stopPropagation();
   });
   $('[id^=contingencyMatch_]').on('change', function(e) {
     var details = $(this).attr('id').split('_');
     var pageNo = details[1];
     var selectedValue = $(this).children('option:selected').val();
-    formData.pages[pageNo].contingentValue = selectedValue;
+    if (!initialBind) formData.pages[pageNo].contingentValue = selectedValue;
     e.stopPropagation();
   });
-  $('#useFinalPage').on('change', function(){
-    formData.useFinalPage = formData.useFinalPage === "0" ? "1" : "0";
-  });
-  $('[id^=qMax_]').on('change', function() {
+  $('[id^=qMax_]').on('change', function(e) {
     var details = $(this).attr('id').split('_');
-    formData.pages[details[1]].questions[details[2]].qContinuousSliderMax = $(this).val();
+    if (!initialBind) formData.pages[details[1]].questions[details[2]].qContinuousSliderMax = $(this).val();
+    e.stopPropagation();
   });
 
   // ui status functions ---------------------------------------------------------------------
@@ -351,92 +368,103 @@ $(document).ready(function() {
   getFormAsJson();
 });
 
+// viewmodels for ko.js
+var surveyViewModel = function(data) {
+  var _this = this;
+
+  //static members
+  this.currentFocusControlId = data.currentFocusControlId;
+  this.exptId = data.exptId;
+  this.formType = data.formType;
+  this.cntActivePages =[];
+  for (var i=0;i<data.cntActivePages.length; i++) {
+    _this.cntActivePages.push(data.cntActivePages[i]);
+  }
+  this.judgeTypeOptions = [];
+  for (var i=0;i<data.judgeTypeOptions.length; i++) {
+    _this.judgeTypeOptions.push({id: data.judgeTypeOptions[i].id, label: data.judgeTypeOptions[i].label});
+  }
+  for (var i=0;i<data.igControlTypes.length; i++) {
+    igControlTypes.push({id: data.igControlTypes[i].id, label: data.igControlTypes[i].label});  // note: build global as used in many viewmodels
+  }
+
+  // observables
+  this.allowNullRecruitmentCode = ko.observable(data.allowNullRecruitmentCode);
+  this.definitionComplete = ko.observable(data.definitionComplete);
+
+  this.finalAccordionClosed = ko.observable(data.finalAccordionClosed);
+  this.finalButtonLabel = ko.observable(data.finalButtonLabel);
+  this.finalMsg = ko.observable(data.finalMsg);
+
+  this.formInst = ko.observable(data.formInst);
+  this.formTitle = ko.observable(data.formTitle);
+
+  this.introAccordionClosed = ko.observable(data.introAccordionClosed);
+  this.introPageButtonLabel = ko.observable(data.introPageButtonLabel);
+  this.introPageMessage = ko.observable(data.introPageMessage);
+  this.introPageTitle = ko.observable(data.introPageTitle);
+
+  this.pagesAccordionClosed = ko.observable(data.pagesAccordionClosed);
+
+  this.recruitmentAccordionClosed  = ko.observable(data.recruitmentAccordionClosed);
+  this.recruitmentCodeLabel  = ko.observable(data.recruitmentCodeLabel);
+  this.recruitmentCodeMessage = ko.observable(data.recruitmentCodeMessage);
+  this.recruitmentCodeNoLabel = ko.observable(data.recruitmentCodeNoLabel);
+  this.recruitmentCodeYesLabel = ko.observable(data.recruitmentCodeYesLabel);
+
+  this.useEligibilityQ = ko.observable(data.useEligibilityQ);
+  this.useFinalPage = ko.observable(data.useFinalPage);
+  this.useIntroPage = ko.observable(data.useIntroPage);
+  this.useRecruitmentCode = ko.observable(data.useRecruitmentCode);
+
+   // observableArrays
+
+  this.eligibilityVM = new questionViewModel(data.eligibilityQ);
+  this.pageVMs = new pageViewModel(data.pages);
+
+}
+
+var pageViewModel = function(data) {
+  var _this = this;
+  this.contingentPage = ko.observable(data.contingentPage);
+  this.contingentText = ko.observable(data.contingentText);
+  this.contingentValue = ko.observable(data.contingentValue);
+
+  this.ignorePage = ko.observable(data.ignorePage);
+  this.jType = ko.observable(data.jType);
+  this.pNo = ko.observable(data.pNo);
+
+  this.pageAccordionClosed = ko.observable(data.pageAccordionClosed);
+  this.pageButtonLabel = ko.observable(data.pageButtonLabel);
+  this.pageInst = ko.observable(data.pageInst);
+  this.pageTitle = ko.observable(data.pageTitle);
+
+  this.q0isFilter = ko.observable(data.q0isFilter);
+
+  this.questionVMs = ko.observableArray();
+  for (var i=0;i<data.questions.length;i++) {
+    _this.questionVMs().push(new questionViewModel(data.questions[i]));
+  }
+}
+
+var questionViewModel = function(data) {
+  var _this = this;
+  this.qType = ko.observable(data.qType);
+  this.igControlTypes = ko.observableArray(igControlTypes);
+  this.options = ko.observableArray(data.options)
+  this.qAccordionClosed = ko.observable(data.qAccordionClosed);
+  this.qContinuousSliderMax = ko.observable(data.qContinuousSliderMax);
+  this.qLabel = ko.observable(data.qLabel);
+  this.qNonEligibleMsg = ko.observable(data.qNonEligibleMsg);
+  this.qOptionsAccordionClosed = ko.observable(data.qOptionsAccordionClosed);
+  this.qOptionsAreExclusive = ko.observable(data.qOptionsAreExclusive);
+  this.qUseJTypeSelector = ko.observable(data.qUseJTypeSelector);
+  this.qValidationMsg = ko.observable(data.qValidationMsg);
+}
+
 // --------------------------------------------------- Functions ------ //
 
-function delPageQuestion(pNo, qNo) {
-  var questions = [];
-  for (var i = 0; i<qNo; i++) {
-    questions.push(formData.pages[pNo].questions[i]);
-  }
-  for (var i = qNo+1; i<formData.pages[pNo].questions.length; i++) {
-    --formData.pages[pNo].questions[i].qNo;
-    questions.push(formData.pages[pNo].questions[i]);
-  }
-  formData.pages[pNo].questions = questions;
-  sendStructureAction();  // this causes a reload
-}
 
-function addPageQuestion(pNo, qNo) {
-  var paramSet = {};
-  paramSet['permissions'] = permissions;
-  paramSet['componentType'] = 'newQuestion';
-  paramSet['currentPNo'] = pNo;
-  paramSet['currentQNo'] = qNo;
-  $.ajax({
-    type: 'GET',
-    url: '/webServices/admin/getStepFormComponentAsJSON.php',
-    data: paramSet,
-    dataType: 'json',
-    error: function(xhr, textStatus, error) { getDataError(xhr, error, textStatus, this.url); },
-    success: function(data) { getNewQuestionDataSuccess(pNo, qNo, data); }
-  });
-}
-
-function getNewQuestionDataSuccess(pNo, qNo, data) {
-  var questions = [];
-  for (var i=0; i<qNo; i++) {
-    questions.push(formData.pages[pNo].questions[i]);
-  }
-  questions.push(data);
-  for (var i= qNo; i<formData.pages[pNo].questions.length; i++) {
-    ++formData.pages[pNo].questions[i].qNo;
-    questions.push(formData.pages[pNo].questions[i]);
-  }
-  formData.pages[pNo].questions = questions;
-  sendStructureAction();  // this causes a reload
-}
-
-function delPageQuestionOption(pNo, qNo, oNo) {
-  var options = [];
-  for (var i = 0; i<qNo; i++) {
-    options.push(formData.pages[pNo].questions[qNo].options[i]);
-  }
-  for (var i = qNo+1; i<formData.pages[pNo].questions[qNo].options.length; i++) {
-    --formData.pages[pNo].questions[qNo].options[i].id;
-    options.push(formData.pages[pNo].questions[qNo].options[i]);
-  }
-  formData.pages[pNo].questions[qNo].options = options;
-  sendStructureAction();  // this causes a reload
-}
-
-function addPageQuestionOption(pNo, qNo, oNo) {
-  var paramSet = {};
-  paramSet['permissions'] = permissions;
-  paramSet['componentType'] = 'newQuestionOption';
-  paramSet['currentONo'] = oNo;
-  $.ajax({
-    type: 'GET',
-    url: '/webServices/admin/getStepFormComponentAsJSON.php',
-    data: paramSet,
-    dataType: 'json',
-    error: function(xhr, textStatus, error) { getDataError(xhr, error, textStatus, this.url); },
-    success: function(data) { getNewQuestionOptionDataSuccess(pNo, qNo, oNo, data); }
-  });
-}
-
-function getNewQuestionOptionDataSuccess(pNo, qNo, oNo, data) {
-  var options = [];
-  for (var i=0; i<oNo; i++) {
-    options.push(formData.pages[pNo].questions[qNo].options[i]);
-  }
-  options.push(data);
-  for (var i= oNo; i<formData.pages[pNo].questions[qNo].options.length; i++) {
-    ++formData.pages[pNo].questions[qNo].options[i].id;
-    options.push(formData.pages[pNo].questions[qNo].options[i]);
-  }
-  formData.pages[pNo].questions[qNo].options = options;
-  sendStructureAction();  // this causes a reload
-}
 
 function getFormAsJson() {
   $('#name').html('anonymous');
@@ -457,51 +485,16 @@ function getFormAsJson() {
 
 function getDataSuccess(data) {
   formData = data; //JSON.parse(data);
-  setControls();
+  console.log(data);
+
+  surveyVM = new surveyViewModel(data);
+  ko.applyBindings(surveyVM);
+
+  //setControls();
+  initialBind = false;  // stop flip switches triggering on initial binding
 }
 
 function getDataError(xhr, error, textStatus, url) {
   console.log('there was an error with the ajax request from ' + url + ' > ' + error + ' >> ' + textStatus);
 }
 
-function getNewPageComponent() {
-  var paramSet = {};
-  paramSet['permissions'] = permissions;
-  paramSet['componentType'] = 'newPage';
-  paramSet['newPageNo'] = formData.pages.length + 1;
-  $.ajax({
-    type: 'GET',
-    url: '/webServices/admin/getStepFormComponentAsJSON.php',
-    data: paramSet,
-    dataType: 'json',
-    error: function(xhr, textStatus, error) { getDataError(xhr, error, textStatus, this.url); },
-    success: function(data) { getNewPageDataSuccess(data); }
-  });
-}
-
-function getNewPageDataSuccess(data) {
-  formData.pages.push(data);
-  //++formData.pageCount;
-  sendStructureAction();  // this causes a reload
-}
-
-function getNewEQOptionComponent() {
-  var paramSet = {};
-  paramSet['permissions'] = permissions;
-  paramSet['componentType'] = 'newEQOption';
-  paramSet['newOptionNo'] = formData.eligibilityQ.options.length;
-  $.ajax({
-    type: 'GET',
-    url: '/webServices/admin/getStepFormComponentAsJSON.php',
-    data: paramSet,
-    dataType: 'json',
-    error: function(xhr, textStatus, error) { getDataError(xhr, error, textStatus, this.url); },
-    success: function(data) { getNewEQOptionDataSuccess(data); }
-  });
-}
-
-function getNewEQOptionDataSuccess(data) {
-  formData.eligibilityQ.options.push(data);
-  //++formData.eqOptionsCount;
-  sendStructureAction();  // this causes a reload
-}

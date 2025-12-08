@@ -7,7 +7,7 @@
  * A page can have sections that are selected by JQM and defined in js
  * 
  * function = broad area of operation
- * 0 = default site registrationViews
+ * 0 = default site pages
  * 1 = admin
  * 2 = system options
  * 3 = review
@@ -275,8 +275,8 @@ $pageLabelMappings = array(
   ),
   array(
     'pageLabel' => '1_3_2', 
-    'header' => "views/admin/stepFormConfigureHeaderJQM.html",
-    'main' => "views/admin/stepFormConfigureMainJQM.html"
+    'header' => "views/admin/stepFormConfigureHeader.html",
+    'main' => "views/admin/stepFormConfigureMain.html"
   ),
   array(
     'pageLabel' => '1_3_4',    

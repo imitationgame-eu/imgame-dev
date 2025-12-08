@@ -1,9 +1,404 @@
-<script src="/jquery/jquery-2.1.3.min.js"></script>
-<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>  
+<!-- ko with: surveyVM-->
+<div data-role="page" data-theme="a">
+    <div data-role="header" data-position="inline">
+        <h1 data-bind="text: getSurveyTitle"></h1>
+    </div>
+    <div data-role="content">
+        <div id="container">
+            <p>Changes to the survey structure are dynamic - once changes have been made use "save survey" to commit the changes.</p>
+            <!-- ko with: dcVM -->
+            <div data-role="fieldcontain">
+                <label data-bind="for: controlId(), text: legend()"></label>
+                <div data-bind="click: fsClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                    <input data-theme="c" type="checkbox" data-role="flipswitch" data-bind="attr: {'id': controlId()}, checked: booleanValue"/>
+                </div>
+            </div>
+            <!--/ko-->
+            <!-- ko with: formTitleVM -->
+            <div data-role="fieldcontain">
+                <label data-bind="for: controlId(), text: legend()"></label>
+                <input type="text" data-bind="attr: {'id': controlId()}, textInput: textValue"/>
+            </div>
+            <!--/ko-->
+            <!-- ko with: formInstructionVM -->
+            <div data-role="fieldcontain">
+                <label data-bind="for: controlId(), text: legend()"></label>
+                <input type="text" data-bind="attr: {'id': controlId()}, textInput: textValue"/>
+            </div>
+            <!--/ko-->
+            <!--ko with: introPageVM -->
+            <div class="accordionHolder">
+                <a href="#" data-role="button" data-icon="arrow-l" class="accordionHeader" data-theme="b" data-bind="visible: !introPageAccordionClosed(), click: accordionOperate">Introduction/start page</a>
+                <a href="#" data-role="button" data-icon="arrow-r" class="accordionHeader" data-theme="b" data-bind="visible: introPageAccordionClosed(), click: accordionOperate">Introduction/start page</a>
+                <div class="accordionContent" data-bind="visible: !introPageAccordionClosed()">
+                    <!-- ko foreach: fieldVMs -->
+                    <div data-role="fieldcontain" data-bind="visible: isFieldCheckbox()">
+                        <label data-bind="for: controlId(), text: legend()"></label>
+                        <div data-bind="click: fsClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                            <input type="checkbox" data-role="flipswitch" data-bind="attr: {'id': controlId()}, checked: booleanValue"/>
+                        </div>
+                    </div>
+                    <div data-role="fieldcontain" data-bind="visible: isFieldText()">
+                        <label data-bind="for: controlId(), text: legend()"></label>
+                        <input type="text" data-bind="attr: {'id': controlId()}, textInput: textValue"/>
+                    </div>
+                    <!--/ko-->
+
+                    <!--ko with: recruitmentSectionVM -->
+                    <div class="accordionHolder">
+                        <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-l" data-theme="b" data-bind="visible: !recruitmentSectionClosed(), click: accordionOperate">Recruitment section</a>
+                        <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-r" data-theme="b" data-bind="visible: recruitmentSectionClosed(), click: accordionOperate">Recruitment section</a>
+                        <div class="accordionContent" data-bind="visible: !recruitmentSectionClosed()">
+                            <!--ko foreach: fieldVMs -->
+                            <div data-role="fieldcontain" data-bind="visible: isFieldCheckbox()">
+                                <label data-bind="for: controlId(), text: legend()"></label>
+                                <div data-bind="click: fsClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                                    <input type="checkbox" data-role="flipswitch" data-bind="attr: {'id': controlId()}, checked: booleanValue"/>
+                                </div>
+                            </div>
+                            <div data-role="fieldcontain" data-bind="visible: isFieldText()">
+                                <label data-bind="for: controlId(), text: legend()"></label>
+                                <input type="text" data-bind="attr: {'id': controlId()}, textInput: textValue"/>
+                            </div>
+                            <!--/ko-->
+                        </div>
+                    </div>
+                    <!--/ko-->
+
+                    <!--ko with: eligibilityQVM -->
+                    <div class="accordionHolder">
+                        <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-l" data-theme="b" data-bind="visible: !eligibilitySectionClosed(), click: accordionOperate">Eligibility question</a>
+                        <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-r" data-theme="b" data-bind="visible: eligibilitySectionClosed(), click: accordionOperate">Eligibility question</a>
+                        <div class="accordionContent" data-bind="visible: !eligibilitySectionClosed()">
+                            <!--ko foreach: fieldVMs -->
+                            <div data-role="fieldcontain" data-bind="visible: isFieldCheckbox()">
+                                <label data-bind="for: controlId(), text: legend()"></label>
+                                <div data-bind="click: fsClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                                    <input type="checkbox" data-role="flipswitch" data-bind="attr: {'id': controlId()}, checked: booleanValue"/>
+                                </div>
+                            </div>
+                            <div data-role="fieldcontain" data-bind="visible: isFieldText()">
+                                <label data-bind="for: controlId(), text: legend()"></label>
+                                <input type="text" data-bind="attr: {'id': controlId()}, textInput: textValue"/>
+                            </div>
+                            <div data-role="fieldcontain" data-bind="visible: isFieldSelect()">
+                                <label data-bind="for: controlId(), text: legend()"></label>
+                                <select data-bind="attr: {'id': controlId()}, options: options, value: selectedValue"></select>
+                            </div>
+                            <!--/ko-->
+
+                            <!-- ko with: eqOptionsVM -->
+                            <div class="accordionHolder">
+                                <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-l" data-theme="b" data-bind="visible: !eligibilityOptionsAccordionClosed(), click: accordionOperate">eligibility replies</a>
+                                <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-r" data-theme="b" data-bind="visible: eligibilityOptionsAccordionClosed(), click: accordionOperate">eligibility replies</a>
+                                <div class="accordionContent" data-bind="visible: !eligibilityOptionsAccordionClosed()">
+                                    <!--ko foreach: questionVMs -->
+                                    <div data-role="fieldcontain">
+                                        <!-- ko foreach: fieldVMs -->
+                                        <div data-role="fieldcontain" data-bind="visible: isFieldText()">
+                                            <label data-bind="for: controlId(), text: legend()"></label>
+                                            <input type="text" data-bind="attr: {'id': controlId()}, value: textValue"/>
+                                        </div>
+                                        <div data-role="fieldcontain" data-bind="visible: isFieldSelect()">
+                                            <label data-bind="for: controlId(), text: legend()"></label>
+                                            <select data-bind="attr: {'id': controlId()}, options: options, value: selectedValue"></select>
+                                        </div>
+                                        <!--/ko -->
+                                    </div>
+                                    <!--/ko -->
+                                </div>
+                            </div>
+                            <!--/ko-->
+
+                        </div>
+                    </div>
+                     <!--/ko-->
+                </div>
+            </div>
+            <!--/ko -->
+
+
+            <div class="accordionHolder">
+                <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-l" data-theme="b" data-bind="visible: !pagesAccordionClosed(), click: pagesAccordionOperate">Pages</a>
+                <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-r" data-theme="b"  data-bind="visible: pagesAccordionClosed(), click: pagesAccordionOperate">Pages</a>
+                <div class="accordionContent" data-bind="visible: !pagesAccordionClosed()">
+                    <p><b>Please note:</b> page numbers are for reference only and may not reflect the order in which the participant sees pages. This is because you may be using contingent pages (i.e. some pages only shown to specific judge types).</p>
+                    <!-- ko foreach: pageVMs -->
+                    <div class="accordionHolder">
+                        <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-l" data-theme="b" data-bind="visible: !pageAccordionClosed(), click: accordionOperate, text: getPageTitle()"></a>
+                        <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-r" data-theme="b" data-bind="visible: pageAccordionClosed(), click: accordionOperate, text: getPageTitle()"></a>
+                        <div class="accordionContent" data-bind="visible: !pageAccordionClosed()">
+                            <!--ko foreach: fieldVMs -->
+                            <div data-role="fieldcontain" data-bind="visible: isFieldCheckbox()">
+                                <label data-bind="for: controlId(), text: legend()"></label>
+                                <div data-bind="click: fsClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                                    <input type="checkbox" data-role="flipswitch" data-bind="attr: {'id': controlId()}, checked: booleanValue"/>
+                                </div>
+                            </div>
+                            <div data-role="fieldcontain" data-bind="visible: isFieldText()">
+                                <label data-bind="for: controlId(), text: legend()"></label>
+                                <input type="text" data-bind="attr: {'id': controlId()}, textInput: textValue"/>
+                            </div>
+                            <div data-role="fieldcontain" data-bind="visible: isFieldSelect()">
+                                <label data-bind="for: controlId(), text: legend()"></label>
+                                <select data-bind="attr: {'id': controlId()}, options: options, value: selectedValue"></select>
+                            </div>
+                            <!--/ko-->
+
+                            <!--ko with: contingentVM -->
+<!--                            <pre data-bind="text: ko.toJSON($data, null, 2)"></pre>-->
+<!--                            <pre data-bind="text: ko.toJSON(igEligibilityJTypeVM, null ,2)"></pre>-->
+                            <div data-role="fieldcontain">
+                                <label data-bind="for: contingentFSId()">contingent page?</label>
+                                <div data-bind="click: fsClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                                    <input type="checkbox" data-role="flipswitch" data-bind="attr: {'id': contingentFSId()}, checked: contingentPage"/>
+                                </div>
+                            </div>
+                            <div data-role="fieldcontain" data-bind="visible: contingentPage()">
+                                <label data-bind="for: contingentSId()">contingent Q response value</label>
+                                <select data-bind="attr: {'id': contingentSId()}, options: igEligibilityJTypeVM, value: contingentValue, optionsText: 'jTypeLabel', optionsValue: 'jType'"></select>
+<!--                                optionsValue: jType-->
+                            </div>
+                            <div data-role="fieldcontain" data-bind="visible: contingentPage()">
+                                <label data-bind="for: contingentTextId()">contingent Q response text</label>
+                                <div data-bind="attr: {'id': contingentTextId()}, text: getContingentText()"></div>
+                            </div>
+                            <!--/ko -->
+
+                            <!--                                    <pre data-bind="text: ko.toJSON(questionFilterMandatoryVM, null ,2)"></pre>-->
+
+                            <!-- ko with: questionFilterMandatoryVM-->
+                            <div class="accordionHolder">
+                                <div class="ui-grid-a accordionHeader" data-theme="b" data-bind="visible: !accordionClosed(), click: accordionOperate">
+                                    <div class="ui-block-a controlHolder">
+                                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                            <button data-role="button" data-theme="c" data-icon="arrow-l" data-bind="text:getQuestionTitle()"></button>
+                                        </fieldset>
+                                    </div>
+                                    <div class="ui-block-b controlHolder" >
+                                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                            <button data-role="button" data-theme="c" data-bind="click: addQ" data-icon="plus">add question after</button>
+                                            <button data-role="button" data-theme="c" data-icon="alert" class="ui-disabled">remove question</button>
+                                        </fieldset>
+                                    </div>
+                                </div>
+                                <div class="ui-grid-a accordionHeader" data-theme="b" data-bind="visible: accordionClosed(), click: accordionOperate">
+                                    <div class="ui-block-a controlHolder">
+                                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                            <button data-role="button" data-theme="c" data-icon="arrow-r" data-bind="text:getQuestionTitle()"></button>
+                                        </fieldset>
+                                    </div>
+                                    <div class="ui-block-b controlHolder" >
+                                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                            <button data-role="button" data-theme="c" data-bind="click: addQ" data-icon="plus">add question after</button>
+                                            <button data-role="button" data-theme="c" data-icon="alert" class="ui-disabled">remove question</button>
+                                        </fieldset>
+                                    </div>
+                                </div>
+
+
+                                <div class="accordionContent" data-bind="visible: !accordionClosed()">
+                                    <div data-role="fieldcontain" >
+                                        <label data-bind="for: q0FilterId()">this question is filter for this page?</label>
+                                        <div data-bind="click: fsFClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                                            <input type="checkbox" data-role="flipswitch" data-bind="attr: {'id': q0FilterId()}, checked: qIsFilter"/>
+                                        </div>
+                                    </div>
+
+                                    <div data-role="fieldcontain" data-bind="visible: selectWarningVisible()">
+                                        <p>This question is a filter for subsequent questions in this page so is automatically set as a constrained type of question and must use a select or radio button. It is also marked as mandatory so the validation message must be populated.</p>
+                                        <div data-role="fieldcontain">
+                                            <label data-bind="for: qTypelimitedSId()">question type</label>
+                                            <select data-bind="attr: {'id': qTypelimitedSId()}, options: igOptionControlTypes, value: qTypeFilter, optionsText: 'label', optionsValue: 'id'"></select>
+                                        </div>
+                                    </div>
+                                    <div data-role="fieldcontain" data-bind="visible: selectVisible()">
+                                        <label data-bind="for: qTypeSId()">question type</label>
+                                        <select data-bind="attr: {'id': qTypeSId()}, options: igControlTypes, value: qType, optionsText: 'label', optionsValue: 'id', optionsCaption: 'choose control type'"></select>
+                                    </div>
+
+                                    <div data-role="fieldcontain" data-bind="visible: !qIsFilter()">
+                                        <label data-bind="for: mandatoryId()">mandatory question?</label>
+                                        <div data-bind="click: fsMClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                                            <input type="checkbox" data-theme="c" data-role="flipswitch" data-bind="attr: {'id': mandatoryId()}, checked: qMandatory"/>
+                                        </div>
+                                    </div>
+                                    <div data-role="fieldcontain" data-bind="visible: qValidationVisible()">
+                                        <label data-bind="for: vMsgId()">question validation message</label>
+                                        <input type="text" data-bind="attr: {'id': vMsgId()}, textInput: qValidationMsg"/>
+                                    </div>
+                                    <div data-role="fieldcontain">
+                                        <label data-bind="for: qlId()">question text</label>
+                                        <input type="text" data-bind="attr: {'id': qlId()}, textInput: qLabel"/>
+                                    </div>
+
+                                    <div data-bind="visible: optionsVisible" class="optionRow">
+                                        <!--ko with: defaultOptionVM -->
+                                        <div class="ui-grid-a">
+                                            <div class="ui-block-a">
+                                                <label data-bind="for: qoId(), text:getOptionText"></label>
+                                                <input type="text" data-bind="attr: {'id': qoId()}, textInput: label"/>
+                                            </div>
+                                            <div class="ui-block-b controlHolder" >
+                                                <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                                    <button data-role="button" data-theme="c" data-bind="click: addO" data-icon="plus">add option after</button>
+                                                    <button data-role="button" data-theme="c" data-icon="alert" class="ui-disabled">remove option</button>
+                                                </fieldset>
+                                            </div>
+                                        </div>
+                                        <!--/ko-->
+                                        <!-- ko foreach: optionVMs -->
+                                            <div class="ui-grid-a">
+                                                <div class="ui-block-a">
+                                                    <label data-bind="for: qoId(), text:getOptionText"></label>
+                                                    <input type="text" data-bind="attr: {'id': qoId()}, textInput: label"/>
+                                                </div>
+                                                 <div class="ui-block-b controlHolder" >
+                                                     <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                                         <button data-role="button" data-theme="c" data-bind="click: addO" data-icon="plus">add option after</button>
+                                                         <button data-role="button" data-theme="c" data-bind="click: delO" data-icon="minus">remove option</button>
+                                                     </fieldset>
+                                                </div>
+                                             </div>
+                                        <!--/ko-->
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!--/ko -->
+
+                            <!-- now show all questions after q0 which is special case as can be used as a filter question in which case is mandatory -->
+                            <!-- ko foreach: questionVMs -->
+                            <div class="accordionHolder">
+                                <div class="ui-grid-a accordionHeader" data-theme="b" data-bind="visible: !accordionClosed(), click: accordionOperate">
+                                    <div class="ui-block-a controlHolder">
+                                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                            <button data-role="button" data-theme="c" data-icon="arrow-l" data-bind="text:getQuestionTitle()"></button>
+                                        </fieldset>
+                                    </div>
+                                    <div class="ui-block-b controlHolder" >
+                                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                            <button data-role="button" data-theme="c" data-bind="click: addQ" data-icon="plus">add question after</button>
+                                            <button data-role="button" data-theme="c" data-icon="alert" class="ui-disabled">remove question</button>
+                                        </fieldset>
+                                    </div>
+                                </div>
+                                <div class="ui-grid-a accordionHeader" data-theme="b" data-bind="visible: accordionClosed(), click: accordionOperate">
+                                    <div class="ui-block-a controlHolder">
+                                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                            <button data-role="button" data-theme="c" data-icon="arrow-r" data-bind="text:getQuestionTitle()"></button>
+                                        </fieldset>
+                                    </div>
+                                    <div class="ui-block-b controlHolder" >
+                                        <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                            <button data-role="button" data-theme="c" data-bind="click: addQ" data-icon="plus">add question after</button>
+                                            <button data-role="button" data-theme="c" data-bind="click: delQ" data-icon="minus">remove question</button>
+                                        </fieldset>
+                                    </div>
+                                </div>
+
+
+                                <div class="accordionContent" data-bind="visible: !accordionClosed()">
+                                    <div data-role="fieldcontain" >
+                                        <label data-bind="for: qTypeSId()">question type</label>
+                                        <select data-bind="attr: {'id': qTypeSId()}, options: igControlTypes, value: qType, optionsText: 'label', optionsValue: 'id', optionsCaption: 'choose control type'"></select>
+                                    </div>
+
+                                    <div data-role="fieldcontain" >
+                                        <label data-bind="for: mandatoryId()">mandatory question?</label>
+                                        <div data-bind="click: fsMClick">  <!-- this extra div is a hack to ensure the click event can force changing the bool value in the viewmodel -->
+                                            <input type="checkbox" data-theme="c" data-role="flipswitch" data-bind="attr: {'id': mandatoryId()}, checked: qMandatory"/>
+                                        </div>
+                                    </div>
+                                    <div data-role="fieldcontain" data-bind="visible: qValidationVisible()">
+                                        <label data-bind="for: vMsgId()">question validation message</label>
+                                        <input type="text" data-bind="attr: {'id': vMsgId()}, textInput: qValidationMsg"/>
+                                    </div>
+                                    <div data-role="fieldcontain">
+                                        <label data-bind="for: qlId()">question text</label>
+                                        <input type="text" data-bind="attr: {'id': qlId()}, textInput: qLabel"/>
+                                    </div>
+
+                                    <div data-bind="visible: optionsVisible" class="optionRow">
+                                        <!--ko with: defaultOptionVM -->
+                                        <div class="ui-grid-a">
+                                            <div class="ui-block-a">
+                                                <label data-bind="for: qoId(), text:getOptionText"></label>
+                                                <input type="text" data-bind="attr: {'id': qoId()}, textInput: label"/>
+                                            </div>
+                                            <div class="ui-block-b controlHolder" >
+                                                <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                                    <button data-role="button" data-theme="c" data-bind="click: addO" data-icon="plus">add option after</button>
+                                                    <button data-role="button" data-theme="c" data-icon="alert" class="ui-disabled">remove option</button>
+                                                </fieldset>
+                                            </div>
+                                        </div>
+                                        <!--/ko-->
+                                        <!-- ko foreach: optionVMs -->
+                                        <div class="ui-grid-a">
+                                            <div class="ui-block-a">
+                                                <label data-bind="for: qoId(), text:getOptionText"></label>
+                                                <input type="text" data-bind="attr: {'id': qoId()}, textInput: label"/>
+                                            </div>
+                                            <div class="ui-block-b controlHolder" >
+                                                <fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+                                                    <button data-role="button" data-theme="c" data-bind="click: addO" data-icon="plus">add option after</button>
+                                                    <button data-role="button" data-theme="c" data-bind="click: delO" data-icon="minus">remove option</button>
+                                                </fieldset>
+                                            </div>
+                                        </div>
+                                        <!--/ko-->
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/ko-->
+
+                            <!--                            <pre data-bind="text: ko.toJSON(surveyVM.pageVMs()[0].questionFilterMandatoryVM, null ,2)"></pre>-->
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+                    <!--/ko -->
+                </div>
+            </div>
+
+<!--            <div class="accordionHolder">-->
+<!--                <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-l" data-theme="c" data-bind="visible: !(), click: accordionOperate"></a>-->
+<!--                <a href="#" class="accordionHeader" data-role="button" data-icon="arrow-r" data-theme="c" data-bind="visible: (), click: accordionOperate"></a>-->
+<!--                <div class="accordionContent" data-bind="visible: !()">-->
+
+<!--                </div>-->
+<!--            </div>-->
+
+
+            <!--            <a id="debugB" href="#" data-role="button" data-mini="true" data-inline="true" data-icon="check" data-theme="c">Debug</a>-->
+        </div>
+    </div>
+    <div data-role="footer" data-position="inline" data-tap-toggle="false">
+        <div data-role="navbar">
+            <ul>
+                <li><a id="backB" href="#" data-icon="carat-l">back</a></li>
+                <li><a id="submitB" href="#" data-icon="carat-r">save survey</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--/ko-->
+
+
+<!--Note: jqm needs older version of jQuery!-->
+<script src="/jquery/jquery-2.1.1.min.js"></script>
+<script src="/knockoutJS/knockout-3.5.1.js"></script>
+<script src="/jquery-mobile/jquery.mobile.overrides.js"></script>
 <script src="/jquery-mobile/jquery.mobile-1.4.5.min.js"></script>
 <script src="/jquery-mobile/page.modifiers.js"></script>
-<script src="/js/ko/knockout-3.3.0.js"></script>
-<script src="/js/ko/ko-mapping.js"></script>
+<!--<script src="/js/ko/ko-mapping.js"></script>-->
 <script src="/js/mobile/adminNavigate.js"></script>
 <script src="/js/admin/formConfigurator.js"></script>
 </body>

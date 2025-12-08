@@ -2,7 +2,7 @@
 // -----------------------------------------------------------------------------
 // 
 // web service to support AJAX calls generated from experiment creation and
-// configuration registrationViews
+// configuration pages
 // 
 // -----------------------------------------------------------------------------
 //ini_set('display_errors', 'Off');

@@ -131,7 +131,7 @@ class PHPRtfLite
     private $_marginBottom = 2;
 
     /**
-     * flag, if true, even and odd registrationViews are using different layouts
+     * flag, if true, even and odd pages are using different layouts
      * @var boolean
      */
     private $_useOddEvenDifferent = false;
@@ -201,7 +201,7 @@ class PHPRtfLite
     private $_gutter;
 
     /**
-     * flag, if true margins will be the opposite for odd and even registrationViews
+     * flag, if true margins will be the opposite for odd and even pages
      * @var boolean
      */
     private $_useMirrorMargins = false;
@@ -665,7 +665,7 @@ class PHPRtfLite
 
 
     /**
-     * sets the margins of document registrationViews
+     * sets the margins of document pages
      *
      * @param float $marginLeft     Margin left (default 3 cm)
      * @param float $marginTop      Margin top (default 1 cm)
@@ -682,7 +682,7 @@ class PHPRtfLite
 
 
     /**
-     * sets the left margin of document registrationViews
+     * sets the left margin of document pages
      *
      * @param float $margin
      */
@@ -693,7 +693,7 @@ class PHPRtfLite
 
 
     /**
-     * gets the left margin of document registrationViews
+     * gets the left margin of document pages
      *
      * @return float $margin
      */
@@ -704,7 +704,7 @@ class PHPRtfLite
 
 
     /**
-     * sets the right margin of document registrationViews
+     * sets the right margin of document pages
      *
      * @param float $margin
      */
@@ -715,7 +715,7 @@ class PHPRtfLite
 
 
     /**
-     * gets the right margin of document registrationViews
+     * gets the right margin of document pages
      *
      * @return float $margin
      */
@@ -726,7 +726,7 @@ class PHPRtfLite
 
 
     /**
-     * sets the top margin of document registrationViews
+     * sets the top margin of document pages
      *
      * @param float $margin
      */
@@ -737,7 +737,7 @@ class PHPRtfLite
 
 
     /**
-     * gets the top margin of document registrationViews
+     * gets the top margin of document pages
      *
      * @return float $margin
      */
@@ -748,7 +748,7 @@ class PHPRtfLite
 
 
     /**
-     * sets the bottom margin of document registrationViews
+     * sets the bottom margin of document pages
      *
      * @param float $margin
      */
@@ -759,7 +759,7 @@ class PHPRtfLite
 
 
     /**
-     * gets the bottom margin of document registrationViews
+     * gets the bottom margin of document pages
      *
      * @return float $margin
      */

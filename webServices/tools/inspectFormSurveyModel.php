@@ -13,6 +13,6 @@ require_once $root_path.'/kint/Kint.class.php';
 $exptId = $_GET['exptId'];
 $formType = $_GET['formType'];
 $jType = "";
-$formHandler = new stepFormsHandler($exptId, $formType);
+$formHandler = new stepFormsHandler(null, $exptId, $formType);
 $formDef = $formHandler->getForm();
 kint::dump($formDef);

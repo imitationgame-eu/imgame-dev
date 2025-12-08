@@ -114,6 +114,13 @@ function goBack() {
       paramItems['isMultiSectionPage'] = 1;
       paramItems['sectionNo'] = 1;
       break;
+    case '1_3_2':
+      // configure step survey - - need to go back this parent selector
+      paramItems['pageLabel'] = '1_2_1';
+      paramItems['exptId'] = exptId;
+      paramItems['isMultiSectionPage'] = 1;
+      paramItems['sectionNo'] = 15;
+      break;
     case '8_3_4':
       // sub-section of individual experiment - need to go back to selector
       paramItems['pageLabel'] = '1_2_1';
@@ -196,7 +203,7 @@ $('#backB').click(function() {
   goBack();
 });
 
-// special case for main back button at foot of registrationViews on bottom of tree, e.g. download csv files from step4
+// special case for main back button at foot of pages on bottom of tree, e.g. download csv files from step4
 $('#backBmain').click(function() {
   goBack();
 });

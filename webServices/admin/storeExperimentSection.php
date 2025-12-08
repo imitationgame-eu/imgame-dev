@@ -505,7 +505,7 @@ foreach ($formFields as $ff) {
 // NOTE - get eModel AFTER any changes above IF it's required
 
 // for most sections above is standard, but any dynamic sections (e.g. days & sessions)
-// or registrationViews that have an operation (balancer, shuffle) etc
+// or pages that have an operation (balancer, shuffle) etc
 // need to have values written back first, with any structural changes then imposed over
 switch ($sectionName) {
   case "s1sessionsusers" : {

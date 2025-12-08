@@ -88,31 +88,31 @@ else {
       break;
     }
     case 's2' : {
-      $pageLabel = '5_0_2';  // go to real Step2 start page            
+      $pageLabel = '5_0_2';  // directly to real Step2 start page
       break;
     }
     case 'is2' : {
-      $pageLabel = '5_0_3';  // go to inverted Step2 start page            
+      $pageLabel = '5_0_3';  // directly to inverted Step2 start page
       break;
     }
     case 's4' : {
-      $pageLabel = '6_0_2';  // go to Step4 start page                        
+      $pageLabel = '6_0_2';  // directly to Step4 start page
       break;
     }
     case 'nes4' : {
-      $pageLabel = '6_0_3';  // go to null experiment Step4 start page                        
+      $pageLabel = '6_0_3';  // directly to null experiment Step4 start page
       break;
     }
     case 'les4' : {
-      $pageLabel = '6_0_4';  // go to linked-experiment Step4 start page                        
+      $pageLabel = '6_0_4';  // directly to linked-experiment Step4 start page
       break;
     }
     case 'les4single' : {
-      $pageLabel = '6_0_5'; // turn-by-turn version of the linked-experiment step4
+      $pageLabel = '6_0_5'; // directly to turn-by-turn version of the linked-experiment step4
       break;
     }
     case 's4single' : {
-      $pageLabel = '6_0_6'; // turn-by-turn version step4
+      $pageLabel = '6_0_6'; // directly to turn-by-turn version step4
       break;
     }
     case 'sf' : {

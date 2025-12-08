@@ -2,7 +2,7 @@
 // -----------------------------------------------------------------------------
 // 
 // web service to support AJAX calls generated from step4
-// configuration and runtime registrationViews
+// configuration and runtime pages
 // 
 // -----------------------------------------------------------------------------
 ini_set('display_errors', 'On');

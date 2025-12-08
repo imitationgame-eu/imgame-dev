@@ -22,7 +22,7 @@ class stepFormRuntimeController {
 // <editor-fold defaultstate="collapsed" desc=" interface functions">
 
   function getStepFormRuntimeSettings() {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+    $stepFormsHandler = new stepFormsHandler(null, $this->exptId, $this->formType);
     $stepFormsHandler->setJType($this->jType);
     $this->formDef = $stepFormsHandler->getForm();
     $xml = sprintf("<message>"

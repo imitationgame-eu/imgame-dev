@@ -1,5 +1,5 @@
 /* 
-  override core jquery-mobile to support 'normal' web page view on mobile registrationViews
+  override core jquery-mobile to support 'normal' web page view on mobile pages
   when viewed on e.g iPad landscape and above
  */
 

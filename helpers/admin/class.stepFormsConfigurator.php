@@ -21,6 +21,10 @@ class stepFormsConfigurator {
   private $formType = -1;
   private $exptId;
   private $jType;
+  
+  private $userId;
+  
+  private $stepFormsHandler;
 
 // <editor-fold defaultstate="collapsed" desc=" form configuration JSON functions">
   
@@ -73,11 +77,10 @@ class stepFormsConfigurator {
   }
   
   function getStepFormJSON() {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-	  $this->formType = $this->formType > -1 ? $this->formType : $stepFormsHandler->getFormType();
-	  $this->formName = $stepFormsHandler->getFormName();
-	  $this->formDef = $stepFormsHandler->getForm();
-	  $stepFormsHandler->setJType($this->jType);
+	  $this->formType = $this->formType > -1 ? $this->formType : $this->stepFormsHandler->getFormType();
+	  $this->formName = $this->stepFormsHandler->getFormName();
+	  $this->formDef = $this->stepFormsHandler->getForm();
+	  $this->stepFormsHandler->setJType($this->jType);
     return $this->buildStepFormJSON();
   }
   
@@ -89,59 +92,59 @@ class stepFormsConfigurator {
 
 // <editor-fold defaultstate="collapsed" desc=" form structure modification functions">
 
-  function getReloadMessage() {
-    // reload forces a repost on client-side to reload the persistent object for rendering in KO-JS
-    $xml = sprintf("<message><messageType>reloadForm</messageType><content>%s</content></message>", "null");
-    return $xml;    
-  }
-
-  function AddOption($optionType, $pageNo, $qNo, $optionNo) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-    $stepFormsHandler->addOption($optionType, $pageNo, $qNo, $optionNo);
-    return $this->getReloadMessage();  
-  }
-  
-  function DelOption($optionType, $pageNo, $qNo, $optionNo) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-    $stepFormsHandler->delOption($optionType, $pageNo, $qNo, $optionNo);
-    return $this->getReloadMessage();  
-  }
-  
-  function AddQuestion($pageNo, $newQNo) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-    $stepFormsHandler->addQuestion($pageNo, $newQNo);
-    return $this->getReloadMessage();  
-  }
-
-  function CloneQuestion($pageNo, $srcQNo) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-    $stepFormsHandler->cloneQuestion($pageNo, $srcQNo);
-    return $this->getReloadMessage();  
-  }
-
-  function DelQuestion($pageNo, $delQNo) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-    $stepFormsHandler->delQuestion($pageNo, $delQNo);
-    return $this->getReloadMessage();  
-  }
-
-  function AddPage($pageNo) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-    $stepFormsHandler->addPage($pageNo);
-    return $this->getReloadMessage();  
-  }
-
-  function ClonePage($srcPageNo) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-    $stepFormsHandler->clonePage($srcPageNo);
-    return $this->getReloadMessage();  
-  }
-  
-  function DelPage($pageNo) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
-    $stepFormsHandler->delPage($pageNo);
-    return $this->getReloadMessage();  
-  }
+//  function getReloadMessage() {
+//    // reload forces a repost on client-side to reload the persistent object for rendering in KO-JS
+//    $xml = sprintf("<message><messageType>reloadForm</messageType><content>%s</content></message>", "null");
+//    return $xml;
+//  }
+//
+//  function AddOption($optionType, $pageNo, $qNo, $optionNo) {
+//    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+//    $stepFormsHandler->addOption($optionType, $pageNo, $qNo, $optionNo);
+//    return $this->getReloadMessage();
+//  }
+//
+//  function DelOption($optionType, $pageNo, $qNo, $optionNo) {
+//    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+//    $stepFormsHandler->delOption($optionType, $pageNo, $qNo, $optionNo);
+//    return $this->getReloadMessage();
+//  }
+//
+//  function AddQuestion($pageNo, $newQNo) {
+//    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+//    $stepFormsHandler->addQuestion($pageNo, $newQNo);
+//    return $this->getReloadMessage();
+//  }
+//
+//  function CloneQuestion($pageNo, $srcQNo) {
+//    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+//    $stepFormsHandler->cloneQuestion($pageNo, $srcQNo);
+//    return $this->getReloadMessage();
+//  }
+//
+//  function DelQuestion($pageNo, $delQNo) {
+//    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+//    $stepFormsHandler->delQuestion($pageNo, $delQNo);
+//    return $this->getReloadMessage();
+//  }
+//
+//  function AddPage($pageNo) {
+//    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+//    $stepFormsHandler->addPage($pageNo);
+//    return $this->getReloadMessage();
+//  }
+//
+//  function ClonePage($srcPageNo) {
+//    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+//    $stepFormsHandler->clonePage($srcPageNo);
+//    return $this->getReloadMessage();
+//  }
+//
+//  function DelPage($pageNo) {
+//    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+//    $stepFormsHandler->delPage($pageNo);
+//    return $this->getReloadMessage();
+//  }
 // </editor-fold>
 
 // <editor-fold defaultstate="collapsed" desc=" runtime JSON functions">
@@ -208,7 +211,7 @@ class stepFormsConfigurator {
   }
   
   function getStepFormRuntimeJSON($formType, $restartUID, $respId) {
-    $stepFormsHandler = new stepFormsHandler($this->exptId, $this->formType);
+    $stepFormsHandler = new stepFormsHandler(null, $this->exptId, $this->formType);
     $this->formType = $formType;
     $this->formDef = $stepFormsHandler->getForm($formType);
     return $this->buildStepFormRuntimeJSON($restartUID, $respId);
@@ -483,7 +486,7 @@ class stepFormsConfigurator {
     $jSonRep.= "\"nullRecruitmentCodeOptionLabel\":" . JSONparse($this->formDef['nullRecruitmentCodeOptionLabel']) . ","; 
 
         
-    $jSonRep.= $this->formDef['registrationViews'][0]['ignorePage'] == 1 ? "\"bypassPages\":true," : "\"bypassPages\":false,";
+    $jSonRep.= $this->formDef['pages'][0]['ignorePage'] == 1 ? "\"bypassPages\":true," : "\"bypassPages\":false,";
     $jSonRep.= "\"eqOptionSelected\":\"\",";
     $jSonRep.= "\"eqOptions\":[";
     for ($eo=0; $eo<count($this->formDef['eligibilityQ']['options']); $eo++) {
@@ -499,22 +502,22 @@ class stepFormsConfigurator {
         $jSonRep.= "\"label\":" . JSONparse($this->formDef['eligibilityQ']['options'][$eo]['label']) . ",";
         $countRelevantSections = 0;
         $jSonRep.= "\"eligibleSections\":[";
-          if ($this->formDef['registrationViews'][0]['ignorePage'] == 0) {
-            for ($p=0; $p<count($this->formDef['registrationViews']); $p++) {
+          if ($this->formDef['pages'][0]['ignorePage'] == 0) {
+            for ($p=0; $p<count($this->formDef['pages']); $p++) {
               $includePage = false;
               if ($this->formDef['useEligibilityQ'] === '1') {
-                if ( ($this->formDef['registrationViews'][$p]['contingentPage'] == 1)
-                    && ($this->formDef['registrationViews'][$p]['contingentText'] == $this->formDef['eligibilityQ']['options'][$eo]['label']) ) {
+                if ( ($this->formDef['pages'][$p]['contingentPage'] == 1)
+                    && ($this->formDef['pages'][$p]['contingentText'] == $this->formDef['eligibilityQ']['options'][$eo]['label']) ) {
                   $includePage = true;
                 }
                 else {
-                  if ($this->formDef['registrationViews'][$p]['contingentPage'] == 0) {
+                  if ($this->formDef['pages'][$p]['contingentPage'] == 0) {
                     $includePage = true;
                   }
                 }
               }
               else {
-                if ($this->formDef['registrationViews'][$p]['jType'] == $this->jType) {
+                if ($this->formDef['pages'][$p]['jType'] == $this->jType) {
                   $includePage = true;
                 }
               }
@@ -523,35 +526,35 @@ class stepFormsConfigurator {
                 $jSonRep.= "{";
                   $jSonRep.= "\"pageNo\":\"" . $countRelevantSections . "\",";
                   $jSonRep.= "\"pageNoLabel\":\"" . intval($countRelevantSections + 1) . "\",";
-                  $jSonRep.= "\"pageTitle\":" . JSONparse($this->formDef['registrationViews'][$p]['pageTitle']) . ",";
+                  $jSonRep.= "\"pageTitle\":" . JSONparse($this->formDef['pages'][$p]['pageTitle']) . ",";
                   $jSonRep.= "\"pageInst\":["; 
-                    $paraArray = makeParaArray($this->formDef['registrationViews'][$p]['pageInst']);
+                    $paraArray = makeParaArray($this->formDef['pages'][$p]['pageInst']);
                     for ($line=0; $line<count($paraArray); $line++) {
                       if ($line > 0) { $jSonRep.=","; }
                       $jSonRep.= "{\"para\":" . JSONparse($paraArray[$line]) . "}"; 
                     }
                   $jSonRep.= "],";
-                  $jSonRep.= $this->formDef['registrationViews'][$p]['ignorePage'] == 1 ? "\"ignorePage\":true," : "\"ignorePage\":false,";
-                  $jSonRep.= "\"pageButtonLabel\":" . JSONparse($this->formDef['registrationViews'][$p]['pageButtonLabel']) . ",";
-                  if ($this->formDef['registrationViews'][$p]['q0isFilter'] == 1) {
+                  $jSonRep.= $this->formDef['pages'][$p]['ignorePage'] == 1 ? "\"ignorePage\":true," : "\"ignorePage\":false,";
+                  $jSonRep.= "\"pageButtonLabel\":" . JSONparse($this->formDef['pages'][$p]['pageButtonLabel']) . ",";
+                  if ($this->formDef['pages'][$p]['q0isFilter'] == 1) {
                     $jSonRep.= "\"filterPage\":true,";
-                    $jSonRep.= $this->buildFilterQuestionJSON($this->formDef['registrationViews'][$p]['questions'][0]);
+                    $jSonRep.= $this->buildFilterQuestionJSON($this->formDef['pages'][$p]['questions'][0]);
                   }
                   else {
                     $jSonRep.= "\"filterPage\":false,";
                     $jSonRep.= $this->buildEmptyFilterQuestionJSON();
                   }
                   $jSonRep.= "\"filterOptions\":[";
-                    if ($this->formDef['registrationViews'][$p]['q0isFilter'] == 1) {
-                      for ($fon=0; $fon<count($this->formDef['registrationViews'][$p]['questions'][0]['options']); $fon++) {
-                        $optionLabel = $this->formDef['registrationViews'][$p]['questions'][0]['options'][$fon]['label'];
+                    if ($this->formDef['pages'][$p]['q0isFilter'] == 1) {
+                      for ($fon=0; $fon<count($this->formDef['pages'][$p]['questions'][0]['options']); $fon++) {
+                        $optionLabel = $this->formDef['pages'][$p]['questions'][0]['options'][$fon]['label'];
                         if ($fon>0) { $jSonRep.=","; }
                         $jSonRep.= "{";
                           $jSonRep.= "\"optionLabel\":". JSONparse($optionLabel) . ",";
-                          $jSonRep.= "\"optionId\":\"" . $this->formDef['registrationViews'][$p]['questions'][0]['options'][$fon]['id'] . "\",";
+                          $jSonRep.= "\"optionId\":\"" . $this->formDef['pages'][$p]['questions'][0]['options'][$fon]['id'] . "\",";
                           $subQCnt = -1;
                           $jSonRep.= "\"questions\":[";
-                            $jSonRep.= $this->buildQuestionsJSON(true, $optionLabel, $this->formDef['registrationViews'][$p], $subQCnt, $subQAnsweredArray, $isSliderArray, $slidersAnswered);
+                            $jSonRep.= $this->buildQuestionsJSON(true, $optionLabel, $this->formDef['pages'][$p], $subQCnt, $subQAnsweredArray, $isSliderArray, $slidersAnswered);
                           $jSonRep.= "],";
                           $jSonRep.= "\"questionCount\":\"". $subQCnt . "\",";
                           $jSonRep.= "\"questionAnswered\":[";
@@ -581,7 +584,7 @@ class stepFormsConfigurator {
                         $jSonRep.= "\"optionId\":\"-1\",";
                         $subQCnt = -1;
                         $jSonRep.= "\"questions\":[";
-                          $jSonRep.= $this->buildQuestionsJSON(false, "", $this->formDef['registrationViews'][$p], $subQCnt, $subQAnsweredArray, $slidersUsed, $logicalSliderNos);
+                          $jSonRep.= $this->buildQuestionsJSON(false, "", $this->formDef['pages'][$p], $subQCnt, $subQAnsweredArray, $slidersUsed, $logicalSliderNos);
                         $jSonRep.= "],";
                         $jSonRep.= "\"questionCount\":\"". $subQCnt . "\",";
                         $jSonRep.= "\"questionAnswered\":[";
@@ -646,18 +649,10 @@ class stepFormsConfigurator {
 // </editor-fold>
                        
 // <editor-fold defaultstate="collapsed" desc=" constructor">
-  function __construct() {
-    $this->exptId = $GLOBALS['exptId'];
-    if (isset($GLOBALS['jType'])) { $this->jType = $GLOBALS['jType']; }
-    if (isset($GLOBALS['formType'])) { 
-      $this->formType = $GLOBALS['formType'];
-    }
-    else {
-      $this->formType = -1;
-    }      
-    if (isset($GLOBALS['formName'])) { 
-      $this->formName = $GLOBALS['formName']; 
-    }
+  function __construct($userId, $exptId, $formType) {
+    $this->exptId = $exptId;
+    if (isset($GLOBALS['formName'])) { $this->formName = $GLOBALS['formName']; }
+    $this->stepFormsHandler = new stepFormsHandler($userId, $exptId, $formType);
     $this->getControlItems();
   }
 // </editor-fold>

@@ -45,7 +45,7 @@ class viewBuilderClass {
     $sql = "SELECT * FROM igControlTypes ORDER BY cValue ASC";
     $result = $igrtSqli->query($sql);
     $controlList = [];
-    if ($result) {
+    if ($result->num_rows>0) {
       while ($row = $result->fetch_object()) {
         array_push($controlList, ['cValue'=> $row->cValue, 'cLabel'=>$row->cLabel]);
       }
@@ -245,7 +245,7 @@ class viewBuilderClass {
   }
   
   private function buildJQMStepFormPage($defPageNo, $logicalPageNo) {
-    $page = $this->formDef['registrationViews'][$defPageNo];
+    $page = $this->formDef['pages'][$defPageNo];
     $logicalQNo = 0;
     $view = sprintf("<div id=\"page_%s\" style=\"display: none;\">", $logicalPageNo);
       $view.= sprintf("<h2>%s</h2>", $page['pageTitle']);
@@ -344,13 +344,13 @@ class viewBuilderClass {
 
     $view.= "<div id=\"pageSections\" style=\"display: none;\">";
     $logicalPageNo = -1;
-    for ($i=0; $i<count($this->formDef['registrationViews']); $i++) {
-    	if ($this->formDef['registrationViews'][$i]['contingentPage'] == "0") {
+    for ($i=0; $i<count($this->formDef['pages']); $i++) {
+    	if ($this->formDef['pages'][$i]['contingentPage'] == "0") {
 		    ++$logicalPageNo;
 		    $view.= $this->buildJQMStepFormPage($i, $logicalPageNo);
 	    }
     	else {
-    		if ($this->formDef['registrationViews'][$i]['contingentValue'] == $jType) {
+    		if ($this->formDef['pages'][$i]['contingentValue'] == $jType) {
 			    ++$logicalPageNo;
 			    $view.= $this->buildJQMStepFormPage($i, $logicalPageNo);
 		    }
@@ -392,12 +392,13 @@ class viewBuilderClass {
   
   private function buildJQMFlipSwitch($id, $class, $onText, $offText, $isOn, $label) {
     $view = "";
-	  $preFix = "<div data-role='fieldcontain'>";
+	  $preFix = "<div data-role='fieldcontain' id=$id>";
 	  if ($label>"") {
 		  $preFix.= sprintf("<label for\"%s\">%s</label>", $id, $label);
 	  }
 	  $postFix = "</div>";
-    $view.= sprintf("<select id=\"%s\" class=\"%s\" data-role=\"slider\" />", $id, $class);
+    //$view.= sprintf("<select id=\"%s\" class=\"%s\" data-role=\"slider\" />", $id, $class);
+    $view.= sprintf("<select class=\"%s\" data-role=\"slider\" />", $class);
     $view.= sprintf("<option value=\"0\" %s>%s</option>", $isOn==0?"selected":"", $offText );
     $view.= sprintf("<option value=\"1\" %s>%s</option>",$isOn==1?"selected":"", $onText );
     $view.= "</select>";
@@ -617,8 +618,9 @@ class viewBuilderClass {
   private function buildStartSection() {
   	$view = '';
   	//$view.= "<div onclick=\"spAccordionClick()\">"; class="accordionControl"
-    $view.= sprintf("<div id=\"spAccordion\" data-role=\"collapsible\" data-collapsed=\"%s\">", $this->formDef['startPageAccordionClosed'] == 1 ? "true":"false");
+    $view.= sprintf("<div id=\"spAccordion\" data-role=\"collapsible\" data-collapsed=\"%s\">", $this->formDef['introAccordionClosed'] == 1 ? "true":"false");
     $view.= "<h3>Start page</h3>";
+    $view.= $this->buildJQMFlipSwitch("useIntroPage", "classFS", "yes", "no",  $this->formDef['useIntroPage'], "use a start page");
     $view.= $this->buildJQMTextArea("start page title", "TA_spt", "classTA", $this->formDef['introPageTitle']);
     $view.= $this->buildJQMTextArea("start page message", "TA_spi", "classTA", $this->formDef['introPageMessage']);
 	  $view.= $this->buildJQMTextArea("start page button label", "TA_spb", "classTA", $this->formDef['introPageButtonLabel']);
@@ -630,7 +632,7 @@ class viewBuilderClass {
   }
 
   private function buildJQMQuestion($pNo, $qNo, $q) {
-  	$pageHasFilterQuestion = $this->formDef['registrationViews'][$pNo]['useFilter'] == 1 ? true : false;
+  	$pageHasFilterQuestion = $this->formDef['pages'][$pNo]['useFilter'] == 1 ? true : false;
     $view = sprintf("<div class=\"accordionControl\" id=\"qAccordion_%s_%s\" data-role=\"collapsible\" data-collapsed=\"%s\">", $pNo, $qNo, $q['qAccordionClosed'] == 1 ? "true":"false");
     $view.= sprintf("<h3>Question %s</h3>", $qNo);
 
@@ -661,7 +663,7 @@ class viewBuilderClass {
 		  $view.= "</div>";
 		  $contingentOptions =[];
 		  array_push($contingentOptions, ["cValue" => -1, "cLabel" => 'not yet selected']);
-		  foreach ($this->formDef['registrationViews'][$pNo]['questions'][0]['options'] as $filterOption) {
+		  foreach ($this->formDef['pages'][$pNo]['questions'][0]['options'] as $filterOption) {
 			  $selectOption = ["cValue" => $filterOption['id'], 'cLabel'=> $filterOption['label']];
 			  array_push($contingentOptions, $selectOption);
 		  }
@@ -694,7 +696,7 @@ class viewBuilderClass {
   }
   
   private function buildPageSection($pageNo) {
-    $page = $this->formDef['registrationViews'][$pageNo];
+    $page = $this->formDef['pages'][$pageNo];
     //echo print_r($this->formDef, true);
     $view = sprintf("<div id=\"pageAccordion_%s\" data-role=\"collapsible\" data-collapsed=\"%s\">", $pageNo, $page['pageAccordionClosed'] == 1 ? "true":"false");
     $view.= sprintf("<h3>Page %s</h3>", $pageNo);
@@ -749,7 +751,7 @@ class viewBuilderClass {
   	$view = '';
 	  $view.= "<div data-role=\"content\" data-theme=\"a\">";
 	  $view.= "<div id='container'>";
-		$view.= "<p>Any action that alters the form structure (adding a page, adding a question etc) will save and reload the form. Better to make any text changes on existing registrationViews first and then add new structure as required.</p>";
+		$view.= "<p>Any action that alters the form structure (adding a page, adding a question etc) will save and reload the form. Better to make any text changes on existing pages first and then add new structure as required.</p>";
 		$view.= "<p>Clicking the 'save and reload' button in the footer will also do this - this is useful to save the open/closed status of the collapsibles in the page. </p>";
 	  $view.= $this->buildJQMFlipSwitch("dcFS", "classFS", "yes", "no", $this->formDef['definitionComplete'], "definition complete?");
 		$view.= $this->buildJQMTextArea("form title", "TA_ft", "classTA", $this->formDef['formTitle']);
@@ -759,8 +761,8 @@ class viewBuilderClass {
 		$view.= sprintf("<div id=\"pagesAccordion\" data-role=\"collapsible\" data-collapsed=\"%s\">",$this->formDef['pagesAccordionClosed']==1 ? "true" : "false");
 		$view.= "<h3>Pages (not necessary if an eligibility form)</h3>";
 		$view.= "<div>";
-		$view.= "<p>Note: page numbers are only necessary for this configuration section, the actual virtual page number used when the form is run is decided by the internal logic. If no registrationViews are required then switch off any registrationViews in the definition.</p>";
-		for ($i=0; $i<count($this->formDef['registrationViews']); $i++) {
+		$view.= "<p>Note: page numbers are only necessary for this configuration section, the actual virtual page number used when the form is run is decided by the internal logic. If no pages are required then switch off any pages in the definition.</p>";
+		for ($i=0; $i<count($this->formDef['pages']); $i++) {
       $view.= $this->buildPageSection($i);
     }
 		$view.= "<div data-role=\"controlgroup\" data-type=\"horizontal\">";
@@ -823,7 +825,7 @@ class viewBuilderClass {
 				$tempValue = array('partPopulated' => 0, 'definitionComplete'=>0, 'formName'=>$formTypes[$i]->formName, 'formType'=>$formTypes[$i]->formType);
 				$getStatusQry = sprintf("SELECT * FROM fdStepForms WHERE exptId='%s' AND formType='%s'", $exptId, $i);
 				$getStatusResult = $igrtSqli->query($getStatusQry);
-				if ($getStatusResult) {
+				if ($getStatusResult->num_rows > 0) {
 					$tempValue['partPopulated'] = 1;
 					$getStatusRow = $getStatusResult->fetch_object();
 					$tempValue['definitionComplete'] = $getStatusRow->definitionComplete;
@@ -1060,7 +1062,7 @@ class viewBuilderClass {
 	}
 
 	public function makeStepFormView($formType, $exptId, $jType) {
-    $stepFormsHandler = new stepFormsHandler($exptId, $formType);
+    $stepFormsHandler = new stepFormsHandler(null, $exptId, $formType);
     $this->formType = $formType;
     $this->exptId = $exptId;
     $this->jType = $jType;
@@ -1070,7 +1072,7 @@ class viewBuilderClass {
   
   public function makeStepFormConfigurationView($exptId, $formType) {
     $this->formName = $this->getFormName($formType);
-    $stepFormsHandler = new stepFormsHandler($exptId, $formType);
+    $stepFormsHandler = new stepFormsHandler(null, $exptId, $formType);
     $this->formType = $formType;
     $this->exptId = $exptId;
     $this->jType = -1;
@@ -1082,7 +1084,7 @@ class viewBuilderClass {
 
   public function makeStepFormCloneView($exptId, $formType) {
 	  $this->formName = $this->getFormName($formType);
-	  $stepFormsHandler = new stepFormsHandler($exptId, $formType);
+	  $stepFormsHandler = new stepFormsHandler(null, $exptId, $formType);
 	  $this->formType = $formType;
 	  $this->exptId = $exptId;
 	  $this->jType = -1;
