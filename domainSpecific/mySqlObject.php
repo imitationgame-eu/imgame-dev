@@ -1,7 +1,9 @@
 <?php
-  //include('/var/www/config/connectionStrings.php');
+  include_once('/var/www/config/connectionStrings.php');
+  global $username;
+  global $password;
   // create a mysql object for use in classes and web-services
-  $igrtSqli = new mysqli("localhost", "imgame", "M0z4rt!!", "igrt");
+  $igrtSqli = new mysqli("localhost", $username, $password, "igrt");
   //check connection
   $connectionOK = true;
   if ($igrtSqli->connect_error) {
